@@ -151,12 +151,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     reworded by hand to stay on one page, `work/tl/field0*.fix.tsv`), test `test_field_strings_use_the_field_box`.
     Verified in the field: Karol's 11 pages, the 8 widest 176 px pages (`work/qa/width/field_widest`). New build
     `2f2b6ce8ea86b9b62510a20b238468ceff37fb5a`, smoke ok, `check.py` 63 OK, `jp_left_build.py` 0.
-- **Next (release in progress, owner asked to publish: D11, D12):** build frozen in `work/qa/roms/2f2b6ce8/`.
+- **Next (v1.0 published):** build frozen in `work/qa/roms/2f2b6ce8/`.
   The 60 hand-reworded pages were shot in the field box, all clean (`work/qa/width/reworded`). All 1,411 changed
   ids (`work/qa/en/changed_2f2b.txt`) re-shown in game (`work/qa/en/msgs_2f2b`, 0 failed), run added to
   `tools/coverage_runs.tsv`: **coverage 3192/3192, 0 waived**. Owner ran the D11 waiver; `release.py --force`
-  RELEASE OK. Remaining per D12, awaiting the owner's go: repo description ("English fan translation of Ghost Trap
-  (GBA)", not the slug), make public, `gh release create v1.0` with the zip. (`work/qa/roms/strings.tsv`, the en_text run's table,
+  RELEASE OK. **Published 2026-11-16 (owner's go, D12):** repo public, description "English fan translation of
+  Ghost Trap (GBA)", release https://github.com/minhnhattonthat/ghost-trap-en/releases/tag/v1.0 with the zip
+  (download sha1 matches the local zip). Next: watch `gh issue list --label bug` for player reports. (`work/qa/roms/strings.tsv`, the en_text run's table,
   was overwritten by ruler builds and was restored with `tools/strings_tsv.py`; keep ad-hoc builds out of `roms/`.) Publishing only when the owner asks (`references/pipeline.md` §Publish; never run
   `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
