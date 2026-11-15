@@ -293,7 +293,7 @@
    "3D5EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「気がめいる{br} 絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's bringing me down...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}bringing me down...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -860,7 +860,7 @@
    "3D7BC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きいろくぬられた{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh. An oil painting done in yellow...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. An oil painting{br}done in yellow...{page}{end}",
   "status": "done",
   "notes": ""
  },

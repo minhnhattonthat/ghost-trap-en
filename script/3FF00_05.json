@@ -86,7 +86,7 @@
    "40988"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} ベンチだらけだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Nothing but benches in here, huh?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing but benches{br}in here, huh?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -226,7 +226,7 @@
    "409F4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} ベンチだらけだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Nothing but benches in here, huh?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing but benches{br}in here, huh?{page}{end}",
   "status": "done",
   "notes": ""
  },

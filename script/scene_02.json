@@ -15,7 +15,7 @@
    "3C008"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「儀式の事がわかるかと{br} 思ったのに・・・{page}{box:00}{name:02}ジョージ{br}「またこの本かよ！{page}{box:00}{name:02}ジョージ{br}「まだ先があるって{br} 事なのか？」{page}アブの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": " {clr}{box:00}{name:02}George{br}I thought I'd learn{br}about the ritual...{page}{box:00}{name:02}George{br}but it's just another one of these books!{page}{box:00}{name:02}George{br}Does that mean there's{br}still more ahead?{page}Got the Book of Abu!{clr} {clr}{end}",
+  "en": " {clr}{box:00}{name:02}George{br}I thought I'd learn{br}about the ritual...{page}{box:00}{name:02}George{br}but it's just another{br}one of these books!{page}{box:00}{name:02}George{br}Does that mean there's{br}still more ahead?{page}Got the Book of Abu!{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  },

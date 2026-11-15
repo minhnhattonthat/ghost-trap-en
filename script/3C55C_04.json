@@ -875,7 +875,7 @@
    "3D4E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「気がめいる{br} 絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's bringing me down...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}bringing me down...{page}{end}",
   "status": "done",
   "notes": ""
  },

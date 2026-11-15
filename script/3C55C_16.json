@@ -397,7 +397,7 @@
    "3FC5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like this furniture's busted.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like this{br}furniture's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -611,7 +611,7 @@
    "3FCE4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like this furniture's busted.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like this{br}furniture's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },

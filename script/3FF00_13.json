@@ -50,7 +50,7 @@
    "41DB8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは館の{br} てつのゴミだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Just the house's scrap metal, huh.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Just the house's{br}scrap metal, huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -343,7 +343,7 @@
    "41E58"
   ],
   "jp": "{box:01}ちくおんきが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「アンティーク{br} だらけの館だな…」{page}{end}",
-  "en": "{box:01}A gramophone sits here.{page}{box:00}{name:02}George{br}This place is packed with antiques, huh...{page}{end}",
+  "en": "{box:01}A gramophone sits here.{page}{box:00}{name:02}George{br}This place is packed{br}with antiques, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -472,7 +472,7 @@
    "3D9D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きいろくぬられた{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh. An oil painting done in yellow...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. An oil painting{br}done in yellow...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -925,7 +925,7 @@
    "3DBC4"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -936,7 +936,7 @@
    "3DBC8"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },

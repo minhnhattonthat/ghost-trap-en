@@ -2,11 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (phase 8 done 2026-11-15: gate exit 0, coverage 3192/3192, jp_left 0).
-  **Current build: `build/ghost_trap_en.gba` sha1 `667dd3c6a20b9f233097507eb06c2db2a9e6a1f7`**, frozen with its
-  `strings.tsv` in `work/qa/roms/667dd3c6/`; the QA gate's `manifest.tsv.build` records it. Tour/story ran on
-  `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6` (each later build differs only in reworded strings, each
-  re-shown on its build); coverage is `tools/coverage.py` (union by id over runs with the final bytes).
+- **Phase:** 9. Release done 2026-11-16: `tools/release.py` exit 0, `release/v1.0/Ghost_Trap_EN_v1.0.zip` built and
+  verified (BPS re-applied to the clean dump). Publishing (`gh release create`, repo visibility) is the owner's call.
+  **Release build: `build/ghost_trap_en.gba` sha1 `ab915aca7f25d5d43c20d9b522a768942b8476a9`, CRC32 `B7704AE0`**,
+  frozen with its `strings.tsv` in `work/qa/roms/ab915aca/`; the QA gate's `manifest.tsv.build` records it. Tour/story
+  ran on `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6`/`46c9659d`/`ab915aca` (each later build differs only in
+  reworded strings, each re-shown on its build); coverage is `tools/coverage.py` (union by id over runs with the final
+  bytes).
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -125,19 +127,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (11/11; rounds 3-4 all ok). Reports and verdicts copied to `docs/review/story/`. Text is final: **build
     `46c9659d` (sha1 prefix), frozen in `work/qa/roms/46c9659d/`**; 153 strings changed since 667dd3c6 (list:
     `work/polish/changed_ids.txt`, = coverage.py's unshown list); `jp_left_build.py` on it: 0 runs; smoke ok.
-- **Next (phase 9, release; `references/pipeline.md` §Release):**
-  1. Finish the visual re-check of the 153 changed strings (stopped by Claude Code for low memory at 23/45 groups):
-     `python -X utf8 tools/pageview.py --rom work/qa/roms/46c9659d/ghost_trap_en.gba --out work/qa/en/pages_46c9
-     --ids work/polish/changed_ids.txt --jobs 2 --resume`, then msgview the same ids:
-     `tools/msgview.py --rom work/qa/roms/46c9659d/ghost_trap_en.gba --out work/qa/en/msgs_46c9 --only "^(id|id..)$"`
-     (regex from changed_ids.txt) and add `work/qa/en/msgs_46c9<TAB>work/qa/roms/46c9659d/ghost_trap_en.gba` to
-     `tools/coverage_runs.tsv`.
-  2. `qa_gate.py init work/qa/en/manifest.tsv work/qa/en/{story,tour,pages,pages_e520,pageshot,pages_667,pages_46c9}
-     --build build/ghost_trap_en.gba` (check the dir list against the manifest's first column), `qa_gate.py todo
-     ... --out-dir work/qa/chunks3`, `tools/vqa_review.py` on the chunks, triage like phase 8; the old sheets of
-     the changed strings stay ok only for their old text - the new `pages_46c9` sheets carry the new text.
-     Note: init with --build re-records the build; the old sheets' verdicts stay valid (unchanged pixels).
-  3. `python -X utf8 tools/release.py` -> `release/v1.0/` (must exit 0; never `gh release create`).
+  - **Release (2026-11-16):** visual re-check of the 153 story-pass strings on `46c9659d` (`pages_46c9`: 45 groups,
+    795 pages, 76 sheets; `msgs_46c9`). Reviewer (`vqa_review.py`, chunks renamed `c46_*` so they don't overwrite the
+    old `verdicts/chunk_00N.tsv`) found 25 issues: 6 page-break notes -> ok by D9 (`triage_breaks_46c9.tsv`); 2 false
+    (diary line 220 px <= 224, viewer fill on item help); **17 real: 24 polish-pass rewords stored with no `{br}`**, so
+    one over-wide line overflowed the box into stray glyphs. The width lint had passed them because `wrap.layout`
+    wraps a `{br}`-less page before measuring, but the build inserts `en` as stored. Fixed: those 24 re-wrapped with
+    `wrap.layout` (`work/polish/rewrapped_ids.txt`), new lint `test_shipped_text_is_laid_out` (stored `en` must equal
+    its own layout). Build `ab915aca`: re-shot (`pages_ab91` 14 sheets all ok, checked by eye too; `msgs_ab91`),
+    gate 728/728 + story 11/11, coverage 3192/3192, jp_left 0, `release.py` RELEASE OK (patch 333144 bytes).
+- **Next:** nothing in the pipeline. Publishing only when the owner asks (`references/pipeline.md` §Publish; never
+  run `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
   FE difference.
 - **Open bugs:** none.

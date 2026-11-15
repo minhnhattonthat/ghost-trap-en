@@ -447,7 +447,7 @@
    "41130"
   ],
   "jp": "{box:01}かべには絵と{br}シカのツノがある。{page}{box:00}{name:02}ジョージ{br}「いかにもな{br} そうしょくだなあ」{page}{end}",
-  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Yeah, figures they'd decorate like this.{page}{end}",
+  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Yeah, figures they'd{br}decorate like this.{page}{end}",
   "status": "done",
   "notes": ""
  },

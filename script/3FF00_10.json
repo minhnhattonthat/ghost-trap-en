@@ -476,7 +476,7 @@
    "4138C"
   ],
   "jp": "{box:01}きかいはこまかく{br}しんどうしている。{page}{end}",
-  "en": "{box:01}The machine gives off a faint vibration.{page}{end}",
+  "en": "{box:01}The machine gives{br}off a faint vibration.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -646,7 +646,7 @@
    "413D8"
   ],
   "jp": "{box:01}床にスイッチが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「じゅんばんに{br} ふむスイッチだ」{page}{end}",
-  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}So I've got to step on these in order.{page}{end}",
+  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}So I've got to step{br}on these in order.{page}{end}",
   "status": "done",
   "notes": ""
  },

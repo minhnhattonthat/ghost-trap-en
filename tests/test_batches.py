@@ -16,6 +16,14 @@ class TestShippedEnglish(unittest.TestCase):
                for p in batches.problems(e, e["en"], terms)]
         self.assertEqual(bad, [], "\n".join(bad[:40]))
 
+    def test_shipped_text_is_laid_out(self):
+        # wrap.layout wraps a {br}-less page before measuring it, so the width lint passes text the build then
+        # inserts unwrapped: one over-wide line runs off the box and floods it with stray glyphs (24 polish-pass
+        # rewords, phase 9). The stored `en` must already be its own layout.
+        bad = [i for i, e in batches.index().items() if e.get("en") and e.get("status") != "data"
+               and wrap.layout(e, e["en"])[0] != e["en"]]
+        self.assertEqual(bad, [], "re-wrap with wrap.layout: " + " ".join(bad[:40]))
+
     def test_choice_rows_share_one_layout(self):
         # the item-menu cursor redraws 10F05C/10F06C over the question's own Yes/No row without clearing it:
         # any other spacing leaves two copies on screen ("YYes No No")

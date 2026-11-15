@@ -664,7 +664,7 @@
    "3DD2C"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -674,7 +674,7 @@
    "3DD30"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
