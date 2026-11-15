@@ -85,6 +85,26 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | テシュリトゥ | Teshritu | | | |
 | アラフシャム | Arahsham | | | |
 | キスリム | Kislim | | | |
+| きよめたナイフ | Purified Knife | | trap; also さびたナイフ Rusty Knife, ナイフ Knife | |
+| 霊水 | Holy Water | | | |
+| 霊薬 | Brew | | 黒/白/赤の霊薬 = Black/White/Red Brew (bind-all potions) | |
+| きよめの塩 | Purifying Salt | | | |
+| イオウのこな | Sulfur Powder | | | |
+| 夜あけのランプ | Lamp of Dawn | | | |
+| 聖者の石 | Saint's Stone | | | |
+| ザツなおまもり | Cheap Charm | | | |
+| 心のおまもり | Heart Charm | | | |
+| まずいのみ薬 | Nasty Potion | | のみ薬 = Potion; ぬり薬 = Ointment; くさいぬり薬 = Smelly Ointment | |
+| 気つけなんこう | Reviving Salve | | | |
+| しっぷ薬 | Poultice | | ほうたい = Bandage | |
+| Nリキッド / Nユニット | N Liquid / N Unit | | | |
+| ガラスのつぼ / アタノールつぼ | Glass Jar / Athanor Jar | | | |
+| 黒の石 | Black Stone | | also White Stone, Red Stone | |
+| なぞのもんしょう | Mystery Crest | | trap item; もんしょう on floors = crest | |
+| きふワイン | Dessert Wine | | 貴腐 noble-rot wine; ドアの「キフ」pun = offering | |
+| こうげき力 / ぼうぎょ力 / 対ひょうい | Attack / Defense / Anti-possess | | item stat lines (152 px) | |
+| ごうせい | COMBINE | | the START-menu command | |
+| バインド | bind | | traps bind ghosts | |
 
 ## Decisions from earlier batches
 - Shinfa (シンファ, @S) is the polite ghost who possesses Alicia at the climax; Albino (@B) is the old じゃ ghost;
@@ -92,3 +112,9 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - {box:01} field notes the player reads: each page opens with `"`, the last closes it.
 - Stock field lines: 絵が かざられている -> "A painting ... is on display."; ガラクタ -> junk; そだいゴミ -> bulky trash;
   げんかんホール -> Entrance Hall; スタートボタン -> START Button; Aボタン -> A Button; じゅうじボタン -> +Control Pad.
+- Item names (table 41F18, first line of each help string) are capitalised wherever field notes mention them
+  ("a Purified Knife", "Holy Water"); transceiver stays lower-case (glossary row). Item help lines: `Damage: low/mid/
+  high/huge`, `Defense: ...`, `Restores HP: low/mid/high`, `Critical Low/Mid/High`.
+- アリギエリさん -> Alighieri-san (George); 様/氏 -> Master Alighieri / Mr. Alighieri. The secretary's and Shinfa's
+  notes (11C024, 123CF4) and Alighieri's letter (1267E8) are in formal written English.
+- b024 is an older duplicate of field/cutscene lines (alternate script): mirrors the wording of its later twins.

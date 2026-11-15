@@ -790,7 +790,7 @@
    "3D6E0"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{box:01}そこに何か{br}書かれている。{page}{box:01}『タリスマンに{br} 黒の石をつけよ』{page}{box:00}{name:02}ジョージ{br}「ふむふむ…」{page}{end}",
-  "en": "{box:01}A large oil painting hangs here.{page}{box:01}Something is written on it.{page}{box:01}\"Attach the black{br}stone to the Talisman.\"{page}{box:00}{name:02}George{br}Hmm, hmm...{page}{end}",
+  "en": "{box:01}A large oil painting hangs here.{page}{box:01}Something is written on it.{page}{box:01}\"Attach the Black Stone{br}to the Talisman.\"{page}{box:00}{name:02}George{br}Hmm, hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
