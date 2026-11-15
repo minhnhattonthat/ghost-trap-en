@@ -93,9 +93,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `play.py` (DROP -> Throw this away?, cursor both ways: `work/play/yesno3`, JP `work/play/yesno_jp`). Not a
     centred box (left-aligned like the JP), so inkbox doesn't apply. `tools/vqa_review.py` (codex exec verdicts per
     qa_gate chunk) written, not yet run.
-- **Runs stopped (2026-11-15, ~18:40):** Claude Code killed both background runs for low system memory (other
-  repos' Mesen runs share the machine; not a tool fault). Msgs: ~1788/3192 strings have a proof shot, 0 failures
-  (`--resume` continues). Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
+- **Runs stopped (2026-11-15, ~18:40, and again later that day):** Claude Code killed the background runs for low
+  system memory (2.2 GB free of 15.5; other repos' Mesen runs share the machine; not a tool fault). Msgs: ~2470/3192
+  strings have a proof shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume2.log`).
+  Save/load confirm boxes checked (step 5 first half): `work/qa/inkbox/{save,load}_confirm`, JP `work/qa/inkbox_jp`:
+  left-aligned like the JP, same layer shimmer as the JP, so not centred boxes and inkbox doesn't apply. Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
   work/qa/en/tour --probe <skill>/scripts/lua/probes/textcover.lua ...` or re-run `qa_tour.py --skip msgs`); story
   not started. Run them one at a time when memory allows.
 - **Next (phase 8 done-when), in order:**
