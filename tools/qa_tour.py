@@ -5,7 +5,8 @@
 Steps (each its own output dir under --out, all with the textcover probe over this build's script block):
   msgs   tools/msgview.py: every string of build/strings.tsv through the message viewer -> msgs/
   tour   warp.py --all: every scene's proof shot and group sheets -> tour/
-  story  warp.py --all --only script_000..038 --keep --sheet: each cutscene clicked through page by page -> story/
+  story  warp.py --all --only script_000..038 --keep --sheet: each cutscene clicked through page by page -> story/,
+         then tools/story_pages.py: story/<script>/sheet_pages*.png, one full-size tile per page
 Then: textcover.py <out> build/strings.tsv --waive docs/text_unshown.tsv. Exit 1 if a step or the coverage fails."""
 import argparse
 import struct
@@ -50,6 +51,8 @@ def main(argv=None):
         print("== %s" % name, flush=True)
         if subprocess.run(cmd).returncode:
             fails.append(name)
+        if name == "story":  # warp's half-size sheets drop most pages: one full-size tile per typed-out page
+            subprocess.run(PY + [str(ROOT / "tools" / "story_pages.py"), str(a.out / "story")])
     r = subprocess.run(PY + [str(Path(SKILL) / "scripts" / "textcover.py"), str(a.out), str(a.rom.parent / "strings.tsv"),
                              "--waive", str(ROOT / "docs" / "text_unshown.tsv")])
     if r.returncode:
