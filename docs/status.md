@@ -121,15 +121,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
     キフ pun "sweet offering", ~40 flat George lines voiced). Round 2: 8/11 ok, rest fixed. Round 3 = confirmation.
     `tools/release.py` written (steps per pipeline §Release; coverage runs from `tools/coverage_runs.tsv`), README
     filled. `pageview.py --ids FILE` re-shoots only given strings.
+  - **Story pass done (2026-11-16): `qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0**
+    (11/11; rounds 3-4 all ok). Reports and verdicts copied to `docs/review/story/`. Text is final: **build
+    `46c9659d` (sha1 prefix), frozen in `work/qa/roms/46c9659d/`**; 153 strings changed since 667dd3c6 (list:
+    `work/polish/changed_ids.txt`, = coverage.py's unshown list); `jp_left_build.py` on it: 0 runs; smoke ok.
 - **Next (phase 9, release; `references/pipeline.md` §Release):**
-  1. Finish the story pass: verdict files `work/qa/story/verdicts/*.tsv` (`chapter<TAB>ok|fixed<TAB>note`) from each
-     current report; `qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0.
-  2. Text changed since 667dd3c6, so: build, freeze `work/qa/roms/<sha8>/`, list changed ids (`coverage.py` over
-     `tools/coverage_runs.tsv` prints them as unshown), `pageview.py --ids` them into `work/qa/en/pages_<sha8>`,
-     `qa_gate.py init work/qa/en/manifest.tsv <all dirs> --build build/ghost_trap_en.gba`, verdicts via
-     `tools/vqa_review.py`, `msgview.py --only` them into `work/qa/en/msgs_<sha8>` and add that run to
+  1. Finish the visual re-check of the 153 changed strings (stopped by Claude Code for low memory at 23/45 groups):
+     `python -X utf8 tools/pageview.py --rom work/qa/roms/46c9659d/ghost_trap_en.gba --out work/qa/en/pages_46c9
+     --ids work/polish/changed_ids.txt --jobs 2 --resume`, then msgview the same ids:
+     `tools/msgview.py --rom work/qa/roms/46c9659d/ghost_trap_en.gba --out work/qa/en/msgs_46c9 --only "^(id|id..)$"`
+     (regex from changed_ids.txt) and add `work/qa/en/msgs_46c9<TAB>work/qa/roms/46c9659d/ghost_trap_en.gba` to
      `tools/coverage_runs.tsv`.
-  3. `python -X utf8 tools/release.py` -> `release/v1.0/`.
+  2. `qa_gate.py init work/qa/en/manifest.tsv work/qa/en/{story,tour,pages,pages_e520,pageshot,pages_667,pages_46c9}
+     --build build/ghost_trap_en.gba` (check the dir list against the manifest's first column), `qa_gate.py todo
+     ... --out-dir work/qa/chunks3`, `tools/vqa_review.py` on the chunks, triage like phase 8; the old sheets of
+     the changed strings stay ok only for their old text - the new `pages_46c9` sheets carry the new text.
+     Note: init with --build re-records the build; the old sheets' verdicts stay valid (unchanged pixels).
+  3. `python -X utf8 tools/release.py` -> `release/v1.0/` (must exit 0; never `gh release create`).
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
   FE difference.
 - **Open bugs:** none.
