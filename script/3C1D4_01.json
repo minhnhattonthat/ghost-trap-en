@@ -5,8 +5,8 @@
    "3C308"
   ],
   "jp": "{box:00}{name:04}カロル{br}「ここから誰も{br} 出さないように{page}{box:00}{name:04}カロル{br}「ゴーストたちが{br} 館をまもっている…{page}{box:00}{name:04}カロル{br}「…とにかく本を{br} 9冊集めましょう{page}{box:00}{name:04}カロル{br}「アリシアさんも{br} きっとそれで…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}The ghosts guard the mansion{page}{box:00}{name:04}Karol{br}so that no one{br}gets out of here...{page}{box:00}{name:04}Karol{br}...Anyway, let's{br}gather all nine books.{page}{box:00}{name:04}Karol{br}I'm sure that will bring{br}back Alicia-san too...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3C30C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いつまでここに{br} いるんだろう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}How long am I going{br}to be stuck here...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3C310"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何もない…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3C314"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何もない…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3C31C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけだして、{page}{box:00}{name:02}ジョージ{br}「ぜったいここから{br} だっしゅつするぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I'm going to rescue Alicia{page}{box:00}{name:02}George{br}and get out of here,{br}no matter what!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3C32C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「すみません、{br} ジョージさん…{page}{box:00}{name:04}カロル{br}「本当なら私が{br} やるべき事なのに…{page}{box:00}{name:04}カロル{br}「むしのいい{br} おねがいですが、{page}{box:00}{name:04}カロル{br}「私のむかしの{br} 仲間たちを…{page}{box:00}{name:04}カロル{br}「アリギエリさんを{br} すくってください！{page}{box:00}{name:04}カロル{br}「そして{br} アリシアさんを…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}I'm sorry, George-san...{page}{box:00}{name:04}Karol{br}This should really be my job...{page}{box:00}{name:04}Karol{br}I know it's selfish to ask, but...{page}{box:00}{name:04}Karol{br}my old friends...{page}{box:00}{name:04}Karol{br}and Mr. Alighieri...{br}please save them!{page}{box:00}{name:04}Karol{br}And Alicia-san, too...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3C330"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あさまでに{br} アリシアを…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Before morning, I'll get Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3C334"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「本当に{br} ガラクタだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Total junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "3C338"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「本当に{br} そだいゴミだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Totally bulky trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "3C33C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…あれ？{br} あかないぞ？」{page}{box:00}{name:04}カロル{br}「ジョージさん！{br} あれを！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...Huh? It won't open?{page}{box:00}{name:04}Karol{br}George-san! Look at that!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "3C340"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「本はそろったし、{br} げんかんよりも、{page}{box:00}{name:02}ジョージ{br}「早く先に{br} すすもう！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got all the books, so{br}forget the front door.{page}{box:00}{name:02}George{br}Let's hurry and move on!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "3C460"
   ],
   "jp": "{box:01}手すりは古く{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「なんか下に{br} おっこちそうだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}Feels like I'd fall right through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "3C464"
   ],
   "jp": "{box:01}手すりは古く{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「近づかないで{br} おこう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}Better not get too close.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "3C468"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん古い{br} 床だな…{page}{box:00}{name:02}ジョージ{br}「目の前の床は{br} くずれそうだ…{page}{box:00}{name:02}ジョージ{br}「行かないように{br} しよう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This floor is really old...{page}{box:00}{name:02}George{br}The floor ahead looks{br}ready to collapse...{page}{box:00}{name:02}George{br}I'd better not go that way...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "3C354"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はまだ{br}あかるいようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It still seems to be light outside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "3C358"
   ],
   "jp": "{box:01}この窓も{br}あかないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}This window won't open either.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "3C35C"
   ],
   "jp": "{box:01}このドアは{br}あかないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}This door won't open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "3C370"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}もうゆうがたに{br}なっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's already evening.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "3C374"
   ],
   "jp": "{box:01}たたいてみたが{br}びくともしない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I tried banging on it,{br}but it won't budge.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "3C378"
   ],
   "jp": "{box:01}まったく{br}あかないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It won't open at all.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "3C38C"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}ゆうやけも{br}おわりに近い。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}The sunset is almost over.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "3C390"
   ],
   "jp": "{box:01}窓ガラスも{br}われそうにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window glass{br}won't break, either.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "3C394"
   ],
   "jp": "{box:01}あかないドアだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A door that won't open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "3C3A8"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はしだいに{br}くらくなっていく。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's slowly getting dark outside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "3C3AC"
   ],
   "jp": "{box:01}この窓から{br}出れそうにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No way out through this window.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "3C3B0"
   ],
   "jp": "{box:01}何度調べても{br}あきそうにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No matter how many times{br}I check, it won't open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "3C3C4"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はもう、{br}まっくらだ…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's pitch-black outside now...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "3C3C8"
   ],
   "jp": "{box:01}何度調べても{br}あかない窓だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A window that won't open, no{br}matter how often I check.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "3C3CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あかないなぁ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It won't open...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "3C3E0"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}遠くでふくろうの{br}なきごえがきこえる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}I can hear an owl{br}hooting in the distance.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "3C3E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この窓も{br} あかないなあ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This window won't open either.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "3C3E8"
   ],
   "jp": "{box:01}館の中につうじる{br}ドアのようだ。{page}{box:00}{name:02}ジョージ{br}「あかないなぁ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It seems to be a door{br}leading into the mansion.{page}{box:00}{name:02}George{br}It won't open...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "3C3FC"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}もう、真夜中に{br}近い時間だ…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's almost midnight...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "3C400"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まっくらで何も{br} 見えないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's pitch-black, I{br}can't see a thing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "3C404"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「びくともしないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It won't budge.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "3C418"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}白く、キリが{br}たちこめてきた…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}A white fog is rolling in...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    "3C41C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「くらくて何も{br} 見えないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's too dark to see anything.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    "3C420"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…やっぱり{br} …あかないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...Yep... still won't open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "3C434"
   ],
   "jp": "{box:01}外にはだれも{br}いない…。{page}{box:01}アリシアが{br}しんぱいだ…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's no one outside...{page}{box:01}I'm worried about Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    "3C438"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシア…{br} 待ってろよ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Alicia... hang in there...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "3C43C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カギが無いと{br} だめなのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Maybe I need a key?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "3C450"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はまっくらで{br}何も見えない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's pitch-black outside.{br}I can't see a thing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    "3C454"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシアは今、{br} どうしてるかな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I wonder what Alicia's{br}doing right now...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "3C458"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「フシギな力で{br} 封印されてる？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is it sealed by some{br}strange power?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    "3C46C"
   ],
   "jp": "{box:01}窓を見ている{br}ばあいじゃない！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}This is no time to be{br}looking out windows!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    "3C470"
   ],
   "jp": "{box:01}窓よりもドアを{br}調べよう！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I should check the{br}door, not the windows!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    "3C474"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「9冊目をそうび{br} しないとダメか…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Guess I have to equip{br}the ninth book...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    "3C478"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あっ！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Huh!?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    "3C47C"
   ],
   "jp": "{box:01}何かをえがいた{br}絵のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a painting{br}of something.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    "3C480"
   ],
   "jp": "{box:01}どこかのけしきの{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of{br}some landscape.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    "3C484"
   ],
   "jp": "{box:01}タワーをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of a tower.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "3C488"
   ],
   "jp": "{box:01}こどもとははの{br}絵のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a painting{br}of a mother and child.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    "3C48C"
   ],
   "jp": "{box:01}ざつにイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chairs are scattered{br}about carelessly.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    "3C490"
   ],
   "jp": "{box:01}イスがよこに{br}なっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A chair lies on its side.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    "3C494"
   ],
   "jp": "{box:01}イスがちらばって{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chairs sit in a messy row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    "3C498"
   ],
   "jp": "{box:01}ドアのむこうから{br}声がきこえてくる。{page}{box:00}{name:02}ジョージ{br}「この声はアリシア…{br} そしてカロルさん…{page}{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだな！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！{page}{box:00}{name:02}ジョージ{br}「こんなヘンな館で、{br} もう一度ここに…{page}{box:00}{name:02}ジョージ{br}「来れるほしょうは{br} ないもんな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I can hear voices{br}from beyond the door.{page}{box:00}{name:02}George{br}That's Alicia... and Karol-san...{page}{box:00}{name:02}George{br}This door must lead{br}to the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing book over there!{page}{box:00}{name:02}George{br}In a weird mansion like this,{page}{box:00}{name:02}George{br}there's no guarantee I{br}can ever get back here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    "3C49C"
   ],
   "jp": "{box:01}部屋のはしに{br}イスがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a chair at{br}the edge of the room.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    "3C4A0"
   ],
   "jp": "{box:01}へやのすみで{br}たおれたイスだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A chair knocked{br}over in the corner.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    "3C4A4"
   ],
   "jp": "{box:01}何かをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of... something.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "3C4A8"
   ],
   "jp": "{box:01}つぼや、やさいの{br}絵のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a painting{br}of jars and vegetables.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    "3C4AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「むこうで何か、{br} 光ってるな…{page}{box:00}{name:02}ジョージ{br}「本…みたいだけど…{br} チェックしてみるか」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Something's glowing over there...{page}{box:00}{name:02}George{br}Looks like... a book?{br}Let's check it out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    "3C4B4"
   ],
   "jp": "{box:01}何の絵かは{br}わからない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I can't tell what{br}it's a painting of.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "3C4B8"
   ],
   "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I wonder where{br}this landscape is?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    "3C4BC"
   ],
   "jp": "{box:01}そらにそびえる{br}タワーの絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a tower{br}soaring into the sky.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -675,8 +675,8 @@
    "3C4C0"
   ],
   "jp": "{box:01}つくえにめぼしい{br}モノはない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth{br}noting on the desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -685,8 +685,8 @@
    "3C4C4"
   ],
   "jp": "{box:01}誰がすわる{br}イスなのだろう？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I wonder who sits in this chair?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -695,8 +695,8 @@
    "3C4C8"
   ],
   "jp": "{box:01}イスが床に{br}たおれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A chair has toppled{br}onto the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    "3C4CC"
   ],
   "jp": "{box:01}イスがざつぜんと{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chairs are lined{br}up any which way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    "3C4D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだ！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This door leads to{br}the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing book over there!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -725,8 +725,8 @@
    "3C4D4"
   ],
   "jp": "{box:01}すみっこにイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A chair has been{br}left in the corner.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    "3C4D8"
   ],
   "jp": "{box:01}イスが床に{br}たおされている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone knocked this{br}chair to the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -745,8 +745,8 @@
    "3C4DC"
   ],
   "jp": "{box:01}ふきつな絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ominous painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    "3C4E0"
   ],
   "jp": "{box:01}しょくたくの絵{br}のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a painting{br}of a dinner table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -765,8 +765,8 @@
    "3C4EC"
   ],
   "jp": "{box:01}きみのわるい{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A creepy oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -775,8 +775,8 @@
    "3C4F0"
   ],
   "jp": "{box:01}人のかおにも{br}見える絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting that almost{br}looks like a face.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -785,8 +785,8 @@
    "3C4F4"
   ],
   "jp": "{box:01}ふうけいを{br}えがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a landscape.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -795,8 +795,8 @@
    "3C4F8"
   ],
   "jp": "{box:01}おやこの絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a parent{br}and child hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -805,8 +805,8 @@
    "3C4FC"
   ],
   "jp": "{box:01}つくえとイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A desk and chair stand here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -815,8 +815,8 @@
    "3C500"
   ],
   "jp": "{box:01}床にたおれた{br}イスがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a chair{br}lying on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    "3C504"
   ],
   "jp": "{box:01}古びたイスが{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A row of worn-out chairs.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -835,8 +835,8 @@
    "3C508"
   ],
   "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A door to the Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -845,8 +845,8 @@
    "3C514"
   ],
   "jp": "{box:01}あやしい絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A suspicious{br}painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -855,8 +855,8 @@
    "3C518"
   ],
   "jp": "{box:01}テーブルの上を{br}えがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a tabletop.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -865,8 +865,8 @@
    "3C524"
   ],
   "jp": "{box:01}フシギな絵が{br}かけられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A mysterious{br}painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -875,8 +875,8 @@
    "3C528"
   ],
   "jp": "{box:01}何かの生き物の{br}絵に見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a painting{br}of some creature.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -885,8 +885,8 @@
    "3C52C"
   ],
   "jp": "{box:01}どこかのタワーを{br}えがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a tower somewhere.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -895,8 +895,8 @@
    "3C530"
   ],
   "jp": "{box:01}めぼしい物は{br}とくにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing of interest here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -905,8 +905,8 @@
    "3C534"
   ],
   "jp": "{box:01}ワインのびんが{br}たおれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wine bottle has tipped over.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    "3C538"
   ],
   "jp": "{box:01}こわれたイスが{br}よこになっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken chair lies on its side.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -925,8 +925,8 @@
    "3C53C"
   ],
   "jp": "{box:01}イスとつくえが{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chairs and desks in a row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -935,8 +935,8 @@
    "3C540"
   ],
   "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A door to the Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

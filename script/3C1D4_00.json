@@ -5,8 +5,8 @@
    "3C1D8"
   ],
   "jp": "{box:01}やしきのげんかん{br}ドアがある。{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{br} びくともしない！{page}{box:00}{name:02}ジョージ{br}「ここからは外に{br} 出られないな…{page}{box:00}{name:02}ジョージ{br}「館の中に入って{br} 出口をさがそう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's the mansion's front door.{page}{box:00}{name:02}George{br}Damn it! It won't budge!{page}{box:00}{name:02}George{br}I can't get out this way...{page}{box:00}{name:02}George{br}I'll go into the mansion{br}and look for an exit...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3C1E4"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「ゴーストなんて{br} 気のせいよ！{page}{box:00}{name:03}アリシア{br}「気のせいに{br} きまってるけど…{page}{box:00}{name:03}アリシア{br}「とにかくゴースト{br} をかわして、{page}{box:00}{name:03}アリシア{br}「にげるのがきほん{br} だからね！そして…{page}{box:00}{name:03}アリシア{br}「まいごにだけは{br} ならないでね！{page}{box:00}{name:03}アリシア{br}「コンパスと{br} ミニマップで{page}{box:00}{name:03}アリシア{br}「チェックすれば{br} ヘイキよね？{page}{box:00}{name:03}アリシア{br}「気をつけてね{br} ジョージ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}Ghosts are all in your head!{page}{box:00}{name:03}Alicia{br}I mean, obviously they are, but...{page}{box:00}{name:03}Alicia{br}anyway, the basic rule is{page}{box:00}{name:03}Alicia{br}dodge the ghosts and run! And...{page}{box:00}{name:03}Alicia{br}whatever you do, don't get lost!{page}{box:00}{name:03}Alicia{br}If you check the compass{page}{box:00}{name:03}Alicia{br}and the mini map,{br}you'll be fine, right?{page}{box:00}{name:03}Alicia{br}Be careful, George...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3C1E8"
   ],
   "jp": "{box:00}{name:04}カロル{br}「そうそう！{br} ジョージさん！{page}{box:00}{name:04}カロル{br}「いらない物どうし{br} くみあわせると{page}{box:00}{name:04}カロル{br}「別のアイテムに{br} 成る事もあります。{page}{box:00}{name:04}カロル{br}「スタートボタンの{br} コマンドにある、{page}{box:00}{name:04}カロル{br}「COMBINE{br} コマンドですよ。{page}{box:00}{name:04}カロル{br}「アイテムどうし、{br} がったいできます。{page}{box:00}{name:04}カロル{br}「たとえば、それで{br} ハーブどうしを{page}{box:00}{name:04}カロル{br}「くみあわせて{br} 薬にかえると、{page}{box:00}{name:04}カロル{br}「かいふく度あいも{br} 高まりますよ。{page}{box:00}{name:04}カロル{br}「ほかにも、{br} マッチやナイフ…{page}{box:00}{name:04}カロル{br}「いろいろためして{br} 見てください…。{page}{box:00}{name:04}カロル{br}「こんなアドバイス{br} でしか、{page}{box:00}{name:04}カロル{br}「おやくに立てなくて{br} すみません…{page}{box:00}{name:04}カロル{br}「いい年をして{br} なさけないですよ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}Oh, that's right! George-san!{page}{box:00}{name:04}Karol{br}If you combine items{br}you don't need,{page}{box:00}{name:04}Karol{br}they can sometimes{br}become a different item.{page}{box:00}{name:04}Karol{br}Among the START{br}Button commands,{page}{box:00}{name:04}Karol{br}there's the COMBINE command.{page}{box:00}{name:04}Karol{br}It lets you merge{br}items together.{page}{box:00}{name:04}Karol{br}For example, if you{br}use it to mix herbs{page}{box:00}{name:04}Karol{br}and turn them into medicine,{page}{box:00}{name:04}Karol{br}they'll restore more.{page}{box:00}{name:04}Karol{br}There are also matches, knives...{page}{box:00}{name:04}Karol{br}Please try out all{br}sorts of things...{page}{box:00}{name:04}Karol{br}I'm sorry that advice like this{page}{box:00}{name:04}Karol{br}is all I can do to help...{page}{box:00}{name:04}Karol{br}It's pathetic, at my age.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3C1EC"
   ],
   "jp": "{box:01}時計は時を{br}きざんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The clock ticks away the time.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3C1F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「じゃまなガラクタ{br} だなぁ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This junk is really in the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3C1F4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだろう？{br} このゴミ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What's with all this garbage...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3C1FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここから{br} 入ってきたのに…{page}{box:00}{name:02}ジョージ{br}「とじこめられる{br} なんて…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is where we came in...{page}{box:00}{name:02}George{br}and now we're locked in...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3C208"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「もう何がなんだか{br} わからないけど、{page}{box:00}{name:03}アリシア{br}「ワナのセットは{br} 5つまでだし…{page}{box:00}{name:03}アリシア{br}「アイテムが無いと{br} ワナもつくれない…{page}{box:00}{name:03}アリシア{br}「ピンチになったら{br} にげるしかない…{page}{box:00}{name:03}アリシア{br}「とにかく{br} 気をつけてね…{page}{box:00}{name:03}アリシア{br}「…おねがいだから{br} …」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}I don't know what's{br}going on anymore, but...{page}{box:00}{name:03}Alicia{br}you can only set five traps...{page}{box:00}{name:03}Alicia{br}and you can't make{br}traps without items...{page}{box:00}{name:03}Alicia{br}If you get in a pinch, just run...{page}{box:00}{name:03}Alicia{br}Anyway, be careful...{page}{box:00}{name:03}Alicia{br}...Please... just be careful...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "3C20C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「とびらの文字は{br} きっと…{page}{box:00}{name:04}カロル{br}「その本をもって入れば{br} 別の所に行ける、{page}{box:00}{name:04}カロル{br}「…というイミだと{br} 思うんです。{page}{box:00}{name:04}カロル{br}「スタートボタンの{br} コマンドにある、{page}{box:00}{name:04}カロル{br}「BOOKコマンド{br} を使って下さい。{page}{box:00}{name:04}カロル{br}「もっている本が{br} えらべますよ。{page}{box:00}{name:04}カロル{br}「たよりきりで{br} すみませんが…{page}{box:00}{name:04}カロル{br}「よろしく{br} おねがいします」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}The writing on the{br}door must mean...{page}{box:00}{name:04}Karol{br}that if you go in{br}holding that book,{page}{box:00}{name:04}Karol{br}you'll end up somewhere else.{page}{box:00}{name:04}Karol{br}Among the START{br}Button commands,{page}{box:00}{name:04}Karol{br}please use the BOOK command.{page}{box:00}{name:04}Karol{br}You can pick from{br}the books you have.{page}{box:00}{name:04}Karol{br}I'm sorry to rely on you{br}for everything, but...{page}{box:00}{name:04}Karol{br}I'm counting on you.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "3C210"
   ],
   "jp": "{box:01}ゆっくりと時を{br}きざんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It slowly ticks away the time.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "3C214"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こいつのせいで、{br} 歩きにくいよ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}These things make{br}it hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "3C218"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタがじゃま{br} なんだよね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This junk is such a pain.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "3C220"
   ],
   "jp": "{box:01}館のげんかん{br}ドアがある。{page}{box:00}{name:02}ジョージ{br}「なぜあかないのか{br} それがナゾだよな…{page}{box:00}{name:02}ジョージ{br}「このやしきのせい{br} なんだろうな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's the mansion's front door.{page}{box:00}{name:02}George{br}Why won't it open?{br}That's the mystery...{page}{box:00}{name:02}George{br}I bet it's this mansion's doing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "3C22C"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「ここにいると{br} あたしもだんだん…{page}{box:00}{name:03}アリシア{br}「ジョージみたいに{br} なっちゃいそう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}If I stay here much longer...{page}{box:00}{name:03}Alicia{br}I might start turning{br}into you, George...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "3C230"
   ],
   "jp": "{box:00}{name:04}カロル{br}「くみかわる部屋や{br} ドアの文字も…{page}{box:00}{name:04}カロル{br}「ゴーストのせいと{br} いうよりは…{page}{box:00}{name:04}カロル{br}「オカルトがらみと{br} 考えられますね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}The rooms rearranging,{br}the writing on the door...{page}{box:00}{name:04}Karol{br}Rather than ghosts, I'd say...{page}{box:00}{name:04}Karol{br}it has something to{br}do with the occult.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "3C234"
   ],
   "jp": "{box:01}夜の時間に{br}なったようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It seems night has fallen.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "3C238"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんでこんな物が{br} あるんだろう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Why is something{br}like this even here?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "3C23C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何かないかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Anything good in here?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "3C244"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「げんかんが{br} あかないのも…{page}{box:00}{name:02}ジョージ{br}「オカルトのちから{br} なんだろうな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The front door not opening...{page}{box:00}{name:02}George{br}must be the occult's doing too...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "3C250"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「いい考えがないから{br} だまってるけど、{page}{box:00}{name:03}アリシア{br}「オカルトなんか{br} みとめてないからね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}I'm only keeping quiet because{br}I've got no better idea,{page}{box:00}{name:03}Alicia{br}but I don't buy any{br}of this occult stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "3C254"
   ],
   "jp": "{box:00}{name:04}カロル{br}「ここだけの{br} 話ですが…{page}{box:00}{name:04}カロル{br}「アリシアさんって{br} ガンコですねぇ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}Just between you and me...{page}{box:00}{name:04}Karol{br}Alicia-san sure is stubborn.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "3C258"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この時計…{br} オカルトっぽいな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This clock... looks kind of occult.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "3C25C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタの中に{br} 何かないかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Anything useful in this junk?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "3C260"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミをあさっても{br} ゴミばっかだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Digging through garbage{br}just gets me more garbage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "3C268"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ひらけゴマ！」{page}{box:01}とびらに何も{br}へんかはない。{page}{box:00}{name:02}ジョージ{br}「やっぱりな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Open sesame!{page}{box:01}Nothing happens to the door.{page}{box:00}{name:02}George{br}Figures...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "3C274"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「さっきはあんな事{br} 言ったけど…{page}{box:00}{name:03}アリシア{br}「ほんとにあたしが{br} まきこまれた…{page}{box:00}{name:03}アリシア{br}「なんて{br} 思ってないからさ。{page}{box:00}{name:03}アリシア{br}「早くここから{br} 出ようよ…ね？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}I said all that earlier, but...{page}{box:00}{name:03}Alicia{br}I don't really think...{page}{box:00}{name:03}Alicia{br}you dragged me into this.{page}{box:00}{name:03}Alicia{br}Let's get out of{br}here soon... okay?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "3C278"
   ],
   "jp": "{box:00}{name:04}カロル{br}「いったいどんな{br} 儀式をやれば、{page}{box:00}{name:04}カロル{br}「こんなことに{br} なるんでしょう？{page}{box:00}{name:04}カロル{br}「きょうみが{br} わきますよ…{page}{box:00}{name:04}カロル{br}「いや、もちろん早く{br} 出たいですけどね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}What kind of ritual{br}would you have to do{page}{box:00}{name:04}Karol{br}for something like{br}this to happen?{page}{box:00}{name:04}Karol{br}It's fascinating...{page}{box:00}{name:04}Karol{br}Oh, of course I want{br}to get out soon, too.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "3C27C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだかこわい{br} 時計だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This clock is kind of creepy...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "3C280"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタしか{br} ない…か…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing but junk... huh...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "3C284"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミをあさるとは{br} オレもヒマだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Digging through trash... I{br}must have too much free time.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "3C28C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このそばにドアを{br} ひらくスイッチが{page}{box:00}{name:02}ジョージ{br}「かくされてる…{page}{box:00}{name:02}ジョージ{br}「…わけ、ないよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a hidden{br}switch near here{page}{box:00}{name:02}George{br}that opens the door...{page}{box:00}{name:02}George{br}...yeah, right...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "3C298"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「カロルさんが…{br} …ねぇ…{page}{box:00}{name:03}アリシア{br}「そりゃ、たしかに{br} あたしは…{page}{box:00}{name:03}アリシア{br}「信じなかったかも{br} しれないけどさ、{page}{box:00}{name:03}アリシア{br}「言ってくれたって{br} いいのに…{page}{box:00}{name:03}アリシア{br}「そう思わない？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}Karol-san... huh...{page}{box:00}{name:03}Alicia{br}Sure, maybe I...{page}{box:00}{name:03}Alicia{br}wouldn't have believed him,{page}{box:00}{name:03}Alicia{br}but he could've told us...{page}{box:00}{name:03}Alicia{br}Don't you think?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "3C29C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「今までだまって{br} いて、すみません。{page}{box:00}{name:04}カロル{br}「でもここから出たい{br} と思う気もちは…{page}{box:00}{name:04}カロル{br}「お二人と同じです。{page}{box:00}{name:04}カロル{br}「それだけは{br} 信じて下さい」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}I'm sorry I kept quiet until now.{page}{box:00}{name:04}Karol{br}But wanting to get out of here...{page}{box:00}{name:04}Karol{br}I feel the same as you two.{page}{box:00}{name:04}Karol{br}Please believe that much.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "3C2A0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もう真夜中に{br} 近いなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's almost midnight...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "3C2A4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「さがしても{br} ガラクタばっかだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}All I ever find is junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "3C2A8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「さがしても{br} ゴミばっかだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No matter where I{br}look, it's all garbage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "3C2B0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いまいましい{br} げんかんだな…{page}{box:00}{name:02}ジョージ{br}「いつになったら{br} ひらくんだ？{page}{box:00}{name:02}ジョージ{br}「それともやっぱり{br} ほかに出口が…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This stupid front door...{page}{box:00}{name:02}George{br}When is it ever going to open?{page}{box:00}{name:02}George{br}Or is there another{br}exit after all...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "3C2BC"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「なんでもないから{br} 早く行ってよ！{page}{box:00}{name:03}アリシア{br}「でもぜったい{br} もどってきてよね！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}It's nothing, so hurry up and go!{page}{box:00}{name:03}Alicia{br}But you'd better{br}come back, got it!?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "3C2C0"
   ],
   "jp": "{box:00}{name:04}カロル{br}「やはり、私の{br} 仲間はもう…{page}{box:00}{name:04}カロル{br}「………{page}{box:00}{name:04}カロル{br}「私たちは…{br} 私たちはぜったいに、{page}{box:00}{name:04}カロル{br}「生きてここから{br} 出ましょうね！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}So my old friends really are...{page}{box:00}{name:04}Karol{br}.........{page}{box:00}{name:04}Karol{br}We... we are absolutely{page}{box:00}{name:04}Karol{br}getting out of here alive!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    "3C2C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いつのじだいの{br} 物なのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I wonder how old this thing is.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    "3C2C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタばっか…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing but junk...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "3C2CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「そだいゴミ{br} ばっかりだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's all bulky trash...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    "3C2D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここから早く{br} にげださないと…{page}{box:00}{name:02}ジョージ{br}「ここでじいさんに{br} なりたくないしな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got to get{br}out of here fast...{page}{box:00}{name:02}George{br}I don't want to grow{br}old in this place...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "3C2E4"
   ],
   "jp": "{box:00}{name:04}カロル{br}「気をおとさないで{br} ください。{page}{box:00}{name:04}カロル{br}「アリシアさんは、{br} きっと生きてます。{page}{box:00}{name:04}カロル{br}「早くたすけに行って{br} あげてください」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}Please don't lose heart.{page}{box:00}{name:04}Karol{br}I'm sure Alicia-san is alive.{page}{box:00}{name:04}Karol{br}Please hurry and go save her.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "3C2E8"
   ],
   "jp": "{box:01}時計はしずかに{br}時をきざむ…{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The clock quietly{br}ticks away the time...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    "3C2EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「……アリシア」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}......Alicia.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "3C2F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「……」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}......{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    "3C2F8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…{page}{box:00}{name:02}ジョージ{br}「…アリシア…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...{page}{box:00}{name:02}George{br}...Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

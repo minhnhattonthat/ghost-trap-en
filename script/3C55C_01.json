@@ -5,8 +5,8 @@
    "3CA78"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ナゾの{br} ガラクタだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Mystery junk!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -16,8 +16,8 @@
    "3CB58"
   ],
   "jp": "{box:01}どこかのふうけい{br}をえがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a{br}landscape somewhere.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -27,8 +27,8 @@
    "3CB5C"
   ],
   "jp": "{box:01}床に絵が{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting has{br}fallen on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -38,8 +38,8 @@
    "3CB60"
   ],
   "jp": "{box:01}あおくぬられた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting done in blue.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -49,8 +49,8 @@
    "3CB64"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A large painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -60,8 +60,8 @@
    "3CB68"
   ],
   "jp": "{box:01}まっさおな絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A deep blue painting{br}is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -71,8 +71,8 @@
    "3CB6C"
   ],
   "jp": "{box:01}わかい女の{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of a young woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -82,8 +82,8 @@
    "3CB70"
   ],
   "jp": "{box:01}うえきばちが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A flowerpot sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -93,8 +93,8 @@
    "3CB74"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もどっても{br} イミがないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No point going back...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -104,8 +104,8 @@
    "3CB78"
   ],
   "jp": "{box:01}そうしょくひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "3CB7C"
   ],
   "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of some scenery.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -126,8 +126,8 @@
    "3CB80"
   ],
   "jp": "{box:01}ふうけいの{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A landscape in oils.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -137,8 +137,8 @@
    "3CB84"
   ],
   "jp": "{box:01}けしきの{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Scenery in oils.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -148,8 +148,8 @@
    "3CB88"
   ],
   "jp": "{box:01}床にあぶら絵が{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting lies on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -159,8 +159,8 @@
    "3CB8C"
   ],
   "jp": "{box:01}うみのように{br}あおい絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting as blue as the sea.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -170,8 +170,8 @@
    "3CB90"
   ],
   "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old, worn oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -181,8 +181,8 @@
    "3CB94"
   ],
   "jp": "{box:01}あおくぬられた絵{br}がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a painting done in blue.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -192,8 +192,8 @@
    "3CB98"
   ],
   "jp": "{box:01}女の人の{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of a woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -203,8 +203,8 @@
    "3CB9C"
   ],
   "jp": "{box:01}うえきのみどりは{br}しなびている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The potted plant's{br}leaves have wilted.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -214,8 +214,8 @@
    "3CBA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「前にすすむしか{br} 道はないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The only way is forward...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "3CBA4"
   ],
   "jp": "{box:01}うえきが{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A potted plant is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -236,8 +236,8 @@
    "3CBA8"
   ],
   "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I wonder where{br}this landscape is?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -247,8 +247,8 @@
    "3CBAC"
   ],
   "jp": "{box:01}ふうけいの絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A landscape painting{br}is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -258,8 +258,8 @@
    "3CBB0"
   ],
   "jp": "{box:01}けしきをえがいた{br}ふうけいの絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A landscape painting{br}of some scenery.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -269,8 +269,8 @@
    "3CBB4"
   ],
   "jp": "{box:01}ほうり出された{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting tossed aside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -280,8 +280,8 @@
    "3CBB8"
   ],
   "jp": "{box:01}あおい色が{br}目立つ絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting where{br}the blue stands out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -291,8 +291,8 @@
    "3CBBC"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A large oil painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -302,8 +302,8 @@
    "3CBC0"
   ],
   "jp": "{box:01}ベースカラーが{br}あおのあぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting with{br}a blue base color.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -313,8 +313,8 @@
    "3CBC4"
   ],
   "jp": "{box:01}女のしょうぞうが{br}がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a portrait of a woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -324,8 +324,8 @@
    "3CBC8"
   ],
   "jp": "{box:01}つちがかわいた{br}うえきばちだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A flowerpot with dried-out soil.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "3CBCC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「先にすすむしか{br} 手はないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing to do but{br}push forward...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -346,8 +346,8 @@
    "3CBD0"
   ],
   "jp": "{box:01}何もはえていない{br}うえきばちだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A flowerpot with{br}nothing growing in it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -357,8 +357,8 @@
    "3CBD4"
   ],
   "jp": "{box:01}ホコリをかぶった{br}ふうけいの絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dusty landscape painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
