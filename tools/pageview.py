@@ -64,13 +64,19 @@ def chain(rom, ids, addr):
 
 
 def groups(ids, size):
-    owner = {}
+    """Chains of up to `size` strings per script/ file. `status: data` strings are left out: insert-only
+    {name:0B} strings (the item-name insert stalls a chain in script 39) and text the original already has in
+    English (staff roll, copyright screen); the story run shows those."""
+    owner, data = {}, set()
     for f in script.files():
         for e in script.json.loads(f.read_text(encoding="utf-8")):
             owner[e["id"]] = f.stem
+            if e.get("status") == "data":
+                data.add(e["id"])
     by = {}
     for i in ids:
-        by.setdefault(owner.get(i, "all"), []).append(i)
+        if i not in data:
+            by.setdefault(owner.get(i, "all"), []).append(i)
     out = {}
     for g, members in by.items():
         for k in range(0, len(members), size):

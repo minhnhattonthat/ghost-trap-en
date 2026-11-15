@@ -50,6 +50,7 @@ L.on_frame(function(f)
   end
   if f - lastAt > 3000 then
     done = true
+    L.shot("stall.png")
     L.log(string.format("PAGES_STALL f%d after %d pages", f, n))
     L.finish(0)
   end
