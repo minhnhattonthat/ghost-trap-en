@@ -16,7 +16,7 @@
    "3D29C"
   ],
   "jp": "{box:01}ごうかなツボが{br}置かれている。{page}{end}",
-  "en": "{box:01}A gorgeous vase sits here.{page}{end}",
+  "en": "{box:01}A gorgeous{br}vase sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -48,7 +48,7 @@
    "3D2A8"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A large oil painting is on display.{page}{end}",
+  "en": "{box:01}A large oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -80,7 +80,7 @@
    "3D274"
   ],
   "jp": "{box:01}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「前にすすむしか{br} ないよな」{page}{end}",
-  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}Guess the only way is forward.{page}{end}",
+  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}Guess the only{br}way is forward.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -90,7 +90,7 @@
    "3D27C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンが当たった？{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜんちがう。{page}{box:00}{name:02}ジョージ{br}「この本が何かの{br} カギだったんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Was Karol-san's hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was some kind of key!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Was Karol-san's{br}hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was{br}some kind of key!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -100,7 +100,7 @@
    "3D298"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I'm not in the mood for art.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I'm not in the{br}mood for art.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -132,7 +132,7 @@
    "3D4C0"
   ],
   "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
-  "en": "{box:01}Is this the mansion's junk?{page}{end}",
+  "en": "{box:01}Is this the{br}mansion's junk?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -144,7 +144,7 @@
    "3D4C4"
   ],
   "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
-  "en": "{box:01}Is this the mansion's junk?{page}{end}",
+  "en": "{box:01}Is this the{br}mansion's junk?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -191,7 +191,7 @@
    "3D4D4"
   ],
   "jp": "{box:01}みどりでぬられた{br}絵がある。{page}{end}",
-  "en": "{box:01}There's a painting done in green.{page}{end}",
+  "en": "{box:01}There's a painting{br}done in green.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -236,7 +236,7 @@
    "3D2E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これはきっと{br} ジゴクの絵だ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This must be a painting of Hell.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This must be a{br}painting of Hell.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -248,7 +248,7 @@
    "3D4E8"
   ],
   "jp": "{box:01}大きな絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A big painting is on display.{page}{end}",
+  "en": "{box:01}A big painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -369,7 +369,7 @@
    "3D41C"
   ],
   "jp": "{box:01}ごうかなツボが{br}置かれている。{page}{end}",
-  "en": "{box:01}A gorgeous vase sits here.{page}{end}",
+  "en": "{box:01}A gorgeous{br}vase sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -390,7 +390,7 @@
    "3D324"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「いったい誰が{br} かいたんだろう？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Who on earth painted this?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Who on earth{br}painted this?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -401,7 +401,7 @@
    "3D428"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A large oil painting is on display.{page}{end}",
+  "en": "{box:01}A large oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -433,7 +433,7 @@
    "3D334"
   ],
   "jp": "{box:01}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「前にすすむしか{br} ないよな」{page}{end}",
-  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}Guess the only way is forward.{page}{end}",
+  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}Guess the only{br}way is forward.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -444,7 +444,7 @@
    "3D440"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -455,7 +455,7 @@
    "3D444"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -509,7 +509,7 @@
    "3D358"
   ],
   "jp": "{box:01}このやしきの{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of this mansion.{page}{end}",
+  "en": "{box:01}An oil painting{br}of this mansion.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -531,7 +531,7 @@
    "3D460"
   ],
   "jp": "{box:01}床に置かれた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting set on the floor.{page}{end}",
+  "en": "{box:01}An oil painting{br}set on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -541,7 +541,7 @@
    "3D364"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「きもちわるく{br} なってくるな」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}It's starting to make me queasy.{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}It's starting to{br}make me queasy.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -552,7 +552,7 @@
    "3D468"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A large oil painting is on display.{page}{end}",
+  "en": "{box:01}A large oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -563,7 +563,7 @@
    "3D46C"
   ],
   "jp": "{box:01}いろんな物が{br}置かれている。{page}{box:01}めぼしい物は{br}ないようだ。{page}{end}",
-  "en": "{box:01}All sorts of things{br}are kept here.{page}{box:01}Nothing worth noting, it seems.{page}{end}",
+  "en": "{box:01}All sorts of things{br}are kept here.{page}{box:01}Nothing worth{br}noting, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -574,7 +574,7 @@
    "3D470"
   ],
   "jp": "{box:01}いろんな物が{br}置かれている。{page}{box:01}めぼしい物は{br}ないようだ。{page}{end}",
-  "en": "{box:01}All sorts of things{br}are kept here.{page}{box:01}Nothing worth noting, it seems.{page}{end}",
+  "en": "{box:01}All sorts of things{br}are kept here.{page}{box:01}Nothing worth{br}noting, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -584,7 +584,7 @@
    "3D374"
   ],
   "jp": "{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「天才は後ろを{br} 見ないんだ！」{page}{end}",
-  "en": "{box:01}The door is shut tight.{page}{box:00}{name:02}George{br}A genius never looks back!{page}{end}",
+  "en": "{box:01}The door is shut tight.{page}{box:00}{name:02}George{br}A genius never{br}looks back!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -595,7 +595,7 @@
    "3D480"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -606,7 +606,7 @@
    "3D484"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -650,7 +650,7 @@
    "3D494"
   ],
   "jp": "{box:01}おかしな絵が{br}かけられている。{page}{end}",
-  "en": "{box:01}A weird painting hangs here.{page}{end}",
+  "en": "{box:01}A weird painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -660,7 +660,7 @@
    "3D398"
   ],
   "jp": "{box:01}この館の絵だ。{page}{end}",
-  "en": "{box:01}A painting of this mansion.{page}{end}",
+  "en": "{box:01}A painting of{br}this mansion.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -671,7 +671,7 @@
    "3D49C"
   ],
   "jp": "{box:01}大きくてりっぱな{br}ツボがある。{page}{end}",
-  "en": "{box:01}There's a big, splendid vase.{page}{end}",
+  "en": "{box:01}There's a big,{br}splendid vase.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -692,7 +692,7 @@
    "3D3A4"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「モチーフは{br} ダンテかな？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Inspired by Dante, maybe?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Inspired by Dante, maybe?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -714,7 +714,7 @@
    "3D4AC"
   ],
   "jp": "{box:01}めぼしい物は{br}ないようだ。{page}{end}",
-  "en": "{box:01}Nothing worth noting, it seems.{page}{end}",
+  "en": "{box:01}Nothing worth{br}noting, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -725,7 +725,7 @@
    "3D4B0"
   ],
   "jp": "{box:01}めぼしい物は{br}ないようだ。{page}{end}",
-  "en": "{box:01}Nothing worth noting, it seems.{page}{end}",
+  "en": "{box:01}Nothing worth{br}noting, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -755,7 +755,7 @@
    "3D3E4"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「こんなリアルに{br} かくよなぁ」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}How do you paint{br}something this real?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}How do you paint{br}something this real?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -785,7 +785,7 @@
    "3D424"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「このばめんは{br} コキュートスか？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Is this supposed to be Cocytus?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Is this supposed{br}to be Cocytus?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -815,7 +815,7 @@
    "3D464"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「なんでこんな絵{br} かざるんだろうな」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Why would anyone hang{br}a painting like this?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Why would anyone hang{br}a painting like this?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -825,7 +825,7 @@
    "3D474"
   ],
   "jp": "{box:01}ドアがひらく{br}ようすはない。{page}{box:00}{name:02}ジョージ{br}「いいから出口を{br} さがそう」{page}{end}",
-  "en": "{box:01}The door shows no{br}sign of opening.{page}{box:00}{name:02}George{br}Forget it, let's find an exit.{page}{end}",
+  "en": "{box:01}The door shows no{br}sign of opening.{page}{box:00}{name:02}George{br}Forget it, let's{br}find an exit.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -845,7 +845,7 @@
    "3D4A4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな絵、今は{br} 見たくないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't want to look at a{br}painting like this right now.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't want to look at{br}a painting like this now.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -855,7 +855,7 @@
    "3D4B4"
   ],
   "jp": "{box:01}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「もどって{br} どうするんだ？{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} さがさなきゃ！」{page}{end}",
-  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}What would going back even do?{page}{box:00}{name:02}George{br}I've got to find Alicia!{page}{end}",
+  "en": "{box:01}The door won't open.{page}{box:00}{name:02}George{br}What would going{br}back even do?{page}{box:00}{name:02}George{br}I've got to find Alicia!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -865,7 +865,7 @@
    "3D4D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I'm not in the mood for art.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I'm not in the{br}mood for art.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -955,7 +955,7 @@
    "3D518"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「つまらないモノ{br} かくな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Quit painting boring stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Quit painting{br}boring stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -985,7 +985,7 @@
    "3D524"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1036,7 +1036,7 @@
    "3D5C8"
   ],
   "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
-  "en": "{box:01}Is this the mansion's junk?{page}{end}",
+  "en": "{box:01}Is this the{br}mansion's junk?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1047,7 +1047,7 @@
    "3D5CC"
   ],
   "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
-  "en": "{box:01}Is this the mansion's junk?{page}{end}",
+  "en": "{box:01}Is this the{br}mansion's junk?{page}{end}",
   "status": "done",
   "notes": ""
  },

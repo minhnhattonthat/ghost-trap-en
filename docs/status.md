@@ -141,8 +141,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
     GitHub issues. Fourth dispatch 2026-11-16: build sha1 still `ab915aca`, `release/v1.0/` zip + bps present, no
     open issues, main = origin; nothing to do. **The pipeline is at its end state: further phase-9 dispatches are
     no-ops until the owner files a bug or asks to publish.**
-- **Next:** nothing in the pipeline. Publishing only when the owner asks (`references/pipeline.md` §Publish; never
-  run `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
+  - **Player report 2026-11-16 (`rom/report/`: savestate + shot), fixed:** talking to Karol in the lounge (game
+    start, script 123) flooded the field with glyphs. The field box is **176 px**, not the cutscene box's 224
+    (the HUD sits right; measured in the field, `docs/re/text.md` Width gate); every QA view so far showed field
+    text in the cutscene window, so no shot could catch it. `wrap.variant` now gives every string with a field slot
+    the `field` budget (`tools/windows.json`), `{name:0A}` counts as the widest real item name (104 px);
+    `tools/refit.py` re-laid out 1,411 strings (merged via `batches.py merge field01/03/05 --overwrite`; ~34 pages
+    reworded by hand to stay on one page, `work/tl/field0*.fix.tsv`), test `test_field_strings_use_the_field_box`.
+    Verified in the field: Karol's 11 pages, the 8 widest 176 px pages (`work/qa/width/field_widest`). New build
+    `2f2b6ce8ea86b9b62510a20b238468ceff37fb5a`, smoke ok, `check.py` 63 OK, `jp_left_build.py` 0.
+- **Next:** the release in `release/v1.0/` (`ab915aca`) has the field-box bug: re-run `tools/release.py` on the new
+  build before publishing (its QA gate records `ab915aca`, so the gate needs the changed strings re-shown, or the
+  owner's waiver). Publishing only when the owner asks (`references/pipeline.md` §Publish; never run
+  `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
   FE difference.
 - **Open bugs:** none.

@@ -75,10 +75,18 @@ Machine-readable copy: `tools/windows.json` (marker build and the phase-7 lint r
 |---|---|---|---|---|
 | `{box:01}` plain box | field messages, cutscenes | 2 | 224 (28 digits ok, 29 corrupt; 27 digits + `ll` = 224 ok) | `work/qa/width/w28`, `w29`, `x1` script_040 |
 | `{box:00}{name:NN}` name plate | dialogue | name + 2 (a 3rd line corrupts) | name 80 (10 W ok, 11 corrupt); lines 224 | `n10`, `n11`, `l3` script_005 |
+| **field box** (`{box:00}`/`{box:01}` shown in the field: every table but the scene table, and scene scripts 39+) | NPC talk, examine text, field messages | name + 2 | **176** (22 digits clean; 23 = 184 draws over the right border; 24 or 23 + `l` floods the field) | `field_plain_22`, `field_*_23`, `field_*_24`, `field_plain_188` (Karol, lounge) |
 | narration (scene table, no `{box}`) | opening crawl, cutscene captions | 2 | 224 (28 ok, 29 corrupt) | `v28`, `v29` script_002 |
 | item help (41F18, no `{box}`) | item menu help, item descriptions | 3 | 152 (19 ok, 20 corrupt) | `h19`, `h20` itemmenu |
 | item name | first line of the item descriptions (slots `0x4214C-0x42294`); `{name:0A}` inserts it into box lines (script 39 showed `(10F07…`) | 1 | 152, and its box line must fit 224 | marker tour script_039 |
 | staff roll `11C5D8`, copyright `11E004` | already English, `status: data` | - | original 8 px columns | - |
+
+The 224 px rows were measured in the cutscene window (mode 8); `msgview` and the script warps show field messages
+there too, on black. **In the field the HUD on the right narrows the box to 176 px**, and no cutscene-window shot can
+show that: measure field text in the field (`work/states/field.mss` from `warp.py field --state`, route
+`200 -;40 up;4 a`, talks to Karol = script 123, slot 3C1C4; swap her text with `build.py --qa 1109AC=...`).
+`wrap.variant` gives every string with a field slot the field budget; `{name:0A}` counts as the widest English item
+name (`wrap.item_name_px`, 104 px), not the 152 px item-name budget. Found from a player report, 2026-11-16.
 
 Field messages (scripts 39+) close by themselves a few seconds after typing ends: shoot them with `HOLD` 150-220.
 

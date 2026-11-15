@@ -17,7 +17,7 @@
    "41DA8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このハコで、{br} 歩きづらいな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This box makes it hard to walk...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This box makes{br}it hard to walk...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -28,7 +28,7 @@
    "41DAC"
   ],
   "jp": "{box:01}かべに大きな{br}あながあいている。{page}{box:00}{name:02}ジョージ{br}「あなのおくには{br} なにもなさそうだ」{page}{end}",
-  "en": "{box:01}There's a big hole in the wall.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything at the back of it.{page}{end}",
+  "en": "{box:01}There's a big{br}hole in the wall.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything behind it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -83,7 +83,7 @@
    "41DC4"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "en": "{box:01}Part of the wall{br}has collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -143,7 +143,7 @@
    "41DEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここまでくれば{br} あんしんかな？{page}{box:00}{name:02}ジョージ{br}「くやしいが、{br} サプレッサーは、{page}{box:00}{name:02}ジョージ{br}「すばやいやつには{br} たいおうできない…{page}{box:00}{name:02}ジョージ{br}「しかたがないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストをよけて、{br} 出口をさがそう…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Am I safe now that{br}I've made it this far?{page}{box:00}{name:02}George{br}I hate to admit it,{br}but the Suppressor{page}{box:00}{name:02}George{br}can't handle the fast ones...{page}{box:00}{name:02}George{br}Can't be helped...{page}{box:00}{name:02}George{br}I'll dodge the ghosts{br}and find an exit...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Am I safe now that{br}I've made it this far?{page}{box:00}{name:02}George{br}I hate to admit it,{br}but the Suppressor{page}{box:00}{name:02}George{br}can't handle{br}the fast ones...{page}{box:00}{name:02}George{br}Can't be helped...{page}{box:00}{name:02}George{br}I'll dodge the ghosts{br}and find an exit...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -183,7 +183,7 @@
    "41E14"
   ],
   "jp": "{box:01}かべが少し{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall has crumbled a little.{page}{end}",
+  "en": "{box:01}The wall has{br}crumbled a little.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -193,7 +193,7 @@
    "41E18"
   ],
   "jp": "{box:01}だいぶホコリが{br}たまっている。{page}{end}",
-  "en": "{box:01}A lot of dust has collected.{page}{end}",
+  "en": "{box:01}A lot of dust{br}has collected.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -203,7 +203,7 @@
    "41E1C"
   ],
   "jp": "{box:01}たなに手紙が{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「書きかけの手紙が{br} あるな…{page}{box:00}{name:02}ジョージ{br}「アリギエリさんの{br} ひしょの物だ…{page}{box:00}{name:02}ジョージ{br}「…英語だな。{br} 読んでみるか…」{page}{box:01}『私はおそろしい…{page}{box:01}『だんな様も{br} ほかのかたがたも{page}{box:01}『すばらしい力を{br} おもちだが…{page}{box:01}『本当に手に入るの{br} だろうか？{page}{box:01}『永遠の命、などと{br} いうモノが…』{page}{box:00}{name:02}ジョージ{br}「…永遠の命！？」{page}{end}",
-  "en": "{box:01}A letter was left on the shelf.{page}{box:00}{name:02}George{br}There's an unfinished letter...{page}{box:00}{name:02}George{br}It belonged to{br}Alighieri-san's secretary...{page}{box:00}{name:02}George{br}...It's in English. Let's read it...{page}{box:01}\"I am frightened...{page}{box:01}\"The master and the others{page}{box:01}\"possess wonderful power, but...{page}{box:01}\"can it truly be obtained?{page}{box:01}\"Such a thing as eternal life...\"{page}{box:00}{name:02}George{br}...Eternal life?!{page}{end}",
+  "en": "{box:01}A letter was left{br}on the shelf.{page}{box:00}{name:02}George{br}There's an{br}unfinished letter...{page}{box:00}{name:02}George{br}It belonged to{br}Alighieri-san's secretary.{page}{box:00}{name:02}George{br}...It's in English.{br}Let's read it...{page}{box:01}\"I am frightened...{page}{box:01}\"The master{br}and the others{page}{box:01}\"possess wonderful{br}power, but...{page}{box:01}\"can it truly{br}be obtained?{page}{box:01}\"Such a thing as{br}eternal life...\"{page}{box:00}{name:02}George{br}...Eternal life?!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -213,7 +213,7 @@
    "41E24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミばこが{br} 置いてあるぞ{page}{box:00}{name:02}ジョージ{br}「中はあんまり{br} 調べたくないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a trash can here.{page}{box:00}{name:02}George{br}I'd rather not dig through it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a trash can here.{page}{box:00}{name:02}George{br}I'd rather not{br}dig through it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -233,7 +233,7 @@
    "41E2C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコード、{br} けっこういいな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's pretty good!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's{br}pretty good!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -253,7 +253,7 @@
    "41E34"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコード、{br} けっこういいな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's pretty good!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's{br}pretty good!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -273,7 +273,7 @@
    "41E3C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いわゆるえんたく{br} と、いうヤツだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What you'd call a round table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}What you'd call{br}a round table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -303,7 +303,7 @@
    "41E48"
   ],
   "jp": "{box:01}ルームランプが{br}たおれている。{page}{end}",
-  "en": "{box:01}A room lamp has fallen over.{page}{end}",
+  "en": "{box:01}A room lamp has{br}fallen over.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -313,7 +313,7 @@
    "41E4C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「ボールが14こ{br} しかないぞ…？{page}{box:00}{name:02}ジョージ{br}「9ばんボール{br} だけがないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Billiards... huh?{page}{box:00}{name:02}George{br}There are only 14 balls...?{page}{box:00}{name:02}George{br}Just the 9-Ball is missing...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Billiards... huh?{page}{box:00}{name:02}George{br}There are only 14 balls...?{page}{box:00}{name:02}George{br}Just the 9-Ball{br}is missing...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -323,7 +323,7 @@
    "41E50"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これでボールは{br} フルセットだ。{page}{box:00}{name:02}ジョージ{br}「さいごの9！{br} このことだな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That makes a full set of balls.{page}{box:00}{name:02}George{br}\"The last 9!\" So{br}that's what it meant!{page}{end}",
+  "en": "{box:00}{name:02}George{br}That makes a{br}full set of balls.{page}{box:00}{name:02}George{br}\"The last 9!\" So{br}that's what it meant!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -333,7 +333,7 @@
    "41E54"
   ],
   "jp": "{box:01}しっそなイスが{br}ころがっている。{page}{end}",
-  "en": "{box:01}A simple chair lies toppled over.{page}{end}",
+  "en": "{box:01}A simple chair{br}lies toppled over.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -353,7 +353,7 @@
    "41E5C"
   ],
   "jp": "{box:01}ドアに小さく{br}ラクガキがある。{page}{box:01}『それは15コで、{br} 1セットになる。{page}{box:01}『われらの数字を{br} 思い出せ。{page}{box:01}『さいごの9を{br} 手に入れるのだ』{page}{box:00}{name:02}ジョージ{br}「15コで1セット？{br} さいごの9…？{page}{box:00}{name:02}ジョージ{br}「いったい、{br} 何のことだ？{page}{box:00}{name:02}ジョージ{br}「まわりをチェック{br} してみるか…」{page}{end}",
-  "en": "{box:01}There's small{br}scribbling on the door.{page}{box:01}\"Fifteen of them make one set.{page}{box:01}\"Remember our number.{page}{box:01}\"Obtain the last 9.\"{page}{box:00}{name:02}George{br}Fifteen make a{br}set? The last 9...?{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{box:00}{name:02}George{br}Let's check around...{page}{end}",
+  "en": "{box:01}There's small{br}scribbling on the door.{page}{box:01}\"Fifteen of them{br}make one set.{page}{box:01}\"Remember our number.{page}{box:01}\"Obtain the last 9.\"{page}{box:00}{name:02}George{br}Fifteen make a{br}set? The last 9...?{page}{box:00}{name:02}George{br}What's that{br}supposed to mean?{page}{box:00}{name:02}George{br}Let's check around...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -413,7 +413,7 @@
    "41E7C"
   ],
   "jp": "{box:01}あなにワインは{br}入っていない。{page}{end}",
-  "en": "{box:01}There's no wine in the hole.{page}{end}",
+  "en": "{box:01}There's no wine{br}in the hole.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -443,7 +443,7 @@
    "41E88"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？なんで{br} あかないんだ？」{page}{box:00}{name:02}ジョージ{br}「ん？ドアに何か{br} 書かれてるな…」{page}{box:01}『…はい は {br} はい に…{page}{box:01}『…すべては元の{br} サヤへともどる。{page}{box:01}『かの書を{br} 元におさめよ』{page}{box:00}{name:02}ジョージ{br}「書って…本の{br} ことだよな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh? Why won't it open?{page}{box:00}{name:02}George{br}Hm? Something's{br}written on the door...{page}{box:01}\"...Ashes to ashes...{page}{box:01}\"...All returns to{br}where it belongs.{page}{box:01}\"Return that tome to its place.\"{page}{box:00}{name:02}George{br}A tome... That's a book, right?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh? Why won't it open?{page}{box:00}{name:02}George{br}Hm? Something's{br}written on the door...{page}{box:01}\"...Ashes to ashes...{page}{box:01}\"...All returns to{br}where it belongs.{page}{box:01}\"Return that{br}tome to its place.\"{page}{box:00}{name:02}George{br}A tome... That's{br}a book, right?{page}{end}",
   "status": "done",
   "notes": ""
  },

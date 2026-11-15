@@ -6,7 +6,7 @@
    "3F8E0"
   ],
   "jp": "{box:01}ゴーストが休む{br}ベッドかも…。{page}{end}",
-  "en": "{box:01}Maybe a bed where ghosts rest...{page}{end}",
+  "en": "{box:01}Maybe a bed where{br}ghosts rest...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -37,7 +37,7 @@
    "3F8D0"
   ],
   "jp": "{box:01}はくぶつかんに{br}ありそうなテレビ。{page}{box:00}{name:02}ジョージ{br}「ブラウンかんが{br} まるい上に…{page}{box:00}{name:02}ジョージ{br}「リモコンなしで、{br} チャンネルは{page}{box:00}{name:02}ジョージ{br}「回すタイプの{br} モノクロ式！{page}{box:00}{name:02}ジョージ{br}「これでとびらが{br} ついてればなあ…」{page}{end}",
-  "en": "{box:01}A TV that belongs in a museum.{page}{box:00}{name:02}George{br}A round picture tube, plus...{page}{box:00}{name:02}George{br}no remote, a rotary{br}channel dial...{page}{box:00}{name:02}George{br}and a black-and-white{br}picture!{page}{box:00}{name:02}George{br}If only it had little{br}doors on the front...{page}{end}",
+  "en": "{box:01}A TV that belongs{br}in a museum.{page}{box:00}{name:02}George{br}A round picture{br}tube, plus...{page}{box:00}{name:02}George{br}no remote, a rotary{br}channel dial...{page}{box:00}{name:02}George{br}and a black-and-white{br}picture!{page}{box:00}{name:02}George{br}If only it had little{br}doors on the front...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -49,7 +49,7 @@
    "3F914"
   ],
   "jp": "{box:01}時計のネジを{br}まく人もいない…。{page}{end}",
-  "en": "{box:01}No one is left to wind the clock...{page}{end}",
+  "en": "{box:01}No one is left to{br}wind the clock...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -69,7 +69,7 @@
    "3F8F0"
   ],
   "jp": "{box:01}20年いじょう{br}前のテレビだ。{page}{end}",
-  "en": "{box:01}A TV more than 20 years old.{page}{end}",
+  "en": "{box:01}A TV more than{br}20 years old.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -80,7 +80,7 @@
    "3F91C"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -91,7 +91,7 @@
    "3F920"
   ],
   "jp": "{box:01}誰がここで{br}ねていたのだろう。{page}{end}",
-  "en": "{box:01}Who used to sleep here, I wonder.{page}{end}",
+  "en": "{box:01}Who used to sleep{br}here, I wonder.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -102,7 +102,7 @@
    "3F924"
   ],
   "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some scenery.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some scenery.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -112,7 +112,7 @@
    "3F908"
   ],
   "jp": "{box:01}ブラウンかんが{br}まるいテレビだ。{page}{end}",
-  "en": "{box:01}A TV with a round picture tube.{page}{end}",
+  "en": "{box:01}A TV with a round{br}picture tube.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -142,7 +142,7 @@
    "3F930"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テレビを見てる{br} ヒマなんか無いぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got no time to watch TV.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I've got no time{br}to watch TV.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -172,7 +172,7 @@
    "3F940"
   ],
   "jp": "{box:01}かなりよごれた{br}ベッドがある。{page}{end}",
-  "en": "{box:01}There's a really dirty bed.{page}{end}",
+  "en": "{box:01}There's a really{br}dirty bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -182,7 +182,7 @@
    "3F944"
   ],
   "jp": "{box:01}ぶきみなけしきを{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of an eerie landscape.{page}{end}",
+  "en": "{box:01}A painting of an{br}eerie landscape.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -204,7 +204,7 @@
    "3F96C"
   ],
   "jp": "{box:01}ホコリがつもった{br}ベッドだ。{page}{box:01}ここではねむり{br}たくない。{page}{end}",
-  "en": "{box:01}A dust-covered bed.{page}{box:01}I don't want to sleep here.{page}{end}",
+  "en": "{box:01}A dust-covered bed.{page}{box:01}I don't want{br}to sleep here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -245,7 +245,7 @@
    "3F95C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何にも{br} 写らないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It doesn't show anything...{page}{end}",
+  "en": "{box:00}{name:02}George{br}It doesn't show{br}anything...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -273,7 +273,7 @@
    "3F9A4"
   ],
   "jp": "{box:01}かべの時計は{br}止まったままだ。{page}{end}",
-  "en": "{box:01}The wall clock is still stopped.{page}{end}",
+  "en": "{box:01}The wall clock{br}is still stopped.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -327,7 +327,7 @@
    "3F9AC"
   ],
   "jp": "{box:01}ゴーストが休む{br}ベッドかも…。{page}{end}",
-  "en": "{box:01}Maybe a bed where ghosts rest...{page}{end}",
+  "en": "{box:01}Maybe a bed where{br}ghosts rest...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -358,7 +358,7 @@
    "3F998"
   ],
   "jp": "{box:01}リモコンがない{br}タイプのテレビだ。{page}{end}",
-  "en": "{box:01}The kind of TV with no remote.{page}{end}",
+  "en": "{box:01}The kind of TV{br}with no remote.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -370,7 +370,7 @@
    "3FA1C"
   ],
   "jp": "{box:01}テレビは何も{br}うつさなかった。{page}{end}",
-  "en": "{box:01}The TV showed nothing at all.{page}{end}",
+  "en": "{box:01}The TV showed{br}nothing at all.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -380,7 +380,7 @@
    "3F9B0"
   ],
   "jp": "{box:01}はくぶつかんに{br}ありそうなテレビ。{page}{box:00}{name:02}ジョージ{br}「ちゃんと{br} 写るのかな？{page}{box:00}{name:02}ジョージ{br}「あの世とつうしん{br} できたりして…」{page}{end}",
-  "en": "{box:01}A TV that belongs in a museum.{page}{box:00}{name:02}George{br}Does it even get a picture?{page}{box:00}{name:02}George{br}Maybe it picks up the afterlife...{page}{end}",
+  "en": "{box:01}A TV that belongs{br}in a museum.{page}{box:00}{name:02}George{br}Does it even{br}get a picture?{page}{box:00}{name:02}George{br}Maybe it picks up{br}the afterlife...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -402,7 +402,7 @@
    "3FA04"
   ],
   "jp": "{box:01}時計のネジを{br}まく人もいない…。{page}{end}",
-  "en": "{box:01}No one is left to wind the clock...{page}{end}",
+  "en": "{box:01}No one is left to{br}wind the clock...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -413,7 +413,7 @@
    "3F9E8"
   ],
   "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some scenery.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some scenery.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -424,7 +424,7 @@
    "3F9EC"
   ],
   "jp": "{box:01}誰がここで{br}ねていたのだろう。{page}{end}",
-  "en": "{box:01}Who used to sleep here, I wonder.{page}{end}",
+  "en": "{box:01}Who used to sleep{br}here, I wonder.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -434,7 +434,7 @@
    "3F9D0"
   ],
   "jp": "{box:01}20年いじょう{br}前のテレビだ。{page}{end}",
-  "en": "{box:01}A TV more than 20 years old.{page}{end}",
+  "en": "{box:01}A TV more than{br}20 years old.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    "3F9F4"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -465,7 +465,7 @@
    "3F9F0"
   ],
   "jp": "{box:01}置き物のように{br}レトロなテレビだ。{page}{end}",
-  "en": "{box:01}A retro TV, like an ornament.{page}{end}",
+  "en": "{box:01}A retro TV, like{br}an ornament.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -475,7 +475,7 @@
    "3F9F8"
   ],
   "jp": "{box:01}ブラウンかんが{br}まるいテレビだ。{page}{end}",
-  "en": "{box:01}A TV with a round picture tube.{page}{end}",
+  "en": "{box:01}A TV with a round{br}picture tube.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    "3FA08"
   ],
   "jp": "{box:01}ぶきみなけしきを{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of an eerie landscape.{page}{end}",
+  "en": "{box:01}A painting of an{br}eerie landscape.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -495,7 +495,7 @@
    "3FA0C"
   ],
   "jp": "{box:01}かなりよごれた{br}ベッドがある。{page}{end}",
-  "en": "{box:01}There's a really dirty bed.{page}{end}",
+  "en": "{box:01}There's a really{br}dirty bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    "3FA10"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テレビを見てる{br} ヒマなんか無いぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got no time to watch TV.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I've got no time{br}to watch TV.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -545,7 +545,7 @@
    "3FA28"
   ],
   "jp": "{box:01}老人の男の{br}絵がかけてある。{page}{box:00}{name:02}ジョージ{br}「このカオ、写真で{br} 見たことがある！{page}{box:00}{name:02}ジョージ{br}「アリギエリさんだ。{page}{box:00}{name:02}ジョージ{br}「…もしかしたら{br} 不老不死の儀式…{page}{box:00}{name:02}ジョージ{br}「ここでやったんじゃ{br} ないのか？」{page}{end}",
-  "en": "{box:01}A painting of an{br}old man hangs here.{page}{box:00}{name:02}George{br}I've seen this face in photos!{page}{box:00}{name:02}George{br}It's Alighieri-san.{page}{box:00}{name:02}George{br}...Maybe the ritual{br}for eternal life...{page}{box:00}{name:02}George{br}was held right here?{page}{end}",
+  "en": "{box:01}A painting of an{br}old man hangs here.{page}{box:00}{name:02}George{br}I've seen this{br}face in photos!{page}{box:00}{name:02}George{br}It's Alighieri-san.{page}{box:00}{name:02}George{br}...Maybe the ritual{br}for eternal life...{page}{box:00}{name:02}George{br}was held right here?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    "3FA2C"
   ],
   "jp": "{box:01}時計にメモが{br}はられている。{page}{box:01}『3次元は{br} まやかし』{page}{box:01}『2次元こそが{br} まことのすがた。{page}{box:01}『館のしゅじんに{br} 鏡をしめせ』{page}{box:00}{name:02}ジョージ{br}「館のしゅじんって{br} アリギエリさんか…」{page}{box:00}{name:02}ジョージ{br}「アリギエリさんに{br} 鏡…か」{page}{end}",
-  "en": "{box:01}A note is stuck to the clock.{page}{box:01}\"Three dimensions{br}are an illusion.{page}{box:01}\"Two dimensions{br}are the true form.{page}{box:01}\"Show the master of{br}the house a mirror.\"{page}{box:00}{name:02}George{br}The master of the{br}house... Alighieri-san?{page}{box:00}{name:02}George{br}A mirror for Alighieri-san, huh...{page}{end}",
+  "en": "{box:01}A note is stuck{br}to the clock.{page}{box:01}\"Three dimensions{br}are an illusion.{page}{box:01}\"Two dimensions{br}are the true form.{page}{box:01}\"Show the master of{br}the house a mirror.\"{page}{box:00}{name:02}George{br}The master of the{br}house... Alighieri-san?{page}{box:00}{name:02}George{br}A mirror for{br}Alighieri-san, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -579,7 +579,7 @@
    "3FA4C"
   ],
   "jp": "{box:01}時計にメモが{br}はられている。{page}{box:01}『3次元は{br} まやかし{page}{box:01}『2次元こそが{br} まことのすがた』{page}{end}",
-  "en": "{box:01}A note is stuck to the clock.{page}{box:01}\"Three dimensions{br}are an illusion.{page}{box:01}\"Two dimensions{br}are the true form.\"{page}{end}",
+  "en": "{box:01}A note is stuck{br}to the clock.{page}{box:01}\"Three dimensions{br}are an illusion.{page}{box:01}\"Two dimensions{br}are the true form.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -600,7 +600,7 @@
    "3FA50"
   ],
   "jp": "{box:01}死のつかいの{br}絵がかけてある。{page}{box:01}死のつかいは{br}わらっている…。{page}{box:00}{name:02}ジョージ{br}「…どことなく、{br} かなしそうだな…」{page}{end}",
-  "en": "{box:01}A painting of the messenger{br}of death hangs here.{page}{box:01}The messenger of{br}death is smiling...{page}{box:00}{name:02}George{br}...Somehow, he looks sad...{page}{end}",
+  "en": "{box:01}Here hangs a painting of{br}the messenger of death.{page}{box:01}The messenger of{br}death is smiling...{page}{box:00}{name:02}George{br}...Somehow, he looks sad...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -610,7 +610,7 @@
    "3FA54"
   ],
   "jp": "{box:01}時計にメモが{br}はられている。{page}{box:00}{name:02}ジョージ{br}「そんなことより{br} いそがないとな！」{page}{end}",
-  "en": "{box:01}A note is stuck to the clock.{page}{box:00}{name:02}George{br}Never mind that,{br}I've got to hurry!{page}{end}",
+  "en": "{box:01}A note is stuck{br}to the clock.{page}{box:00}{name:02}George{br}Never mind that,{br}I've got to hurry!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -620,7 +620,7 @@
    "3FA58"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「どう見ても{br} ゴミばこだ。{page}{box:00}{name:02}ジョージ{br}「手がかりは{br} ほしいけど…{page}{box:00}{name:02}ジョージ{br}「これをあさるのは{br} 気がすすまないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's a trash can, no question.{page}{box:00}{name:02}George{br}I could use a clue, but...{page}{box:00}{name:02}George{br}I don't feel like{br}digging through that.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a trash{br}can, no question.{page}{box:00}{name:02}George{br}I could use a clue, but...{page}{box:00}{name:02}George{br}I don't feel like{br}digging through that.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -640,7 +640,7 @@
    "3FA60"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's got a nice groove!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's got{br}a nice groove!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -660,7 +660,7 @@
    "3FA68"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's got a nice groove!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's got{br}a nice groove!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -690,7 +690,7 @@
    "3FBB0"
   ],
   "jp": "{box:01}いわゆるえんたく{br}と、いうヤツだ。{page}{end}",
-  "en": "{box:01}What you'd call a round table.{page}{end}",
+  "en": "{box:01}What you'd call{br}a round table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    "3FBBC"
   ],
   "jp": "{box:01}ルームランプが{br}たおれている。{page}{end}",
-  "en": "{box:01}A room lamp has fallen over.{page}{end}",
+  "en": "{box:01}A room lamp has{br}fallen over.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -755,7 +755,7 @@
    "3FA84"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「天才のずのうを{br} もってすれば、{page}{box:00}{name:02}ジョージ{br}「カンタンなはず{br} なんだが…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} かった事がない…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}With a genius brain like mine,{page}{box:00}{name:02}George{br}it ought to be easy, but...{page}{box:00}{name:02}George{br}somehow I've never{br}once beaten Alicia...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}With a genius{br}brain like mine,{page}{box:00}{name:02}George{br}it ought to be easy, but...{page}{box:00}{name:02}George{br}somehow I've never{br}once beaten Alicia...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -775,7 +775,7 @@
    "3FA8C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「天才のずのうを{br} もってすれば、{page}{box:00}{name:02}ジョージ{br}「カンタンなはず{br} なんだが…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} かった事がない…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}With a genius brain like mine,{page}{box:00}{name:02}George{br}it ought to be easy, but...{page}{box:00}{name:02}George{br}somehow I've never{br}once beaten Alicia...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}With a genius{br}brain like mine,{page}{box:00}{name:02}George{br}it ought to be easy, but...{page}{box:00}{name:02}George{br}somehow I've never{br}once beaten Alicia...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -814,7 +814,7 @@
    "3FAD8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「どう見ても{br} ゴミばこだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's a trash can, no question.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a trash{br}can, no question.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -824,7 +824,7 @@
    "3FA9C"
   ],
   "jp": "{box:01}ジュークボックスが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「使えるのか{br} これ…？」{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
-  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}Does this thing even work...?{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}Does this thing{br}even work...?{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -834,7 +834,7 @@
    "3FAA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's got a nice groove!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's got{br}a nice groove!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -854,7 +854,7 @@
    "3FAA8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This record's got a nice groove!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This record's got{br}a nice groove!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -874,7 +874,7 @@
    "3FAC4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} やられっぱなしだ。{page}{box:00}{name:02}ジョージ{br}「天才のオレが{br} かてないなんて…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}Somehow Alicia always beats me.{page}{box:00}{name:02}George{br}Me, a genius, and I can't win...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}Somehow Alicia{br}always beats me.{page}{box:00}{name:02}George{br}Me, a genius,{br}and I can't win...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -894,7 +894,7 @@
    "3FACC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} やられっぱなしだ。{page}{box:00}{name:02}ジョージ{br}「天才のオレが{br} かてないなんて…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}Somehow Alicia always beats me.{page}{box:00}{name:02}George{br}Me, a genius, and I can't win...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't have good{br}memories of billiards...{page}{box:00}{name:02}George{br}Somehow Alicia{br}always beats me.{page}{box:00}{name:02}George{br}Me, a genius,{br}and I can't win...{page}{box:00}{name:02}George{br}...Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -905,7 +905,7 @@
    "3FB14"
   ],
   "jp": "{box:01}ちくおんきが{br}なげ出されている。{page}{box:00}{name:02}ジョージ{br}「もってかえって{br} うりとばしたら、{page}{box:00}{name:02}ジョージ{br}「研究しきんの{br} 足しになるかな？」{page}{end}",
-  "en": "{box:01}A gramophone has{br}been tossed aside.{page}{box:00}{name:02}George{br}If I took it home and sold it,{page}{box:00}{name:02}George{br}would it help pay{br}for my research?{page}{end}",
+  "en": "{box:01}A gramophone has{br}been tossed aside.{page}{box:00}{name:02}George{br}If I took it home{br}and sold it,{page}{box:00}{name:02}George{br}would it help pay{br}for my research?{page}{end}",
   "status": "done",
   "notes": ""
  }

@@ -105,7 +105,7 @@
    "3DF30"
   ],
   "jp": "{box:01}よごれた絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A dirty painting is on display.{page}{end}",
+  "en": "{box:01}A dirty painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -115,7 +115,7 @@
    "3DF34"
   ],
   "jp": "{box:01}ホコリにまみれた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting caked in dust.{page}{end}",
+  "en": "{box:01}An oil painting{br}caked in dust.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -145,7 +145,7 @@
    "3DF40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、」{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで」{page}{box:00}{name:02}ジョージ{br}「かくにんできて、{br} オレのむいている」{page}{box:00}{name:02}ジョージ{br}「ほうこうもみぎの{br} コンパスに出る…」{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！」{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}with the START Button,{page}{box:00}{name:02}George{br}and the compass on the right{br}shows which way I'm facing...{page}{box:00}{name:02}George{br}Brilliant invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
+  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}with the START Button,{page}{box:00}{name:02}George{br}and the compass at right{br}shows which way I face...{page}{box:00}{name:02}George{br}Brilliant{br}invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -165,7 +165,7 @@
    "3DF48"
   ],
   "jp": "{box:01}ホコリがひどくて{br}絵が見えない。{page}{box:01}絵のわきに{br}メモを見つけた。{page}{box:00}{name:02}ジョージ{br}「うん？{br} …なになに？{page}{box:01}『COMBINEを{br} かつようすべし』{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} コマンドのことか？{page}{box:00}{name:02}ジョージ{br}「だれがこんな所に？」{page}{end}",
-  "en": "{box:01}It's too dusty to{br}see the painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Huh? ...Let's see...{page}{box:01}\"Make good use of COMBINE.\"{page}{box:00}{name:02}George{br}The command on{br}the START Button?{page}{box:00}{name:02}George{br}Who'd leave this here?{page}{end}",
+  "en": "{box:01}It's too dusty to{br}see the painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Huh? ...Let's see...{page}{box:01}\"Make good use{br}of COMBINE.\"{page}{box:00}{name:02}George{br}The command on{br}the START Button?{page}{box:00}{name:02}George{br}Who'd leave this here?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -185,7 +185,7 @@
    "3DF5C"
   ],
   "jp": "{box:01}ホコリがつもって{br}絵が見えない。{page}{box:00}{name:02}ジョージ{br}「後から館に{br} 来てしまう人に…{page}{box:00}{name:02}ジョージ{br}「オレのヒントを{br} 残していこう…」{page}{box:01}『COMBINEを{br} かつようすべし！』{page}{box:00}{name:02}ジョージ{br}「よし、メモったぞ！」{page}{end}",
-  "en": "{box:01}Dust has piled up; I{br}can't see the painting.{page}{box:00}{name:02}George{br}For anyone who wanders{br}into this house later...{page}{box:00}{name:02}George{br}I'll leave a hint of my own...{page}{box:01}\"Make good use of COMBINE!\"{page}{box:00}{name:02}George{br}There, noted!{page}{end}",
+  "en": "{box:01}Dust has piled up; I{br}can't see the painting.{page}{box:00}{name:02}George{br}For anyone who wanders{br}into this house later...{page}{box:00}{name:02}George{br}I'll leave a hint{br}of my own...{page}{box:01}\"Make good use{br}of COMBINE!\"{page}{box:00}{name:02}George{br}There, noted!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -195,7 +195,7 @@
    "3DF6C"
   ],
   "jp": "{box:01}えのぐのきいろが{br}あせている。{page}{end}",
-  "en": "{box:01}The yellow paint has faded.{page}{end}",
+  "en": "{box:01}The yellow paint{br}has faded.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -215,7 +215,7 @@
    "3DF80"
   ],
   "jp": "{box:01}えのぐのみどりが{br}あせている。{page}{end}",
-  "en": "{box:01}The green paint has faded.{page}{end}",
+  "en": "{box:01}The green paint{br}has faded.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -245,7 +245,7 @@
    "3DF98"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{box:01}絵のわきにメモを{br}見つけた。{page}{box:00}{name:02}ジョージ{br}「なになに？」{page}{box:01}『このフロアに{br} クリスタルがある』{page}{box:01}『見つけだせ』{page}{end}",
-  "en": "{box:01}A dust-covered oil painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"There is a Crystal{br}on this floor.{page}{box:01}\"Find it.\"{page}{end}",
+  "en": "{box:01}A dust-covered{br}oil painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"There is a Crystal{br}on this floor.{page}{box:01}\"Find it.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -315,7 +315,7 @@
    "3DFE4"
   ],
   "jp": "{box:01}シックな色の{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting in classy colors.{page}{end}",
+  "en": "{box:01}An oil painting{br}in classy colors.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    "3E014"
   ],
   "jp": "{box:01}どこかのたてもの{br}のあぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some building.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some building.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -385,7 +385,7 @@
    "3E018"
   ],
   "jp": "{box:01}つくえの上に絵が{br}かけられている。{page}{end}",
-  "en": "{box:01}A painting hangs above the desk.{page}{end}",
+  "en": "{box:01}A painting hangs{br}above the desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -395,7 +395,7 @@
    "3E01C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「チェックしてる{br} ばあいか？！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Is this really the time for that?!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Is this really the{br}time for that?!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    "3E02C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここを調べても{br} イミがないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's no point checking here.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's no point{br}checking here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    "3E030"
   ],
   "jp": "{box:01}たおれたイスが{br}ころがっている。{page}{end}",
-  "en": "{box:01}A fallen chair is lying around.{page}{end}",
+  "en": "{box:01}A fallen chair{br}is lying around.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -465,7 +465,7 @@
    "3E038"
   ],
   "jp": "{box:01}しょくたくの上を{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of a dinner table.{page}{end}",
+  "en": "{box:01}A painting of{br}a dinner table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    "3E0E8"
   ],
   "jp": "{box:01}めぼしい物は{br}見当たらない。{page}{end}",
-  "en": "{box:01}Nothing worth taking in sight.{page}{end}",
+  "en": "{box:01}Nothing worth{br}taking in sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -525,7 +525,7 @@
    "3E0EC"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -545,7 +545,7 @@
    "3E0F0"
   ],
   "jp": "{box:01}何も置かれて{br}いない…。{page}{end}",
-  "en": "{box:01}Nothing's been left here...{page}{end}",
+  "en": "{box:01}Nothing's been{br}left here...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -578,7 +578,7 @@
    "3E0C4"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "en": "{box:01}Part of the wall{br}has collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -589,7 +589,7 @@
    "3E0D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Did a ghost knock it down?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Did a ghost{br}knock it down?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -631,7 +631,7 @@
    "3E120"
   ],
   "jp": "{box:01}チェストの中に{br}ノートがあった。{page}{box:00}{name:02}ジョージ{br}「なんだこれ？{br} 読んでみるか…」{page}{box:01}『もし、ゴーストに{br} つかまってしまい、{page}{box:01}『ひょういされたら、{br} じゅうじボタンで{page}{box:01}『ゴーストを早く{br} ふりはらえる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}There was a notebook{br}in the chest.{page}{box:00}{name:02}George{br}What's this? Guess I'll read it...{page}{box:01}\"If a ghost catches you{page}{box:01}\"and possesses you,{br}use the Control Pad{page}{box:01}\"to shake the{br}ghost off faster.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}There was a notebook{br}in the chest.{page}{box:00}{name:02}George{br}What's this?{br}Guess I'll read it...{page}{box:01}\"If a ghost catches you{page}{box:01}\"and possesses you,{br}use the Control Pad{page}{box:01}\"to shake the{br}ghost off faster.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -673,7 +673,7 @@
    "3E10C"
   ],
   "jp": "{box:01}ひきだしがある。{page}{box:01}中にかみのけが{br}入っていた。{page}{box:00}{name:02}ジョージ{br}「うわっ！{br} なんだよこれ…」{page}{end}",
-  "en": "{box:01}There's a drawer.{page}{box:01}There was hair inside it.{page}{box:00}{name:02}George{br}Gah! What the heck is this...{page}{end}",
+  "en": "{box:01}There's a drawer.{page}{box:01}There was hair inside it.{page}{box:00}{name:02}George{br}Gah! What the{br}heck is this...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -694,7 +694,7 @@
    "422D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あと、ゴーストを{br} たいじするぶきも」{page}{box:00}{name:02}ジョージ{br}「オレさまの{br} はつめいだぜ！」{page}{box:00}{name:02}ジョージ{br}「その名も{br} サプレッサー！」{page}{box:00}{name:02}ジョージ{br}「あんまりとおくに{br} とどかないけど…」{page}{box:00}{name:02}ジョージ{br}「だいじょうぶ！{br} もんだいないさ！」{page}{box:00}{name:02}ジョージ{br}「…ひとりごとは{br} やめとこう…」{page}{box:00}{name:02}ジョージ{br}「とにかく出口を{br} さがさないとな！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Plus, my weapon for{br}wiping out ghosts{page}{box:00}{name:02}George{br}is my very own invention!{page}{box:00}{name:02}George{br}Its name? The Suppressor!{page}{box:00}{name:02}George{br}It doesn't reach very far, but...{page}{box:00}{name:02}George{br}It's fine! No problem at all!{page}{box:00}{name:02}George{br}...I should stop{br}talking to myself...{page}{box:00}{name:02}George{br}Anyway, I've got to find an exit!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Plus, my weapon for{br}wiping out ghosts{page}{box:00}{name:02}George{br}is my very own invention!{page}{box:00}{name:02}George{br}Its name? The{br}Suppressor!{page}{box:00}{name:02}George{br}It doesn't reach{br}very far, but...{page}{box:00}{name:02}George{br}It's fine! No{br}problem at all!{page}{box:00}{name:02}George{br}...I should stop{br}talking to myself...{page}{box:00}{name:02}George{br}Anyway, I've got{br}to find an exit!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -749,7 +749,7 @@
    "3E1E8"
   ],
   "jp": "{box:01}がたついていて{br}あけれない。{page}{end}",
-  "en": "{box:01}It's rattly, and I can't open it.{page}{end}",
+  "en": "{box:01}It's rattly, and{br}I can't open it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -770,7 +770,7 @@
    "3E144"
   ],
   "jp": "{box:01}チェストにメモが{br}残っていた。{page}{box:01}『ナイフとマッチで{br} ばくはつだ』{page}{box:00}{name:02}ジョージ{br}「なんだそりゃ？」{page}{end}",
-  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Knife plus Matches: kaboom.\"{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{end}",
+  "en": "{box:01}A note was left{br}in the chest.{page}{box:01}\"Knife plus{br}Matches: kaboom.\"{page}{box:00}{name:02}George{br}What's that{br}supposed to mean?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -814,7 +814,7 @@
    "3E208"
   ],
   "jp": "{box:01}ひきだしには{br}何もなかった。{page}{end}",
-  "en": "{box:01}There was nothing in the drawer.{page}{end}",
+  "en": "{box:01}There was nothing{br}in the drawer.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -825,7 +825,7 @@
    "3E20C"
   ],
   "jp": "{box:01}だれかの日記が{br}残されている。{page}{box:01}『館にあったハーブ{br} は4しゅるい。{page}{box:01}『バーベインに{br} アンジェリカ{page}{box:01}『カモミールに{br} フラックス…』{page}{box:00}{name:02}ジョージ{br}「なるほどな…」{page}{end}",
-  "en": "{box:01}Someone's diary was left behind.{page}{box:01}\"There are four kinds{br}of herbs in the house.{page}{box:01}\"Vervain and Angelica,{page}{box:01}\"Chamomile and Flax...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}Someone's diary{br}was left behind.{page}{box:01}\"There are four kinds{br}of herbs in the house.{page}{box:01}\"Vervain and Angelica,{page}{box:01}\"Chamomile and Flax...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -847,7 +847,7 @@
    "3E21C"
   ],
   "jp": "{box:01}チェストには{br}何もなかった。{page}{end}",
-  "en": "{box:01}There was nothing in the chest.{page}{end}",
+  "en": "{box:01}There was nothing{br}in the chest.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -857,7 +857,7 @@
    "3E16C"
   ],
   "jp": "{box:01}つくえにだれかの{br}ラクガキがあった。{page}{box:01}『エルダーのえだに{br} きよめたナイフ』{page}{box:00}{name:02}ジョージ{br}「なんのことだ？」{page}{end}",
-  "en": "{box:01}Someone scribbled on the desk.{page}{box:01}\"An Elder Branch and{br}a Purified Knife.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
+  "en": "{box:01}Someone scribbled{br}on the desk.{page}{box:01}\"An Elder Branch and{br}a Purified Knife.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -868,7 +868,7 @@
    "3E224"
   ],
   "jp": "{box:01}いやなニオイの{br}だんろだ。{page}{end}",
-  "en": "{box:01}A fireplace with a nasty smell.{page}{end}",
+  "en": "{box:01}A fireplace with{br}a nasty smell.{page}{end}",
   "status": "done",
   "notes": ""
  }

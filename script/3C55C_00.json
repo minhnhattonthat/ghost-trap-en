@@ -5,7 +5,7 @@
    "3C55C"
   ],
   "jp": "{box:01}りっぱながくに{br}おさまった絵だ。{page}{end}",
-  "en": "{box:01}A painting in a splendid frame.{page}{end}",
+  "en": "{box:01}A painting in a{br}splendid frame.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -25,7 +25,7 @@
    "3C564"
   ],
   "jp": "{box:01}どこかのたてもの{br}のあぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some building.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some building.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -35,7 +35,7 @@
    "3C568"
   ],
   "jp": "{box:01}つくえの上に絵が{br}かけられている。{page}{end}",
-  "en": "{box:01}A painting hangs above the desk.{page}{end}",
+  "en": "{box:01}A painting hangs{br}above the desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -45,7 +45,7 @@
    "3C56C"
   ],
   "jp": "{box:01}使えそうな物は{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here looks useful.{page}{end}",
+  "en": "{box:01}Nothing here{br}looks useful.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -55,7 +55,7 @@
    "3C570"
   ],
   "jp": "{box:01}よこだおしに{br}なったイスだ。{page}{end}",
-  "en": "{box:01}A chair tipped over on its side.{page}{end}",
+  "en": "{box:01}A chair tipped{br}over on its side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "3C574"
   ],
   "jp": "{box:01}おしゃべりをする{br}場所らしい。{page}{end}",
-  "en": "{box:01}Looks like a spot for chatting.{page}{end}",
+  "en": "{box:01}Looks like a spot{br}for chatting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -95,7 +95,7 @@
    "3C580"
   ],
   "jp": "{box:01}たおれたイスが{br}ころがっている。{page}{end}",
-  "en": "{box:01}A fallen chair is lying around.{page}{end}",
+  "en": "{box:01}A fallen chair{br}is lying around.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -115,7 +115,7 @@
    "3C588"
   ],
   "jp": "{box:01}しょくたくの上を{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of a dinner table.{page}{end}",
+  "en": "{box:01}A painting of{br}a dinner table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "3C590"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴースト！？{br} ここにもか！？」{page}{box:00}{name:05}？？？？{br}「その本にふれては{br} なりません。{page}{box:00}{name:05}？？？？{br}「このまま{br} 立ち去って下さい」{page}{box:00}{name:02}ジョージ{br}「オレたちだって{br} そうしたいさ。{page}{box:00}{name:02}ジョージ{br}「でも、この館に{br} とじこめられて…{page}{box:00}{name:02}ジョージ{br}「この本だけが{br} たよりなんだよ！{page}{box:00}{name:02}ジョージ{br}「そもそもこの館は{br} なんなんだ！？」{page}{box:00}{name:05}？？？？{br}「全ては私たちの{br} 過ちなのです…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A ghost!? Here too!?{page}{box:00}{name:05}????{br}You must not touch that book.{page}{box:00}{name:05}????{br}Please leave without{br}touching anything.{page}{box:00}{name:02}George{br}Believe me, we'd love to.{page}{box:00}{name:02}George{br}But we're trapped{br}in this mansion...{page}{box:00}{name:02}George{br}and this book is our only hope!{page}{box:00}{name:02}George{br}What IS this place, anyway!?{page}{box:00}{name:05}????{br}All of this is our fault...{page}{end}",
+  "en": "{box:00}{name:02}George{br}A ghost!? Here too!?{page}{box:00}{name:05}????{br}You must not{br}touch that book.{page}{box:00}{name:05}????{br}Please leave without{br}touching anything.{page}{box:00}{name:02}George{br}Believe me, we'd love to.{page}{box:00}{name:02}George{br}But we're trapped{br}in this mansion...{page}{box:00}{name:02}George{br}and this book is{br}our only hope!{page}{box:00}{name:02}George{br}What IS this{br}place, anyway!?{page}{box:00}{name:05}????{br}All of this is our fault...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -141,7 +141,7 @@
    "3C684"
   ],
   "jp": "{box:01}シートが{br}かけられている。{page}{box:00}{name:02}ジョージ{br}「この下に{br} なにが…？{page}{box:00}{name:02}ジョージ{br}「…いや、{br} やめとこう」{page}{end}",
-  "en": "{box:01}A sheet has been draped over it.{page}{box:00}{name:02}George{br}What's under here...?{page}{box:00}{name:02}George{br}...Nah, better not.{page}{end}",
+  "en": "{box:01}A sheet has been{br}draped over it.{page}{box:00}{name:02}George{br}What's under here...?{page}{box:00}{name:02}George{br}...Nah, better not.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -189,7 +189,7 @@
    "3C690"
   ],
   "jp": "{box:01}つくりかけのぞうが{br}いくつかある。{page}{box:00}{name:02}ジョージ{br}「これはちょっと{br} こわいな…」{page}{end}",
-  "en": "{box:01}Several half-finished statues.{page}{box:00}{name:02}George{br}These are kind of scary...{page}{end}",
+  "en": "{box:01}Several half-finished{br}statues.{page}{box:00}{name:02}George{br}These are kind of scary...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -205,7 +205,7 @@
    "3C694"
   ],
   "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「ぜんぶ黒くぬり{br} つぶされてるぞ」{page}{end}",
-  "en": "{box:01}A canvas leans against the wall.{page}{box:00}{name:02}George{br}It's been painted over{br}completely in black.{page}{end}",
+  "en": "{box:01}A canvas leans{br}against the wall.{page}{box:00}{name:02}George{br}It's been painted over{br}completely in black.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -237,7 +237,7 @@
    "3C69C"
   ],
   "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「クモのす{br} だらけだな」{page}{end}",
-  "en": "{box:01}A canvas leans against the wall.{page}{box:00}{name:02}George{br}It's covered in cobwebs.{page}{end}",
+  "en": "{box:01}A canvas leans{br}against the wall.{page}{box:00}{name:02}George{br}It's covered in cobwebs.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -269,7 +269,7 @@
    "3C6A4"
   ],
   "jp": "{box:01}たなはほとんど{br}からっぽだ。{page}{end}",
-  "en": "{box:01}The shelves are almost empty.{page}{end}",
+  "en": "{box:01}The shelves are{br}almost empty.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -281,7 +281,7 @@
    "3C6FC"
   ],
   "jp": "{box:01}シートが{br}かけられている。{page}{box:00}{name:02}ジョージ{br}「この下に{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「…いたら{br} こわいな…」{page}{end}",
-  "en": "{box:01}A sheet has been draped over it.{page}{box:00}{name:02}George{br}What if Alicia's under here...{page}{box:00}{name:02}George{br}...that'd be scary...{page}{end}",
+  "en": "{box:01}A sheet has been{br}draped over it.{page}{box:00}{name:02}George{br}What if Alicia's{br}under here...{page}{box:00}{name:02}George{br}...that'd be scary...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -293,7 +293,7 @@
    "3C700"
   ],
   "jp": "{box:01}小さな{br}ふうけいがだ。{page}{box:00}{name:02}ジョージ{br}「へいわそうで{br} ムカつくぜ」{page}{end}",
-  "en": "{box:01}A small landscape painting.{page}{box:00}{name:02}George{br}It looks so peaceful{br}it ticks me off.{page}{end}",
+  "en": "{box:01}A small landscape{br}painting.{page}{box:00}{name:02}George{br}It looks so peaceful{br}it ticks me off.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -305,7 +305,7 @@
    "3C704"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな{br} ガラクタ…{page}{box:00}{name:02}ジョージ{br}「かまってるヒマは{br} ないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't have time to mess around{page}{box:00}{name:02}George{br}with junk like this.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't have time{br}to mess around{page}{box:00}{name:02}George{br}with junk like this.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -317,7 +317,7 @@
    "3C708"
   ],
   "jp": "{box:01}つくりかけのぞうが{br}いくつかある。{page}{box:00}{name:02}ジョージ{br}「これはちょっと{br} こわいな…」{page}{end}",
-  "en": "{box:01}Several half-finished statues.{page}{box:00}{name:02}George{br}These are kind of scary...{page}{end}",
+  "en": "{box:01}Several half-finished{br}statues.{page}{box:00}{name:02}George{br}These are kind of scary...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -329,7 +329,7 @@
    "3C70C"
   ],
   "jp": "{box:01}黒くぬられた{br}キャンバスがある。{page}{box:00}{name:02}ジョージ{br}「なにがかいて{br} あったんだろう？」{page}{end}",
-  "en": "{box:01}A canvas painted black.{page}{box:00}{name:02}George{br}I wonder what was painted on it?{page}{end}",
+  "en": "{box:01}A canvas painted black.{page}{box:00}{name:02}George{br}I wonder what was{br}painted on it?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -353,7 +353,7 @@
    "3C714"
   ],
   "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「このおくに{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「いるわけ{br} ないよな…」{page}{end}",
-  "en": "{box:01}A canvas leans against the wall.{page}{box:00}{name:02}George{br}Alicia couldn't be behind it...{page}{box:00}{name:02}George{br}...right?{page}{end}",
+  "en": "{box:01}A canvas leans{br}against the wall.{page}{box:00}{name:02}George{br}Alicia couldn't{br}be behind it...{page}{box:00}{name:02}George{br}...right?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -377,7 +377,7 @@
    "3C71C"
   ],
   "jp": "{box:01}ほとんどカラの{br}たながある。{page}{box:00}{name:02}ジョージ{br}「たなをずらすと{br} かくしとびらが！{page}{box:00}{name:02}ジョージ{br}「…なさそう{br} だな…」{page}{end}",
-  "en": "{box:01}A nearly empty set of shelves.{page}{box:00}{name:02}George{br}Slide the shelves aside,{br}and a secret door!{page}{box:00}{name:02}George{br}...Doesn't look like it...{page}{end}",
+  "en": "{box:01}A nearly empty{br}set of shelves.{page}{box:00}{name:02}George{br}Slide the shelves aside,{br}and a secret door!{page}{box:00}{name:02}George{br}...Doesn't look like it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -393,7 +393,7 @@
    "3C7FC"
   ],
   "jp": "{box:01}できそこないの{br}ぞうなどがある。{page}{box:00}{name:02}ジョージ{br}「しんぞうに{br} わるいな…」{page}{end}",
-  "en": "{box:01}Botched statues and such.{page}{box:00}{name:02}George{br}These'll give me a heart attack...{page}{end}",
+  "en": "{box:01}Botched statues{br}and such.{page}{box:00}{name:02}George{br}These'll give me{br}a heart attack...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -409,7 +409,7 @@
    "3C800"
   ],
   "jp": "{box:01}大きめのたなが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「ほとんど{br} からっぽだ」{page}{end}",
-  "en": "{box:01}A fairly large set of shelves.{page}{box:00}{name:02}George{br}Almost completely empty.{page}{end}",
+  "en": "{box:01}A fairly large{br}set of shelves.{page}{box:00}{name:02}George{br}Almost completely empty.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -441,7 +441,7 @@
    "3C808"
   ],
   "jp": "{box:01}キャンバスが{br}おしこめてある。{page}{box:00}{name:02}ジョージ{br}「ひっぱり出して{br} 見てみよう…{page}{box:00}{name:02}ジョージ{br}「なんて気には{br} ならないな」{page}{end}",
-  "en": "{box:01}Canvases are crammed in here.{page}{box:00}{name:02}George{br}I could pull them out and look...{page}{box:00}{name:02}George{br}but I'm really not in the mood.{page}{end}",
+  "en": "{box:01}Canvases are{br}crammed in here.{page}{box:00}{name:02}George{br}I could pull them{br}out and look...{page}{box:00}{name:02}George{br}but I'm really{br}not in the mood.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -457,7 +457,7 @@
    "3C80C"
   ],
   "jp": "{box:01}絵がむぞうさに{br}ならべてある。{page}{box:00}{name:02}ジョージ{br}「くらくてよく{br} 見えないぞ。{page}{box:00}{name:02}ジョージ{br}「…別に{br} 見たくもないけど」{page}{end}",
-  "en": "{box:01}Paintings are lined{br}up carelessly.{page}{box:00}{name:02}George{br}It's too dark to see them well.{page}{box:00}{name:02}George{br}...Not that I want to.{page}{end}",
+  "en": "{box:01}Paintings are lined{br}up carelessly.{page}{box:00}{name:02}George{br}It's too dark to{br}see them well.{page}{box:00}{name:02}George{br}...Not that I want to.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -473,7 +473,7 @@
    "3C810"
   ],
   "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{end}",
-  "en": "{box:01}A canvas leans against the wall.{page}{end}",
+  "en": "{box:01}A canvas leans{br}against the wall.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -489,7 +489,7 @@
    "3C814"
   ],
   "jp": "{box:01}何かにぬのが{br}かぶさっている。{page}{box:00}{name:02}ジョージ{br}「なんでかくして{br} あるんだろう？」{page}{end}",
-  "en": "{box:01}Something is{br}covered with a cloth.{page}{box:00}{name:02}George{br}Why would someone hide it?{page}{end}",
+  "en": "{box:01}Something is{br}covered with a cloth.{page}{box:00}{name:02}George{br}Why would{br}someone hide it?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    "3C818"
   ],
   "jp": "{box:01}こまかいモノが{br}たくさんある。{page}{box:00}{name:02}ジョージ{br}「ゴミだな{br} これは…」{page}{end}",
-  "en": "{box:01}Lots of little knickknacks.{page}{box:00}{name:02}George{br}This is garbage...{page}{end}",
+  "en": "{box:01}Lots of little{br}knickknacks.{page}{box:00}{name:02}George{br}This is garbage...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -521,7 +521,7 @@
    "3C81C"
   ],
   "jp": "{box:01}小さな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A small painting is on display.{page}{end}",
+  "en": "{box:01}A small painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -533,7 +533,7 @@
    "3C868"
   ],
   "jp": "{box:01}できそこないの{br}ぞうなどがある。{page}{box:00}{name:02}ジョージ{br}「アリシアがロウ{br} 人形にされて…{page}{box:00}{name:02}ジョージ{br}「…たりする{br} わけはないぞ」{page}{end}",
-  "en": "{box:01}Botched statues and such.{page}{box:00}{name:02}George{br}Alicia turned into a wax doll...{page}{box:00}{name:02}George{br}...No way. Not happening.{page}{end}",
+  "en": "{box:01}Botched statues{br}and such.{page}{box:00}{name:02}George{br}Alicia turned{br}into a wax doll...{page}{box:00}{name:02}George{br}...No way. Not happening.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -545,7 +545,7 @@
    "3C86C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このたなのウラが{br} あやしい！{page}{box:00}{name:02}ジョージ{br}「…と思ったけど{br} 何もないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Something's fishy{br}behind these shelves!{page}{box:00}{name:02}George{br}...Or so I thought. Nothing here...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Something's fishy{br}behind these shelves!{page}{box:00}{name:02}George{br}...Or so I thought.{br}Nothing here...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -569,7 +569,7 @@
    "3C874"
   ],
   "jp": "{box:01}キャンバスが{br}おしこめてある。{page}{box:00}{name:02}ジョージ{br}「ここに人を{br} かくすのは…{page}{box:00}{name:02}ジョージ{br}「ぜったいに{br} ムリだな」{page}{end}",
-  "en": "{box:01}Canvases are crammed in here.{page}{box:00}{name:02}George{br}No way you could hide{page}{box:00}{name:02}George{br}a person in here.{page}{end}",
+  "en": "{box:01}Canvases are{br}crammed in here.{page}{box:00}{name:02}George{br}No way you could hide{page}{box:00}{name:02}George{br}a person in here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    "3C880"
   ],
   "jp": "{box:01}何かにぬのが{br}かぶさっている。{page}{box:00}{name:02}ジョージ{br}「ぬのの上は{br} ホコリだらけだ。{page}{box:00}{name:02}ジョージ{br}「うごかした{br} あとがない。{page}{box:00}{name:02}ジョージ{br}「つまりアリシアは{br} ここにはいない」{page}{end}",
-  "en": "{box:01}Something is{br}covered with a cloth.{page}{box:00}{name:02}George{br}The cloth is covered in dust.{page}{box:00}{name:02}George{br}Nobody's moved it.{page}{box:00}{name:02}George{br}So Alicia isn't here.{page}{end}",
+  "en": "{box:01}Something is{br}covered with a cloth.{page}{box:00}{name:02}George{br}The cloth is{br}covered in dust.{page}{box:00}{name:02}George{br}Nobody's moved it.{page}{box:00}{name:02}George{br}So Alicia isn't here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -617,7 +617,7 @@
    "3C884"
   ],
   "jp": "{box:01}こまかいモノが{br}たくさんある。{page}{box:00}{name:02}ジョージ{br}「ジャマだぞ{br} これ…」{page}{end}",
-  "en": "{box:01}Lots of little knickknacks.{page}{box:00}{name:02}George{br}These are in the way...{page}{end}",
+  "en": "{box:01}Lots of little{br}knickknacks.{page}{box:00}{name:02}George{br}These are in the way...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -629,7 +629,7 @@
    "3C888"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシアが{br} 好きそうな絵だ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Alicia would like this painting.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Alicia would like{br}this painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -723,7 +723,7 @@
    "3C910"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「高そうな{br} あぶら絵だな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like a pricey oil painting.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like a{br}pricey oil painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -758,7 +758,7 @@
    "3C9A0"
   ],
   "jp": "{box:01}とくに目をひく{br}モノはない。{page}{end}",
-  "en": "{box:01}Nothing here catches the eye.{page}{end}",
+  "en": "{box:01}Nothing here{br}catches the eye.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -774,7 +774,7 @@
    "3C9A4"
   ],
   "jp": "{box:01}カラのカゴが{br}置いてある。{page}{end}",
-  "en": "{box:01}An empty basket sits here.{page}{end}",
+  "en": "{box:01}An empty basket{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -806,7 +806,7 @@
    "3C99C"
   ],
   "jp": "{box:01}かべが少し{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall has crumbled a little.{page}{end}",
+  "en": "{box:01}The wall has{br}crumbled a little.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -894,7 +894,7 @@
    "3C9DC"
   ],
   "jp": "{box:01}かべが少し{br}こわれている。{page}{box:00}{name:02}ジョージ{br}「でかいネズミが{br} くいやぶった…{page}{box:00}{name:02}ジョージ{br}「…まさかな」{page}{end}",
-  "en": "{box:01}The wall is a little broken.{page}{box:00}{name:02}George{br}A giant rat chewed through it...{page}{box:00}{name:02}George{br}...nah, couldn't be.{page}{end}",
+  "en": "{box:01}The wall is a little broken.{page}{box:00}{name:02}George{br}A giant rat chewed{br}through it...{page}{box:00}{name:02}George{br}...nah, couldn't be.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -904,7 +904,7 @@
    "3C9E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「薬ビンがいろいろ{br} あるな。{page}{box:00}{name:02}ジョージ{br}「でも薬はオレの{br} せんもんがいだぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Lots of medicine bottles here.{page}{box:00}{name:02}George{br}But medicine isn't{br}exactly my specialty.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Lots of medicine{br}bottles here.{page}{box:00}{name:02}George{br}But medicine isn't{br}exactly my specialty.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -920,7 +920,7 @@
    "3CA44"
   ],
   "jp": "{box:01}ダンボールばこが{br}置かれている。{page}{end}",
-  "en": "{box:01}A cardboard box sits here.{page}{end}",
+  "en": "{box:01}A cardboard{br}box sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -966,7 +966,7 @@
    "3CA40"
   ],
   "jp": "{box:01}薬のビンが{br}いろいろある。{page}{end}",
-  "en": "{box:01}All kinds of medicine bottles.{page}{end}",
+  "en": "{box:01}All kinds of{br}medicine bottles.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -977,7 +977,7 @@
    "3CA5C"
   ],
   "jp": "{box:01}かべが少し{br}こわれている。{page}{box:00}{name:02}ジョージ{br}「このおくに{br} ひみつのつうろ！{page}{box:00}{name:02}ジョージ{br}「…はないみたい{br} だな…」{page}{end}",
-  "en": "{box:01}The wall is a little broken.{page}{box:00}{name:02}George{br}A secret passage behind it!{page}{box:00}{name:02}George{br}...Guess not...{page}{end}",
+  "en": "{box:01}The wall is a little broken.{page}{box:00}{name:02}George{br}A secret passage{br}behind it!{page}{box:00}{name:02}George{br}...Guess not...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -988,7 +988,7 @@
    "3CA60"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「マジでニトロが{br} ほしいぞ。{page}{box:00}{name:02}ジョージ{br}「アリシアさえ{br} 見つかったら…{page}{box:00}{name:02}ジョージ{br}「こんな館{br} ふっとばしてやる」{page}{end}",
-  "en": "{box:01}Medicine bottles in a row.{page}{box:00}{name:02}George{br}I could seriously use some nitro.{page}{box:00}{name:02}George{br}Once I find Alicia...{page}{box:00}{name:02}George{br}I'll blow this mansion sky-high.{page}{end}",
+  "en": "{box:01}Medicine bottles in a row.{page}{box:00}{name:02}George{br}I could seriously{br}use some nitro.{page}{box:00}{name:02}George{br}Once I find Alicia...{page}{box:00}{name:02}George{br}I'll blow this{br}mansion sky-high.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -999,7 +999,7 @@
    "3CA64"
   ],
   "jp": "{box:01}かるそうなハコが{br}置いてある。{page}{end}",
-  "en": "{box:01}A light-looking box sits here.{page}{end}",
+  "en": "{box:01}A light-looking{br}box sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1010,7 +1010,7 @@
    "3CA68"
   ],
   "jp": "{box:01}ごちゃごちゃと{br}物がある。{page}{end}",
-  "en": "{box:01}Stuff is piled up in a jumble.{page}{end}",
+  "en": "{box:01}Stuff is piled{br}up in a jumble.{page}{end}",
   "status": "done",
   "notes": ""
  },

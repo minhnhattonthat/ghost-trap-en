@@ -5,7 +5,7 @@
    "3E174"
   ],
   "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『しっぷ薬を{br} つくるには、{page}{box:01}『ぬり薬とほうたい{br} がひつようだ』{page}{end}",
-  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"To make a Poultice,{page}{box:01}\"you need Ointment{br}and a Bandage.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the shelf.{page}{box:01}\"To make a Poultice,{page}{box:01}\"you need Ointment{br}and a Bandage.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -47,7 +47,7 @@
    "3E18C"
   ],
   "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{box:00}{name:02}ジョージ{br}「？？？{br} なんだろう？」{page}{end}",
-  "en": "{box:01}I found some scribbling.{page}{box:01}\"Put a stone in the Glass Jar.\"{page}{box:00}{name:02}George{br}??? What could that mean?{page}{end}",
+  "en": "{box:01}I found some scribbling.{page}{box:01}\"Put a stone in{br}the Glass Jar.\"{page}{box:00}{name:02}George{br}??? What could{br}that mean?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -80,7 +80,7 @@
    "3E24C"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -102,7 +102,7 @@
    "3E254"
   ],
   "jp": "{box:01}めぼしいモノは{br}なかった。{page}{end}",
-  "en": "{box:01}There was nothing worth taking.{page}{end}",
+  "en": "{box:01}There was nothing{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -135,7 +135,7 @@
    "3E268"
   ],
   "jp": "{box:01}つくえには何も{br}のっていない。{page}{end}",
-  "en": "{box:01}There's nothing on the desk.{page}{end}",
+  "en": "{box:01}There's nothing{br}on the desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -168,7 +168,7 @@
    "3E274"
   ],
   "jp": "{box:01}ひきだしの中に{br}何もなかった。{page}{end}",
-  "en": "{box:01}There was nothing in the drawer.{page}{end}",
+  "en": "{box:01}There was nothing{br}in the drawer.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -189,7 +189,7 @@
    "3E1D4"
   ],
   "jp": "{box:01}チェストにメモが{br}残されていた。{page}{box:01}『気つけなんこうは{br} のみ薬とぬり薬』{page}{box:00}{name:02}ジョージ{br}「薬のしょほう{br} せんだな」{page}{end}",
-  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Reviving Salve: a{br}Potion and Ointment.\"{page}{box:00}{name:02}George{br}Some kind of prescription.{page}{end}",
+  "en": "{box:01}A note was left{br}in the chest.{page}{box:01}\"Reviving Salve: a{br}Potion and Ointment.\"{page}{box:00}{name:02}George{br}Some kind of{br}prescription.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -199,7 +199,7 @@
    "3E1F8"
   ],
   "jp": "{box:01}『おまえの命は{br} あとわずか』{page}{box:01}そう、書かれた{br}紙きれがあった。{page}{end}",
-  "en": "{box:01}\"You don't have long to live.\"{page}{box:01}That's what the{br}scrap of paper said.{page}{end}",
+  "en": "{box:01}\"You don't have{br}long to live.\"{page}{box:01}That's what the{br}scrap of paper said.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -209,7 +209,7 @@
    "3E220"
   ],
   "jp": "{box:01}つくえにこどもの{br}ラクガキがある。{page}{box:01}『ジョージは{br} もうだめだ』{page}{end}",
-  "en": "{box:01}A child's scribble is on the desk.{page}{box:01}\"George is done for.\"{page}{end}",
+  "en": "{box:01}A child's scribble{br}is on the desk.{page}{box:01}\"George is done for.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -219,7 +219,7 @@
    "3E228"
   ],
   "jp": "{box:01}たなにメモが{br}残っている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ』{page}{end}",
-  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the shelf.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -239,7 +239,7 @@
    "3E240"
   ],
   "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『アタノールつぼに{br} Nリキッド』{page}{box:00}{name:02}ジョージ{br}「何かのレシピ{br} だな…」{page}{end}",
-  "en": "{box:01}I found some scribbling.{page}{box:01}\"N Liquid in the Athanor Jar.\"{page}{box:00}{name:02}George{br}Some kind of recipe...{page}{end}",
+  "en": "{box:01}I found some scribbling.{page}{box:01}\"N Liquid in the{br}Athanor Jar.\"{page}{box:00}{name:02}George{br}Some kind of recipe...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -378,7 +378,7 @@
    "3E2B4"
   ],
   "jp": "{box:01}りっぱなだんろが{br}ある。{page}{end}",
-  "en": "{box:01}There's a grand fireplace.{page}{end}",
+  "en": "{box:01}There's a grand{br}fireplace.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -458,7 +458,7 @@
    "3E2E8"
   ],
   "jp": "{box:01}石こうのぞうが{br}のっている。{page}{end}",
-  "en": "{box:01}A plaster statue sits on top.{page}{end}",
+  "en": "{box:01}A plaster statue{br}sits on top.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -498,7 +498,7 @@
    "3E308"
   ],
   "jp": "{box:01}白いオブジェが{br}のっている。{page}{end}",
-  "en": "{box:01}A white ornament sits on top.{page}{end}",
+  "en": "{box:01}A white ornament{br}sits on top.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -508,7 +508,7 @@
    "3E314"
   ],
   "jp": "{box:01}大きなだんろが{br}置かれている。{page}{end}",
-  "en": "{box:01}A big fireplace stands here.{page}{end}",
+  "en": "{box:01}A big fireplace{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -518,7 +518,7 @@
    "3E318"
   ],
   "jp": "{box:01}小さいテーブルは{br}ボロボロだ。{page}{end}",
-  "en": "{box:01}The little table is falling apart.{page}{end}",
+  "en": "{box:01}The little table{br}is falling apart.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -568,7 +568,7 @@
    "3E338"
   ],
   "jp": "{box:01}つくえには{br}何もなかった。{page}{end}",
-  "en": "{box:01}There was nothing on the desk.{page}{end}",
+  "en": "{box:01}There was nothing{br}on the desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -598,7 +598,7 @@
    "3E348"
   ],
   "jp": "{box:01}白いちょうこくが{br}のっている。{page}{end}",
-  "en": "{box:01}A white sculpture sits on top.{page}{end}",
+  "en": "{box:01}A white sculpture{br}sits on top.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -608,7 +608,7 @@
    "3E354"
   ],
   "jp": "{box:01}よごれただんろが{br}置かれている。{page}{end}",
-  "en": "{box:01}A dirty fireplace stands here.{page}{end}",
+  "en": "{box:01}A dirty fireplace{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -618,7 +618,7 @@
    "3E358"
   ],
   "jp": "{box:01}ボロボロのかぐが{br}置かれている。{page}{end}",
-  "en": "{box:01}Battered furniture sits here.{page}{end}",
+  "en": "{box:01}Battered furniture{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -648,7 +648,7 @@
    "3E368"
   ],
   "jp": "{box:01}人のかおの{br}ちょうこくだ。{page}{end}",
-  "en": "{box:01}A sculpture of a human face.{page}{end}",
+  "en": "{box:01}A sculpture of{br}a human face.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -678,7 +678,7 @@
    "3E37C"
   ],
   "jp": "{box:01}すわる者もいない{br}古いソファだ。{page}{end}",
-  "en": "{box:01}An old sofa no one sits on.{page}{end}",
+  "en": "{box:01}An old sofa no{br}one sits on.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -718,7 +718,7 @@
    "3E398"
   ],
   "jp": "{box:01}小さなつくえに{br}むかう者はいない。{page}{end}",
-  "en": "{box:01}No one sits at the little desk.{page}{end}",
+  "en": "{box:01}No one sits at{br}the little desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -738,7 +738,7 @@
    "3E3A4"
   ],
   "jp": "{box:01}ゴミのつまった{br}ひきだしだ。{page}{end}",
-  "en": "{box:01}A drawer stuffed with trash.{page}{end}",
+  "en": "{box:01}A drawer stuffed{br}with trash.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -768,7 +768,7 @@
    "3E3B8"
   ],
   "jp": "{box:01}つくえを使う人は{br}もういない…。{page}{end}",
-  "en": "{box:01}No one uses the desk anymore...{page}{end}",
+  "en": "{box:01}No one uses the{br}desk anymore...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -778,7 +778,7 @@
    "3E3BC"
   ],
   "jp": "{box:01}ソファを使う人は{br}もういない…。{page}{end}",
-  "en": "{box:01}No one uses the sofa anymore...{page}{end}",
+  "en": "{box:01}No one uses the{br}sofa anymore...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -788,7 +788,7 @@
    "3E3C4"
   ],
   "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall is broken and crumbling.{page}{end}",
+  "en": "{box:01}The wall is broken{br}and crumbling.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -928,7 +928,7 @@
    "3E3FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Did a ghost knock this down?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Did a ghost{br}knock this down?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -938,7 +938,7 @@
    "3E418"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "en": "{box:01}Part of the wall{br}has collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -948,7 +948,7 @@
    "3E434"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はでにこわれて{br} いるなぁ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Wow, that's really smashed up...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Wow, that's really{br}smashed up...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -958,7 +958,7 @@
    "3E450"
   ],
   "jp": "{box:01}かべの中には{br}何もない。{page}{end}",
-  "en": "{box:01}There's nothing inside the wall.{page}{end}",
+  "en": "{box:01}There's nothing{br}inside the wall.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1138,7 +1138,7 @@
    "3E510"
   ],
   "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall is broken and crumbling.{page}{end}",
+  "en": "{box:01}The wall is broken{br}and crumbling.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1158,7 +1158,7 @@
    "3E548"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Did a ghost knock this down?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Did a ghost{br}knock this down?{page}{end}",
   "status": "done",
   "notes": ""
  }

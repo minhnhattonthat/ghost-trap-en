@@ -15,7 +15,7 @@
    "3F148"
   ],
   "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the barrel.{page}{end}",
+  "en": "{box:01}There's nothing{br}in the barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -37,7 +37,7 @@
    "3F170"
   ],
   "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
-  "en": "{box:01}Broken things are stacked up.{page}{end}",
+  "en": "{box:01}Broken things{br}are stacked up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -48,7 +48,7 @@
    "3F174"
   ],
   "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
-  "en": "{box:01}Nothing but stuff nobody needs.{page}{end}",
+  "en": "{box:01}Nothing but stuff{br}nobody needs.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -59,7 +59,7 @@
    "3F178"
   ],
   "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
-  "en": "{box:01}There's a closet.{page}{box:01}But there was nothing inside.{page}{end}",
+  "en": "{box:01}There's a closet.{page}{box:01}But there was{br}nothing inside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -99,7 +99,7 @@
    "3F188"
   ],
   "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in this barrel.{page}{end}",
+  "en": "{box:01}There's nothing{br}in this barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -110,7 +110,7 @@
    "3F1AC"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -132,7 +132,7 @@
    "3F1B4"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -153,7 +153,7 @@
    "3F1A4"
   ],
   "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
-  "en": "{box:01}A broken barrel sits here.{page}{end}",
+  "en": "{box:01}A broken barrel{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -173,7 +173,7 @@
    "3F1C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's one well-aged barrel.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's one{br}well-aged barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -213,7 +213,7 @@
    "3F1D4"
   ],
   "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
-  "en": "{box:01}There's nothing here but junk.{page}{end}",
+  "en": "{box:01}There's nothing{br}here but junk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -223,7 +223,7 @@
    "3F1D8"
   ],
   "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
-  "en": "{box:01}There's a closet in the wall.{page}{box:01}But nothing in it was any use.{page}{end}",
+  "en": "{box:01}There's a closet{br}in the wall.{page}{box:01}But nothing in{br}it was any use.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -233,7 +233,7 @@
    "3F1E4"
   ],
   "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
-  "en": "{box:01}Barrels full of wine, maybe?{page}{end}",
+  "en": "{box:01}Barrels full of{br}wine, maybe?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -244,7 +244,7 @@
    "3F208"
   ],
   "jp": "{box:01}木ばこなどの{br}ガラクタだ。{page}{end}",
-  "en": "{box:01}Wooden crates and other junk.{page}{end}",
+  "en": "{box:01}Wooden crates{br}and other junk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -278,7 +278,7 @@
    "3F294"
   ],
   "jp": "{box:01}何かをほかん{br}しているようだ。{page}{box:01}ひどいニオイが{br}立ちこめている。{page}{box:01}あけないほうが{br}よさそうだ。{page}{end}",
-  "en": "{box:01}Looks like something's{br}being stored here.{page}{box:01}A horrible smell hangs in the air.{page}{box:01}Better not open it.{page}{end}",
+  "en": "{box:01}Looks like something's{br}being stored here.{page}{box:01}A horrible smell{br}hangs in the air.{page}{box:01}Better not open it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -288,7 +288,7 @@
    "3F1F8"
   ],
   "jp": "{box:01}たるがつまれて{br}置かれている。{page}{end}",
-  "en": "{box:01}Barrels are stacked here.{page}{end}",
+  "en": "{box:01}Barrels are{br}stacked here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -306,7 +306,7 @@
    "3F2FC"
   ],
   "jp": "{box:01}カラの木ばこしか{br}ないようだ。{page}{end}",
-  "en": "{box:01}Looks like only empty crates.{page}{end}",
+  "en": "{box:01}Looks like only{br}empty crates.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -334,7 +334,7 @@
    "3F204"
   ],
   "jp": "{box:01}大きなたるが{br}つまれている。{page}{end}",
-  "en": "{box:01}Big barrels are stacked up.{page}{end}",
+  "en": "{box:01}Big barrels are{br}stacked up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -398,7 +398,7 @@
    "3F254"
   ],
   "jp": "{box:01}とびらの中は{br}物置だ。{page}{box:01}物置の中は{br}カラッポだった…。{page}{end}",
-  "en": "{box:01}Behind the door is a storeroom.{page}{box:01}The storeroom was empty...{page}{end}",
+  "en": "{box:01}Behind the door{br}is a storeroom.{page}{box:01}The storeroom{br}was empty...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -418,7 +418,7 @@
    "3F244"
   ],
   "jp": "{box:01}ずいぶんと古い{br}たるがある。{page}{end}",
-  "en": "{box:01}There's a really old barrel.{page}{end}",
+  "en": "{box:01}There's a really{br}old barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -428,7 +428,7 @@
    "3F258"
   ],
   "jp": "{box:01}ボロボロのたるが{br}置かれている。{page}{end}",
-  "en": "{box:01}A battered barrel sits here.{page}{end}",
+  "en": "{box:01}A battered{br}barrel sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -460,7 +460,7 @@
    "3F28C"
   ],
   "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
-  "en": "{box:01}Broken things are stacked up.{page}{end}",
+  "en": "{box:01}Broken things{br}are stacked up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -471,7 +471,7 @@
    "3F290"
   ],
   "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
-  "en": "{box:01}Nothing but stuff nobody needs.{page}{end}",
+  "en": "{box:01}Nothing but stuff{br}nobody needs.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -481,7 +481,7 @@
    "3F274"
   ],
   "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
-  "en": "{box:01}There's a closet.{page}{box:01}But there was nothing inside.{page}{end}",
+  "en": "{box:01}There's a closet.{page}{box:01}But there was{br}nothing inside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -491,7 +491,7 @@
    "3F278"
   ],
   "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the barrel.{page}{end}",
+  "en": "{box:01}There's nothing{br}in the barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -532,7 +532,7 @@
    "3F2C8"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -554,7 +554,7 @@
    "3F2D0"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -575,7 +575,7 @@
    "3F2B8"
   ],
   "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in this barrel.{page}{end}",
+  "en": "{box:01}There's nothing{br}in this barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -585,7 +585,7 @@
    "3F2C4"
   ],
   "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
-  "en": "{box:01}A broken barrel sits here.{page}{end}",
+  "en": "{box:01}A broken barrel{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    "3F2E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's one well-aged barrel.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's one{br}well-aged barrel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -635,7 +635,7 @@
    "3F2F0"
   ],
   "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
-  "en": "{box:01}There's nothing here but junk.{page}{end}",
+  "en": "{box:01}There's nothing{br}here but junk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -645,7 +645,7 @@
    "3F2F4"
   ],
   "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
-  "en": "{box:01}There's a closet in the wall.{page}{box:01}But nothing in it was any use.{page}{end}",
+  "en": "{box:01}There's a closet{br}in the wall.{page}{box:01}But nothing in{br}it was any use.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -665,7 +665,7 @@
    "3F304"
   ],
   "jp": "{box:01}ビデオデッキ{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「これはまだ{br} 使えそうだな…」{page}{end}",
-  "en": "{box:01}A VCR sits here.{page}{box:00}{name:02}George{br}This still looks like it works...{page}{end}",
+  "en": "{box:01}A VCR sits here.{page}{box:00}{name:02}George{br}This still looks{br}like it works...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -682,7 +682,7 @@
    "3F420"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビデオテープを{br} 見てみよう…」{page}{box:00}{name:02}ジョージ{br}「…おっ！{br} テレビが写った！」{page}{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Let's watch the videotape...{page}{box:00}{name:02}George{br}...Oh! The TV's showing something!{page}{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's doing something{br}at the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Let's watch the{br}videotape...{page}{box:00}{name:02}George{br}...Oh! The TV's{br}showing something!{page}{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's fiddling with{br}the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -702,7 +702,7 @@
    "3F310"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テレビは{br} 生きてるけど…{page}{box:00}{name:02}ジョージ{br}「アンテナがダメ{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「ビデオなら{br} 写りそうだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The TV works, but...{page}{box:00}{name:02}George{br}looks like the antenna's shot.{page}{box:00}{name:02}George{br}A video would{br}probably play, though.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The TV works, but...{page}{box:00}{name:02}George{br}looks like the{br}antenna's shot.{page}{box:00}{name:02}George{br}A video would{br}probably play, though.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -712,7 +712,7 @@
    "3F314"
   ],
   "jp": "{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
-  "en": "{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's doing something{br}at the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
+  "en": "{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's fiddling with{br}the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -722,7 +722,7 @@
    "3F318"
   ],
   "jp": "{box:01}がくぶちだけが{br}かかっている。{page}{box:00}{name:02}ジョージ{br}「絵は{br} どうしたんだ？」{page}{end}",
-  "en": "{box:01}Only an empty frame hangs here.{page}{box:00}{name:02}George{br}What happened to the painting?{page}{end}",
+  "en": "{box:01}Only an empty{br}frame hangs here.{page}{box:00}{name:02}George{br}What happened{br}to the painting?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -756,7 +756,7 @@
    "3F438"
   ],
   "jp": "{box:01}大きなたなが{br}ならんでいる。{page}{end}",
-  "en": "{box:01}Big shelves stand in a row.{page}{end}",
+  "en": "{box:01}Big shelves{br}stand in a row.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -773,7 +773,7 @@
    "3F43C"
   ],
   "jp": "{box:01}かざりけの多い{br}本だながある。{page}{box:01}オカルトの本が{br}入っている。{page}{box:00}{name:02}ジョージ{br}「お！めずらしく{br} 英語の本だ！{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『やさしい魔道書{br} こども用{page}{box:01}『魔道書はグリモア{br} とよばれます』{page}{box:00}{name:02}ジョージ{br}「知ってるコト{br} ばっかりだな…」{page}{end}",
-  "en": "{box:01}There's a fancy bookshelf.{page}{box:01}It holds occult books.{page}{box:00}{name:02}George{br}Oh! A book in English, for once!{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Grimoires Made Easy, for Kids{page}{box:01}\"A book of magic is{br}called a grimoire.\"{page}{box:00}{name:02}George{br}I knew all that already...{page}{end}",
+  "en": "{box:01}There's a fancy{br}bookshelf.{page}{box:01}It holds occult books.{page}{box:00}{name:02}George{br}Oh! A book in{br}English, for once!{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Grimoires Made{br}Easy, for Kids{page}{box:01}\"A book of magic is{br}called a grimoire.\"{page}{box:00}{name:02}George{br}I knew all that already...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -793,7 +793,7 @@
    "3F334"
   ],
   "jp": "{box:01}だんろがある。{page}{box:00}{name:02}ジョージ{br}「えんとつが{br} ふさがってる。{page}{box:00}{name:02}ジョージ{br}「だんろとしては{br} 使えないぞ」{page}{end}",
-  "en": "{box:01}There's a fireplace.{page}{box:00}{name:02}George{br}The chimney's blocked.{page}{box:00}{name:02}George{br}It's useless as a fireplace.{page}{end}",
+  "en": "{box:01}There's a fireplace.{page}{box:00}{name:02}George{br}The chimney's blocked.{page}{box:00}{name:02}George{br}It's useless{br}as a fireplace.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -826,7 +826,7 @@
    "3F3B8"
   ],
   "jp": "{box:01}がくぶちだけ{br}かけられている。{page}{end}",
-  "en": "{box:01}Only an empty frame hangs here.{page}{end}",
+  "en": "{box:01}Only an empty{br}frame hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -848,7 +848,7 @@
    "3F3AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えない{br} だんろだ。{page}{box:00}{name:02}ジョージ{br}「えんとつを{br} ふさいである」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A useless fireplace.{page}{box:00}{name:02}George{br}The chimney's been blocked off.{page}{end}",
+  "en": "{box:00}{name:02}George{br}A useless fireplace.{page}{box:00}{name:02}George{br}The chimney's{br}been blocked off.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -863,7 +863,7 @@
    "3F428"
   ],
   "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
-  "en": "{box:01}There's a TV that shows nothing.{page}{end}",
+  "en": "{box:01}There's a TV that{br}shows nothing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -878,7 +878,7 @@
    "3F42C"
   ],
   "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
-  "en": "{box:01}There's a TV that shows nothing.{page}{end}",
+  "en": "{box:01}There's a TV that{br}shows nothing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -923,7 +923,7 @@
    "3F3E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵に手がかりでも{br} 書いてあるんなら、{page}{box:00}{name:02}ジョージ{br}「いくらでも{br} 見るけど…{page}{box:00}{name:02}ジョージ{br}「イミないから{br} 早く行こう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}If the painting had{br}some clue written on it,{page}{box:00}{name:02}George{br}I'd look all day, but...{page}{box:00}{name:02}George{br}it's pointless, so let's move.{page}{end}",
+  "en": "{box:00}{name:02}George{br}If the painting had{br}some clue written on it,{page}{box:00}{name:02}George{br}I'd look all day, but...{page}{box:00}{name:02}George{br}it's pointless,{br}so let's move.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -934,7 +934,7 @@
    "3F430"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵なんか見てる{br} ヒマはないぞ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at paintings!{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at paintings!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -954,7 +954,7 @@
    "3F448"
   ],
   "jp": "{box:01}やけ残った{br}メモがある。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに{page}{box:01}『きよめたナイフに{br} 黒いランプ。{page}{box:01}『さらにそれを{br} 白のランプに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}There's a half-burnt note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife,{page}{box:01}\"a Purified Knife{br}with a Black Lamp,{page}{box:01}\"then combine that{br}with a White Lamp.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}There's a{br}half-burnt note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife,{page}{box:01}\"a Purified Knife{br}with a Black Lamp,{page}{box:01}\"then combine that{br}with a White Lamp.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -964,7 +964,7 @@
    "3F44C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんにも{br} 写らないな…{page}{box:00}{name:02}ジョージ{br}「完全にダメに{br} なってるな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It doesn't show anything...{page}{box:00}{name:02}George{br}It's totally busted...{page}{end}",
+  "en": "{box:00}{name:02}George{br}It doesn't show{br}anything...{page}{box:00}{name:02}George{br}It's totally busted...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -984,7 +984,7 @@
    "3F454"
   ],
   "jp": "{box:01}たなにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「見のがす所{br} だったよ」{page}{box:01}『魔道書ぜんぱんを{br} グリモアとよぶ』{page}{box:00}{name:02}ジョージ{br}「なんだ…」{page}{end}",
-  "en": "{box:01}A note was left on the shelf.{page}{box:00}{name:02}George{br}I almost missed it.{page}{box:01}\"All books of magic{br}are called grimoires.\"{page}{box:00}{name:02}George{br}Oh, is that all...{page}{end}",
+  "en": "{box:01}A note was left{br}on the shelf.{page}{box:00}{name:02}George{br}I almost missed it.{page}{box:01}\"All books of magic{br}are called grimoires.\"{page}{box:00}{name:02}George{br}Oh, is that all...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -994,7 +994,7 @@
    "3F458"
   ],
   "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
-  "en": "{box:01}Nothing is left on the shelf.{page}{end}",
+  "en": "{box:01}Nothing is left{br}on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1004,7 +1004,7 @@
    "3F45C"
   ],
   "jp": "{box:01}魔道書がびっしり{br}つまった本だなだ。{page}{box:00}{name:02}ジョージ{br}「たなに1冊ぶんの{br} すきまがあるな…{page}{box:00}{name:02}ジョージ{br}「誰かが本を{br} かりたまま…{page}{box:00}{name:02}ジョージ{br}「元にもどして{br} ないのかな？」{page}{end}",
-  "en": "{box:01}A bookshelf packed{br}with grimoires.{page}{box:00}{name:02}George{br}There's a gap on the{br}shelf for one book...{page}{box:00}{name:02}George{br}Did someone borrow a book...{page}{box:00}{name:02}George{br}and never put it back?{page}{end}",
+  "en": "{box:01}A bookshelf packed{br}with grimoires.{page}{box:00}{name:02}George{br}There's a gap on the{br}shelf for one book...{page}{box:00}{name:02}George{br}Did someone{br}borrow a book...{page}{box:00}{name:02}George{br}and never put it back?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1014,7 +1014,7 @@
    "3F460"
   ],
   "jp": "{box:01}ジョージが本を{br}おさめると、{page}{box:01}どこかでカギの{br}あく音がした。{page}{box:00}{name:02}ジョージ{br}「これで全部、{br} もどったかな？」{page}{end}",
-  "en": "{box:01}When I put the{br}book in place,{page}{box:01}a lock clicked open somewhere.{page}{box:00}{name:02}George{br}Is that all of them back now?{page}{end}",
+  "en": "{box:01}When I put the{br}book in place,{page}{box:01}a lock clicked{br}open somewhere.{page}{box:00}{name:02}George{br}Is that all of{br}them back now?{page}{end}",
   "status": "done",
   "notes": ""
  }

@@ -29,7 +29,7 @@
    "40974"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} まちあいしつか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Is this room a waiting room?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Is this room a{br}waiting room?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -52,7 +52,7 @@
    "40958"
   ],
   "jp": "{box:01}ベンチにラクガキ{br}があった。{page}{box:01}『聖者の石は{br} もっているだけで、{page}{box:01}『HPがかいふく{br} していく』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "{box:01}Someone scribbled on the bench.{page}{box:01}\"Just holding the Saint's Stone{page}{box:01}\"slowly restores HP.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "en": "{box:01}Someone scribbled{br}on the bench.{page}{box:01}\"Just holding{br}the Saint's Stone{page}{box:01}\"slowly restores HP.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -62,7 +62,7 @@
    "40938"
   ],
   "jp": "{box:01}つくえの上に{br}メモがある。{page}{box:01}『タリスマンに{br} 黒の石で、{page}{box:01}『黒のタリスマンに{br} なる{page}{box:01}『黒のタリスマンに{br} 白の石で…』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}There's a note on the desk.{page}{box:01}\"A Talisman with a Black Stone{page}{box:01}\"becomes a Black Talisman.{page}{box:01}\"A Black Talisman{br}with a White Stone...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}There's a note{br}on the desk.{page}{box:01}\"A Talisman with{br}a Black Stone{page}{box:01}\"becomes a{br}Black Talisman.{page}{box:01}\"A Black Talisman{br}with a White Stone...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -106,7 +106,7 @@
    "4095C"
   ],
   "jp": "{box:01}つくえにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『グレートマインに{br} イオウのこなで{page}{box:01}『さいこうきゅうの{br} マインができる』{page}{end}",
-  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with{br}Sulfur Powder{page}{box:01}\"makes the{br}very best mine.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -126,7 +126,7 @@
    "4097C"
   ],
   "jp": "{box:01}ベンチにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「おっと！見のがす{br} 所だったぜ」{page}{box:01}『黒の霊薬と{br} イオウのこなで{page}{box:01}『白の石になる。{br} 赤の石は、{page}{box:01}『白の霊薬に{br} きよめの塩』{page}{end}",
-  "en": "{box:01}A note was left on the bench.{page}{box:00}{name:02}George{br}Whoa! Almost missed this.{page}{box:01}\"Black Brew and Sulfur Powder{page}{box:01}\"make a White Stone. A Red Stone{page}{box:01}\"is White Brew and{br}Purifying Salt.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the bench.{page}{box:00}{name:02}George{br}Whoa! Almost missed this.{page}{box:01}\"Black Brew and{br}Sulfur Powder{page}{box:01}\"make a White{br}Stone. A Red Stone{page}{box:01}\"is White Brew and{br}Purifying Salt.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -136,7 +136,7 @@
    "40980"
   ],
   "jp": "{box:01}つくえの上に{br}メモがあった。{page}{box:01}『赤の石との{br} くみあわせは、{page}{box:01}『白のタリスマン、{br} ガラスのつぼ、{page}{box:01}『アタノールつぼに{br} ゆうこうである』{page}{end}",
-  "en": "{box:01}There was a note on the desk.{page}{box:01}\"Combining with a Red Stone{page}{box:01}\"works on a White{br}Talisman, a Glass Jar,{page}{box:01}\"and an Athanor Jar.\"{page}{end}",
+  "en": "{box:01}There was a note{br}on the desk.{page}{box:01}\"Combining with{br}a Red Stone{page}{box:01}\"works on a White{br}Talisman, a Glass Jar,{page}{box:01}\"and an Athanor Jar.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -146,7 +146,7 @@
    "4098C"
   ],
   "jp": "{box:01}石のはしらが{br}おれている。{page}{end}",
-  "en": "{box:01}A stone pillar has snapped.{page}{end}",
+  "en": "{box:01}A stone pillar{br}has snapped.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -170,7 +170,7 @@
    "409E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} まちあいしつか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Is this room a waiting room?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Is this room a{br}waiting room?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -192,7 +192,7 @@
    "409A0"
   ],
   "jp": "{box:01}ベンチにラクガキ{br}があった。{page}{box:01}『聖者の石は{br} もっているだけで、{page}{box:01}『HPがかいふく{br} していく』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "{box:01}Someone scribbled on the bench.{page}{box:01}\"Just holding the Saint's Stone{page}{box:01}\"slowly restores HP.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "en": "{box:01}Someone scribbled{br}on the bench.{page}{box:01}\"Just holding{br}the Saint's Stone{page}{box:01}\"slowly restores HP.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -202,7 +202,7 @@
    "409A4"
   ],
   "jp": "{box:01}つくえの上に{br}メモがある。{page}{box:01}『タリスマンに{br} 黒の石で、{page}{box:01}『黒のタリスマンに{br} なる{page}{box:01}『黒のタリスマンに{br} 白の石で…』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}There's a note on the desk.{page}{box:01}\"A Talisman with a Black Stone{page}{box:01}\"becomes a Black Talisman.{page}{box:01}\"A Black Talisman{br}with a White Stone...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}There's a note{br}on the desk.{page}{box:01}\"A Talisman with{br}a Black Stone{page}{box:01}\"becomes a{br}Black Talisman.{page}{box:01}\"A Black Talisman{br}with a White Stone...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -246,7 +246,7 @@
    "409C4"
   ],
   "jp": "{box:01}ベンチに{br}ラクガキがある。{page}{box:01}『きよめたナイフは{br} ナイフに霊水。{page}{box:01}『きよめたナイフに{br} 黒のランプで{page}{box:01}『パワートラップが{br} 生まれるだろう』{page}{box:00}{name:02}ジョージ{br}「ふむふむ…」{page}{end}",
-  "en": "{box:01}Someone scribbled on the bench.{page}{box:01}\"A Purified Knife:{br}Holy Water on a Knife.{page}{box:01}\"A Purified Knife{br}with a Black Lamp{page}{box:01}\"shall give birth{br}to a Power Trap.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh...{page}{end}",
+  "en": "{box:01}Someone scribbled{br}on the bench.{page}{box:01}\"A Purified Knife:{br}Holy Water on a Knife.{page}{box:01}\"A Purified Knife{br}with a Black Lamp{page}{box:01}\"shall give birth{br}to a Power Trap.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -256,7 +256,7 @@
    "409C8"
   ],
   "jp": "{box:01}つくえにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『グレートマインに{br} イオウのこなで{page}{box:01}『さいこうきゅうの{br} マインができる』{page}{end}",
-  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with{br}Sulfur Powder{page}{box:01}\"makes the{br}very best mine.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -276,7 +276,7 @@
    "409E8"
   ],
   "jp": "{box:01}ベンチにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「おっと！見のがす{br} 所だったぜ」{page}{box:01}『黒の霊薬と{br} イオウのこなで{page}{box:01}『白の石になる。{br} 赤の石は、{page}{box:01}『白の霊薬に{br} きよめの塩』{page}{end}",
-  "en": "{box:01}A note was left on the bench.{page}{box:00}{name:02}George{br}Whoa! Almost missed this.{page}{box:01}\"Black Brew and Sulfur Powder{page}{box:01}\"make a White Stone. A Red Stone{page}{box:01}\"is White Brew and{br}Purifying Salt.\"{page}{end}",
+  "en": "{box:01}A note was left{br}on the bench.{page}{box:00}{name:02}George{br}Whoa! Almost missed this.{page}{box:01}\"Black Brew and{br}Sulfur Powder{page}{box:01}\"make a White{br}Stone. A Red Stone{page}{box:01}\"is White Brew and{br}Purifying Salt.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -286,7 +286,7 @@
    "409EC"
   ],
   "jp": "{box:01}つくえの上に{br}メモがあった。{page}{box:01}『赤の石との{br} くみあわせは、{page}{box:01}『白のタリスマン、{br} ガラスのつぼ、{page}{box:01}『アタノールつぼに{br} ゆうこうである』{page}{end}",
-  "en": "{box:01}There was a note on the desk.{page}{box:01}\"Combining with a Red Stone{page}{box:01}\"works on a White{br}Talisman, a Glass Jar,{page}{box:01}\"and an Athanor Jar.\"{page}{end}",
+  "en": "{box:01}There was a note{br}on the desk.{page}{box:01}\"Combining with{br}a Red Stone{page}{box:01}\"works on a White{br}Talisman, a Glass Jar,{page}{box:01}\"and an Athanor Jar.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -296,7 +296,7 @@
    "409F8"
   ],
   "jp": "{box:01}石のはしらが{br}おれている。{page}{end}",
-  "en": "{box:01}A stone pillar has snapped.{page}{end}",
+  "en": "{box:01}A stone pillar{br}has snapped.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -307,7 +307,7 @@
    "40AC8"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -329,7 +329,7 @@
    "40AD0"
   ],
   "jp": "{box:01}かべが大きく{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall has badly collapsed.{page}{end}",
+  "en": "{box:01}The wall has{br}badly collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -351,7 +351,7 @@
    "40AD8"
   ],
   "jp": "{box:01}絵が二つ{br}ならんでいる。{page}{end}",
-  "en": "{box:01}Two paintings hang side by side.{page}{end}",
+  "en": "{box:01}Two paintings{br}hang side by side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -363,7 +363,7 @@
    "40ADC"
   ],
   "jp": "{box:01}絵にメモが{br}書かれている。{page}{box:01}『ハーブのみで{br} 使うよりも、{page}{box:01}『ハーブをいろいろ{br} くみあわせて、{page}{box:01}『薬をつくった方が{br} こうりょくがある』{page}{box:00}{name:02}ジョージ{br}「なるほどな…」{page}{end}",
-  "en": "{box:01}A note is written{br}on the painting.{page}{box:01}\"Rather than using herbs alone,{page}{box:01}\"combine various herbs{page}{box:01}\"and make medicine:{br}it works better.\"{page}{box:00}{name:02}George{br}Makes sense...{page}{end}",
+  "en": "{box:01}A note is written{br}on the painting.{page}{box:01}\"Rather than{br}using herbs alone,{page}{box:01}\"combine various herbs{page}{box:01}\"and make medicine:{br}it works better.\"{page}{box:00}{name:02}George{br}Makes sense...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -374,7 +374,7 @@
    "40AE0"
   ],
   "jp": "{box:01}小さな絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A small painting is on display.{page}{end}",
+  "en": "{box:01}A small painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -452,7 +452,7 @@
    "40B00"
   ],
   "jp": "{box:01}絵が2まい{br}かざってある。{page}{end}",
-  "en": "{box:01}Two paintings are on display.{page}{end}",
+  "en": "{box:01}Two paintings{br}are on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -474,7 +474,7 @@
    "40B10"
   ],
   "jp": "{box:01}ヘンな絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A weird painting is on display.{page}{end}",
+  "en": "{box:01}A weird painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    "40B18"
   ],
   "jp": "{box:01}ガレキが行く手を{br}はばんでいる。{page}{end}",
-  "en": "{box:01}Rubble blocks the way forward.{page}{end}",
+  "en": "{box:01}Rubble blocks{br}the way forward.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -529,7 +529,7 @@
    "40B28"
   ],
   "jp": "{box:01}あぶら絵が2まい{br}ならんでいる。{page}{end}",
-  "en": "{box:01}Two oil paintings side by side.{page}{end}",
+  "en": "{box:01}Two oil paintings{br}side by side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -552,7 +552,7 @@
    "40B30"
   ],
   "jp": "{box:01}小さいあぶら絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A small oil painting hangs here.{page}{end}",
+  "en": "{box:01}A small oil painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -564,7 +564,7 @@
    "40B34"
   ],
   "jp": "{box:01}絵に走り書きが{br}あった。{page}{box:01}『マグネトロンと{br} トランシーバー{page}{box:01}『それがあれば、{br} ぼうぐとして…』{page}{box:01}その先はかすれて{br}読めない。{page}{box:00}{name:02}ジョージ{br}「マグネトロンと{br} トランシーバー？」{page}{end}",
-  "en": "{box:01}There was a scrawl{br}on the painting.{page}{box:01}\"A Magnetron and a transceiver.{page}{box:01}\"With those, as armor...\"{page}{box:01}The rest is too faded to read.{page}{box:00}{name:02}George{br}A Magnetron and a transceiver?{page}{end}",
+  "en": "{box:01}There was a scrawl{br}on the painting.{page}{box:01}\"A Magnetron and{br}a transceiver.{page}{box:01}\"With those, as armor...\"{page}{box:01}The rest is too{br}faded to read.{page}{box:00}{name:02}George{br}A Magnetron and{br}a transceiver?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -575,7 +575,7 @@
    "40B38"
   ],
   "jp": "{box:01}きみょうな絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "en": "{box:01}A strange painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -586,7 +586,7 @@
    "40B40"
   ],
   "jp": "{box:01}つちくれがやまに{br}なっている。{page}{end}",
-  "en": "{box:01}Clods of earth are heaped up.{page}{end}",
+  "en": "{box:01}Clods of earth{br}are heaped up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -652,7 +652,7 @@
    "40B60"
   ],
   "jp": "{box:01}おかしな絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}An odd painting hangs here.{page}{end}",
+  "en": "{box:01}An odd painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -674,7 +674,7 @@
    "40B6C"
   ],
   "jp": "{box:01}ガレキが行く手を{br}ふさいでいる。{page}{end}",
-  "en": "{box:01}Rubble blocks the way forward.{page}{end}",
+  "en": "{box:01}Rubble blocks{br}the way forward.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -707,7 +707,7 @@
    "40B78"
   ],
   "jp": "{box:01}絵がならんで{br}かざられている。{page}{end}",
-  "en": "{box:01}Paintings are displayed in a row.{page}{end}",
+  "en": "{box:01}Paintings are{br}displayed in a row.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -717,7 +717,7 @@
    "40AB4"
   ],
   "jp": "{box:01}絵に走り書きを{br}見つけた。{page}{box:01}『なべのふたや{br} フライパンを{page}{box:01}『ぼうぐと{br} くみあわせ…』{page}{box:01}その先はかすれて{br}読めなかった。{page}{end}",
-  "en": "{box:01}I found a scrawl on the painting.{page}{box:01}\"A Pot Lid or Frying Pan,{page}{box:01}\"combined with armor...\"{page}{box:01}The rest was too faded to read.{page}{end}",
+  "en": "{box:01}I found a scrawl{br}on the painting.{page}{box:01}\"A Pot Lid or Frying Pan,{page}{box:01}\"combined with armor...\"{page}{box:01}The rest was too{br}faded to read.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -728,7 +728,7 @@
    "40B80"
   ],
   "jp": "{box:01}絵がかべに{br}かかっている。{page}{end}",
-  "en": "{box:01}A painting hangs on the wall.{page}{end}",
+  "en": "{box:01}A painting hangs{br}on the wall.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -738,7 +738,7 @@
    "40ABC"
   ],
   "jp": "{box:01}絵にメモが{br}はさんであった。{page}{box:01}『ナイフとマッチを{br} くみあわせて…』{page}{box:01}その先は{br}読めなかった。{page}{box:00}{name:02}ジョージ{br}「ふむ…。」{page}{end}",
-  "en": "{box:01}A note was tucked{br}into the painting.{page}{box:01}\"Combine a Knife and Matches...\"{page}{box:01}I couldn't read the rest.{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}A note was tucked{br}into the painting.{page}{box:01}\"Combine a Knife{br}and Matches...\"{page}{box:01}I couldn't read the rest.{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -769,7 +769,7 @@
    "40B0C"
   ],
   "jp": "{box:01}がくにメモが{br}はさまれている。{page}{box:01}『タリスマンは{br} BOOK1{page}{box:01}『ハシゴの所に{br} かくされ…』{page}{box:01}その先は書かれて{br}いなかった。{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "{box:01}A note is tucked into the frame.{page}{box:01}\"The Talisman is{br}hidden by the ladder{page}{box:01}\"in BOOK1...\"{page}{box:01}Nothing more was written.{page}{box:00}{name:02}George{br}...{page}{end}",
+  "en": "{box:01}A note is tucked{br}into the frame.{page}{box:01}\"The Talisman is{br}hidden by the ladder{page}{box:01}\"in BOOK1...\"{page}{box:01}Nothing more was written.{page}{box:00}{name:02}George{br}...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -780,7 +780,7 @@
    "40B7C"
   ],
   "jp": "{box:01}がくに紙きれが{br}はさんであった。{page}{box:01}紙きれには{br}メモがあった。{page}{box:01}『くさいぬり薬と{br} まずいのみ薬で…』{page}{box:00}{name:02}ジョージ{br}「薬か何かの{br} ちょうごうかな？」{page}{end}",
-  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}There was a note on the scrap.{page}{box:01}\"Smelly Ointment and{br}a Nasty Potion...\"{page}{box:00}{name:02}George{br}Mixing medicine or something?{page}{end}",
+  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}There was a note{br}on the scrap.{page}{box:01}\"Smelly Ointment and{br}a Nasty Potion...\"{page}{box:00}{name:02}George{br}Mixing medicine{br}or something?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -791,7 +791,7 @@
    "40B84"
   ],
   "jp": "{box:01}がくに紙きれが{br}はさんであった。{page}{box:01}紙きれにメモが{br}書かれている。{page}{box:01}『Nリキッドと{br} ガラスのつぼ…」{page}{box:00}{name:02}ジョージ{br}「何かのレシピ{br} なんだろうな…」{page}{end}",
-  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}A note is written on the scrap.{page}{box:01}\"N Liquid and a Glass Jar...\"{page}{box:00}{name:02}George{br}Some kind of recipe, I guess...{page}{end}",
+  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}A note is written{br}on the scrap.{page}{box:01}\"N Liquid and{br}a Glass Jar...\"{page}{box:00}{name:02}George{br}Some kind of{br}recipe, I guess...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -802,7 +802,7 @@
    "40C58"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -824,7 +824,7 @@
    "40C60"
   ],
   "jp": "{box:01}かべが大きく{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall has badly collapsed.{page}{end}",
+  "en": "{box:01}The wall has{br}badly collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -846,7 +846,7 @@
    "40C68"
   ],
   "jp": "{box:01}絵が二つ{br}ならんでいる。{page}{end}",
-  "en": "{box:01}Two paintings hang side by side.{page}{end}",
+  "en": "{box:01}Two paintings{br}hang side by side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -858,7 +858,7 @@
    "40C6C"
   ],
   "jp": "{box:01}絵にメモが{br}書かれている。{page}{box:01}『ハーブのみで{br} 使うよりも、{page}{box:01}『ハーブをいろいろ{br} くみあわせて、{page}{box:01}『薬をつくった方が{br} こうりょくがある』{page}{box:00}{name:02}ジョージ{br}「なるほどな…」{page}{end}",
-  "en": "{box:01}A note is written{br}on the painting.{page}{box:01}\"Rather than using herbs alone,{page}{box:01}\"combine various herbs{page}{box:01}\"and make medicine:{br}it works better.\"{page}{box:00}{name:02}George{br}Makes sense...{page}{end}",
+  "en": "{box:01}A note is written{br}on the painting.{page}{box:01}\"Rather than{br}using herbs alone,{page}{box:01}\"combine various herbs{page}{box:01}\"and make medicine:{br}it works better.\"{page}{box:00}{name:02}George{br}Makes sense...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -869,7 +869,7 @@
    "40C70"
   ],
   "jp": "{box:01}小さな絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A small painting is on display.{page}{end}",
+  "en": "{box:01}A small painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -947,7 +947,7 @@
    "40C90"
   ],
   "jp": "{box:01}絵が2まい{br}かざってある。{page}{end}",
-  "en": "{box:01}Two paintings are on display.{page}{end}",
+  "en": "{box:01}Two paintings{br}are on display.{page}{end}",
   "status": "done",
   "notes": ""
  },

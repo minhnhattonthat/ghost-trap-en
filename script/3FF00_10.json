@@ -6,7 +6,7 @@
    "412B4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「読ませてもらうよ…」{page}{box:01}『エリクシールは{br} HP完全かいふく{page}{box:01}『Nリキッドと{br} アタノールつぼで』{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}I'll give it a read...{page}{box:01}\"The Elixir fully restores HP.{page}{box:01}\"N Liquid and an Athanor Jar.\"{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:00}{name:02}George{br}I'll give it a read...{page}{box:01}\"The Elixir fully{br}restores HP.{page}{box:01}\"N Liquid and an{br}Athanor Jar.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -16,7 +16,7 @@
    "412BC"
   ],
   "jp": "{box:01}ふようひんが{br}つまれている。{page}{box:00}{name:02}ジョージ{br}「使えそうな物は{br} ないな…」{page}{end}",
-  "en": "{box:01}Unneeded things are piled up.{page}{box:00}{name:02}George{br}Nothing usable...{page}{end}",
+  "en": "{box:01}Unneeded things{br}are piled up.{page}{box:00}{name:02}George{br}Nothing usable...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -26,7 +26,7 @@
    "412C0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「むこうぎしに{br} ドアが見える！{page}{box:00}{name:02}ジョージ{br}「真ん中のいたが、{br} かいてんすれば、{page}{box:00}{name:02}ジョージ{br}「はしになって、{br} わたれそうだな…{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} あれをうごかす{page}{box:00}{name:02}ジョージ{br}「何かがあるハズだ！{br} …さがしてみよう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I can see a door on the far side!{page}{box:00}{name:02}George{br}If the board in the{br}middle rotates,{page}{box:00}{name:02}George{br}it'd make a bridge I could cross...{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}something that{br}moves it! ...Let's look.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I can see a door{br}on the far side!{page}{box:00}{name:02}George{br}If the board in the{br}middle rotates,{page}{box:00}{name:02}George{br}it'd make a bridge{br}I could cross...{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}something that{br}moves it! ...Let's look.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -46,7 +46,7 @@
    "412C8"
   ],
   "jp": "{box:01}部屋の真ん中に{br}ほりがある。{page}{box:00}{name:02}ジョージ{br}「真ん中にある{br} あのいたは…？{page}{box:00}{name:02}ジョージ{br}「近よって、{br} 調べてみるか…」{page}{end}",
-  "en": "{box:01}There's a moat in the{br}middle of the room.{page}{box:00}{name:02}George{br}That board in the middle...?{page}{box:00}{name:02}George{br}Let's get close{br}and check it out...{page}{end}",
+  "en": "{box:01}There's a moat in the{br}middle of the room.{page}{box:00}{name:02}George{br}That board in{br}the middle...?{page}{box:00}{name:02}George{br}Let's get close{br}and check it out...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -56,7 +56,7 @@
    "412D0"
   ],
   "jp": "{box:01}きたないハコが{br}つまれている。{page}{end}",
-  "en": "{box:01}Dirty boxes are stacked up.{page}{end}",
+  "en": "{box:01}Dirty boxes{br}are stacked up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -76,7 +76,7 @@
    "412D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「およがずにすんで、{br} よかった…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Glad I didn't have to swim...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Glad I didn't{br}have to swim...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -126,7 +126,7 @@
    "412F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はぐるまが{br} ギッシリだ…{page}{box:00}{name:02}ジョージ{br}「このかべは{br} きかいじかけで{page}{box:00}{name:02}ジョージ{br}「うごくんじゃ{br} ないかな？{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} これをうごかす{page}{box:00}{name:02}ジョージ{br}「しかけが{br} あるハズだ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It's packed with gears...{page}{box:00}{name:02}George{br}This wall's mechanical,{page}{box:00}{name:02}George{br}so maybe it moves?{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}a mechanism that moves it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}It's packed with gears...{page}{box:00}{name:02}George{br}This wall's mechanical,{page}{box:00}{name:02}George{br}so maybe it moves?{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}a mechanism{br}that moves it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -136,7 +136,7 @@
    "412F4"
   ],
   "jp": "{box:01}きんぞくのはこが{br}床に置かれている。{page}{box:01}はこの上には{br}ノートがあった。{page}{box:00}{name:02}ジョージ{br}「すまないが、{br} 読ませてもらうよ」{page}{box:01}『カロルは儀式の{br} さいちゅうに{page}{box:01}『にげだすのでは{br} ないだろうか？{page}{box:01}『あのおびえ方は{br} ただごとではない。{page}{box:01}『メンバーが一人{br} いなくなるだけで、{page}{box:01}『たいへんなことに…{br}   シンファ』{page}{box:00}{name:02}ジョージ{br}「カロルさんのこと{br} が書かれている…{page}{box:00}{name:02}ジョージ{br}「このシンファって、{br} …ゴースト？」{page}{end}",
-  "en": "{box:01}A metal box sits on the floor.{page}{box:01}There was a{br}notebook on the box.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this.{page}{box:01}\"Might Karol run away{page}{box:01}\"in the middle of the ritual?{page}{box:01}\"The way he trembles{br}is not normal.{page}{box:01}\"If even one member{br}goes missing,{page}{box:01}\"it will be a disaster... Shinfa\"{page}{box:00}{name:02}George{br}It's about Karol-san...{page}{box:00}{name:02}George{br}This Shinfa... is a ghost?{page}{end}",
+  "en": "{box:01}A metal box sits{br}on the floor.{page}{box:01}There was a{br}notebook on the box.{page}{box:00}{name:02}George{br}Sorry, but I'm{br}gonna read this.{page}{box:01}\"Might Karol run away{page}{box:01}\"in the middle{br}of the ritual?{page}{box:01}\"The way he trembles{br}is not normal.{page}{box:01}\"If even one member{br}goes missing,{page}{box:01}\"it will be a{br}disaster... Shinfa\"{page}{box:00}{name:02}George{br}It's about Karol-san...{page}{box:00}{name:02}George{br}This Shinfa... is a ghost?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -146,7 +146,7 @@
    "412F8"
   ],
   "jp": "{box:01}何かのポンプ{br}みたいだ。{page}{box:01}使えそうな物は{br}なにもない。{page}{end}",
-  "en": "{box:01}Looks like some kind of pump.{page}{box:01}Nothing usable.{page}{end}",
+  "en": "{box:01}Looks like some{br}kind of pump.{page}{box:01}Nothing usable.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -156,7 +156,7 @@
    "412FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なぜドアがあんな{br} 場所にあるんだ？{page}{box:00}{name:02}ジョージ{br}「何かヒミツでも{br} あるのかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Why is the door in{br}a place like that?{page}{box:00}{name:02}George{br}Is there some kind of secret?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Why is the door in{br}a place like that?{page}{box:00}{name:02}George{br}Is there some{br}kind of secret?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -166,7 +166,7 @@
    "41304"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「かべのはぐるまが{br} うごいたおかげで{page}{box:00}{name:02}ジョージ{br}「ドアに入れる{br} ようになったぞ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The wall gears moved!{page}{box:00}{name:02}George{br}Now I can get through the door!{page}{end}",
+  "en": "{box:00}{name:02}George{br}The wall gears moved!{page}{box:00}{name:02}George{br}Now I can get{br}through the door!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -176,7 +176,7 @@
    "41308"
   ],
   "jp": "{box:01}きかいのケースが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「へたにさわると{br} 大変だぜ…」{page}{end}",
-  "en": "{box:01}A machine casing sits here.{page}{box:00}{name:02}George{br}Touch it wrong and{br}I'm in big trouble...{page}{end}",
+  "en": "{box:01}A machine casing{br}sits here.{page}{box:00}{name:02}George{br}Touch it wrong and{br}I'm in big trouble...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -186,7 +186,7 @@
    "4130C"
   ],
   "jp": "{box:01}へんてつもない{br}ポンプらしい。{page}{end}",
-  "en": "{box:01}Looks like an ordinary pump.{page}{end}",
+  "en": "{box:01}Looks like an{br}ordinary pump.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -196,7 +196,7 @@
    "41314"
   ],
   "jp": "{box:01}あやしいきかいが{br}置かれている。{page}{end}",
-  "en": "{box:01}A suspicious machine sits here.{page}{end}",
+  "en": "{box:01}A suspicious{br}machine sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -226,7 +226,7 @@
    "41320"
   ],
   "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「うごかせないな…」{page}{end}",
-  "en": "{box:01}The switch lever is locked.{page}{box:00}{name:02}George{br}It won't move...{page}{end}",
+  "en": "{box:01}The switch{br}lever is locked.{page}{box:00}{name:02}George{br}It won't move...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -246,7 +246,7 @@
    "41328"
   ],
   "jp": "{box:01}つくえには{br}何ものっていない。{page}{end}",
-  "en": "{box:01}There's nothing on the desk.{page}{end}",
+  "en": "{box:01}There's nothing{br}on the desk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -286,7 +286,7 @@
    "41338"
   ],
   "jp": "{box:01}きかいが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「あやしいきかいが{br} ならんでるな…{page}{box:00}{name:02}ジョージ{br}「あの、あつい{br} ようがんの部屋に{page}{box:00}{name:02}ジョージ{br}「はしをかける{br} きかいなのかも…？{page}{box:00}{name:02}ジョージ{br}「とにかくきかいを{br} 調べてみよう」{page}{end}",
-  "en": "{box:01}Machines stand in a row.{page}{box:00}{name:02}George{br}A row of suspicious machines...{page}{box:00}{name:02}George{br}Maybe they put a bridge across{page}{box:00}{name:02}George{br}that hot lava room...?{page}{box:00}{name:02}George{br}Anyway, let's check{br}the machines.{page}{end}",
+  "en": "{box:01}Machines stand in a row.{page}{box:00}{name:02}George{br}A row of suspicious{br}machines...{page}{box:00}{name:02}George{br}Maybe they put{br}a bridge across{page}{box:00}{name:02}George{br}that hot lava room...?{page}{box:00}{name:02}George{br}Anyway, let's check{br}the machines.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -316,7 +316,7 @@
    "41348"
   ],
   "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これであの部屋が{br} うごくのかな？」{page}{end}",
-  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make that room move?{page}{end}",
+  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make{br}that room move?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -326,7 +326,7 @@
    "4134C"
   ],
   "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「レバーはもう{br} うごかせないぞ」{page}{end}",
-  "en": "{box:01}The switch lever is locked.{page}{box:00}{name:02}George{br}The lever won't move anymore.{page}{end}",
+  "en": "{box:01}The switch{br}lever is locked.{page}{box:00}{name:02}George{br}The lever won't{br}move anymore.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -346,7 +346,7 @@
    "41354"
   ],
   "jp": "{box:01}つくえの上に{br}ラクガキがあった。{page}{box:01}『いちばんつよい{br} ゴーストのワナは、{page}{box:01}『赤のランプだ』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}There was scribbling{br}on the desk.{page}{box:01}\"The strongest ghost trap{page}{box:01}\"is the Red Lamp.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}There was scribbling{br}on the desk.{page}{box:01}\"The strongest{br}ghost trap{page}{box:01}\"is the Red Lamp.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -386,7 +386,7 @@
    "41364"
   ],
   "jp": "{box:01}あやしいきかいが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「このきかいで、{br} レール部屋を{page}{box:00}{name:02}ジョージ{br}「うごかしていたん{br} じゃないか？」{page}{box:00}{name:02}ジョージ{br}「きかいをチェック{br} してみるか」{page}{end}",
-  "en": "{box:01}Suspicious machines{br}stand in a row.{page}{box:00}{name:02}George{br}Maybe these machines{page}{box:00}{name:02}George{br}were what moved the rail room?{page}{box:00}{name:02}George{br}Let's check the machines.{page}{end}",
+  "en": "{box:01}Suspicious machines{br}stand in a row.{page}{box:00}{name:02}George{br}Maybe these machines{page}{box:00}{name:02}George{br}were what moved{br}the rail room?{page}{box:00}{name:02}George{br}Let's check the machines.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -406,7 +406,7 @@
    "41370"
   ],
   "jp": "{box:01}ジョージは{br}きかいを調べた。{page}{box:00}{name:02}ジョージ{br}「何のきかいだ？{br} スイッチすらない…」{page}{end}",
-  "en": "{box:01}I examined the machine.{page}{box:00}{name:02}George{br}What's this machine? It{br}doesn't even have a switch...{page}{end}",
+  "en": "{box:01}I examined the machine.{page}{box:00}{name:02}George{br}What is this machine?{br}It hasn't got a switch...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -416,7 +416,7 @@
    "41374"
   ],
   "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これでかべが{br} かいてんするのか？{page}{box:00}{name:02}ジョージ{br}「ぎゃくに回って{br} たらイヤだな…」{page}{end}",
-  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make the wall rotate?{page}{box:00}{name:02}George{br}I'd hate for it to{br}spin the wrong way...{page}{end}",
+  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make{br}the wall rotate?{page}{box:00}{name:02}George{br}I'd hate for it to{br}spin the wrong way...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -426,7 +426,7 @@
    "41378"
   ],
   "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「もうレバーは{br} うごかせないな…」{page}{end}",
-  "en": "{box:01}The switch lever is locked.{page}{box:00}{name:02}George{br}The lever won't move anymore...{page}{end}",
+  "en": "{box:01}The switch{br}lever is locked.{page}{box:00}{name:02}George{br}The lever won't{br}move anymore...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -436,7 +436,7 @@
    "4137C"
   ],
   "jp": "{box:01}よこになった{br}つくえがある。{page}{end}",
-  "en": "{box:01}There's a desk lying on its side.{page}{end}",
+  "en": "{box:01}There's a desk{br}lying on its side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -446,7 +446,7 @@
    "41380"
   ],
   "jp": "{box:01}つくえの上に{br}ラクガキがあった。{page}{box:01}『そうびでオススメ{br} なのは…{page}{box:01}『聖者の石！これは{br} エリクシールに…』{page}{box:01}その先はかすれて{br}読めなかった。{page}{box:00}{name:02}ジョージ{br}「ううむ…」{page}{end}",
-  "en": "{box:01}There was scribbling{br}on the desk.{page}{box:01}\"The gear I recommend{br}equipping is...{page}{box:01}\"the Saint's Stone! It{br}comes from an Elixir...\"{page}{box:01}The rest was too faded to read.{page}{box:00}{name:02}George{br}Hmmm...{page}{end}",
+  "en": "{box:01}There was scribbling{br}on the desk.{page}{box:01}\"The gear I recommend{br}equipping is...{page}{box:01}\"the Saint's Stone! It{br}comes from an Elixir...\"{page}{box:01}The rest was too{br}faded to read.{page}{box:00}{name:02}George{br}Hmmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -506,7 +506,7 @@
    "4139C"
   ],
   "jp": "{box:01}だいざには{br}何ものっていない。{page}{end}",
-  "en": "{box:01}There's nothing on the pedestal.{page}{end}",
+  "en": "{box:01}There's nothing{br}on the pedestal.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -516,7 +516,7 @@
    "413A0"
   ],
   "jp": "{box:01}びじゅつひんを{br}のせるだいざだ。{page}{end}",
-  "en": "{box:01}A pedestal for displaying art.{page}{end}",
+  "en": "{box:01}A pedestal for{br}displaying art.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -536,7 +536,7 @@
    "413A8"
   ],
   "jp": "{box:01}小さい絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A small painting is on display.{page}{end}",
+  "en": "{box:01}A small painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -576,7 +576,7 @@
    "413B8"
   ],
   "jp": "{box:01}床のスイッチが{br}ONになった。{page}{end}",
-  "en": "{box:01}The floor switch turned ON.{page}{end}",
+  "en": "{box:01}The floor switch{br}turned ON.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -586,7 +586,7 @@
    "413C0"
   ],
   "jp": "{box:01}スタンドライトが{br}かかげられている。{page}{end}",
-  "en": "{box:01}A standing lamp is raised up.{page}{end}",
+  "en": "{box:01}A standing lamp{br}is raised up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -596,7 +596,7 @@
    "413C4"
   ],
   "jp": "{box:01}だいざの上には{br}何もない。{page}{end}",
-  "en": "{box:01}There's nothing on the pedestal.{page}{end}",
+  "en": "{box:01}There's nothing{br}on the pedestal.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -616,7 +616,7 @@
    "413CC"
   ],
   "jp": "{box:01}だいざが床に{br}置かれている。{page}{end}",
-  "en": "{box:01}A pedestal sits on the floor.{page}{end}",
+  "en": "{box:01}A pedestal sits{br}on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -626,7 +626,7 @@
    "413D0"
   ],
   "jp": "{box:01}小さい絵が{br}かざってある。{page}{box:01}絵のよこに{br}ラクガキがある。{page}{box:01}『じごくのクチには{br} ふみつけるべし{page}{box:01}『さすればクチも{br} とじるだろう』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}A small painting is on display.{page}{box:01}There's scribbling{br}beside the painting.{page}{box:01}\"Trample the mouth of Hell,{page}{box:01}\"and the mouth shall close.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}A small painting{br}is on display.{page}{box:01}There's scribbling{br}beside the painting.{page}{box:01}\"Trample the{br}mouth of Hell,{page}{box:01}\"and the mouth{br}shall close.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -666,7 +666,7 @@
    "413E0"
   ],
   "jp": "{box:01}床のスイッチが{br}ONになった。{page}{end}",
-  "en": "{box:01}The floor switch turned ON.{page}{end}",
+  "en": "{box:01}The floor switch{br}turned ON.{page}{end}",
   "status": "done",
   "notes": ""
  }

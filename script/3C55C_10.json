@@ -5,7 +5,7 @@
    "3E564"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "en": "{box:01}Part of the wall{br}has collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -15,7 +15,7 @@
    "3E580"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はでにこわれて{br} いるなぁ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Wow, that's really smashed up...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Wow, that's really{br}smashed up...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -25,7 +25,7 @@
    "3E59C"
   ],
   "jp": "{box:01}かべの中には{br}何もない。{page}{end}",
-  "en": "{box:01}There's nothing inside the wall.{page}{end}",
+  "en": "{box:01}There's nothing{br}inside the wall.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -118,7 +118,7 @@
    "3E6AC"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「何の薬なんだか{br} まるでわからん」{page}{end}",
-  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}I have zero idea{br}what any of this is.{page}{end}",
+  "en": "{box:01}Medicine bottles{br}are lined up.{page}{box:00}{name:02}George{br}I have zero idea{br}what any of this is.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -145,7 +145,7 @@
    "3E6B4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who's this a painting of, anyway?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who's this a{br}painting of, anyway?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -187,7 +187,7 @@
    "3E660"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？{br} この絵…{page}{box:00}{name:02}ジョージ{br}「あのゴーストに{br} にてる気がするぞ。{page}{box:00}{name:02}ジョージ{br}「どのゴーストだか{br} 思い出せないけど」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh? This painting...{page}{box:00}{name:02}George{br}Reminds me of one of the ghosts.{page}{box:00}{name:02}George{br}I just can't remember which one.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh? This painting...{page}{box:00}{name:02}George{br}Reminds me of one{br}of the ghosts.{page}{box:00}{name:02}George{br}I just can't{br}remember which one.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -212,7 +212,7 @@
    "3E6EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵なんか{br} どうでもいいぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about paintings.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}paintings.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -222,7 +222,7 @@
    "3E6C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これ…{br} あの時の…{page}{box:00}{name:02}ジョージ{br}「女のゴーストじゃ{br} ないか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This... isn't this...{page}{box:00}{name:02}George{br}the woman ghost from before?{page}{end}",
+  "en": "{box:00}{name:02}George{br}This... isn't this...{page}{box:00}{name:02}George{br}the woman ghost{br}from before?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -265,7 +265,7 @@
    "41DF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who's this a painting of, anyway?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who's this a{br}painting of, anyway?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -282,7 +282,7 @@
    "41DFC"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「トランキライザー{br} でもほしい所だな」{page}{end}",
-  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}I could really use a{br}tranquilizer right now.{page}{end}",
+  "en": "{box:01}Medicine bottles{br}are lined up.{page}{box:00}{name:02}George{br}I could really use a{br}tranquilizer right now.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -302,7 +302,7 @@
    "41E00"
   ],
   "jp": "{box:01}がんじょうそうな{br}ハコがある。{page}{end}",
-  "en": "{box:01}There's a sturdy-looking box.{page}{end}",
+  "en": "{box:01}There's a{br}sturdy-looking box.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -336,7 +336,7 @@
    "3E72C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おっ？{br} これは…{page}{box:00}{name:02}ジョージ{br}「くだらない物{br} だった…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Something totally useless...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Something{br}totally useless...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -366,7 +366,7 @@
    "3E758"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレをおそった{br} ゴーストだ。{page}{box:00}{name:02}ジョージ{br}「ウラミとかじゃ{br} ないみたいだが、{page}{box:00}{name:02}ジョージ{br}「やっぱり{br} よくわからない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}Doesn't seem like a grudge thing,{page}{box:00}{name:02}George{br}but I still don't get it.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}Doesn't seem like{br}a grudge thing,{page}{box:00}{name:02}George{br}but I still don't get it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -376,7 +376,7 @@
    "3E76C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレをおそった{br} ゴーストだ。{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}He's a member of Atrahasis.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}He's a member{br}of Atrahasis.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -398,7 +398,7 @@
    "3E7A8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見ても{br} しかたがない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No point looking at paintings.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No point looking{br}at paintings.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -410,7 +410,7 @@
    "3E7B0"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ばくやくとか{br} ないのか？」{page}{end}",
-  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}Got any explosives in here?{page}{end}",
+  "en": "{box:01}Medicine bottles{br}are lined up.{page}{box:00}{name:02}George{br}Got any explosives{br}in here?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -422,7 +422,7 @@
    "3E7B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミに用は{br} ないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got no business with trash.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I've got no business{br}with trash.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -433,7 +433,7 @@
    "3E8DC"
   ],
   "jp": "{box:01}かぐが置かれて{br}いるようだ。{page}{end}",
-  "en": "{box:01}Looks like some furniture.{page}{end}",
+  "en": "{box:01}Looks like some{br}furniture.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -496,7 +496,7 @@
    "3E8F0"
   ],
   "jp": "{box:01}すえたニオイが{br}するだんろだ。{page}{end}",
-  "en": "{box:01}A fireplace that smells sour.{page}{end}",
+  "en": "{box:01}A fireplace that{br}smells sour.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -507,7 +507,7 @@
    "3E8F4"
   ],
   "jp": "{box:01}ダイヤル式の{br}でんわだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}A rotary phone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}A rotary phone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -526,7 +526,7 @@
    "3E8F8"
   ],
   "jp": "{box:01}はんびらきの{br}たんすがある。{page}{box:01}中には何も{br}入っていない。{page}{end}",
-  "en": "{box:01}A wardrobe stands half open.{page}{box:01}There's nothing inside.{page}{end}",
+  "en": "{box:01}A wardrobe{br}stands half open.{page}{box:01}There's nothing inside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -537,7 +537,7 @@
    "3E85C"
   ],
   "jp": "{box:01}めぼしい物は{br}見当たらない。{page}{end}",
-  "en": "{box:01}Nothing worth taking in sight.{page}{end}",
+  "en": "{box:01}Nothing worth{br}taking in sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -570,7 +570,7 @@
    "3E86C"
   ],
   "jp": "{box:01}いらない物が{br}つんである。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -592,7 +592,7 @@
    "3E874"
   ],
   "jp": "{box:01}ひとむかし前の{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}An old-fashioned telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}An old-fashioned{br}telephone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -636,7 +636,7 @@
    "3E88C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -647,7 +647,7 @@
    "3E890"
   ],
   "jp": "{box:01}すすけたニオイの{br}するだんろだ。{page}{end}",
-  "en": "{box:01}A fireplace that smells of soot.{page}{end}",
+  "en": "{box:01}A fireplace that{br}smells of soot.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -658,7 +658,7 @@
    "3E894"
   ],
   "jp": "{box:01}レトロデザインの{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -669,7 +669,7 @@
    "3E89C"
   ],
   "jp": "{box:01}古いかぐが{br}つまれている。{page}{end}",
-  "en": "{box:01}Old furniture is stacked up.{page}{end}",
+  "en": "{box:01}Old furniture{br}is stacked up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -702,7 +702,7 @@
    "3E8AC"
   ],
   "jp": "{box:01}いらない物が{br}やまのようだ。{page}{end}",
-  "en": "{box:01}A mountain of unwanted stuff.{page}{end}",
+  "en": "{box:01}A mountain of{br}unwanted stuff.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -724,7 +724,7 @@
    "3E8B4"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{end}",
-  "en": "{box:01}A broken telephone sits here.{page}{end}",
+  "en": "{box:01}A broken telephone{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -735,7 +735,7 @@
    "3E8BC"
   ],
   "jp": "{box:01}いらないかぐが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unwanted furniture sits here.{page}{end}",
+  "en": "{box:01}Unwanted furniture{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -746,7 +746,7 @@
    "3E8C4"
   ],
   "jp": "{box:01}ホコリのつもった{br}こわれたソファだ。{page}{end}",
-  "en": "{box:01}A broken, dust-covered sofa.{page}{end}",
+  "en": "{box:01}A broken,{br}dust-covered sofa.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -779,7 +779,7 @@
    "3E8D0"
   ],
   "jp": "{box:01}だいり石の{br}りっぱなだんろだ。{page}{end}",
-  "en": "{box:01}A splendid marble fireplace.{page}{end}",
+  "en": "{box:01}A splendid marble{br}fireplace.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -790,7 +790,7 @@
    "3E8D4"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{box:01}でんわせんも{br}きれている…。{page}{end}",
-  "en": "{box:01}A broken telephone sits here.{page}{box:01}Its line has been cut, too...{page}{end}",
+  "en": "{box:01}A broken telephone{br}sits here.{page}{box:01}Its line has{br}been cut, too...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -809,7 +809,7 @@
    "3EA64"
   ],
   "jp": "{box:01}はんびらきの{br}たんすがある。{page}{box:01}中には何も{br}入っていない。{page}{end}",
-  "en": "{box:01}A wardrobe stands half open.{page}{box:01}There's nothing inside.{page}{end}",
+  "en": "{box:01}A wardrobe{br}stands half open.{page}{box:01}There's nothing inside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -820,7 +820,7 @@
    "3EA68"
   ],
   "jp": "{box:01}ダイヤル式の{br}でんわだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}A rotary phone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}A rotary phone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -831,7 +831,7 @@
    "3EA6C"
   ],
   "jp": "{box:01}すえたニオイが{br}するだんろだ。{page}{end}",
-  "en": "{box:01}A fireplace that smells sour.{page}{end}",
+  "en": "{box:01}A fireplace that{br}smells sour.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -894,7 +894,7 @@
    "3EA80"
   ],
   "jp": "{box:01}かぐが置かれて{br}いるようだ。{page}{box:01}そのすきまに{br}紙を見つけた。{page}{box:00}{name:02}ジョージ{br}「なになに…？」{page}{box:01}『ハーブはいくつか{br} くみあわせ、{page}{box:01}『薬にするべし。{br} 薬の中でも…{page}{box:01}『さいこうきゅうは{br} エリクシールだ』{page}{box:00}{name:02}ジョージ{br}「ふむ。{br} なるほど…」{page}{end}",
-  "en": "{box:01}Looks like some furniture.{page}{box:01}I found a paper wedged in a gap.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"Combine some of the herbs{page}{box:01}\"to make medicine.{br}And of all medicines...{page}{box:01}\"the very best is the Elixir.\"{page}{box:00}{name:02}George{br}Hmm. I see...{page}{end}",
+  "en": "{box:01}Looks like some{br}furniture.{page}{box:01}I found a paper{br}wedged in a gap.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"Combine some{br}of the herbs{page}{box:01}\"to make medicine.{br}And of all medicines...{page}{box:01}\"the very best{br}is the Elixir.\"{page}{box:00}{name:02}George{br}Hmm. I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -904,7 +904,7 @@
    "3E920"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかっているな…{page}{box:00}{name:02}ジョージ{br}「どこかにカギが{br} あるはずだ…{page}{box:00}{name:02}ジョージ{br}「まわりの物を{br} チェックしよう。{page}{box:00}{name:02}ジョージ{br}「気になる物の{br} 前でAボタンだ。」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}There's got to be{br}a key somewhere...{page}{box:00}{name:02}George{br}Let's check out the{br}stuff around here.{page}{box:00}{name:02}George{br}Press the A Button in front{br}of anything interesting.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}There's got to be{br}a key somewhere...{page}{box:00}{name:02}George{br}Let's check out the{br}stuff around here.{page}{box:00}{name:02}George{br}Use the A Button on{br}anything interesting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -915,7 +915,7 @@
    "3E9C8"
   ],
   "jp": "{box:01}ひとむかし前の{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}An old-fashioned telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}An old-fashioned{br}telephone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -937,7 +937,7 @@
    "3E9D0"
   ],
   "jp": "{box:01}いらない物が{br}つんである。{page}{end}",
-  "en": "{box:01}Unwanted stuff is piled up.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}is piled up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -970,7 +970,7 @@
    "3E9E0"
   ],
   "jp": "{box:01}走り書きを{br}みつけた。{page}{box:01}『ゴーストを{br} バインドする薬{page}{box:01}『それは3しゅの{br} 霊薬である』{page}{box:00}{name:02}ジョージ{br}「ほう…そんな物が{br} あるとはね」{page}{end}",
-  "en": "{box:01}I found a hasty scrawl.{page}{box:01}\"Potions that bind ghosts:{page}{box:01}\"there are three{br}kinds of Brew.\"{page}{box:00}{name:02}George{br}Huh... who knew there{br}was such a thing.{page}{end}",
+  "en": "{box:01}I found a hasty scrawl.{page}{box:01}\"Potions that{br}bind ghosts:{page}{box:01}\"there are three{br}kinds of Brew.\"{page}{box:00}{name:02}George{br}Huh... who knew there{br}was such a thing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -981,7 +981,7 @@
    "3E9F0"
   ],
   "jp": "{box:01}レトロデザインの{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line{br}has been cut...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -992,7 +992,7 @@
    "3E9F4"
   ],
   "jp": "{box:01}すすけたニオイの{br}するだんろだ。{page}{end}",
-  "en": "{box:01}A fireplace that smells of soot.{page}{end}",
+  "en": "{box:01}A fireplace that{br}smells of soot.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1047,7 +1047,7 @@
    "3EA18"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{end}",
-  "en": "{box:01}A broken telephone sits here.{page}{end}",
+  "en": "{box:01}A broken telephone{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1069,7 +1069,7 @@
    "3EA20"
   ],
   "jp": "{box:01}いらない物が{br}やまのようだ。{page}{end}",
-  "en": "{box:01}A mountain of unwanted stuff.{page}{end}",
+  "en": "{box:01}A mountain of{br}unwanted stuff.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1102,7 +1102,7 @@
    "3EA30"
   ],
   "jp": "{box:01}古いかぐが{br}つまれている。{page}{box:01}すきまに紙が{br}はさんであった。{page}{box:01}『全体ダメージの{br} さいこうきゅうは{page}{box:01}『夜あけのランプ{br} である』{page}{box:00}{name:02}ジョージ{br}「へえ…手に入れば、{br} 100人力だな」{page}{end}",
-  "en": "{box:01}Old furniture is stacked up.{page}{box:01}A paper was tucked in a gap.{page}{box:01}\"The best for{br}damaging all ghosts{page}{box:01}\"is the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Wow... if I got my hands on{br}that, I'd be unstoppable.{page}{end}",
+  "en": "{box:01}Old furniture{br}is stacked up.{page}{box:01}A paper was{br}tucked in a gap.{page}{box:01}\"The best for{br}damaging all ghosts{page}{box:01}\"is the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Wow... if I got my hands on{br}that, I'd be unstoppable.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1113,7 +1113,7 @@
    "3EA40"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{box:01}でんわせんも{br}きれている…。{page}{end}",
-  "en": "{box:01}A broken telephone sits here.{page}{box:01}Its line has been cut, too...{page}{end}",
+  "en": "{box:01}A broken telephone{br}sits here.{page}{box:01}Its line has{br}been cut, too...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1124,7 +1124,7 @@
    "3EA44"
   ],
   "jp": "{box:01}だいり石の{br}りっぱなだんろだ。{page}{end}",
-  "en": "{box:01}A splendid marble fireplace.{page}{end}",
+  "en": "{box:01}A splendid marble{br}fireplace.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1146,7 +1146,7 @@
    "3EA4C"
   ],
   "jp": "{box:01}ガラクタの中に{br}メモをはっけん。{page}{box:01}『聖者の石は、{br} そうびするだけで{page}{box:01}『かいふくして{br} くれる魔法の石』{page}{box:00}{name:02}ジョージ{br}「聖者の石か…」{page}{end}",
-  "en": "{box:01}Found a note among the junk.{page}{box:01}\"The Saint's Stone{br}is a magic stone{page}{box:01}\"that heals you just{br}by equipping it.\"{page}{box:00}{name:02}George{br}The Saint's Stone, huh...{page}{end}",
+  "en": "{box:01}Found a note{br}among the junk.{page}{box:01}\"The Saint's Stone{br}is a magic stone{page}{box:01}\"that heals you just{br}by equipping it.\"{page}{box:00}{name:02}George{br}The Saint's Stone, huh...{page}{end}",
   "status": "done",
   "notes": ""
  }

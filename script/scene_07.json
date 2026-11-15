@@ -96,7 +96,7 @@
    "3C08C"
   ],
   "jp": "{box:01}何も置かれて{br}いない。{page}{end}",
-  "en": "{box:01}Nothing has been placed here.{page}{end}",
+  "en": "{box:01}Nothing has been{br}placed here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -156,7 +156,7 @@
    "3C0A4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンが当たった？{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜん違う。{page}{box:00}{name:02}ジョージ{br}「この本が何かの{br} カギだったんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Was Karol-san's hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was some kind of key!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Was Karol-san's{br}hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was{br}some kind of key!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -166,7 +166,7 @@
    "3C0A8"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『おろかな…{page}{box:00}{name:05}？？？？{br}『これよりすすめば{br} きさまらにこそ…{page}{box:00}{name:05}？？？？{br}『大いなる…{br} わざわいが…』{page}{end}",
-  "en": "{box:00}{name:05}????{br}Fools...{page}{box:00}{name:05}????{br}Go any further and upon you...{page}{box:00}{name:05}????{br}a great... calamity...{page}{end}",
+  "en": "{box:00}{name:05}????{br}Fools...{page}{box:00}{name:05}????{br}Go any further{br}and upon you...{page}{box:00}{name:05}????{br}a great... calamity...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -186,7 +186,7 @@
    "3C0B0"
   ],
   "jp": "{box:01}ニサンの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「な…なんだ？」{page}{end}",
-  "en": "{box:01}The Book of Nisan is glowing!{page}{box:00}{name:02}George{br}Wh... what?{page}{end}",
+  "en": "{box:01}The Book of{br}Nisan is glowing!{page}{box:00}{name:02}George{br}Wh... what?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -196,7 +196,7 @@
    "3C0B4"
   ],
   "jp": "{box:01}アイヤルの書が{br}光っている{page}{box:00}{name:02}ジョージ{br}「またか！？」{page}{end}",
-  "en": "{box:01}The Book of Iyyar is glowing.{page}{box:00}{name:02}George{br}Again!?{page}{end}",
+  "en": "{box:01}The Book of{br}Iyyar is glowing.{page}{box:00}{name:02}George{br}Again!?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -206,7 +206,7 @@
    "3C0B8"
   ],
   "jp": "{box:01}シマヌの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「またかよ！{page}{end}",
-  "en": "{box:01}The Book of Simanu is glowing!{page}{box:00}{name:02}George{br}Oh, not again!{page}{end}",
+  "en": "{box:01}The Book of{br}Simanu is glowing!{page}{box:00}{name:02}George{br}Oh, not again!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -216,7 +216,7 @@
    "3C0BC"
   ],
   "jp": "{box:01}ドゥウズの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「次は何だ？{page}{end}",
-  "en": "{box:01}The Book of Duuzu is glowing!{page}{box:00}{name:02}George{br}What now?{page}{end}",
+  "en": "{box:01}The Book of{br}Duuzu is glowing!{page}{box:00}{name:02}George{br}What now?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -226,7 +226,7 @@
    "3C0C0"
   ],
   "jp": "{box:01}アブの書が{br}光っている{page}{end}",
-  "en": "{box:01}The Book of Abu is glowing.{page}{end}",
+  "en": "{box:01}The Book of{br}Abu is glowing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -236,7 +236,7 @@
    "3C0C4"
   ],
   "jp": "{box:01}ウルルの書が{br}光っている{page}{end}",
-  "en": "{box:01}The Book of Ululu is glowing.{page}{end}",
+  "en": "{box:01}The Book of{br}Ululu is glowing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -246,7 +246,7 @@
    "3C0C8"
   ],
   "jp": "{box:01}テシュリトゥの書が{br}光っている{page}{end}",
-  "en": "{box:01}The Book of Teshritu is glowing.{page}{end}",
+  "en": "{box:01}The Book of{br}Teshritu is glowing.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -256,7 +256,7 @@
    "3C0CC"
   ],
   "jp": "{box:01}アラフシャムの書が{br}光っている！{page}{end}",
-  "en": "{box:01}The Book of Arahsham is glowing!{page}{end}",
+  "en": "{box:01}The Book of{br}Arahsham is glowing!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -266,7 +266,7 @@
    "3C0D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「魔道書が光ったら{br} 文字が出てきたな…{page}{box:00}{name:02}ジョージ{br}「いったい{br} どうなってんだ？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The grimoire glowed{br}and writing appeared...{page}{box:00}{name:02}George{br}What the heck is going on?{page}{end}",
+  "en": "{box:00}{name:02}George{br}The grimoire glowed{br}and writing appeared...{page}{box:00}{name:02}George{br}What the heck{br}is going on?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -276,7 +276,7 @@
    "3C0D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「どうやら、先に{br} すすんで行くと、{page}{box:00}{name:02}ジョージ{br}「魔道書に文字が{br} 出てくるみたいだ。{page}{box:00}{name:02}ジョージ{br}「9冊目に近づいて{br} いるからかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like as I go further in,{page}{box:00}{name:02}George{br}writing appears in the grimoires.{page}{box:00}{name:02}George{br}Maybe because I'm getting{br}close to the ninth one?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like as I{br}go further in,{page}{box:00}{name:02}George{br}writing appears{br}in the grimoires.{page}{box:00}{name:02}George{br}Maybe because I'm getting{br}close to the ninth one?{page}{end}",
   "status": "done",
   "notes": ""
  }

@@ -5,7 +5,7 @@
    "40000"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
-  "en": "{box:01}There's a towel on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to use this towel.{page}{end}",
+  "en": "{box:01}There's a towel{br}on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to{br}use this towel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -25,7 +25,7 @@
    "40008"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's crooked too.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}crooked too.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -45,7 +45,7 @@
    "40010"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきが{br} 置かれてるな…{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a gramophone here...{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a{br}gramophone here...{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -55,7 +55,7 @@
    "40014"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「本物は{br} はじめてだ！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}First time I've seen a real one!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}First time I've{br}seen a real one!{page}{box:00}{name:02}George{br}Too bad I don't{br}have a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "40018"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「くそっ！{br} ガラスの窓なのに{page}{box:00}{name:02}ジョージ{br}「ビクともしないし、{br} われないなんて！{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ！{br} この館は！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Dammit! It's a glass window,{page}{box:00}{name:02}George{br}but it won't budge,{br}and it won't break!{page}{box:00}{name:02}George{br}What is up with this house?!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Dammit! It's a{br}glass window,{page}{box:00}{name:02}George{br}but it won't budge,{br}and it won't break!{page}{box:00}{name:02}George{br}What is up with{br}this house?!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -152,7 +152,7 @@
    "40030"
   ],
   "jp": "{box:01}かなりくたびれた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A really worn-out billiard table.{page}{end}",
+  "en": "{box:01}A really worn-out{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -162,7 +162,7 @@
    "40034"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}めぼしいモノは{br}ないようだ{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth taking, it seems.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth{br}taking, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -181,7 +181,7 @@
    "401EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、{page}{box:00}{name:02}ジョージ{br}「スタートボタンで{br} ひょうじされる、{page}{box:00}{name:02}ジョージ{br}「ミニマップで{br} かくにんできる。{page}{box:00}{name:02}ジョージ{br}「オレがむいている{br} ほうこうは、{page}{box:00}{name:02}ジョージ{br}「がめんみぎの{br} コンパスに出る…{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}when I press the START Button.{page}{box:00}{name:02}George{br}The direction I'm facing{page}{box:00}{name:02}George{br}shows on the compass on{br}the right of the screen...{page}{box:00}{name:02}George{br}Brilliant invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
+  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}when I press the{br}START Button.{page}{box:00}{name:02}George{br}The direction I'm facing{page}{box:00}{name:02}George{br}shows on the compass on{br}the right of the screen...{page}{box:00}{name:02}George{br}Brilliant{br}invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -203,7 +203,7 @@
    "40074"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't{br}have a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -214,7 +214,7 @@
    "40078"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビクともしない{br} ガラス窓だ。{page}{box:00}{name:02}ジョージ{br}「こわすのは{br} あきらめよう…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A glass window that won't budge.{page}{box:00}{name:02}George{br}I'll give up on breaking it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}A glass window{br}that won't budge.{page}{box:00}{name:02}George{br}I'll give up on{br}breaking it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -236,7 +236,7 @@
    "4008C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Forget billiards,{br}I need an exit.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -257,7 +257,7 @@
    "40064"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ゴーストの{br} こうげきは2つ{page}{box:01}『とりついて{br} うごけなくなる{page}{box:01}『ひょういこうげき{br} もうひとつは{page}{box:01}『ぶつりてきな{br} こうげきである』{page}{box:00}{name:02}ジョージ{br}「なるほど…{br} 2つのこうげきか」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Ghosts have two{br}kinds of attack.{page}{box:01}\"One is possession,{br}where they latch on{page}{box:01}\"so you can't move.{page}{box:01}\"The other is a{br}physical attack.\"{page}{box:00}{name:02}George{br}I see... two kinds of attack.{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"Ghosts have two{br}kinds of attack.{page}{box:01}\"One is possession,{br}where they latch on{page}{box:01}\"so you can't move.{page}{box:01}\"The other is a{br}physical attack.\"{page}{box:00}{name:02}George{br}I see... two{br}kinds of attack.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -267,7 +267,7 @@
    "40094"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『じゅうじボタンで{br} ふりほどくか、{page}{box:01}『エルダーのえだを{br} そうびすべし』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"shake them off with{br}the Control Pad,{page}{box:01}\"or equip an Elder Branch.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"To shorten{br}possession time,{page}{box:01}\"shake them off with{br}the Control Pad,{page}{box:01}\"or equip an{br}Elder Branch.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -311,7 +311,7 @@
    "400E8"
   ],
   "jp": "{box:01}かなりよごれた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A really dirty billiard table.{page}{end}",
+  "en": "{box:01}A really dirty{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -322,7 +322,7 @@
    "400EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あそんでいる{br} ヒマはないな…{page}{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to play around...{page}{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to play around...{page}{box:00}{name:02}George{br}Forget billiards,{br}I need an exit.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -343,7 +343,7 @@
    "400C4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『エルダーのえだ{br} よりも{page}{box:01}『ザツなおまもりが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"a Cheap Charm works better{page}{box:01}\"than an Elder Branch.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"To shorten{br}possession time,{page}{box:01}\"a Cheap Charm{br}works better{page}{box:01}\"than an Elder Branch.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -353,7 +353,7 @@
    "400F4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモを見つけた。{page}{box:01}『エルダーのえだは{br} きよめたナイフで{page}{box:01}『けずることで、{br} ザツなおまもりに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}I found a note on the table.{page}{box:01}\"Whittle an Elder Branch{br}with a Purified Knife{page}{box:01}\"and it becomes a Cheap Charm.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}I found a note{br}on the table.{page}{box:01}\"Whittle an Elder Branch{br}with a Purified Knife{page}{box:01}\"and it becomes{br}a Cheap Charm.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -419,7 +419,7 @@
    "40150"
   ],
   "jp": "{box:01}ビリヤードだいが{br}置かれている。{page}{end}",
-  "en": "{box:01}A billiard table stands here.{page}{end}",
+  "en": "{box:01}A billiard table{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -429,7 +429,7 @@
    "40124"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『ザツなおまもり{br} よりも…{page}{box:01}『アミュレットが{br} こうかてきである』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"an Amulet works better{page}{box:01}\"than a Cheap Charm.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"To shorten{br}possession time,{page}{box:01}\"an Amulet works better{page}{box:01}\"than a Cheap Charm.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -439,7 +439,7 @@
    "40154"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ、{page}{box:01}『アミュレットが{br} 生まれるだろう』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm,{page}{box:01}\"and an Amulet shall be born.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm,{page}{box:01}\"and an Amulet{br}shall be born.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -472,7 +472,7 @@
    "40198"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あかないし{br} こわれない窓…{page}{box:00}{name:02}ジョージ{br}「これもオカルトの{br} チカラなのか…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A window that won't{br}open or break...{page}{box:00}{name:02}George{br}Is this occult power too...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}A window that won't{br}open or break...{page}{box:00}{name:02}George{br}Is this occult{br}power too...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -483,7 +483,7 @@
    "401A8"
   ],
   "jp": "{box:01}こわれかけた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A billiard table on its last legs.{page}{end}",
+  "en": "{box:01}A billiard table{br}on its last legs.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -494,7 +494,7 @@
    "401AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…アリシア…{br} 待ってろよ！{page}{box:00}{name:02}ジョージ{br}「かならずたすけて、{br} またビリヤードで{page}{box:00}{name:02}ジョージ{br}「しょうぶしてやる！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}...Alicia... hang on!{page}{box:00}{name:02}George{br}I'll save you for sure, and then{page}{box:00}{name:02}George{br}we'll have a billiards rematch!{page}{end}",
+  "en": "{box:00}{name:02}George{br}...Alicia... hang on!{page}{box:00}{name:02}George{br}I'll save you for{br}sure, and then{page}{box:00}{name:02}George{br}we'll have a{br}billiards rematch!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    "401B0"
   ],
   "jp": "{box:01}ホコリのつもった{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A dust-covered billiard table.{page}{end}",
+  "en": "{box:01}A dust-covered{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -515,7 +515,7 @@
    "40184"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『ひょういぼうぐの{br} アミュレットから{page}{box:01}『心のおまもりが{br} つくれるだろう』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"From the Amulet, a guard{br}against possession,{page}{box:01}\"a Heart Charm can be made.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm{br}gonna read this...{page}{box:01}\"From the Amulet, a guard{br}against possession,{page}{box:01}\"a Heart Charm{br}can be made.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -525,7 +525,7 @@
    "401B4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:00}{name:02}ジョージ{br}「おっと、見のがす{br} ところだったな」{page}{box:01}『アミュレットに{br} 赤の石を入れろ。{page}{box:01}『心のおまもりが{br} できるであろう』{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Put a Red Stone in the Amulet.{page}{box:01}\"A Heart Charm shall be made.\"{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Put a Red Stone{br}in the Amulet.{page}{box:01}\"A Heart Charm{br}shall be made.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    "401C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「窓を見ている{br} ヒマはないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at windows.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at windows.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -595,7 +595,7 @@
    "401E4"
   ],
   "jp": "{box:01}テーブルの上には{br}メモがあった。{page}{box:01}『先をいそげ』{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Hurry on.\"{page}{box:00}{name:02}George{br}...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"Hurry on.\"{page}{box:00}{name:02}George{br}...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -645,7 +645,7 @@
    "40200"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A large painting is on display.{page}{end}",
+  "en": "{box:01}A large painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -656,7 +656,7 @@
    "40268"
   ],
   "jp": "{box:01}白いちょうこくが{br}置かれている。{page}{end}",
-  "en": "{box:01}A white sculpture stands here.{page}{end}",
+  "en": "{box:01}A white sculpture{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -678,7 +678,7 @@
    "40270"
   ],
   "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "en": "{box:01}An oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -711,7 +711,7 @@
    "40280"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "en": "{box:01}A white ornament{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -755,7 +755,7 @@
    "40290"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}A dust-covered oil painting.{page}{end}",
+  "en": "{box:01}A dust-covered{br}oil painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -766,7 +766,7 @@
    "40298"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "en": "{box:01}A plaster statue{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -777,7 +777,7 @@
    "4029C"
   ],
   "jp": "{box:01}そうしょくが床に{br}置かれている。{page}{end}",
-  "en": "{box:01}A decoration sits on the floor.{page}{end}",
+  "en": "{box:01}A decoration{br}sits on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -788,7 +788,7 @@
    "402A0"
   ],
   "jp": "{box:01}きみょうな絵が{br}かけてある。{page}{end}",
-  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "en": "{box:01}A strange painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },

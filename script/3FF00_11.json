@@ -5,7 +5,7 @@
    "413E8"
   ],
   "jp": "{box:01}びじゅつひんが{br}かかげられている。{page}{end}",
-  "en": "{box:01}A work of art is raised up.{page}{end}",
+  "en": "{box:01}A work of art{br}is raised up.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -15,7 +15,7 @@
    "413EC"
   ],
   "jp": "{box:01}せの高いだいざ{br}が置かれている。{page}{end}",
-  "en": "{box:01}A tall pedestal stands here.{page}{end}",
+  "en": "{box:01}A tall pedestal{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -45,7 +45,7 @@
    "413F8"
   ],
   "jp": "{box:01}かわいらしい絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A charming painting is on display.{page}{end}",
+  "en": "{box:01}A charming painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "41400"
   ],
   "jp": "{box:01}床にスイッチが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「よし、いっちょ{br} ためしてみるか…」{page}{end}",
-  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}All right, let's give it a shot...{page}{end}",
+  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}All right, let's{br}give it a shot...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "41408"
   ],
   "jp": "{box:01}床のスイッチが{br}ONになった。{page}{end}",
-  "en": "{box:01}The floor switch turned ON.{page}{end}",
+  "en": "{box:01}The floor switch{br}turned ON.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -95,7 +95,7 @@
    "41410"
   ],
   "jp": "{box:01}こわれておちた{br}シャンデリアだ。{page}{end}",
-  "en": "{box:01}A chandelier that broke and fell.{page}{end}",
+  "en": "{box:01}A chandelier that{br}broke and fell.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -105,7 +105,7 @@
    "41414"
   ],
   "jp": "{box:01}文字ばんのよこに{br}ネジまきがある。{page}{box:00}{name:02}ジョージ{br}「ネジをまけば、{br} うごくかな…？{page}{box:01}ジョージは時計の{br}ネジをまいた。{page}{box:00}{name:02}ジョージ{br}「おっ！うごいた…{br} …けど、{page}{box:00}{name:02}ジョージ{br}「時計のハリが{br} ぎゃくに回ってる。{page}{box:00}{name:02}ジョージ{br}「時間がぎゃくに{br} すすむのか？{page}{box:00}{name:02}ジョージ{br}「いったいなんだ？{br} この時計は？」{page}{end}",
-  "en": "{box:01}There's a winding{br}key beside the dial.{page}{box:00}{name:02}George{br}If I wind it, will it run...?{page}{box:01}I wound the clock.{page}{box:00}{name:02}George{br}Oh! It's moving... but...{page}{box:00}{name:02}George{br}the clock hands are{br}running backward.{page}{box:00}{name:02}George{br}Is time running in reverse?{page}{box:00}{name:02}George{br}What the heck is with this clock?{page}{end}",
+  "en": "{box:01}There's a winding{br}key beside the dial.{page}{box:00}{name:02}George{br}If I wind it, will it run...?{page}{box:01}I wound the clock.{page}{box:00}{name:02}George{br}Oh! It's moving... but...{page}{box:00}{name:02}George{br}the clock hands are{br}running backward.{page}{box:00}{name:02}George{br}Is time running{br}in reverse?{page}{box:00}{name:02}George{br}What the heck is{br}with this clock?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -115,7 +115,7 @@
    "41418"
   ],
   "jp": "{box:01}時計はぎゃくに{br}すすんでいる。{page}{box:00}{name:02}ジョージ{br}「ネジまきも、もう{br} 回らないし…{page}{box:00}{name:02}ジョージ{br}「オレがこわした…{br} のかな…？」{page}{end}",
-  "en": "{box:01}The clock is running backward.{page}{box:00}{name:02}George{br}The winding key{br}won't turn anymore...{page}{box:00}{name:02}George{br}Did I... break it...?{page}{end}",
+  "en": "{box:01}The clock is{br}running backward.{page}{box:00}{name:02}George{br}The winding key{br}won't turn anymore...{page}{box:00}{name:02}George{br}Did I... break it...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "4141C"
   ],
   "jp": "{box:01}カラのハコが{br}つまれている。{page}{box:00}{name:02}ジョージ{br}「…やっぱり{br} 全部カラッポだ」{page}{end}",
-  "en": "{box:01}Empty boxes are stacked up.{page}{box:00}{name:02}George{br}...Yep, all empty.{page}{end}",
+  "en": "{box:01}Empty boxes{br}are stacked up.{page}{box:00}{name:02}George{br}...Yep, all empty.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -165,7 +165,7 @@
    "4142C"
   ],
   "jp": "{box:01}せの低い{br}テーブルがある。{page}{box:01}めぼしい物は{br}のっていない。{page}{end}",
-  "en": "{box:01}There's a low table.{page}{box:01}Nothing worth taking on it.{page}{end}",
+  "en": "{box:01}There's a low table.{page}{box:01}Nothing worth{br}taking on it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    "41430"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}テーブルに物は{br}のっていない。{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}There's nothing on the table.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}There's nothing{br}on the table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -185,7 +185,7 @@
    "41434"
   ],
   "jp": "{box:01}カビの生えた{br}クッションがある。{page}{box:00}{name:02}ジョージ{br}「ふみつけると、{br} カビのほうしが{page}{box:00}{name:02}ジョージ{br}「とびちって、{br} ヤバイだろうな…」{page}{end}",
-  "en": "{box:01}There's a moldy cushion.{page}{box:00}{name:02}George{br}If I stepped on it, mold spores{page}{box:00}{name:02}George{br}would go flying. Bad idea...{page}{end}",
+  "en": "{box:01}There's a moldy cushion.{page}{box:00}{name:02}George{br}If I stepped on{br}it, mold spores{page}{box:00}{name:02}George{br}would go flying. Bad idea...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -197,7 +197,7 @@
    "41474"
   ],
   "jp": "{box:01}ハコがたの{br}きかいがある。{page}{box:00}{name:02}ジョージ{br}「何かのポンプ{br} かな？」{page}{end}",
-  "en": "{box:01}There's a box-shaped machine.{page}{box:00}{name:02}George{br}Some kind of pump?{page}{end}",
+  "en": "{box:01}There's a{br}box-shaped machine.{page}{box:00}{name:02}George{br}Some kind of pump?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -224,7 +224,7 @@
    "4147C"
   ],
   "jp": "{box:01}でんきのパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「スイッチきれば{br} まっくらになるな。{page}{box:00}{name:02}ジョージ{br}「こわいから{br} やらないけど」{page}{end}",
-  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}If I flipped the switch,{br}it'd go pitch black.{page}{box:00}{name:02}George{br}Too scary, so I won't.{page}{end}",
+  "en": "{box:01}There's an{br}electrical panel.{page}{box:00}{name:02}George{br}If I flipped the switch,{br}it'd go pitch black.{page}{box:00}{name:02}George{br}Too scary, so I won't.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -260,7 +260,7 @@
    "414C8"
   ],
   "jp": "{box:01}ポンプがハコに{br}おさめられている。{page}{box:00}{name:02}ジョージ{br}「これでゴーストを{br} すいこめないかな？{page}{box:00}{name:02}ジョージ{br}「……やっぱり{br} ムリがあるな」{page}{end}",
-  "en": "{box:01}A pump is housed in a box.{page}{box:00}{name:02}George{br}Could I suck up ghosts with this?{page}{box:00}{name:02}George{br}...Nah, that's a stretch.{page}{end}",
+  "en": "{box:01}A pump is housed in a box.{page}{box:00}{name:02}George{br}Could I suck up{br}ghosts with this?{page}{box:00}{name:02}George{br}...Nah, that's a stretch.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -272,7 +272,7 @@
    "414D0"
   ],
   "jp": "{box:01}でんきのパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「スイッチで{br} かくしとびらが！{page}{box:00}{name:02}ジョージ{br}「…ひらいたり{br} しないかな…」{page}{end}",
-  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}Flip a switch, and{br}a secret door...!{page}{box:00}{name:02}George{br}...Think one might open...?{page}{end}",
+  "en": "{box:01}There's an{br}electrical panel.{page}{box:00}{name:02}George{br}Flip a switch, and{br}a secret door...!{page}{box:00}{name:02}George{br}...Think one might open...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -311,7 +311,7 @@
    "41524"
   ],
   "jp": "{box:01}大きなきかいが{br}すえつけてある。{page}{end}",
-  "en": "{box:01}A big machine is installed here.{page}{end}",
+  "en": "{box:01}A big machine is{br}installed here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -323,7 +323,7 @@
    "41520"
   ],
   "jp": "{box:01}大きなきかいが{br}すえつけてある。{page}{box:01}今はうごいて{br}いないようだ。{page}{end}",
-  "en": "{box:01}A big machine is installed here.{page}{box:01}It doesn't seem{br}to be running now.{page}{end}",
+  "en": "{box:01}A big machine is{br}installed here.{page}{box:01}It doesn't seem{br}to be running now.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    "41528"
   ],
   "jp": "{box:01}でんきのパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「どこのでんげん{br} なんだろう？」{page}{end}",
-  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}What's it powering, I wonder?{page}{end}",
+  "en": "{box:01}There's an{br}electrical panel.{page}{box:00}{name:02}George{br}What's it powering,{br}I wonder?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -362,7 +362,7 @@
    "41530"
   ],
   "jp": "{box:01}大きなハコの中に{br}ポンプがある。{page}{box:00}{name:02}ジョージ{br}「ヘタにいじると{br} 水がふきだすぞ」{page}{end}",
-  "en": "{box:01}There's a pump inside a big box.{page}{box:00}{name:02}George{br}Mess with it and water'll{br}come gushing out.{page}{end}",
+  "en": "{box:01}There's a pump{br}inside a big box.{page}{box:00}{name:02}George{br}Mess with it and water'll{br}come gushing out.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -389,7 +389,7 @@
    "41574"
   ],
   "jp": "{box:01}何だかわからない{br}きかいがある。{page}{box:00}{name:02}ジョージ{br}「何となく{br} 目ざわりだ」{page}{end}",
-  "en": "{box:01}There's a machine{br}I can't figure out.{page}{box:00}{name:02}George{br}It kind of gets on my nerves.{page}{end}",
+  "en": "{box:01}There's a machine{br}I can't figure out.{page}{box:00}{name:02}George{br}It kind of gets{br}on my nerves.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -401,7 +401,7 @@
    "4157C"
   ],
   "jp": "{box:01}でんきのパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「こんなの見てても{br} いみないぞ」{page}{end}",
-  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}No point staring at this.{page}{end}",
+  "en": "{box:01}There's an{br}electrical panel.{page}{box:00}{name:02}George{br}No point staring at this.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -413,7 +413,7 @@
    "41584"
   ],
   "jp": "{box:01}大きなハコの中に{br}ポンプがある。{page}{box:00}{name:02}ジョージ{br}「調べても{br} ムダみたいだな」{page}{end}",
-  "en": "{box:01}There's a pump inside a big box.{page}{box:00}{name:02}George{br}Looks like checking{br}it is a waste of time.{page}{end}",
+  "en": "{box:01}There's a pump{br}inside a big box.{page}{box:00}{name:02}George{br}Looks like checking{br}it is a waste of time.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -482,7 +482,7 @@
    "415D4"
   ],
   "jp": "{box:01}かべにきかいが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「何だろう{br} このきかいは？{page}{box:00}{name:02}ジョージ{br}「天才のオレにも{br} 見当がつかない」{page}{end}",
-  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}What is this machine?{page}{box:00}{name:02}George{br}Even a genius like{br}me can't guess.{page}{end}",
+  "en": "{box:01}A machine is built{br}into the wall.{page}{box:00}{name:02}George{br}What is this machine?{page}{box:00}{name:02}George{br}Even a genius like{br}me can't guess.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -494,7 +494,7 @@
    "415D8"
   ],
   "jp": "{box:01}でんきのメーターが{br}うごいている。{page}{box:00}{name:02}ジョージ{br}「ずいぶん使ってる{br} みたいだな…」{page}{box:00}{name:02}ジョージ{br}「……{br} …だれが？」{page}{end}",
-  "en": "{box:01}The electric meter is turning.{page}{box:00}{name:02}George{br}Looks like a lot of{br}power's being used...{page}{box:00}{name:02}George{br}...... By who?{page}{end}",
+  "en": "{box:01}The electric{br}meter is turning.{page}{box:00}{name:02}George{br}Looks like a lot of{br}power's being used...{page}{box:00}{name:02}George{br}...... By who?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -518,7 +518,7 @@
    "41628"
   ],
   "jp": "{box:01}かべにきかいが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「ふたをあけると{br} かくしつうろが！{page}{box:00}{name:02}ジョージ{br}「…ないよな、{br} やっぱり…」{page}{end}",
-  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}Open the cover, and{br}a secret passage!{page}{box:00}{name:02}George{br}...Nope, of course not...{page}{end}",
+  "en": "{box:01}A machine is built{br}into the wall.{page}{box:00}{name:02}George{br}Open the cover, and{br}a secret passage!{page}{box:00}{name:02}George{br}...Nope, of course not...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -530,7 +530,7 @@
    "4162C"
   ],
   "jp": "{box:01}でんきのメーターが{br}うごいている。{page}{box:00}{name:02}ジョージ{br}「ぶっこわしたら{br} 気がはれるかな？{page}{box:00}{name:02}ジョージ{br}「かんでんするから{br} やらないけど」{page}{end}",
-  "en": "{box:01}The electric meter is turning.{page}{box:00}{name:02}George{br}Would smashing it{br}make me feel better?{page}{box:00}{name:02}George{br}I'd get electrocuted, so I won't.{page}{end}",
+  "en": "{box:01}The electric{br}meter is turning.{page}{box:00}{name:02}George{br}Would smashing it{br}make me feel better?{page}{box:00}{name:02}George{br}I'd get electrocuted,{br}so I won't.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -545,7 +545,7 @@
    "4168C"
   ],
   "jp": "{box:01}大きなきかいが{br}すえつけてある。{page}{end}",
-  "en": "{box:01}A big machine is installed here.{page}{end}",
+  "en": "{box:01}A big machine is{br}installed here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -557,7 +557,7 @@
    "41688"
   ],
   "jp": "{box:01}大きなきかいが{br}すえつけてある。{page}{box:00}{name:02}ジョージ{br}「ヒーターか{br} 何かかな？」{page}{end}",
-  "en": "{box:01}A big machine is installed here.{page}{box:00}{name:02}George{br}A heater or something?{page}{end}",
+  "en": "{box:01}A big machine is{br}installed here.{page}{box:00}{name:02}George{br}A heater or something?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -569,7 +569,7 @@
    "41690"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「しょうめいの{br} でんげんパネルだ。{page}{box:00}{name:02}ジョージ{br}「さわるのは{br} やめておこう。{page}{box:00}{name:02}ジョージ{br}「でんきがきえたら{br} ないちゃうぜ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This is the power{br}panel for the lights.{page}{box:00}{name:02}George{br}Better not touch it.{page}{box:00}{name:02}George{br}If the lights went out, I'd cry.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This is the power{br}panel for the lights.{page}{box:00}{name:02}George{br}Better not touch it.{page}{box:00}{name:02}George{br}If the lights{br}went out, I'd cry.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -584,7 +584,7 @@
    "4169C"
   ],
   "jp": "{box:01}かべが大きく{br}くずれている。{page}{end}",
-  "en": "{box:01}The wall has badly collapsed.{page}{end}",
+  "en": "{box:01}The wall has{br}badly collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -596,7 +596,7 @@
    "41698"
   ],
   "jp": "{box:01}かべが大きく{br}くずれている。{page}{box:00}{name:02}ジョージ{br}「大きな何かが{br} ぶつかったのか？{page}{box:00}{name:02}ジョージ{br}「…なんだろう…。{br} 考えたくないな」{page}{end}",
-  "en": "{box:01}The wall has badly collapsed.{page}{box:00}{name:02}George{br}Did something big slam into it?{page}{box:00}{name:02}George{br}...What could it... I don't{br}want to think about it.{page}{end}",
+  "en": "{box:01}The wall has{br}badly collapsed.{page}{box:00}{name:02}George{br}Did something{br}big slam into it?{page}{box:00}{name:02}George{br}...What could it... I don't{br}want to think about it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -608,7 +608,7 @@
    "416A0"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「サビついてて{br} 回らないぞ」{page}{end}",
-  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}They're rusted and won't turn.{page}{end}",
+  "en": "{box:01}Two valves sit{br}side by side.{page}{box:00}{name:02}George{br}They're rusted{br}and won't turn.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -686,7 +686,7 @@
    "41710"
   ],
   "jp": "{box:01}かべが大きく{br}くずれおちている。{page}{box:00}{name:02}ジョージ{br}「これもゴーストの{br} しわざか…{page}{box:00}{name:02}ジョージ{br}「早くアリシアを{br} 見つけないと…」{page}{end}",
-  "en": "{box:01}A big section of the{br}wall has collapsed.{page}{box:00}{name:02}George{br}Is this the ghosts' doing too...{page}{box:00}{name:02}George{br}I've got to find Alicia, fast...{page}{end}",
+  "en": "{box:01}A big section of the{br}wall has collapsed.{page}{box:00}{name:02}George{br}Is this the ghosts'{br}doing too...{page}{box:00}{name:02}George{br}I've got to find{br}Alicia, fast...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -698,7 +698,7 @@
    "41718"
   ],
   "jp": "{box:01}さびたバルブが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:01}Rusty valves sit side by side.{page}{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:01}Rusty valves{br}sit side by side.{page}{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -710,7 +710,7 @@
    "4171C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタをあさる{br} ヒマはないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to dig through junk.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to dig{br}through junk.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -722,7 +722,7 @@
    "41774"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうなモノは{br} 見当たらないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't see anything usable.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't see{br}anything usable.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -734,7 +734,7 @@
    "41778"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「回してみても{br} 手ごたえがない。{page}{box:00}{name:02}ジョージ{br}「たぶんネジが{br} バカになってるな」{page}{end}",
-  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}I try turning them, but{br}there's no resistance.{page}{box:00}{name:02}George{br}The threads are{br}probably stripped.{page}{end}",
+  "en": "{box:01}Two valves sit{br}side by side.{page}{box:00}{name:02}George{br}I try turning them, but{br}there's no resistance.{page}{box:00}{name:02}George{br}The threads are{br}probably stripped.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -794,7 +794,7 @@
    "4180C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これってなんの{br} きかいだろう？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What kind of machine is this?{page}{end}",
+  "en": "{box:00}{name:02}George{br}What kind of{br}machine is this?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -806,7 +806,7 @@
    "41790"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これってなんの{br} きかいだろう？{page}{box:00}{name:02}ジョージ{br}「なんだ、中は{br} からっぽだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What kind of machine is this?{page}{box:00}{name:02}George{br}What, it's empty inside!{page}{end}",
+  "en": "{box:00}{name:02}George{br}What kind of{br}machine is this?{page}{box:00}{name:02}George{br}What, it's empty inside!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -818,7 +818,7 @@
    "417EC"
   ],
   "jp": "{box:01}たなに小物が{br}のっている。{page}{end}",
-  "en": "{box:01}Odds and ends sit on the shelf.{page}{end}",
+  "en": "{box:01}Odds and ends{br}sit on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -830,7 +830,7 @@
    "417F0"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「回すのはイヤだ。{page}{box:00}{name:02}ジョージ{br}「ヘンなものが出て{br} 来るかもしれない」{page}{end}",
-  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}I don't want to turn them.{page}{box:00}{name:02}George{br}Something weird might come out.{page}{end}",
+  "en": "{box:01}Two valves sit{br}side by side.{page}{box:00}{name:02}George{br}I don't want to turn them.{page}{box:00}{name:02}George{br}Something weird{br}might come out.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -854,7 +854,7 @@
    "417F8"
   ],
   "jp": "{box:01}かべに大きな{br}あながあいている。{page}{box:00}{name:02}ジョージ{br}「このあなに{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「…いるわけは{br} ないか…」{page}{end}",
-  "en": "{box:01}There's a big hole in the wall.{page}{box:00}{name:02}George{br}Alicia might be in this hole...{page}{box:00}{name:02}George{br}...Nah, no way...{page}{end}",
+  "en": "{box:01}There's a big{br}hole in the wall.{page}{box:00}{name:02}George{br}Alicia might be{br}in this hole...{page}{box:00}{name:02}George{br}...Nah, no way...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -866,7 +866,7 @@
    "41800"
   ],
   "jp": "{box:01}でんきの{br}メーターだ。{page}{box:00}{name:02}ジョージ{br}「ゴーストハウス{br} らしくないよな」{page}{end}",
-  "en": "{box:01}An electric meter.{page}{box:00}{name:02}George{br}Doesn't really fit a ghost house.{page}{end}",
+  "en": "{box:01}An electric meter.{page}{box:00}{name:02}George{br}Doesn't really fit{br}a ghost house.{page}{end}",
   "status": "done",
   "notes": ""
  }

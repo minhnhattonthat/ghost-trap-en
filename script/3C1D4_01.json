@@ -5,7 +5,7 @@
    "3C308"
   ],
   "jp": "{box:00}{name:04}カロル{br}「ここから誰も{br} 出さないように{page}{box:00}{name:04}カロル{br}「ゴーストたちが{br} 館をまもっている…{page}{box:00}{name:04}カロル{br}「…とにかく本を{br} 9冊集めましょう{page}{box:00}{name:04}カロル{br}「アリシアさんも{br} きっとそれで…」{page}{end}",
-  "en": "{box:00}{name:04}Karol{br}The ghosts guard the mansion{page}{box:00}{name:04}Karol{br}so that no one{br}gets out of here...{page}{box:00}{name:04}Karol{br}...Anyway, let's{br}gather all nine books.{page}{box:00}{name:04}Karol{br}I'm sure that will bring{br}back Alicia-san too...{page}{end}",
+  "en": "{box:00}{name:04}Karol{br}The ghosts guard{br}the mansion{page}{box:00}{name:04}Karol{br}so that no one{br}gets out of here...{page}{box:00}{name:04}Karol{br}...Anyway, let's{br}gather all nine books.{page}{box:00}{name:04}Karol{br}I'm sure that will bring{br}back Alicia-san too...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -55,7 +55,7 @@
    "3C32C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「すみません、{br} ジョージさん…{page}{box:00}{name:04}カロル{br}「本当なら私が{br} やるべき事なのに…{page}{box:00}{name:04}カロル{br}「むしのいい{br} おねがいですが、{page}{box:00}{name:04}カロル{br}「私のむかしの{br} 仲間たちを…{page}{box:00}{name:04}カロル{br}「アリギエリさんを{br} すくってください！{page}{box:00}{name:04}カロル{br}「そして{br} アリシアさんを…」{page}{end}",
-  "en": "{box:00}{name:04}Karol{br}I'm sorry, George-san...{page}{box:00}{name:04}Karol{br}This should really be my job...{page}{box:00}{name:04}Karol{br}I know it's selfish to ask, but...{page}{box:00}{name:04}Karol{br}my old friends...{page}{box:00}{name:04}Karol{br}and Alighieri-san...{br}please save them!{page}{box:00}{name:04}Karol{br}And Alicia-san, too...{page}{end}",
+  "en": "{box:00}{name:04}Karol{br}I'm sorry, George-san...{page}{box:00}{name:04}Karol{br}This should{br}really be my job...{page}{box:00}{name:04}Karol{br}I know it's selfish{br}to ask, but...{page}{box:00}{name:04}Karol{br}my old friends...{page}{box:00}{name:04}Karol{br}and Alighieri-san...{br}please save them!{page}{box:00}{name:04}Karol{br}And Alicia-san, too...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "3C330"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あさまでに{br} アリシアを…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Before morning, I'll get Alicia...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Before morning,{br}I'll get Alicia...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "3C460"
   ],
   "jp": "{box:01}手すりは古く{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「なんか下に{br} おっこちそうだ」{page}{end}",
-  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}Feels like I'd fall right through.{page}{end}",
+  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}Feels like I'd fall{br}right through.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -165,7 +165,7 @@
    "3C468"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん古い{br} 床だな…{page}{box:00}{name:02}ジョージ{br}「目の前の床は{br} くずれそうだ…{page}{box:00}{name:02}ジョージ{br}「行かないように{br} しよう…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This floor is really old...{page}{box:00}{name:02}George{br}The floor ahead looks{br}ready to collapse...{page}{box:00}{name:02}George{br}I'd better not go that way...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This floor is really old...{page}{box:00}{name:02}George{br}The floor ahead looks{br}ready to collapse...{page}{box:00}{name:02}George{br}I'd better not{br}go that way...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    "3C354"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はまだ{br}あかるいようだ。{page}{end}",
-  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It still seems to be light outside.{page}{end}",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It still seems to{br}be light outside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -185,7 +185,7 @@
    "3C358"
   ],
   "jp": "{box:01}この窓も{br}あかないようだ。{page}{end}",
-  "en": "{box:01}This window won't open either.{page}{end}",
+  "en": "{box:01}This window won't{br}open either.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -235,7 +235,7 @@
    "3C38C"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}ゆうやけも{br}おわりに近い。{page}{end}",
-  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}The sunset is almost over.{page}{end}",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}The sunset is{br}almost over.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -265,7 +265,7 @@
    "3C3A8"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はしだいに{br}くらくなっていく。{page}{end}",
-  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's slowly getting dark outside.{page}{end}",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's slowly getting{br}dark outside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -275,7 +275,7 @@
    "3C3AC"
   ],
   "jp": "{box:01}この窓から{br}出れそうにない。{page}{end}",
-  "en": "{box:01}No way out through this window.{page}{end}",
+  "en": "{box:01}No way out through{br}this window.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -295,7 +295,7 @@
    "3C3C4"
   ],
   "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はもう、{br}まっくらだ…。{page}{end}",
-  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's pitch-black outside now...{page}{end}",
+  "en": "{box:01}The window Karol-san{br}was banging on.{page}{box:01}It's pitch-black{br}outside now...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -305,7 +305,7 @@
    "3C3C8"
   ],
   "jp": "{box:01}何度調べても{br}あかない窓だ。{page}{end}",
-  "en": "{box:01}A window that won't open, no{br}matter how often I check.{page}{end}",
+  "en": "{box:01}A window that won't open,{br}no matter how I try.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    "3C3E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この窓も{br} あかないなあ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This window won't open either.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This window won't{br}open either.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -395,7 +395,7 @@
    "3C41C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「くらくて何も{br} 見えないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It's too dark to see anything.{page}{end}",
+  "en": "{box:00}{name:02}George{br}It's too dark to{br}see anything.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -585,7 +585,7 @@
    "3C498"
   ],
   "jp": "{box:01}ドアのむこうから{br}声がきこえてくる。{page}{box:00}{name:02}ジョージ{br}「この声はアリシア…{br} そしてカロルさん…{page}{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだな！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！{page}{box:00}{name:02}ジョージ{br}「こんなヘンな館で、{br} もう一度ここに…{page}{box:00}{name:02}ジョージ{br}「来れるほしょうは{br} ないもんな…」{page}{end}",
-  "en": "{box:01}I can hear voices{br}from beyond the door.{page}{box:00}{name:02}George{br}That's Alicia... and Karol-san...{page}{box:00}{name:02}George{br}This door must lead{br}to the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing book over there!{page}{box:00}{name:02}George{br}In a weird mansion like this,{page}{box:00}{name:02}George{br}there's no guarantee I{br}can ever get back here...{page}{end}",
+  "en": "{box:01}I can hear voices{br}from beyond the door.{page}{box:00}{name:02}George{br}That's Alicia...{br}and Karol-san...{page}{box:00}{name:02}George{br}This door must lead{br}to the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing{br}book over there!{page}{box:00}{name:02}George{br}In a weird{br}mansion like this,{page}{box:00}{name:02}George{br}there's no guarantee I{br}can ever get back here...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -615,7 +615,7 @@
    "3C4A4"
   ],
   "jp": "{box:01}何かをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of... something.{page}{end}",
+  "en": "{box:01}An oil painting{br}of... something.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -635,7 +635,7 @@
    "3C4AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「むこうで何か、{br} 光ってるな…{page}{box:00}{name:02}ジョージ{br}「本…みたいだけど…{br} チェックしてみるか」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Something's glowing over there...{page}{box:00}{name:02}George{br}Looks like... a book?{br}Let's check it out.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Something's glowing{br}over there...{page}{box:00}{name:02}George{br}Looks like... a book?{br}Let's check it out.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -685,7 +685,7 @@
    "3C4C4"
   ],
   "jp": "{box:01}誰がすわる{br}イスなのだろう？{page}{end}",
-  "en": "{box:01}I wonder who sits in this chair?{page}{end}",
+  "en": "{box:01}I wonder who sits{br}in this chair?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -715,7 +715,7 @@
    "3C4D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだ！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This door leads to{br}the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing book over there!{page}{end}",
+  "en": "{box:00}{name:02}George{br}This door leads to{br}the Entrance Hall!{page}{box:00}{name:02}George{br}But before I go{br}back, I need to check{page}{box:00}{name:02}George{br}that glowing{br}book over there!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -745,7 +745,7 @@
    "3C4DC"
   ],
   "jp": "{box:01}ふきつな絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}An ominous painting hangs here.{page}{end}",
+  "en": "{box:01}An ominous painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -805,7 +805,7 @@
    "3C4FC"
   ],
   "jp": "{box:01}つくえとイスが{br}置かれている。{page}{end}",
-  "en": "{box:01}A desk and chair stand here.{page}{end}",
+  "en": "{box:01}A desk and chair{br}stand here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -835,7 +835,7 @@
    "3C508"
   ],
   "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
-  "en": "{box:01}A door to the Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
+  "en": "{box:01}A door to the{br}Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -885,7 +885,7 @@
    "3C52C"
   ],
   "jp": "{box:01}どこかのタワーを{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of a tower somewhere.{page}{end}",
+  "en": "{box:01}A painting of a{br}tower somewhere.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -905,7 +905,7 @@
    "3C534"
   ],
   "jp": "{box:01}ワインのびんが{br}たおれている。{page}{end}",
-  "en": "{box:01}A wine bottle has tipped over.{page}{end}",
+  "en": "{box:01}A wine bottle{br}has tipped over.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -915,7 +915,7 @@
    "3C538"
   ],
   "jp": "{box:01}こわれたイスが{br}よこになっている。{page}{end}",
-  "en": "{box:01}A broken chair lies on its side.{page}{end}",
+  "en": "{box:01}A broken chair{br}lies on its side.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -935,7 +935,7 @@
    "3C540"
   ],
   "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
-  "en": "{box:01}A door to the Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
+  "en": "{box:01}A door to the{br}Entrance Hall.{page}{box:00}{name:02}George{br}First I've got to{br}check the grimoire...{page}{box:00}{name:02}George{br}Going back can wait{br}until after that...{page}{end}",
   "status": "done",
   "notes": ""
  }

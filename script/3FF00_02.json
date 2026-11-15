@@ -27,7 +27,7 @@
    "402C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オブジェを見てる{br} ヒマなんかない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at ornaments.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at ornaments.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -37,7 +37,7 @@
    "402CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はちうえを見てる{br} ヒマないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at potted plants.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at potted plants.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -97,7 +97,7 @@
    "402E8"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A large painting is on display.{page}{end}",
+  "en": "{box:01}A large painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -128,7 +128,7 @@
    "40358"
   ],
   "jp": "{box:01}白いちょうこくが{br}置かれている。{page}{end}",
-  "en": "{box:01}A white sculpture stands here.{page}{end}",
+  "en": "{box:01}A white sculpture{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -172,7 +172,7 @@
    "40368"
   ],
   "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "en": "{box:01}An oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -183,7 +183,7 @@
    "40370"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "en": "{box:01}A white ornament{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -205,7 +205,7 @@
    "40378"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}A dust-covered oil painting.{page}{end}",
+  "en": "{box:01}A dust-covered{br}oil painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -238,7 +238,7 @@
    "40388"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "en": "{box:01}A plaster statue{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -249,7 +249,7 @@
    "4038C"
   ],
   "jp": "{box:01}そうしょくが床に{br}置かれている。{page}{end}",
-  "en": "{box:01}A decoration sits on the floor.{page}{end}",
+  "en": "{box:01}A decoration{br}sits on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -282,7 +282,7 @@
    "40398"
   ],
   "jp": "{box:01}きみょうな絵が{br}かけてある。{page}{end}",
-  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "en": "{box:01}A strange painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -347,7 +347,7 @@
    "403B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オブジェを見てる{br} ヒマなんかない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at ornaments.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at ornaments.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -357,7 +357,7 @@
    "403BC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はちうえを見てる{br} ヒマないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at potted plants.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at potted plants.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -517,7 +517,7 @@
    "4041C"
   ],
   "jp": "{box:01}きれいな女の人の{br}ちょうぞうだ。{page}{end}",
-  "en": "{box:01}A statue of a beautiful woman.{page}{end}",
+  "en": "{box:01}A statue of a{br}beautiful woman.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -547,7 +547,7 @@
    "40428"
   ],
   "jp": "{box:01}きみょうな絵が{br}かけられている。{page}{end}",
-  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "en": "{box:01}A strange painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -557,7 +557,7 @@
    "40434"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きれいな{br} ちょうぞうだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's a good-looking statue.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a{br}good-looking statue.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -617,7 +617,7 @@
    "40454"
   ],
   "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「この館には{br} にあわないな」{page}{end}",
-  "en": "{box:01}A painting of{br}Heaven is on display.{page}{box:00}{name:02}George{br}Doesn't suit this mansion at all.{page}{end}",
+  "en": "{box:01}A painting of{br}Heaven is on display.{page}{box:00}{name:02}George{br}Doesn't suit this{br}mansion at all.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -627,7 +627,7 @@
    "40458"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ちゅうしょうが{br} …らしい」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It's abstract... apparently.{page}{end}",
+  "en": "{box:00}{name:02}George{br}It's abstract...{br}apparently.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -667,7 +667,7 @@
    "40470"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ラクガキにしか{br} 見えない絵だ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting looks like a doodle.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting{br}looks like a doodle.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -677,7 +677,7 @@
    "4047C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このちょうぞう{br} アリシアに…{page}{box:00}{name:02}ジョージ{br}「……{br} にてないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This statue looks like Alicia...{page}{box:00}{name:02}George{br}...Nope, not at all.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This statue{br}looks like Alicia...{page}{box:00}{name:02}George{br}...Nope, not at all.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -697,7 +697,7 @@
    "40484"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな絵、今は{br} 見たくないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't want to look at a{br}painting like this right now.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't want to look at{br}a painting like this now.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -747,7 +747,7 @@
    "404A0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I'm not in the mood for art.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I'm not in the{br}mood for art.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -757,7 +757,7 @@
    "404AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -767,7 +767,7 @@
    "404B0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -777,7 +777,7 @@
    "404B4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -787,7 +787,7 @@
    "404B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -857,7 +857,7 @@
    "404E4"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「いったい誰が{br} かいたんだろう？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Who on earth painted this?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Who on earth{br}painted this?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -887,7 +887,7 @@
    "404F8"
   ],
   "jp": "{box:01}ヒビの入った{br}うえきばちがある。{page}{end}",
-  "en": "{box:01}There's a cracked flowerpot.{page}{end}",
+  "en": "{box:01}There's a cracked{br}flowerpot.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -897,7 +897,7 @@
    "404FC"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「きもちわるく{br} なってくるな」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}It's starting to make me queasy.{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}It's starting to{br}make me queasy.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -937,7 +937,7 @@
    "40514"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「モチーフは{br} ダンテかな？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Inspired by Dante, maybe?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Inspired by Dante, maybe?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -947,7 +947,7 @@
    "40518"
   ],
   "jp": "{box:01}おかしな絵が{br}かけられている。{page}{end}",
-  "en": "{box:01}A weird painting hangs here.{page}{end}",
+  "en": "{box:01}A weird painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -977,7 +977,7 @@
    "4052C"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「こんなリアルに{br} かくなよなぁ」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Nobody should paint{br}something this real.{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Nobody should paint{br}something this real.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -997,7 +997,7 @@
    "4053C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリギエリさんの{br} ちょうぞうかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A statue of Alighieri-san, maybe?{page}{end}",
+  "en": "{box:00}{name:02}George{br}A statue of{br}Alighieri-san, maybe?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1017,7 +1017,7 @@
    "40544"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「このばめんは{br} コキュートスか？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Is this supposed to be Cocytus?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Is this supposed{br}to be Cocytus?{page}{end}",
   "status": "done",
   "notes": ""
  }

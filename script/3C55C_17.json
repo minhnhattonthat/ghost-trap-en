@@ -5,7 +5,7 @@
    "3FD6C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アトラハシスの{br} もんしょうか…{page}{box:00}{name:02}ジョージ{br}「じきにケリを{br} つけてやる！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The crest of Atrahasis, huh...{page}{box:00}{name:02}George{br}I'll settle this soon enough!{page}{end}",
+  "en": "{box:00}{name:02}George{br}The crest of{br}Atrahasis, huh...{page}{box:00}{name:02}George{br}I'll settle this{br}soon enough!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -15,7 +15,7 @@
    "3FD80"
   ],
   "jp": "{box:01}本だながある。{page}{box:00}{name:02}ジョージ{br}「すごい本の数だ」{page}{end}",
-  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}That's a crazy number of books.{page}{end}",
+  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}That's a crazy{br}number of books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -25,7 +25,7 @@
    "3FD84"
   ],
   "jp": "{box:01}本だなが部屋を{br}とりまいている。{page}{box:00}{name:02}ジョージ{br}「本だらけだな」{page}{end}",
-  "en": "{box:01}Bookshelves surround the room.{page}{box:00}{name:02}George{br}Books everywhere.{page}{end}",
+  "en": "{box:01}Bookshelves{br}surround the room.{page}{box:00}{name:02}George{br}Books everywhere.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -35,7 +35,7 @@
    "3FD88"
   ],
   "jp": "{box:01}かべいちめんが{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「すごいぞうしょの{br} 数だなあ」{page}{end}",
-  "en": "{box:01}The whole wall is bookshelves.{page}{box:00}{name:02}George{br}What a huge collection.{page}{end}",
+  "en": "{box:01}The whole wall{br}is bookshelves.{page}{box:00}{name:02}George{br}What a huge collection.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "3FD94"
   ],
   "jp": "{box:01}本がつまった{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「全部オカルトの{br} 本だよな…」{page}{end}",
-  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}They're all occult{br}books, aren't they...{page}{end}",
+  "en": "{box:01}A bookshelf{br}packed with books.{page}{box:00}{name:02}George{br}They're all occult{br}books, aren't they...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "3FD9C"
   ],
   "jp": "{box:01}オカルト本の{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「本を読んでる{br} ばあいじゃないよ…」{page}{end}",
-  "en": "{box:01}A bookshelf of occult books.{page}{box:00}{name:02}George{br}This is no time to be reading...{page}{end}",
+  "en": "{box:01}A bookshelf of{br}occult books.{page}{box:00}{name:02}George{br}This is no time{br}to be reading...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -95,7 +95,7 @@
    "3FDA0"
   ],
   "jp": "{box:01}ぶあつい本が{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「まくらにちょうど{br} いいカンジかも」{page}{end}",
-  "en": "{box:01}Thick books are lined up.{page}{box:00}{name:02}George{br}They'd make pretty good pillows.{page}{end}",
+  "en": "{box:01}Thick books are lined up.{page}{box:00}{name:02}George{br}They'd make pretty{br}good pillows.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -105,7 +105,7 @@
    "3FDA4"
   ],
   "jp": "{box:01}かべ全部が本だな{br}でうまっている。{page}{box:00}{name:02}ジョージ{br}「あやしげな本{br} ばっかりだな」{page}{end}",
-  "en": "{box:01}Bookshelves fill every wall.{page}{box:00}{name:02}George{br}Nothing but shady books.{page}{end}",
+  "en": "{box:01}Bookshelves{br}fill every wall.{page}{box:00}{name:02}George{br}Nothing but shady books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "3FDAC"
   ],
   "jp": "{box:01}本だながかべに{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「どこを見ても{br} 本ばっかりだな」{page}{end}",
-  "en": "{box:01}Bookshelves line the walls.{page}{box:00}{name:02}George{br}Books wherever I look.{page}{end}",
+  "en": "{box:01}Bookshelves{br}line the walls.{page}{box:00}{name:02}George{br}Books wherever I look.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -135,7 +135,7 @@
    "3FDB0"
   ],
   "jp": "{box:01}かべは全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「本と本だなに{br} かこまれた部屋か…」{page}{end}",
-  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}Books and bookshelves{br}everywhere, huh...{page}{end}",
+  "en": "{box:01}The walls are all{br}bookshelves.{page}{box:00}{name:02}George{br}Books and bookshelves{br}everywhere, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -165,7 +165,7 @@
    "3FDC0"
   ],
   "jp": "{box:01}本だながある。{page}{box:00}{name:02}ジョージ{br}「本をながめてる{br} ヒマなんかないぞ」{page}{end}",
-  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}I've got no time to browse books.{page}{end}",
+  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}I've got no time{br}to browse books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    "3FDC4"
   ],
   "jp": "{box:01}本だなが部屋を{br}とりまいている。{page}{box:00}{name:02}ジョージ{br}「本に見とれてる{br} ヒマなんかないぞ」{page}{end}",
-  "en": "{box:01}Bookshelves surround the room.{page}{box:00}{name:02}George{br}I've got no time to admire books.{page}{end}",
+  "en": "{box:01}Bookshelves{br}surround the room.{page}{box:00}{name:02}George{br}I've got no time{br}to admire books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -185,7 +185,7 @@
    "3FDC8"
   ],
   "jp": "{box:01}かべいちめんが{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…気になるけど、{br} 先をいそごう」{page}{end}",
-  "en": "{box:01}The whole wall is bookshelves.{page}{box:00}{name:02}George{br}...I'm curious, but{br}I'd better hurry on.{page}{end}",
+  "en": "{box:01}The whole wall{br}is bookshelves.{page}{box:00}{name:02}George{br}...I'm curious, but{br}I'd better hurry on.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -215,7 +215,7 @@
    "3FDD4"
   ],
   "jp": "{box:01}本がつまった{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「オカルトの本は{br} 見たくないぞ」{page}{end}",
-  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}I don't want to look{br}at occult books.{page}{end}",
+  "en": "{box:01}A bookshelf{br}packed with books.{page}{box:00}{name:02}George{br}I don't want to look{br}at occult books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -235,7 +235,7 @@
    "3FDDC"
   ],
   "jp": "{box:01}オカルト本の{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…見とれてる{br} ばあいじゃないな」{page}{end}",
-  "en": "{box:01}A bookshelf of occult books.{page}{box:00}{name:02}George{br}...This is no time to{br}be admiring them.{page}{end}",
+  "en": "{box:01}A bookshelf of{br}occult books.{page}{box:00}{name:02}George{br}...This is no time to{br}be admiring them.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -255,7 +255,7 @@
    "3FDE4"
   ],
   "jp": "{box:01}かべ全部が本だな{br}でうまっている。{page}{box:00}{name:02}ジョージ{br}「本にかこまれて{br} ウンザリしてきた…」{page}{end}",
-  "en": "{box:01}Bookshelves fill every wall.{page}{box:00}{name:02}George{br}I'm getting sick of being{br}surrounded by books...{page}{end}",
+  "en": "{box:01}Bookshelves{br}fill every wall.{page}{box:00}{name:02}George{br}I'm getting sick of being{br}surrounded by books...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -275,7 +275,7 @@
    "3FDEC"
   ],
   "jp": "{box:01}本だながかべに{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「全部読みたいけど{br} 先をいそぐか…」{page}{end}",
-  "en": "{box:01}Bookshelves line the walls.{page}{box:00}{name:02}George{br}I'd love to read them all,{br}but I'd better hurry...{page}{end}",
+  "en": "{box:01}Bookshelves{br}line the walls.{page}{box:00}{name:02}George{br}I'd love to read them all,{br}but I'd better hurry...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -285,7 +285,7 @@
    "3FDF0"
   ],
   "jp": "{box:01}かべは全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「本でできた{br} トーチカみたいだ」{page}{end}",
-  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}It's like a bunker made of books.{page}{end}",
+  "en": "{box:01}The walls are all{br}bookshelves.{page}{box:00}{name:02}George{br}It's like a bunker{br}made of books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -315,7 +315,7 @@
    "3FE00"
   ],
   "jp": "{box:01}本だながある。{page}{box:00}{name:02}ジョージ{br}「かたくるしい本{br} ばっかりだな」{page}{end}",
-  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}Nothing but stuffy books.{page}{end}",
+  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}Nothing but{br}stuffy books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -325,7 +325,7 @@
    "3FE04"
   ],
   "jp": "{box:01}本だなが部屋を{br}とりまいている。{page}{box:00}{name:02}ジョージ{br}「本ばっかりで、{br} 目が回るな」{page}{end}",
-  "en": "{box:01}Bookshelves surround the room.{page}{box:00}{name:02}George{br}So many books, my{br}head's spinning.{page}{end}",
+  "en": "{box:01}Bookshelves{br}surround the room.{page}{box:00}{name:02}George{br}So many books, my{br}head's spinning.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    "3FE08"
   ],
   "jp": "{box:01}かべいちめんが{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんは{br} 読書かなんだな」{page}{end}",
-  "en": "{box:01}The whole wall is bookshelves.{page}{box:00}{name:02}George{br}Alighieri-san must have{br}been a big reader.{page}{end}",
+  "en": "{box:01}The whole wall{br}is bookshelves.{page}{box:00}{name:02}George{br}Alighieri-san must have{br}been a big reader.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    "3FE0C"
   ],
   "jp": "{box:01}本だなには本が{br}つまっている。{page}{box:00}{name:02}ジョージ{br}「かざってある{br} だけだったりして…」{page}{end}",
-  "en": "{box:01}The bookshelf is{br}packed with books.{page}{box:00}{name:02}George{br}Maybe they're just for show...{page}{end}",
+  "en": "{box:01}The bookshelf is{br}packed with books.{page}{box:00}{name:02}George{br}Maybe they're{br}just for show...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -365,7 +365,7 @@
    "3FE14"
   ],
   "jp": "{box:01}本がつまった{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「全部、オカルト{br} かんけいの本だ」{page}{end}",
-  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}They're all about the occult.{page}{end}",
+  "en": "{box:01}A bookshelf{br}packed with books.{page}{box:00}{name:02}George{br}They're all about{br}the occult.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    "3FE18"
   ],
   "jp": "{box:01}本だなだ。{page}{box:01}一冊手にとって、{br}ひらいてみる…。{page}{box:00}{name:02}ジョージ{br}「やっぱり英語{br} じゃないのか…{page}{box:00}{name:02}ジョージ{br}「カロルさんなら{br} 読めるんだろうな…」{page}{end}",
-  "en": "{box:01}It's a bookshelf.{page}{box:01}I pick one up and open it...{page}{box:00}{name:02}George{br}Not English, just as I figured...{page}{box:00}{name:02}George{br}I bet Karol-san could read it...{page}{end}",
+  "en": "{box:01}It's a bookshelf.{page}{box:01}I pick one up and open it...{page}{box:00}{name:02}George{br}Not English, just{br}as I figured...{page}{box:00}{name:02}George{br}I bet Karol-san{br}could read it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -385,7 +385,7 @@
    "3FE1C"
   ],
   "jp": "{box:01}オカルト本の{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「タイトルからして{br} 英語じゃないぞ」{page}{end}",
-  "en": "{box:01}A bookshelf of occult books.{page}{box:00}{name:02}George{br}Even the titles aren't in English.{page}{end}",
+  "en": "{box:01}A bookshelf of{br}occult books.{page}{box:00}{name:02}George{br}Even the titles{br}aren't in English.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -395,7 +395,7 @@
    "3FE20"
   ],
   "jp": "{box:01}ぶあつい本が{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「この本は…{br} 日本の物か？」{page}{box:00}{name:02}ジョージ{br}「ざんねんだけど、{br} 読めないや…」{page}{end}",
-  "en": "{box:01}Thick books are lined up.{page}{box:00}{name:02}George{br}Is this book... from Japan?{page}{box:00}{name:02}George{br}Too bad I can't read it...{page}{end}",
+  "en": "{box:01}Thick books are lined up.{page}{box:00}{name:02}George{br}Is this book...{br}from Japan?{page}{box:00}{name:02}George{br}Too bad I can't read it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -405,7 +405,7 @@
    "3FE24"
   ],
   "jp": "{box:01}かべ全部が本だな{br}でうまっている。{page}{box:00}{name:02}ジョージ{br}「タイトルが英語{br} じゃないからなあ…」{page}{end}",
-  "en": "{box:01}Bookshelves fill every wall.{page}{box:00}{name:02}George{br}The titles aren't in English, so...{page}{end}",
+  "en": "{box:01}Bookshelves{br}fill every wall.{page}{box:00}{name:02}George{br}The titles aren't{br}in English, so...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -425,7 +425,7 @@
    "3FE2C"
   ],
   "jp": "{box:01}本だながかべに{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんて{br} スゴイ人かもな…」{page}{end}",
-  "en": "{box:01}Bookshelves line the walls.{page}{box:00}{name:02}George{br}Alighieri-san might've{br}been quite a guy...{page}{end}",
+  "en": "{box:01}Bookshelves{br}line the walls.{page}{box:00}{name:02}George{br}Alighieri-san might've{br}been quite a guy...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    "3FE30"
   ],
   "jp": "{box:01}かべは全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「かなり古い本{br} ばかりだなあ」{page}{end}",
-  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}These are all really old books.{page}{end}",
+  "en": "{box:01}The walls are all{br}bookshelves.{page}{box:00}{name:02}George{br}These are all{br}really old books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -465,7 +465,7 @@
    "3FE40"
   ],
   "jp": "{box:01}本だながある。{page}{box:00}{name:02}ジョージ{br}「本をながめてる{br} ヒマなんかないぞ」{page}{end}",
-  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}I've got no time to browse books.{page}{end}",
+  "en": "{box:01}There's a bookshelf.{page}{box:00}{name:02}George{br}I've got no time{br}to browse books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -475,7 +475,7 @@
    "3FE44"
   ],
   "jp": "{box:01}本だなが部屋を{br}とりまいている。{page}{box:00}{name:02}ジョージ{br}「本に見とれてる{br} ヒマなんかないぞ」{page}{end}",
-  "en": "{box:01}Bookshelves surround the room.{page}{box:00}{name:02}George{br}I've got no time to admire books.{page}{end}",
+  "en": "{box:01}Bookshelves{br}surround the room.{page}{box:00}{name:02}George{br}I've got no time{br}to admire books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    "3FE48"
   ],
   "jp": "{box:01}かべいちめんが{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…気になるけど、{br} 先をいそごう」{page}{end}",
-  "en": "{box:01}The whole wall is bookshelves.{page}{box:00}{name:02}George{br}...I'm curious, but{br}I'd better hurry on.{page}{end}",
+  "en": "{box:01}The whole wall{br}is bookshelves.{page}{box:00}{name:02}George{br}...I'm curious, but{br}I'd better hurry on.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -515,7 +515,7 @@
    "3FE54"
   ],
   "jp": "{box:01}本がつまった{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「オカルトの本は{br} 見たくないぞ」{page}{end}",
-  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}I don't want to look{br}at occult books.{page}{end}",
+  "en": "{box:01}A bookshelf{br}packed with books.{page}{box:00}{name:02}George{br}I don't want to look{br}at occult books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    "3FE5C"
   ],
   "jp": "{box:01}オカルト本の{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…見とれてる{br} ばあいじゃないな」{page}{end}",
-  "en": "{box:01}A bookshelf of occult books.{page}{box:00}{name:02}George{br}...This is no time to{br}be admiring them.{page}{end}",
+  "en": "{box:01}A bookshelf of{br}occult books.{page}{box:00}{name:02}George{br}...This is no time to{br}be admiring them.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    "3FE64"
   ],
   "jp": "{box:01}かべ全部が本だな{br}でうまっている。{page}{box:00}{name:02}ジョージ{br}「本にかこまれて{br} ウンザリしてきた…」{page}{end}",
-  "en": "{box:01}Bookshelves fill every wall.{page}{box:00}{name:02}George{br}I'm getting sick of being{br}surrounded by books...{page}{end}",
+  "en": "{box:01}Bookshelves{br}fill every wall.{page}{box:00}{name:02}George{br}I'm getting sick of being{br}surrounded by books...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -575,7 +575,7 @@
    "3FE6C"
   ],
   "jp": "{box:01}本だながかべに{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「全部読みたいけど{br} 先をいそぐか…」{page}{end}",
-  "en": "{box:01}Bookshelves line the walls.{page}{box:00}{name:02}George{br}I'd love to read them all,{br}but I'd better hurry...{page}{end}",
+  "en": "{box:01}Bookshelves{br}line the walls.{page}{box:00}{name:02}George{br}I'd love to read them all,{br}but I'd better hurry...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -585,7 +585,7 @@
    "3FE70"
   ],
   "jp": "{box:01}かべは全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「本でできた{br} トーチカみたいだ」{page}{end}",
-  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}It's like a bunker made of books.{page}{end}",
+  "en": "{box:01}The walls are all{br}bookshelves.{page}{box:00}{name:02}George{br}It's like a bunker{br}made of books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -645,7 +645,7 @@
    "3FE8C"
   ],
   "jp": "{box:01}がんじょうそうな{br}ひつぎがある。{page}{end}",
-  "en": "{box:01}There's a sturdy-looking coffin.{page}{end}",
+  "en": "{box:01}There's a{br}sturdy-looking coffin.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -655,7 +655,7 @@
    "3FE94"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ、今のは{br} …？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What... was that just now...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}What... was that{br}just now...?{page}{end}",
   "status": "done",
   "notes": ""
  },

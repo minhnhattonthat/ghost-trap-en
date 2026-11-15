@@ -5,7 +5,7 @@
    "3FADC"
   ],
   "jp": "{box:01}ジュークボックスが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「ねんだい物だな。{br} 使えるかな？{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけど…」{page}{end}",
-  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}It's a real antique. Does it work?{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}It's a real antique.{br}Does it work?{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -159,7 +159,7 @@
    "3FBC4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシア！{br} いつかきっと…{page}{box:00}{name:02}ジョージ{br}「ビリヤードで{br} まかしてやるぞ！{page}{box:00}{name:02}ジョージ{br}「だから{br} 無事でいろよ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Alicia! Someday, for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Alicia! Someday,{br}for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -183,7 +183,7 @@
    "3FBCC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシア！{br} いつかきっと…{page}{box:00}{name:02}ジョージ{br}「ビリヤードで{br} まかしてやるぞ！{page}{box:00}{name:02}ジョージ{br}「だから{br} 無事でいろよ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Alicia! Someday, for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Alicia! Someday,{br}for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -194,7 +194,7 @@
    "3FC10"
   ],
   "jp": "{box:01}この館の{br}ふようひんだ。{page}{end}",
-  "en": "{box:01}Stuff this house didn't need.{page}{end}",
+  "en": "{box:01}Stuff this house{br}didn't need.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -205,7 +205,7 @@
    "3FC14"
   ],
   "jp": "{box:01}こわれたかぐが{br}置かれている。{page}{end}",
-  "en": "{box:01}Broken furniture sits here.{page}{end}",
+  "en": "{box:01}Broken furniture{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -227,7 +227,7 @@
    "3FC1C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -238,7 +238,7 @@
    "3FC20"
   ],
   "jp": "{box:01}古びたつくえが{br}置かれている。{page}{end}",
-  "en": "{box:01}A worn old desk stands here.{page}{end}",
+  "en": "{box:01}A worn old desk{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -249,7 +249,7 @@
    "3FC24"
   ],
   "jp": "{box:01}いすやかぐの{br}ガラクタだ。{page}{end}",
-  "en": "{box:01}Junked chairs and furniture.{page}{end}",
+  "en": "{box:01}Junked chairs{br}and furniture.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -271,7 +271,7 @@
    "3FC2C"
   ],
   "jp": "{box:01}いらない物が{br}置かれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff sits here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -282,7 +282,7 @@
    "3FC30"
   ],
   "jp": "{box:01}使われなくなった{br}モノばかりだ。{page}{end}",
-  "en": "{box:01}All stuff nobody uses anymore.{page}{end}",
+  "en": "{box:01}All stuff nobody{br}uses anymore.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -347,7 +347,7 @@
    "3FC48"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミのやまの{br} ようだ。」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like a mountain of trash.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like a{br}mountain of trash.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -407,7 +407,7 @@
    "3FC60"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「小さいたなには{br} 何もない…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Nothing on the little shelf...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing on the{br}little shelf...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -418,7 +418,7 @@
    "3FC9C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "en": "{box:01}Unneeded items{br}are stored here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -440,7 +440,7 @@
    "3FCA4"
   ],
   "jp": "{box:01}古びたつくえが{br}置かれている。{page}{end}",
-  "en": "{box:01}A worn old desk stands here.{page}{end}",
+  "en": "{box:01}A worn old desk{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -451,7 +451,7 @@
    "3FCA8"
   ],
   "jp": "{box:01}こわれたかぐが{br}置かれている。{page}{end}",
-  "en": "{box:01}Broken furniture sits here.{page}{end}",
+  "en": "{box:01}Broken furniture{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -462,7 +462,7 @@
    "3FCAC"
   ],
   "jp": "{box:01}イスやかぐの{br}ガラクタだ。{page}{end}",
-  "en": "{box:01}Junked chairs and furniture.{page}{end}",
+  "en": "{box:01}Junked chairs{br}and furniture.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -473,7 +473,7 @@
    "3FCB0"
   ],
   "jp": "{box:01}この館の{br}ふようひんだ。{page}{end}",
-  "en": "{box:01}Stuff this house didn't need.{page}{end}",
+  "en": "{box:01}Stuff this house{br}didn't need.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -528,7 +528,7 @@
    "3FCC4"
   ],
   "jp": "{box:01}使われなくなった{br}モノばかりだ。{page}{end}",
-  "en": "{box:01}All stuff nobody uses anymore.{page}{end}",
+  "en": "{box:01}All stuff nobody{br}uses anymore.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -550,7 +550,7 @@
    "3FCCC"
   ],
   "jp": "{box:01}いらない物が{br}置かれている。{page}{end}",
-  "en": "{box:01}Unwanted stuff sits here.{page}{end}",
+  "en": "{box:01}Unwanted stuff{br}sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -621,7 +621,7 @@
    "3FCE8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミのやまの{br} ようだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Looks like a mountain of trash.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like a{br}mountain of trash.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -631,7 +631,7 @@
    "3FCEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「小さいたなには{br} 何もない…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Nothing on the little shelf...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing on the{br}little shelf...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -651,7 +651,7 @@
    "3FCF4"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『ゴーストでもない{br} ただの人間が…{page}{box:00}{name:05}？？？？{br}『こんな所まで{br} やって来るとは…{page}{box:00}{name:05}？？？？{br}『いやはや、{br} おそれいったぞ…』{page}{box:00}{name:02}ジョージ{br}「…んじゃあ、{br} ごほうびとして…」{page}{box:00}{name:05}？？？？{br}『まぁ、そう{br} あわてるでない{page}{box:00}{name:05}？？？？{br}『人間よ。今少し{br} たしかめようぞ！』{page}{box:00}{name:02}ジョージ{br}「くそう！{br} アリシアをかえせ！{page}{box:00}{name:02}ジョージ{br}「そして、オレたちを{br} 館から出せ！！」{page}{box:00}{name:05}？？？？{br}『このたたかいを{br} わるく思うな…』{page}{end}",
-  "en": "{box:00}{name:05}????{br}Not a ghost, but a mere human...{page}{box:00}{name:05}????{br}coming all the way here...{page}{box:00}{name:05}????{br}My, my, I am impressed...{page}{box:00}{name:02}George{br}...So how about a reward, then...{page}{box:00}{name:05}????{br}Now, now, don't be so hasty.{page}{box:00}{name:05}????{br}Human. Let me test{br}you a little more!{page}{box:00}{name:02}George{br}Damn it! Give Alicia back!{page}{box:00}{name:02}George{br}And let us out of this mansion!!{page}{box:00}{name:05}????{br}Don't take this{br}fight personally...{page}{end}",
+  "en": "{box:00}{name:05}????{br}Not a ghost, but{br}a mere human...{page}{box:00}{name:05}????{br}coming all the way here...{page}{box:00}{name:05}????{br}My, my, I am impressed...{page}{box:00}{name:02}George{br}...So how about{br}a reward, then...{page}{box:00}{name:05}????{br}Now, now, don't{br}be so hasty.{page}{box:00}{name:05}????{br}Human. Let me test{br}you a little more!{page}{box:00}{name:02}George{br}Damn it! Give Alicia back!{page}{box:00}{name:02}George{br}And let us out{br}of this mansion!!{page}{box:00}{name:05}????{br}Don't take this{br}fight personally...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -661,7 +661,7 @@
    "3FCF8"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『いや、おみごと！{br}たいしたもんじゃ！』{page}{box:00}{name:02}ジョージ{br}「アリギエリ！？{br}…じゃ、ないな…{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}『このさい、名前は{br}どうでもよかろう』{page}{end}",
-  "en": "{box:00}{name:05}????{br}Well, well, splendid! Quite{br}something, my boy!{page}{box:00}{name:02}George{br}Alighieri?! ...No, you're not...{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters now, eh?{page}{end}",
+  "en": "{box:00}{name:05}????{br}Well, well, splendid! Quite{br}something, my boy!{page}{box:00}{name:02}George{br}Alighieri?! ...No,{br}you're not...{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters now, eh?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -672,7 +672,7 @@
    "3FD08"
   ],
   "jp": "{box:01}しっかりした{br}木のハコがある。{page}{box:00}{name:02}ジョージ{br}「なかみはガラクタ{br} みたいだが…」{page}{end}",
-  "en": "{box:01}There's a sturdy wooden box.{page}{box:00}{name:02}George{br}Looks like there's{br}just junk inside...{page}{end}",
+  "en": "{box:01}There's a sturdy{br}wooden box.{page}{box:00}{name:02}George{br}Looks like there's{br}just junk inside...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -682,7 +682,7 @@
    "3FD00"
   ],
   "jp": "{box:01}ごうせいな{br}本だながある。{page}{box:00}{name:02}ジョージ{br}「中の本も{br} 高そうだぞ。{page}{box:00}{name:02}ジョージ{br}「しかもぜんぜん{br} 読めないし」{page}{end}",
-  "en": "{box:01}There's a lavish bookshelf.{page}{box:00}{name:02}George{br}The books look expensive too.{page}{box:00}{name:02}George{br}And I can't read a single one.{page}{end}",
+  "en": "{box:01}There's a lavish{br}bookshelf.{page}{box:00}{name:02}George{br}The books look{br}expensive too.{page}{box:00}{name:02}George{br}And I can't read{br}a single one.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -692,7 +692,7 @@
    "3FD04"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このだんろは{br} 使えるみたいだ。{page}{box:00}{name:02}ジョージ{br}「つまりえんとつを{br} とおれるかも…{page}{box:00}{name:02}ジョージ{br}「…そんな事{br} しないけどな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This fireplace looks usable.{page}{box:00}{name:02}George{br}Which means I might{br}fit up the chimney...{page}{box:00}{name:02}George{br}...Not that I'm gonna try.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This fireplace{br}looks usable.{page}{box:00}{name:02}George{br}Which means I might{br}fit up the chimney...{page}{box:00}{name:02}George{br}...Not that I'm gonna try.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -722,7 +722,7 @@
    "3FD14"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アトラハシスの{br} もんしょうか…{page}{box:00}{name:02}ジョージ{br}「何でもいいけど{br} 人をまきこむな！{page}{box:00}{name:02}ジョージ{br}「じぶんたちだけで{br} やれ！{page}{box:00}{name:02}ジョージ{br}「…なんてここで{br} 言ってもムダだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The crest of Atrahasis, huh...{page}{box:00}{name:02}George{br}Whatever you're up to, leave{br}other people out of it!{page}{box:00}{name:02}George{br}Do it on your own!{page}{box:00}{name:02}George{br}...Not that yelling it{br}here does any good.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The crest of{br}Atrahasis, huh...{page}{box:00}{name:02}George{br}Whatever you're up to,{br}leave others out of it!{page}{box:00}{name:02}George{br}Do it on your own!{page}{box:00}{name:02}George{br}...Not that yelling it{br}here does any good.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -753,7 +753,7 @@
    "3FD24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん大きな{br} 本だな。{page}{box:00}{name:02}ジョージ{br}「でもやっぱり{br} 読めない…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's a seriously big book.{page}{box:00}{name:02}George{br}But again, I can't read it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a seriously{br}big book.{page}{box:00}{name:02}George{br}But again, I{br}can't read it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -766,7 +766,7 @@
    "3FD60"
   ],
   "jp": "{box:01}しっかりした{br}木のハコがある。{page}{box:00}{name:02}ジョージ{br}「なかみはガラクタ{br} みたいだが…」{page}{end}",
-  "en": "{box:01}There's a sturdy wooden box.{page}{box:00}{name:02}George{br}Looks like there's{br}just junk inside...{page}{end}",
+  "en": "{box:01}There's a sturdy{br}wooden box.{page}{box:00}{name:02}George{br}Looks like there's{br}just junk inside...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -776,7 +776,7 @@
    "3FD2C"
   ],
   "jp": "{box:01}ごうせいな{br}本だながある。{page}{box:00}{name:02}ジョージ{br}「中の本も{br} 高そうだぞ。{page}{box:00}{name:02}ジョージ{br}「しかもぜんぜん{br} 読めないし」{page}{end}",
-  "en": "{box:01}There's a lavish bookshelf.{page}{box:00}{name:02}George{br}The books look expensive too.{page}{box:00}{name:02}George{br}And I can't read a single one.{page}{end}",
+  "en": "{box:01}There's a lavish{br}bookshelf.{page}{box:00}{name:02}George{br}The books look{br}expensive too.{page}{box:00}{name:02}George{br}And I can't read{br}a single one.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -786,7 +786,7 @@
    "3FD30"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このだんろは{br} 使えるみたいだ。{page}{box:00}{name:02}ジョージ{br}「つまりえんとつを{br} とおれるかも…{page}{box:00}{name:02}ジョージ{br}「…そんな事{br} しないけどな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This fireplace looks usable.{page}{box:00}{name:02}George{br}Which means I might{br}fit up the chimney...{page}{box:00}{name:02}George{br}...Not that I'm gonna try.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This fireplace{br}looks usable.{page}{box:00}{name:02}George{br}Which means I might{br}fit up the chimney...{page}{box:00}{name:02}George{br}...Not that I'm gonna try.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -808,7 +808,7 @@
    "3FD68"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この本、何語で{br} 書いてあるんだ？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What language is this book in?{page}{end}",
+  "en": "{box:00}{name:02}George{br}What language{br}is this book in?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -818,7 +818,7 @@
    "3FD40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アトラハシスの{br} もんしょうか…{page}{box:00}{name:02}ジョージ{br}「何でもいいけど{br} 人をまきこむな！{page}{box:00}{name:02}ジョージ{br}「じぶんたちだけで{br} やれ！{page}{box:00}{name:02}ジョージ{br}「…なんてここで{br} 言ってもムダだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The crest of Atrahasis, huh...{page}{box:00}{name:02}George{br}Whatever you're up to, leave{br}other people out of it!{page}{box:00}{name:02}George{br}Do it on your own!{page}{box:00}{name:02}George{br}...Not that yelling it{br}here does any good.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The crest of{br}Atrahasis, huh...{page}{box:00}{name:02}George{br}Whatever you're up to,{br}leave others out of it!{page}{box:00}{name:02}George{br}Do it on your own!{page}{box:00}{name:02}George{br}...Not that yelling it{br}here does any good.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -853,7 +853,7 @@
    "3FD7C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん大きな{br} 本だな。{page}{box:00}{name:02}ジョージ{br}「でもやっぱり{br} 読めない…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's a seriously big book.{page}{box:00}{name:02}George{br}But again, I can't read it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a seriously{br}big book.{page}{box:00}{name:02}George{br}But again, I{br}can't read it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -863,7 +863,7 @@
    "3FD58"
   ],
   "jp": "{box:01}ごうせいな{br}本だながある。{page}{end}",
-  "en": "{box:01}There's a lavish bookshelf.{page}{end}",
+  "en": "{box:01}There's a lavish{br}bookshelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -873,7 +873,7 @@
    "3FD5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このだんろは{br} 使えそうだ。{page}{box:00}{name:02}ジョージ{br}「さむくはないから{br} 使わないけど」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This fireplace looks usable.{page}{box:00}{name:02}George{br}It's not cold, so I{br}won't bother, though.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This fireplace{br}looks usable.{page}{box:00}{name:02}George{br}It's not cold, so I{br}won't bother, though.{page}{end}",
   "status": "done",
   "notes": ""
  }

@@ -35,7 +35,7 @@
    "4055C"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「何でこんな絵{br} かざるんだろうな」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Why would anyone hang{br}a painting like this?{page}{end}",
+  "en": "{box:01}A painting of{br}Hell is on display.{page}{box:00}{name:02}George{br}Why would anyone hang{br}a painting like this?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -75,7 +75,7 @@
    "40574"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな絵、今は{br} 見たくないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't want to look at a{br}painting like this right now.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't want to look at{br}a painting like this now.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "40590"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I'm not in the mood for art.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I'm not in the{br}mood for art.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -135,7 +135,7 @@
    "4059C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -145,7 +145,7 @@
    "405A0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -155,7 +155,7 @@
    "405A4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -165,7 +165,7 @@
    "405A8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Who cares about this stuff!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    "405B0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきが{br} 置かれてるな…{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a gramophone here...{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a{br}gramophone here...{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -185,7 +185,7 @@
    "405B4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} があるぞ！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't{br}have a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -195,7 +195,7 @@
    "405B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「くそっ！{br} ガラスの窓なのに{page}{box:00}{name:02}ジョージ{br}「ビクともしないし、{br} われないなんて！{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ！{br} この館は！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Dammit! It's a glass window,{page}{box:00}{name:02}George{br}but it won't budge,{br}and it won't break!{page}{box:00}{name:02}George{br}What is up with this house?!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Dammit! It's a{br}glass window,{page}{box:00}{name:02}George{br}but it won't budge,{br}and it won't break!{page}{box:00}{name:02}George{br}What is up with{br}this house?!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -282,7 +282,7 @@
    "405D0"
   ],
   "jp": "{box:01}かなりくたびれた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A really worn-out billiard table.{page}{end}",
+  "en": "{box:01}A really worn-out{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -292,7 +292,7 @@
    "405D4"
   ],
   "jp": "{box:01}小さなテーブルに{br}メモをみつけた。{page}{box:01}『こまめにチェック{br} することで、{page}{box:01}『先人たちのチエが{br} 手に入るだろう』{page}{box:00}{name:02}ジョージ{br}「とにかくいろいろ{br} チェックだな！」{page}{end}",
-  "en": "{box:01}I found a note on a small table.{page}{box:01}\"Check things{br}carefully, and often,{page}{box:01}\"and the wisdom of those{br}before you shall be yours.\"{page}{box:00}{name:02}George{br}Point is, check everything!{page}{end}",
+  "en": "{box:01}I found a note{br}on a small table.{page}{box:01}\"Check things{br}carefully, and often,{page}{box:01}\"and your forebears'{br}wisdom shall be yours.\"{page}{box:00}{name:02}George{br}Point is, check{br}everything!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -314,7 +314,7 @@
    "4060C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't{br}have a record...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -325,7 +325,7 @@
    "40610"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビクともしない{br} ガラス窓だ。{page}{box:00}{name:02}ジョージ{br}「こわすのは{br} あきらめよう…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A glass window that won't budge.{page}{box:00}{name:02}George{br}I'll give up on breaking it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}A glass window{br}that won't budge.{page}{box:00}{name:02}George{br}I'll give up on{br}breaking it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -347,7 +347,7 @@
    "40624"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Forget billiards,{br}I need an exit.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -368,7 +368,7 @@
    "40600"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ひょういをかるく{br} する物と、{page}{box:01}『ぶつりこうげきを{br} かるくする物{page}{box:01}『ぼうぐは2つに{br} ぶんるいされる』{page}{box:00}{name:02}ジョージ{br}「なるほど…{br} 2つのぼうぐね…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Some protect{br}against possession,{page}{box:01}\"and some against{br}physical attacks:{page}{box:01}\"armor falls into{br}these two types.\"{page}{box:00}{name:02}George{br}I see... two kinds of armor, huh...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"Some protect{br}against possession,{page}{box:01}\"and some against{br}physical attacks:{page}{box:01}\"armor falls into{br}these two types.\"{page}{box:00}{name:02}George{br}I see... two kinds{br}of armor, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -378,7 +378,7 @@
    "4062C"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『エルダーのえだは{br} ひょういのぼうぐ{page}{box:01}『ひょういぼうぐは{br} 3しゅるいのみ』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"The Elder Branch is{br}armor against possession.{page}{box:01}\"There are only{br}three such kinds.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"The Elder Branch guards{br}against possession.{page}{box:01}\"There are only{br}three such kinds.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -422,7 +422,7 @@
    "40678"
   ],
   "jp": "{box:01}かなりよごれた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A really dirty billiard table.{page}{end}",
+  "en": "{box:01}A really dirty{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -433,7 +433,7 @@
    "4067C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あそんでいる{br} ヒマはないな…{page}{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to play around...{page}{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to play around...{page}{box:00}{name:02}George{br}Forget billiards,{br}I need an exit.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -454,7 +454,7 @@
    "40658"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ゴーストのワナは{br} 大きくわけて{page}{box:01}『足止めするワナ{br} マインになるワナ{page}{box:01}『この2つに{br} わけられるだろう』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Ghost traps come{br}in two broad kinds:{page}{box:01}\"traps that stop{br}them in their tracks,{page}{box:01}\"and traps that become mines.{page}{box:01}\"Those are the two main kinds.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"Ghost traps come{br}in two broad kinds:{page}{box:01}\"traps that stop{br}them in their tracks,{page}{box:01}\"and traps that{br}become mines.{page}{box:01}\"Those are the{br}two main kinds.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -464,7 +464,7 @@
    "40684"
   ],
   "jp": "{box:01}テーブルの上に{br}メモをみつけた。{page}{box:01}『マインのワナの{br} ダメージ小は{page}{box:01}『マッチとナイフで{br} つくりだせる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}I found a note on the table.{page}{box:01}\"A mine trap with low damage{page}{box:01}\"can be made from{br}Matches and a Knife.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}I found a note{br}on the table.{page}{box:01}\"A mine trap{br}with low damage{page}{box:01}\"can be made from{br}Matches and a Knife.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -530,7 +530,7 @@
    "406D8"
   ],
   "jp": "{box:01}ビリヤードだいが{br}置かれている。{page}{end}",
-  "en": "{box:01}A billiard table stands here.{page}{end}",
+  "en": "{box:01}A billiard table{br}stands here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -540,7 +540,7 @@
    "406B0"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『こうげきほじょの{br} アイテムは、{page}{box:01}『同じ部屋にいる{br} ゴーストにきく』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"On attack support items:{page}{box:01}\"they work on ghosts{br}in the same room.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"On attack{br}support items:{page}{box:01}\"they work on ghosts{br}in the same room.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -550,7 +550,7 @@
    "406DC"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:01}『こうげきほじょの{br} アイテムは{page}{box:01}『全体にダメージ{br} をあたえる物と、{page}{box:01}『全体をバインド{br} する物の{page}{box:01}『大きく2つに{br} わけられる』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:01}\"On attack support items:{page}{box:01}\"Some deal damage{br}to every ghost,{page}{box:01}\"and some bind{br}every ghost at once.{page}{box:01}\"Those are the two{br}main kinds.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:01}\"On attack{br}support items:{page}{box:01}\"Some deal damage{br}to every ghost,{page}{box:01}\"and some bind{br}every ghost at once.{page}{box:01}\"Those are the two{br}main kinds.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -583,7 +583,7 @@
    "40718"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あかないし{br} こわれない窓…{page}{box:00}{name:02}ジョージ{br}「これもオカルトの{br} チカラなのか…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A window that won't{br}open or break...{page}{box:00}{name:02}George{br}Is this occult power too...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}A window that won't{br}open or break...{page}{box:00}{name:02}George{br}Is this occult{br}power too...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -594,7 +594,7 @@
    "40728"
   ],
   "jp": "{box:01}こわれかけた{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A billiard table on its last legs.{page}{end}",
+  "en": "{box:01}A billiard table{br}on its last legs.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    "4072C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…アリシア…{br} 待ってろよ！{page}{box:00}{name:02}ジョージ{br}「かならずたすけて、{br} またビリヤードで{page}{box:00}{name:02}ジョージ{br}「しょうぶしてやる！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}...Alicia... hang on!{page}{box:00}{name:02}George{br}I'll save you for sure, and then{page}{box:00}{name:02}George{br}we'll have a billiards rematch!{page}{end}",
+  "en": "{box:00}{name:02}George{br}...Alicia... hang on!{page}{box:00}{name:02}George{br}I'll save you for{br}sure, and then{page}{box:00}{name:02}George{br}we'll have a{br}billiards rematch!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -616,7 +616,7 @@
    "40730"
   ],
   "jp": "{box:01}ホコリのつもった{br}ビリヤードだ。{page}{end}",
-  "en": "{box:01}A dust-covered billiard table.{page}{end}",
+  "en": "{box:01}A dust-covered{br}billiard table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -626,7 +626,7 @@
    "40708"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『全体ダメージの{br} アイテムで{page}{box:01}『さいきょうの物は{br} 夜あけのランプ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"Of items that{br}damage all ghosts,{page}{box:01}\"the strongest is{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm{br}gonna read this...{page}{box:01}\"Of items that{br}damage all ghosts,{page}{box:01}\"the strongest is{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -636,7 +636,7 @@
    "40734"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:00}{name:02}ジョージ{br}「おっと、見のがす{br} 所だったな」{page}{box:01}『全体バインドの{br} アイテムで{page}{box:01}『さいきょうの物は{br} 赤の霊薬だ』{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Of items that bind all ghosts,{page}{box:01}\"the strongest{br}is the Red Brew.\"{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Of items that{br}bind all ghosts,{page}{box:01}\"the strongest{br}is the Red Brew.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -666,7 +666,7 @@
    "40744"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「窓を見ている{br} ヒマはないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at windows.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at windows.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -706,7 +706,7 @@
    "40760"
   ],
   "jp": "{box:01}テーブルの上には{br}メモがあった。{page}{box:01}『先をいそげ』{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Hurry on.\"{page}{box:00}{name:02}George{br}...{page}{end}",
+  "en": "{box:01}There was a note{br}on the table.{page}{box:01}\"Hurry on.\"{page}{box:00}{name:02}George{br}...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -717,7 +717,7 @@
    "407A8"
   ],
   "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
-  "en": "{box:01}Barrels full of wine, maybe?{page}{end}",
+  "en": "{box:01}Barrels full of{br}wine, maybe?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -749,7 +749,7 @@
    "407B8"
   ],
   "jp": "{box:01}こわれかけた{br}ワインのたるだ。{page}{box:01}しっけのせいで{br}カビが生えている。{page}{end}",
-  "en": "{box:01}A wine barrel on its last legs.{page}{box:01}Mold is growing on{br}it from the damp.{page}{end}",
+  "en": "{box:01}A wine barrel{br}on its last legs.{page}{box:01}Mold is growing on{br}it from the damp.{page}{end}",
   "status": "done",
   "notes": ""
  }

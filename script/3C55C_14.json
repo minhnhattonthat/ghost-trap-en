@@ -5,7 +5,7 @@
    "3F468"
   ],
   "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これは…{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな…」{page}{end}",
-  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up and opened it...{page}{box:00}{name:02}George{br}Is this... Greek?{page}{box:00}{name:02}George{br}I can't read this...{page}{end}",
+  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up{br}and opened it...{page}{box:00}{name:02}George{br}Is this... Greek?{page}{box:00}{name:02}George{br}I can't read this...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -39,7 +39,7 @@
    "3F474"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Outside! I can see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Outside! I can{br}see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -53,7 +53,7 @@
    "3F538"
   ],
   "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
-  "en": "{box:01}There's a plain-looking bed.{page}{end}",
+  "en": "{box:01}There's a{br}plain-looking bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -63,7 +63,7 @@
    "3F47C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Clean up a little, would you?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Clean up a little,{br}would you?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -73,7 +73,7 @@
    "3F480"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a lot of dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a lot of{br}dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -98,7 +98,7 @@
    "3F4E8"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
-  "en": "{box:01}There's a towel on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to use this towel.{page}{end}",
+  "en": "{box:01}There's a towel{br}on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to{br}use this towel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -118,7 +118,7 @@
    "3F490"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{box:01}絵のわきに{br}メモがある。{page}{box:01}『天才ジョージ{br} ここにあり！』{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's crooked too.{page}{box:01}There's a note{br}beside the painting.{page}{box:01}\"George the genius was here!\"{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}crooked too.{page}{box:01}There's a note{br}beside the painting.{page}{box:01}\"George the{br}genius was here!\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -156,7 +156,7 @@
    "3F5BC"
   ],
   "jp": "{box:01}りっぱな{br}物入れがある。{page}{end}",
-  "en": "{box:01}There's a fine storage cabinet.{page}{end}",
+  "en": "{box:01}There's a fine{br}storage cabinet.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -214,7 +214,7 @@
    "3F548"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{end}",
-  "en": "{box:01}There's a towel on the bed.{page}{end}",
+  "en": "{box:01}There's a towel{br}on the bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -227,7 +227,7 @@
    "3F550"
   ],
   "jp": "{box:01}絵がななめに{br}かけてある。{page}{box:01}絵のわきに{br}メモがある。{page}{box:01}『天才ジョージ{br} ここにあり！{page}{box:01}『アリギエリの館で{br} くちはてる』{page}{box:00}{name:02}ジョージ{br}「な…なんだ！？」{page}{end}",
-  "en": "{box:01}A painting hangs crooked.{page}{box:01}There's a note{br}beside the painting.{page}{box:01}\"George the genius was here!{page}{box:01}\"And here in Alighieri's{br}house, he rots away.\"{page}{box:00}{name:02}George{br}Wh... what?!{page}{end}",
+  "en": "{box:01}A painting hangs crooked.{page}{box:01}There's a note{br}beside the painting.{page}{box:01}\"George the{br}genius was here!{page}{box:01}\"And here in Alighieri's{br}house, he rots away.\"{page}{box:00}{name:02}George{br}Wh... what?!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -277,7 +277,7 @@
    "3F5B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もう本なんか{br} どうだっていい」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Forget about books already.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Forget about{br}books already.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -304,7 +304,7 @@
    "3F5C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「外に出ることを{br} 考えるのは…{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけてからだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Thinking about getting out...{page}{box:00}{name:02}George{br}can wait until I've saved Alicia.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Thinking about{br}getting out...{page}{box:00}{name:02}George{br}can wait until{br}I've saved Alicia.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -346,7 +346,7 @@
    "3F5EC"
   ],
   "jp": "{box:01}にごった水が{br}たまっている。{page}{end}",
-  "en": "{box:01}Murky water has collected here.{page}{end}",
+  "en": "{box:01}Murky water has{br}collected here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -381,7 +381,7 @@
    "3F658"
   ],
   "jp": "{box:01}パイプがつまって{br}いるようだ。{page}{end}",
-  "en": "{box:01}The pipe seems to be clogged.{page}{end}",
+  "en": "{box:01}The pipe seems{br}to be clogged.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -414,7 +414,7 @@
    "3F664"
   ],
   "jp": "{box:01}よごれた水が{br}よどんでいる。{page}{end}",
-  "en": "{box:01}Dirty water sits stagnant.{page}{end}",
+  "en": "{box:01}Dirty water{br}sits stagnant.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -427,7 +427,7 @@
    "3F698"
   ],
   "jp": "{box:01}水のよどみが{br}おさまった。{page}{end}",
-  "en": "{box:01}The stagnant water has settled.{page}{end}",
+  "en": "{box:01}The stagnant{br}water has settled.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -438,7 +438,7 @@
    "3F66C"
   ],
   "jp": "{box:01}シャワーがせっち{br}されている。{page}{end}",
-  "en": "{box:01}A shower is installed here.{page}{end}",
+  "en": "{box:01}A shower is{br}installed here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -482,7 +482,7 @@
    "3F67C"
   ],
   "jp": "{box:01}たまった水から{br}ニオイがする。{page}{end}",
-  "en": "{box:01}The standing water stinks.{page}{end}",
+  "en": "{box:01}The standing{br}water stinks.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -493,7 +493,7 @@
    "3F684"
   ],
   "jp": "{box:01}パイプがさびた{br}シャワーがある。{page}{end}",
-  "en": "{box:01}A shower with rusty pipes.{page}{end}",
+  "en": "{box:01}A shower with{br}rusty pipes.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -526,7 +526,7 @@
    "3F690"
   ],
   "jp": "{box:01}人のアカがついた{br}バスタブだ。{page}{end}",
-  "en": "{box:01}A bathtub with a grimy ring.{page}{end}",
+  "en": "{box:01}A bathtub with{br}a grimy ring.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -538,7 +538,7 @@
    "3F694"
   ],
   "jp": "{box:01}よごれが水に{br}ういている。{page}{end}",
-  "en": "{box:01}Grime floats on the water.{page}{end}",
+  "en": "{box:01}Grime floats{br}on the water.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -593,7 +593,7 @@
    "3F70C"
   ],
   "jp": "{box:01}パイプがつまって{br}いるようだ。{page}{end}",
-  "en": "{box:01}The pipe seems to be clogged.{page}{end}",
+  "en": "{box:01}The pipe seems{br}to be clogged.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -618,7 +618,7 @@
    "3F75C"
   ],
   "jp": "{box:01}にごった水が{br}たまっている。{page}{end}",
-  "en": "{box:01}Murky water has collected here.{page}{end}",
+  "en": "{box:01}Murky water has{br}collected here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -675,7 +675,7 @@
    "3F728"
   ],
   "jp": "{box:01}シャワーがせっち{br}されている。{page}{end}",
-  "en": "{box:01}A shower is installed here.{page}{end}",
+  "en": "{box:01}A shower is{br}installed here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -685,7 +685,7 @@
    "3F6CC"
   ],
   "jp": "{box:01}よごれた水が{br}よどんでいる。{page}{end}",
-  "en": "{box:01}Dirty water sits stagnant.{page}{end}",
+  "en": "{box:01}Dirty water{br}sits stagnant.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -698,7 +698,7 @@
    "3F760"
   ],
   "jp": "{box:01}水のよどみが{br}おさまった。{page}{end}",
-  "en": "{box:01}The stagnant water has settled.{page}{end}",
+  "en": "{box:01}The stagnant{br}water has settled.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -742,7 +742,7 @@
    "3F740"
   ],
   "jp": "{box:01}パイプがさびた{br}シャワーがある。{page}{end}",
-  "en": "{box:01}A shower with rusty pipes.{page}{end}",
+  "en": "{box:01}A shower with{br}rusty pipes.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -752,7 +752,7 @@
    "3F6E4"
   ],
   "jp": "{box:01}たまった水から{br}ニオイがする。{page}{end}",
-  "en": "{box:01}The standing water stinks.{page}{end}",
+  "en": "{box:01}The standing{br}water stinks.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -806,7 +806,7 @@
    "3F6FC"
   ],
   "jp": "{box:01}よごれが水に{br}ういている。{page}{end}",
-  "en": "{box:01}Grime floats on the water.{page}{end}",
+  "en": "{box:01}Grime floats{br}on the water.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -817,7 +817,7 @@
    "3F764"
   ],
   "jp": "{box:01}人のアカがついた{br}バスタブだ。{page}{end}",
-  "en": "{box:01}A bathtub with a grimy ring.{page}{end}",
+  "en": "{box:01}A bathtub with{br}a grimy ring.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -827,7 +827,7 @@
    "3F768"
   ],
   "jp": "{box:01}レンジがある。{page}{box:00}{name:02}ジョージ{br}「場違いな気も{br} するけど…{page}{box:00}{name:02}ジョージ{br}「数年前まで人が{br} 住んでたんだから、{page}{box:00}{name:02}ジョージ{br}「あっても別に{br} おかしくないか」{page}{end}",
-  "en": "{box:01}There's a microwave.{page}{box:00}{name:02}George{br}Seems out of place, but...{page}{box:00}{name:02}George{br}people lived here{br}until a few years ago,{page}{box:00}{name:02}George{br}so I guess it's not that strange.{page}{end}",
+  "en": "{box:01}There's a microwave.{page}{box:00}{name:02}George{br}Seems out of place, but...{page}{box:00}{name:02}George{br}people lived here{br}until a few years ago,{page}{box:00}{name:02}George{br}so I guess it's{br}not that strange.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -851,7 +851,7 @@
    "3F770"
   ],
   "jp": "{box:01}ガスコンロが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「火はつかない{br} みたいだな」{page}{end}",
-  "en": "{box:01}A row of gas burners.{page}{box:00}{name:02}George{br}Doesn't look like they'll light.{page}{end}",
+  "en": "{box:01}A row of gas burners.{page}{box:00}{name:02}George{br}Doesn't look{br}like they'll light.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -876,7 +876,7 @@
    "3F858"
   ],
   "jp": "{box:01}ちょうり道具が{br}いろいろある。{page}{end}",
-  "en": "{box:01}All kinds of cooking utensils.{page}{end}",
+  "en": "{box:01}All kinds of{br}cooking utensils.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -901,7 +901,7 @@
    "3F804"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここは{br} ちゅうぼうだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}So this is the kitchen, huh.{page}{end}",
+  "en": "{box:00}{name:02}George{br}So this is the{br}kitchen, huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -917,7 +917,7 @@
    "3F848"
   ],
   "jp": "{box:01}でんしレンジが{br}置いてある。{page}{end}",
-  "en": "{box:01}A microwave oven sits here.{page}{end}",
+  "en": "{box:01}A microwave{br}oven sits here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -972,7 +972,7 @@
    "3F84C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「止まった時計に{br} 用はないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A stopped clock's no use to me.{page}{end}",
+  "en": "{box:00}{name:02}George{br}A stopped clock's{br}no use to me.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -982,7 +982,7 @@
    "3F810"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガスさえ{br} 来てれば…{page}{box:00}{name:02}ジョージ{br}「この館まるごと{br} ふっとばすのに！{page}{box:00}{name:02}ジョージ{br}「…アリシアを{br} たすけてからな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}If only the gas were on...{page}{box:00}{name:02}George{br}I'd blow this whole{br}house sky-high!{page}{box:00}{name:02}George{br}...After I save Alicia, that is.{page}{end}",
+  "en": "{box:00}{name:02}George{br}If only the gas were on...{page}{box:00}{name:02}George{br}I'd blow this whole{br}house sky-high!{page}{box:00}{name:02}George{br}...After I save{br}Alicia, that is.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1036,7 +1036,7 @@
    "3F86C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何にも{br} 写らないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It doesn't show anything...{page}{end}",
+  "en": "{box:00}{name:02}George{br}It doesn't show{br}anything...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1058,7 +1058,7 @@
    "3F8B4"
   ],
   "jp": "{box:01}かべの時計は{br}止まったままだ。{page}{end}",
-  "en": "{box:01}The wall clock is still stopped.{page}{end}",
+  "en": "{box:01}The wall clock{br}is still stopped.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1096,7 +1096,7 @@
    "3F8A0"
   ],
   "jp": "{box:01}ホコリがつもった{br}ベッドだ。{page}{box:01}ここではねむり{br}たくない。{page}{end}",
-  "en": "{box:01}A dust-covered bed.{page}{box:01}I don't want to sleep here.{page}{end}",
+  "en": "{box:01}A dust-covered bed.{page}{box:01}I don't want{br}to sleep here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1149,7 +1149,7 @@
    "3F8A8"
   ],
   "jp": "{box:01}リモコンがない{br}タイプのテレビだ。{page}{end}",
-  "en": "{box:01}The kind of TV with no remote.{page}{end}",
+  "en": "{box:01}The kind of TV{br}with no remote.{page}{end}",
   "status": "done",
   "notes": ""
  },

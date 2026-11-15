@@ -5,7 +5,7 @@
    "3FF00"
   ],
   "jp": "{box:01}床のもんしょうと{br}同じ絵みたいだ。{page}{box:01}魔法のもんしょう{br}のように見える。{page}{end}",
-  "en": "{box:01}Looks like the same picture{br}as the crest on the floor.{page}{box:01}It looks like a magic crest.{page}{end}",
+  "en": "{box:01}It's the same picture as{br}the crest on the floor.{page}{box:01}It looks like a{br}magic crest.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -55,7 +55,7 @@
    "3FF18"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは！魔法の{br} もんしょう！？{page}{box:00}{name:02}ジョージ{br}「じゃあここで{br} 儀式が…？」{page}{box:00}{name:05}？？？？{br}『違うな』{page}{box:00}{name:02}ジョージ{br}「！？{br} 誰だ！」{page}{box:00}{name:05}？？？？{br}『うぬこそ{br} 何者よ…』{page}{end}",
-  "en": "{box:00}{name:02}George{br}This is...! A magic crest!?{page}{box:00}{name:02}George{br}So the ritual happened here...?{page}{box:00}{name:05}????{br}Wrong.{page}{box:00}{name:02}George{br}!? Who's there!?{page}{box:00}{name:05}????{br}I would ask the same of you...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This is...! A magic crest!?{page}{box:00}{name:02}George{br}So the ritual{br}happened here...?{page}{box:00}{name:05}????{br}Wrong.{page}{box:00}{name:02}George{br}!? Who's there!?{page}{box:00}{name:05}????{br}I would ask the{br}same of you...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "3FF1C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:05}？？？？{br}『何をどこまで{br} 知っておる？{page}{box:00}{name:05}？？？？{br}『何ゆえ、{br} 魔道書を集める？』{page}{box:00}{name:02}ジョージ{br}「あ…お…{br} オ、オレたちは…」{page}{box:00}{name:05}？？？？{br}『…まあよい{page}{box:00}{name:05}？？？？{br}『見のがすわけには{br} ゆかぬからな…』{page}{end}",
-  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:05}????{br}What do you know, and how much?{page}{box:00}{name:05}????{br}Why do you gather{br}the grimoires?{page}{box:00}{name:02}George{br}Uh... w... w-we're just...{page}{box:00}{name:05}????{br}...No matter.{page}{box:00}{name:05}????{br}I cannot let you{br}pass regardless...{page}{end}",
+  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:05}????{br}What do you know,{br}and how much?{page}{box:00}{name:05}????{br}Why do you gather{br}the grimoires?{page}{box:00}{name:02}George{br}Uh... w... w-we're just...{page}{box:00}{name:05}????{br}...No matter.{page}{box:00}{name:05}????{br}I cannot let you{br}pass regardless...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -75,7 +75,7 @@
    "3FF20"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『おろかしや！{br}おろかしや！{page}{box:00}{name:05}？？？？{br}『われらの過ちを{br}ときはなつのか？{page}{box:00}{name:05}？？？？{br}『生と死のはざまを{br}のりこえる事など{page}{box:00}{name:05}？？？？{br}『人に過ぎぬ者には{br}ゆるされぬ！{page}{box:00}{name:05}？？？？{br}『むりにこえようと{br}したばかりに…{page}{box:00}{name:05}？？？？{br}『われらは…{br}この様な…』{page}{end}",
-  "en": "{box:00}{name:05}????{br}How foolish! How foolish!{page}{box:00}{name:05}????{br}Would you set loose our mistake?{page}{box:00}{name:05}????{br}To cross the line{br}between life and death{page}{box:00}{name:05}????{br}is not permitted to mere humans!{page}{box:00}{name:05}????{br}Because we tried to{br}force our way across...{page}{box:00}{name:05}????{br}we have become... like this...{page}{end}",
+  "en": "{box:00}{name:05}????{br}How foolish! How foolish!{page}{box:00}{name:05}????{br}Would you set{br}loose our mistake?{page}{box:00}{name:05}????{br}To cross the line{br}between life and death{page}{box:00}{name:05}????{br}is not permitted{br}to mere humans!{page}{box:00}{name:05}????{br}Because we tried to{br}force our way across...{page}{box:00}{name:05}????{br}we have become...{br}like this...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "3FF24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「生と死のはざまを{br}のりこえる？{page}{box:00}{name:02}ジョージ{br}「何の話だ？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Cross the line between{br}life and death?{page}{box:00}{name:02}George{br}What are you talking about?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Cross the line between{br}life and death?{page}{box:00}{name:02}George{br}What are you{br}talking about?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -96,7 +96,7 @@
    "3FF50"
   ],
   "jp": "{box:01}魔法のもんしょう{br}がかざられている。{page}{end}",
-  "en": "{box:01}A magic crest is on display.{page}{end}",
+  "en": "{box:01}A magic crest{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -118,7 +118,7 @@
    "3FF58"
   ],
   "jp": "{box:01}キャンドルから{br}光がこぼれている。{page}{end}",
-  "en": "{box:01}Light spills from the candles.{page}{end}",
+  "en": "{box:01}Light spills from{br}the candles.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -140,7 +140,7 @@
    "3FF60"
   ],
   "jp": "{box:01}あかりがまわりを{br}てらしている。{page}{end}",
-  "en": "{box:01}The light illuminates the area.{page}{end}",
+  "en": "{box:01}The light illuminates{br}the area.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -205,7 +205,7 @@
    "3FF78"
   ],
   "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これは…{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな…」{page}{end}",
-  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up and opened it...{page}{box:00}{name:02}George{br}Is this... Greek?{page}{box:00}{name:02}George{br}I can't read this...{page}{end}",
+  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up{br}and opened it...{page}{box:00}{name:02}George{br}Is this... Greek?{page}{box:00}{name:02}George{br}I can't read this...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -215,7 +215,7 @@
    "3FF7C"
   ],
   "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「どこかのカギが{br} 外れたみたいだ！{page}{box:00}{name:02}ジョージ{br}「さっきビデオで{br} 見たとおりだな！{page}{box:00}{name:02}ジョージ{br}「しかし、本だなの{br} うちがわに…{page}{box:00}{name:02}ジョージ{br}「かくしスイッチが{br} あるなんてな…」{page}{end}",
-  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}Sounds like a lock{br}opened somewhere!{page}{box:00}{name:02}George{br}Just like I saw in the video!{page}{box:00}{name:02}George{br}But who'd have thought...{page}{box:00}{name:02}George{br}there's a hidden switch{br}inside the bookshelf...{page}{end}",
+  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}Sounds like a lock{br}opened somewhere!{page}{box:00}{name:02}George{br}Just like I saw{br}in the video!{page}{box:00}{name:02}George{br}But who'd have thought...{page}{box:00}{name:02}George{br}there's a hidden switch{br}inside the bookshelf...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -245,7 +245,7 @@
    "3FF88"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Outside! I can see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Outside! I can{br}see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -255,7 +255,7 @@
    "3FF8C"
   ],
   "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
-  "en": "{box:01}There's a plain-looking bed.{page}{end}",
+  "en": "{box:01}There's a{br}plain-looking bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -265,7 +265,7 @@
    "3FF90"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Clean up a little, would you?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Clean up a little,{br}would you?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -275,7 +275,7 @@
    "3FF94"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a lot of dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a lot of{br}dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -295,7 +295,7 @@
    "3FF9C"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
-  "en": "{box:01}There's a towel on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to use this towel.{page}{end}",
+  "en": "{box:01}There's a towel{br}on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to{br}use this towel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -315,7 +315,7 @@
    "3FFA4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{box:00}{name:02}ジョージ{br}「…後から館に{br} 入った人のために{page}{box:00}{name:02}ジョージ{br}「メモでも残して{br} おこうかな…」{page}{box:01}『天才ジョージ{br} ここにあり！』{page}{box:00}{name:02}ジョージ{br}「よし！バッチリだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's crooked too.{page}{box:00}{name:02}George{br}...For anyone who comes{br}into this house later,{page}{box:00}{name:02}George{br}maybe I'll leave a{br}note or something...{page}{box:01}\"George the genius was here!\"{page}{box:00}{name:02}George{br}There! Perfect.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}crooked too.{page}{box:00}{name:02}George{br}...For anyone who comes{br}into this house later,{page}{box:00}{name:02}George{br}maybe I'll leave a{br}note or something...{page}{box:01}\"George the{br}genius was here!\"{page}{box:00}{name:02}George{br}There! Perfect.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -335,7 +335,7 @@
    "3FFB0"
   ],
   "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「ビンゴ！やっぱり{br} ここにもあった！{page}{box:00}{name:02}ジョージ{br}「どこかのカギが{br} 外れたみたいだ{page}{box:00}{name:02}ジョージ{br}「やっぱりここにも{br} しかけがあったな！」{page}{end}",
-  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}Bingo! There was one here too!{page}{box:00}{name:02}George{br}Sounds like a lock{br}opened somewhere.{page}{box:00}{name:02}George{br}Knew there'd be{br}a trick here too!{page}{end}",
+  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}Bingo! There was{br}one here too!{page}{box:00}{name:02}George{br}Sounds like a lock{br}opened somewhere.{page}{box:00}{name:02}George{br}Knew there'd be{br}a trick here too!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    "3FFB4"
   ],
   "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これはイタリア語…{br} いや、ラテン語か？{page}{box:00}{name:02}ジョージ{br}「…読めない事に{br} かわりはないな…」{page}{box:00}{name:02}ジョージ{br}「でもあちこちに{br} のってる図形は…{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルト{br} かんけいだろうな」{page}{end}",
-  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up and opened it...{page}{box:00}{name:02}George{br}Is this Italian... no, Latin?{page}{box:00}{name:02}George{br}...Either way, I can't read it...{page}{box:00}{name:02}George{br}But the diagrams all over it...{page}{box:00}{name:02}George{br}have got to be occult stuff.{page}{end}",
+  "en": "{box:01}Nothing but{br}difficult-looking books.{page}{box:01}I picked one up{br}and opened it...{page}{box:00}{name:02}George{br}Is this Italian... no, Latin?{page}{box:00}{name:02}George{br}...Either way, I{br}can't read it...{page}{box:00}{name:02}George{br}But the diagrams{br}all over it...{page}{box:00}{name:02}George{br}have got to be{br}occult stuff.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -365,7 +365,7 @@
    "3FFBC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Outside! I can see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Outside! I can{br}see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    "3FFC0"
   ],
   "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
-  "en": "{box:01}There's a plain-looking bed.{page}{end}",
+  "en": "{box:01}There's a{br}plain-looking bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -385,7 +385,7 @@
    "3FFC4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Clean up a little, would you?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Clean up a little,{br}would you?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -395,7 +395,7 @@
    "3FFC8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a lot of dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a lot of{br}dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -415,7 +415,7 @@
    "3FFD0"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
-  "en": "{box:01}There's a towel on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to use this towel.{page}{end}",
+  "en": "{box:01}There's a towel{br}on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to{br}use this towel.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -435,7 +435,7 @@
    "3FFD8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This painting's crooked too.{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's{br}crooked too.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -455,7 +455,7 @@
    "3FFE0"
   ],
   "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「やっぱり天才は{br} 読みを外さないぜ！{page}{box:00}{name:02}ジョージ{br}「これでどこかの{br} カギがあいたな…{page}{box:00}{name:02}ジョージ{br}「…しかしスゴイ{br} 本の数だな…{page}{box:01}本だなには多くの{br}オカルト本がある。{page}{box:01}はしの方の1冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは…日記か？{br} おお！英語だ！{page}{box:00}{name:02}ジョージ{br}「わるいけど、{br} 読ませてもらうよ…」{page}{box:01}『ついに儀式の日が{br} 決まった。{page}{box:01}『アリギエリ様の{br} 魔法システムに{page}{box:01}『われらと魔道書が{br} あわされば、{page}{box:01}『儀式はかならず{br} 成功する！{page}{box:01}『アトラハシスの{br} 長年の目的が、{page}{box:01}『はたされる時が{br} 来たのだ！』{page}{box:00}{name:02}ジョージ{br}「アトラハシス…？{br} 長年の目的？{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わかんないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじか…{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルト{br} かんけいだろうな」{page}{end}",
-  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}A genius never guesses wrong!{page}{box:00}{name:02}George{br}That should've opened{br}a lock somewhere...{page}{box:00}{name:02}George{br}...But man, that's{br}a lot of books...{page}{box:01}The bookshelf holds{br}many occult books.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{br}Whoa! It's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read it...{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}grimoires are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}Atrahasis...? Long-held goal?{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}I might as well not{br}be able to read it...{page}{box:00}{name:02}George{br}Must be occult stuff, I guess.{page}{end}",
+  "en": "{box:01}I pressed the switch and{br}heard a sound far off.{page}{box:00}{name:02}George{br}A genius never{br}guesses wrong!{page}{box:00}{name:02}George{br}That should've opened{br}a lock somewhere...{page}{box:00}{name:02}George{br}...But man, that's{br}a lot of books...{page}{box:01}The bookshelf holds{br}many occult books.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{br}Whoa! It's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm{br}gonna read it...{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}grimoires are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is{br}sure to succeed!{page}{box:01}\"The long-held{br}goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}Atrahasis...?{br}Long-held goal?{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}I might as well not{br}be able to read it...{page}{box:00}{name:02}George{br}Must be occult{br}stuff, I guess.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -465,7 +465,7 @@
    "3FFE4"
   ],
   "jp": "{box:01}むずかしそうな本{br}が置かれている。{page}{box:01}はしの方の1冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは…日記か？{br} おお！英語だ！{page}{box:00}{name:02}ジョージ{br}「わるいけど、{br} 読ませてもらうよ…」{page}{box:01}『ついに儀式の日が{br} 決まった。{page}{box:01}『アリギエリ様の{br} 魔法システムに{page}{box:01}『われらと魔道書が{br} あわされば、{page}{box:01}『儀式はかならず{br} 成功する！{page}{box:01}『アトラハシスの{br} 長年の目的が、{page}{box:01}『はたされる時が{br} 来たのだ！』{page}{box:00}{name:02}ジョージ{br}「アトラハシス…？{br} 長年の目的…ねえ…{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わかんないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじだよな…{page}{box:00}{name:02}ジョージ{br}「これもオカルト{br} かんけいだろうな…」{page}{end}",
-  "en": "{box:01}Difficult-looking books sit here.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{br}Whoa! It's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read it...{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}grimoires are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}Atrahasis...? A{br}long-held goal... huh...{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}I might as well not{br}be able to read it...{page}{box:00}{name:02}George{br}This must be occult stuff too...{page}{end}",
+  "en": "{box:01}Difficult-looking{br}books sit here.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{br}Whoa! It's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm{br}gonna read it...{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}grimoires are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is{br}sure to succeed!{page}{box:01}\"The long-held{br}goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}Atrahasis...? A{br}long-held goal... huh...{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}I might as well not{br}be able to read it...{page}{box:00}{name:02}George{br}This must be{br}occult stuff too...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    "3FFEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Outside! I can see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Outside! I can{br}see outside!{page}{box:00}{name:02}George{br}Dammit!{page}{box:00}{name:02}George{br}It's just like the{br}entrance windows!{page}{box:00}{name:02}George{br}It's glass, but it{br}won't even crack!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -505,7 +505,7 @@
    "3FFF4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Clean up a little, would you?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Clean up a little,{br}would you?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -515,7 +515,7 @@
    "3FFF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなにおいは{br} しないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's a lot of dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's a lot of{br}dust piled up,{page}{box:00}{name:02}George{br}but no weird smells.{page}{end}",
   "status": "done",
   "notes": ""
  },

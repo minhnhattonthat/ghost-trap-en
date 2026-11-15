@@ -17,7 +17,7 @@
    "3DC08"
   ],
   "jp": "{box:01}はがれたえのぐが{br}床におちている。{page}{end}",
-  "en": "{box:01}Flakes of paint litter the floor.{page}{end}",
+  "en": "{box:01}Flakes of paint{br}litter the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -28,7 +28,7 @@
    "3DC0C"
   ],
   "jp": "{box:01}何も入っていない{br}大きなツボだ。{page}{end}",
-  "en": "{box:01}A big vase with nothing in it.{page}{end}",
+  "en": "{box:01}A big vase with{br}nothing in it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -39,7 +39,7 @@
    "3DC10"
   ],
   "jp": "{box:01}何も入っていない{br}大きなツボだ。{page}{end}",
-  "en": "{box:01}A big vase with nothing in it.{page}{end}",
+  "en": "{box:01}A big vase with{br}nothing in it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -50,7 +50,7 @@
    "3DC14"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -61,7 +61,7 @@
    "3DC18"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -72,7 +72,7 @@
    "3DC24"
   ],
   "jp": "{box:01}ふうけいの絵{br}みたいだ。{page}{end}",
-  "en": "{box:01}Looks like a landscape painting.{page}{end}",
+  "en": "{box:01}Looks like a{br}landscape painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -127,7 +127,7 @@
    "3DC38"
   ],
   "jp": "{box:01}しょっきやハムの{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of dishes and ham.{page}{end}",
+  "en": "{box:01}An oil painting of{br}dishes and ham.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -214,7 +214,7 @@
    "3DC60"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「けしきの絵を{br} 見るヒマはない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at landscapes.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at landscapes.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -224,7 +224,7 @@
    "3DC64"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テーブルには{br} 何もないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's nothing on the table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's nothing{br}on the table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -234,7 +234,7 @@
    "3DC68"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テーブルには{br} 何もないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's nothing on the table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's nothing{br}on the table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -354,7 +354,7 @@
    "3DCA0"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}めぼしいモノは{br}ないようだ。{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth taking, it seems.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth{br}taking, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -364,7 +364,7 @@
    "3DCA4"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}めぼしいモノは{br}ないようだ。{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth taking, it seems.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth{br}taking, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -424,7 +424,7 @@
    "3DCBC"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A large oil painting hangs here.{page}{end}",
+  "en": "{box:01}A large oil painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -434,7 +434,7 @@
    "3DCC0"
   ],
   "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{box:01}中には何も{br}ないようだ。{page}{end}",
-  "en": "{box:01}A fine-looking vase sits here.{page}{box:01}There's nothing inside, it seems.{page}{end}",
+  "en": "{box:01}A fine-looking{br}vase sits here.{page}{box:01}There's nothing{br}inside, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -444,7 +444,7 @@
    "3DCC4"
   ],
   "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{box:01}中には何も{br}ないようだ。{page}{end}",
-  "en": "{box:01}A fine-looking vase sits here.{page}{box:01}There's nothing inside, it seems.{page}{end}",
+  "en": "{box:01}A fine-looking{br}vase sits here.{page}{box:01}There's nothing{br}inside, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -474,7 +474,7 @@
    "3DCD8"
   ],
   "jp": "{box:01}けしきの絵の{br}色もあせている。{page}{end}",
-  "en": "{box:01}The colors of this{br}landscape have faded too.{page}{end}",
+  "en": "{box:01}This landscape's colors{br}have faded too.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -484,7 +484,7 @@
    "3DCDC"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}とくに何も{br}ないようだ。{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}Nothing special on it, it seems.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing special{br}on it, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -494,7 +494,7 @@
    "3DCE0"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}とくに何も{br}ないようだ。{page}{end}",
-  "en": "{box:01}A small table stands here.{page}{box:01}Nothing special on it, it seems.{page}{end}",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing special{br}on it, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -524,7 +524,7 @@
    "3DCEC"
   ],
   "jp": "{box:01}しょくたくの上を{br}えがいた絵だ。{page}{end}",
-  "en": "{box:01}A painting of a dinner table.{page}{end}",
+  "en": "{box:01}A painting of{br}a dinner table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -554,7 +554,7 @@
    "3DCF8"
   ],
   "jp": "{box:01}絵にクモのすが{br}かかっている。{page}{box:01}クモのすについた、{br}紙きれがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？{br} 何か書いてあるな」{page}{box:01}ジョージは{br}紙きれを読んだ。{page}{box:01}『トランシーバーと{br} マグネトロン{page}{box:01}『それらを使えば、{br} ぼうぐが生まれる。{page}{box:00}{name:02}ジョージ{br}「オレと同じ科学者{br} のメモのようだな」{page}{end}",
-  "en": "{box:01}Cobwebs cover the painting.{page}{box:01}A scrap of paper is{br}caught in the web.{page}{box:00}{name:02}George{br}What's this...?{br}Something's written on it.{page}{box:01}I read the scrap of paper.{page}{box:01}\"With a transceiver{br}and a Magnetron,{page}{box:01}\"you can make armor.\"{page}{box:00}{name:02}George{br}Looks like a note from{br}a scientist like me.{page}{end}",
+  "en": "{box:01}Cobwebs cover{br}the painting.{page}{box:01}A scrap of paper is{br}caught in the web.{page}{box:00}{name:02}George{br}What's this...?{br}Something's written on it.{page}{box:01}I read the{br}scrap of paper.{page}{box:01}\"With a transceiver{br}and a Magnetron,{page}{box:01}\"you can make armor.\"{page}{box:00}{name:02}George{br}Looks like a note from{br}a scientist like me.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -564,7 +564,7 @@
    "3DCFC"
   ],
   "jp": "{box:01}ツボには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the vase.{page}{end}",
+  "en": "{box:01}There's nothing{br}in the vase.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -574,7 +574,7 @@
    "3DD00"
   ],
   "jp": "{box:01}ツボには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the vase.{page}{end}",
+  "en": "{box:01}There's nothing{br}in the vase.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -584,7 +584,7 @@
    "3DD04"
   ],
   "jp": "{box:01}いろいろな物が{br}置かれている。{page}{box:01}とるべき物は{br}何もない。{page}{end}",
-  "en": "{box:01}All sorts of things sit here.{page}{box:01}Nothing worth taking.{page}{end}",
+  "en": "{box:01}All sorts of{br}things sit here.{page}{box:01}Nothing worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -594,7 +594,7 @@
    "3DD08"
   ],
   "jp": "{box:01}いろいろな物が{br}置かれている。{page}{box:01}とるべき物は{br}何もない。{page}{end}",
-  "en": "{box:01}All sorts of things sit here.{page}{box:01}Nothing worth taking.{page}{end}",
+  "en": "{box:01}All sorts of{br}things sit here.{page}{box:01}Nothing worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -604,7 +604,7 @@
    "3DD14"
   ],
   "jp": "{box:01}かなり古い{br}けしきの絵だ。{page}{end}",
-  "en": "{box:01}A very old landscape painting.{page}{end}",
+  "en": "{box:01}A very old{br}landscape painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -634,7 +634,7 @@
    "3DD20"
   ],
   "jp": "{box:01}ビリジアンが{br}ベースの絵だ。{page}{end}",
-  "en": "{box:01}A painting with a viridian base.{page}{end}",
+  "en": "{box:01}A painting with{br}a viridian base.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -644,7 +644,7 @@
    "3DD24"
   ],
   "jp": "{box:01}ナゾの絵が{br}かざってある。{page}{box:01}ナゾの絵にナゾの{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なになに…？」{page}{box:01}『カモミールと{br} バーベインで{page}{box:01}『まずいのみ薬が{br} つくれる。{page}{box:01}『かなりマズいが、{br} かいふくは中』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}A puzzling painting is on display.{page}{box:01}The puzzling painting{br}has a puzzling note.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"With Chamomile and Vervain,{page}{box:01}\"you can make a Nasty Potion.{page}{box:01}\"Tastes awful, but{br}restores a fair bit.\"{page}{box:00}{name:02}George{br}Got it...{page}{end}",
+  "en": "{box:01}A puzzling painting{br}is on display.{page}{box:01}The puzzling painting{br}has a puzzling note.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"With Chamomile{br}and Vervain,{page}{box:01}\"you can make{br}a Nasty Potion.{page}{box:01}\"Tastes awful, but{br}restores a fair bit.\"{page}{box:00}{name:02}George{br}Got it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -664,7 +664,7 @@
    "3DD2C"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is all cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -674,7 +674,7 @@
    "3DD30"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The paint is badly cracked.{br}What a sorry sight.{page}{end}",
+  "en": "{box:01}The paint is all cracked.{br}What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -714,7 +714,7 @@
    "3DD40"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -724,7 +724,7 @@
    "3DD44"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -744,7 +744,7 @@
    "3DD54"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -754,7 +754,7 @@
    "3DD58"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -774,7 +774,7 @@
    "3DD60"
   ],
   "jp": "{box:01}きみょうな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A strange painting is on display.{page}{end}",
+  "en": "{box:01}A strange painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -794,7 +794,7 @@
    "3DD68"
   ],
   "jp": "{box:01}絵が床に{br}置かれたままだ。{page}{box:01}絵と床の間に{br}紙きれがある。{page}{box:01}どうやらメモの{br}ようだ。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに…{page}{box:01}『エルダーのえだに{br} きよめたナイフを…』{page}{box:00}{name:02}ジョージ{br}「霊水って、{br} もってたっけ？」{page}{end}",
-  "en": "{box:01}A painting left{br}sitting on the floor.{page}{box:01}There's a scrap{br}of paper under it.{page}{box:01}Looks like some kind of note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife...{page}{box:01}\"A Purified Knife on{br}an Elder Branch...\"{page}{box:00}{name:02}George{br}Holy Water... do I have any?{page}{end}",
+  "en": "{box:01}A painting left{br}sitting on the floor.{page}{box:01}There's a scrap{br}of paper under it.{page}{box:01}Looks like some{br}kind of note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife...{page}{box:01}\"A Purified Knife on{br}an Elder Branch...\"{page}{box:00}{name:02}George{br}Holy Water...{br}do I have any?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -814,7 +814,7 @@
    "3DD70"
   ],
   "jp": "{box:01}はがれたえのぐが{br}床におちている。{page}{end}",
-  "en": "{box:01}Flakes of paint litter the floor.{page}{end}",
+  "en": "{box:01}Flakes of paint{br}litter the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -824,7 +824,7 @@
    "3DD74"
   ],
   "jp": "{box:01}何も入っていない{br}大きなツボだ。{page}{end}",
-  "en": "{box:01}A big vase with nothing in it.{page}{end}",
+  "en": "{box:01}A big vase with{br}nothing in it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -834,7 +834,7 @@
    "3DD78"
   ],
   "jp": "{box:01}何も入っていない{br}大きなツボだ。{page}{end}",
-  "en": "{box:01}A big vase with nothing in it.{page}{end}",
+  "en": "{box:01}A big vase with{br}nothing in it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -844,7 +844,7 @@
    "3DD7C"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -854,7 +854,7 @@
    "3DD80"
   ],
   "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "en": "{box:01}Nothing here{br}worth taking.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -869,7 +869,7 @@
    "3DEB8"
   ],
   "jp": "{box:01}ふうけいの絵{br}みたいだ。{page}{end}",
-  "en": "{box:01}Looks like a landscape painting.{page}{end}",
+  "en": "{box:01}Looks like a{br}landscape painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -929,7 +929,7 @@
    "3DEC8"
   ],
   "jp": "{box:01}ねんだいモノの{br}絵のようだ。{page}{box:00}{name:02}ジョージ{br}「なんだろう…？{br} これ」{page}{box:01}絵のわきに何か、{br}書かれている。{page}{box:01}『ナイフとマッチ、{br} それにオイル…{page}{box:01}『そこからさらに{br} イオウのこなだ』{page}{end}",
-  "en": "{box:01}Looks like a painting{br}with some age on it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}Something's written{br}beside the painting.{page}{box:01}\"A Knife and Matches, plus Oil...{page}{box:01}\"then add{br}Sulfur Powder.\"{page}{end}",
+  "en": "{box:01}Looks like a painting{br}with some age on it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}Something's written{br}beside the painting.{page}{box:01}\"A Knife and{br}Matches, plus Oil...{page}{box:01}\"then add{br}Sulfur Powder.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -944,7 +944,7 @@
    "3DECC"
   ],
   "jp": "{box:01}しょっきやハムの{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of dishes and ham.{page}{end}",
+  "en": "{box:01}An oil painting of{br}dishes and ham.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1059,7 +1059,7 @@
    "3DEF4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「けしきの絵を{br} 見るヒマはない」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to look at landscapes.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to look{br}at landscapes.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1069,7 +1069,7 @@
    "3DEF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テーブルには{br} 何もないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's nothing on the table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's nothing{br}on the table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1079,7 +1079,7 @@
    "3DEFC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テーブルには{br} 何もないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's nothing on the table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's nothing{br}on the table.{page}{end}",
   "status": "done",
   "notes": ""
  }

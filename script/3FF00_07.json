@@ -35,7 +35,7 @@
    "40E58"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たなには何も{br} のってないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}There's nothing on the shelf.{page}{end}",
+  "en": "{box:00}{name:02}George{br}There's nothing{br}on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -45,7 +45,7 @@
    "40E5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな所まで{br} オレはさがすよ！{page}{box:00}{name:02}ジョージ{br}「たとえ何も{br} なくてもね！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I'll search even a place like this!{page}{box:00}{name:02}George{br}Even if there's nothing here!{page}{end}",
+  "en": "{box:00}{name:02}George{br}I'll search even{br}a place like this!{page}{box:00}{name:02}George{br}Even if there's{br}nothing here!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -75,7 +75,7 @@
    "40E68"
   ],
   "jp": "{box:01}つうろを色どる{br}しょくだいだ。{page}{end}",
-  "en": "{box:01}A candlestick that{br}brightens up the passage.{page}{end}",
+  "en": "{box:01}A candlestick that{br}lights up the passage.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "40E70"
   ],
   "jp": "{box:01}高そうな{br}そうしょくだ。{page}{end}",
-  "en": "{box:01}An expensive-looking decoration.{page}{end}",
+  "en": "{box:01}An expensive-looking{br}decoration.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -125,7 +125,7 @@
    "40E80"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「からっぽのたなは{br} さみしいなあ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}An empty shelf is kind of sad...{page}{end}",
+  "en": "{box:00}{name:02}George{br}An empty shelf{br}is kind of sad...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -135,7 +135,7 @@
    "40E84"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「とにかく何も{br} ないなあ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Anyway, there's nothing here...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Anyway, there's{br}nothing here...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -155,7 +155,7 @@
    "40E8C"
   ],
   "jp": "{box:01}ろうかをかざる{br}そうしょくだ。{page}{end}",
-  "en": "{box:01}A decoration for the hallway.{page}{end}",
+  "en": "{box:01}A decoration{br}for the hallway.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -175,7 +175,7 @@
    "40E94"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こまかくチェック{br} それがきほんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's rule number one!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Check everything closely.{br}That's rule number one!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -195,7 +195,7 @@
    "40E9C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何か手がかりは{br} ないかな…？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Isn't there some kind of clue...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Isn't there some{br}kind of clue...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -205,7 +205,7 @@
    "40EA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おもそうな{br} そうしょくだ。{page}{box:00}{name:02}ジョージ{br}「一人じゃ{br} うごかせないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A heavy-looking decoration.{page}{box:00}{name:02}George{br}I can't move it on my own.{page}{end}",
+  "en": "{box:00}{name:02}George{br}A heavy-looking{br}decoration.{page}{box:00}{name:02}George{br}I can't move it on my own.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -227,7 +227,7 @@
    "40EC8"
   ],
   "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "en": "{box:01}An oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -238,7 +238,7 @@
    "40ECC"
   ],
   "jp": "{box:01}大きなガレキが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「てんじょうが{br} ぬけてるな…」{page}{end}",
-  "en": "{box:01}A big chunk of rubble sits here.{page}{box:00}{name:02}George{br}The ceiling's caved in...{page}{end}",
+  "en": "{box:01}A big chunk of{br}rubble sits here.{page}{box:00}{name:02}George{br}The ceiling's caved in...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -249,7 +249,7 @@
    "40ED0"
   ],
   "jp": "{box:01}ガレキが床に{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「てんじょうが{br} おちたんだな」{page}{end}",
-  "en": "{box:01}Rubble lies on the floor.{page}{box:00}{name:02}George{br}The ceiling must have fallen.{page}{end}",
+  "en": "{box:01}Rubble lies on the floor.{page}{box:00}{name:02}George{br}The ceiling must{br}have fallen.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -260,7 +260,7 @@
    "40ED4"
   ],
   "jp": "{box:01}古びた絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A worn old painting is on display.{page}{end}",
+  "en": "{box:01}A worn old painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -270,7 +270,7 @@
    "40EBC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵にラクガキが{br} あるぞ…」{page}{box:01}『Nリキッドは{br} べんりな薬{page}{box:01}『まずいとくさいで{br} ちょうごうだ』{page}{box:00}{name:02}ジョージ{br}「なんだろ？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Someone scribbled{br}on the painting...{page}{box:01}\"N Liquid is a handy medicine.{page}{box:01}\"Mix the nasty and the smelly.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Someone scribbled{br}on the painting...{page}{box:01}\"N Liquid is a{br}handy medicine.{page}{box:01}\"Mix the nasty{br}and the smelly.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -313,7 +313,7 @@
    "40F04"
   ],
   "jp": "{box:01}てんじょうが{br}くずれたものだ。{page}{end}",
-  "en": "{box:01}It's where the ceiling collapsed.{page}{end}",
+  "en": "{box:01}It's where the{br}ceiling collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -345,7 +345,7 @@
    "40EF4"
   ],
   "jp": "{box:01}床に置かれた絵に{br}ラクガキがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろう？」{page}{box:01}『ガラスのつぼで{br} つくれるものは{page}{box:01}『ワナのランプと{br} 夜あけのランプ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "{box:01}Someone scribbled on a{br}painting on the floor.{page}{box:00}{name:02}George{br}What's this?{page}{box:01}\"With a Glass Jar you can make{page}{box:01}\"trap lamps and{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "en": "{box:01}Someone scribbled on a{br}painting on the floor.{page}{box:00}{name:02}George{br}What's this?{page}{box:01}\"With a Glass{br}Jar you can make{page}{box:01}\"trap lamps and{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -377,7 +377,7 @@
    "40F38"
   ],
   "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "en": "{box:01}An oil painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -388,7 +388,7 @@
    "40F3C"
   ],
   "jp": "{box:01}大きなガレキが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「てんじょうが{br} ぬけてるな…」{page}{end}",
-  "en": "{box:01}A big chunk of rubble sits here.{page}{box:00}{name:02}George{br}The ceiling's caved in...{page}{end}",
+  "en": "{box:01}A big chunk of{br}rubble sits here.{page}{box:00}{name:02}George{br}The ceiling's caved in...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -399,7 +399,7 @@
    "40F40"
   ],
   "jp": "{box:01}ガレキが床に{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「てんじょうが{br} おちたんだな」{page}{end}",
-  "en": "{box:01}Rubble lies on the floor.{page}{box:00}{name:02}George{br}The ceiling must have fallen.{page}{end}",
+  "en": "{box:01}Rubble lies on the floor.{page}{box:00}{name:02}George{br}The ceiling must{br}have fallen.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -410,7 +410,7 @@
    "40F44"
   ],
   "jp": "{box:01}古びた絵が{br}かざってある。{page}{end}",
-  "en": "{box:01}A worn old painting is on display.{page}{end}",
+  "en": "{box:01}A worn old painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -420,7 +420,7 @@
    "40F2C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵にラクガキが{br} あるぞ…」{page}{box:01}『Nリキッドは{br} べんりな薬{page}{box:01}『まずいとくさいで{br} ちょうごうだ』{page}{box:00}{name:02}ジョージ{br}「なんだろ？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Someone scribbled{br}on the painting...{page}{box:01}\"N Liquid is a handy medicine.{page}{box:01}\"Mix the nasty and the smelly.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Someone scribbled{br}on the painting...{page}{box:01}\"N Liquid is a{br}handy medicine.{page}{box:01}\"Mix the nasty{br}and the smelly.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -463,7 +463,7 @@
    "40F74"
   ],
   "jp": "{box:01}てんじょうが{br}くずれたものだ。{page}{end}",
-  "en": "{box:01}It's where the ceiling collapsed.{page}{end}",
+  "en": "{box:01}It's where the{br}ceiling collapsed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -495,7 +495,7 @@
    "40F64"
   ],
   "jp": "{box:01}床に置かれた絵に{br}ラクガキがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろう？」{page}{box:01}『ガラスのつぼで{br} つくれるものは{page}{box:01}『ワナのランプと{br} 夜あけのランプ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "{box:01}Someone scribbled on a{br}painting on the floor.{page}{box:00}{name:02}George{br}What's this?{page}{box:01}\"With a Glass Jar you can make{page}{box:01}\"trap lamps and{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "en": "{box:01}Someone scribbled on a{br}painting on the floor.{page}{box:00}{name:02}George{br}What's this?{page}{box:01}\"With a Glass{br}Jar you can make{page}{box:01}\"trap lamps and{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -525,7 +525,7 @@
    "40F8C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「人力じゃあ{br} うごかせないな…{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} はしをうごかす{page}{box:00}{name:02}ジョージ{br}「スイッチが{br} あるはずだ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No way I can move this by hand...{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}a switch that moves the bridge...{page}{end}",
+  "en": "{box:00}{name:02}George{br}No way I can move{br}this by hand...{page}{box:00}{name:02}George{br}Somewhere in the house{br}there's got to be{page}{box:00}{name:02}George{br}a switch that{br}moves the bridge...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    "40F90"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ものすごい{br} ねつだな…{page}{box:00}{name:02}ジョージ{br}「こっちまで{br} とけちゃいそうだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}That's some serious heat...{page}{box:00}{name:02}George{br}I'm gonna melt just{br}standing here.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's some{br}serious heat...{page}{box:00}{name:02}George{br}I'm gonna melt just{br}standing here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -545,7 +545,7 @@
    "40F94"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわ、すごい{br} ねっきだ！{page}{box:00}{name:02}ジョージ{br}「あれ？はしが{br} かかってない…{page}{box:00}{name:02}ジョージ{br}「…あついけど、{br} 調べてみよう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whoa, what a blast of heat!{page}{box:00}{name:02}George{br}Huh? The bridge isn't down...{page}{box:00}{name:02}George{br}...It's hot, but let's check it out.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Whoa, what a{br}blast of heat!{page}{box:00}{name:02}George{br}Huh? The bridge{br}isn't down...{page}{box:00}{name:02}George{br}...It's hot, but{br}let's check it out.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -555,7 +555,7 @@
    "40F9C"
   ],
   "jp": "{box:01}はこもあつく{br}なっている。{page}{end}",
-  "en": "{box:01}The box has gotten hot too.{page}{end}",
+  "en": "{box:01}The box has{br}gotten hot too.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -565,7 +565,7 @@
    "40FA0"
   ],
   "jp": "{box:01}ハコには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the box.{page}{end}",
+  "en": "{box:01}There's nothing{br}in the box.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -595,7 +595,7 @@
    "40FAC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「むしやきは{br} ゴメンだから、{page}{box:00}{name:02}ジョージ{br}「早くわたって{br} しまおう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't want to get roasted,{page}{box:00}{name:02}George{br}so let's hurry across.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't want to{br}get roasted,{page}{box:00}{name:02}George{br}so let's hurry across.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    "40FB0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわ、すごい{br} ねっきだ。{page}{box:00}{name:02}ジョージ{br}「いきがくるしく{br} なってくるな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whoa, what a blast of heat.{page}{box:00}{name:02}George{br}It's getting hard to breathe.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Whoa, what a{br}blast of heat.{page}{box:00}{name:02}George{br}It's getting{br}hard to breathe.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -625,7 +625,7 @@
    "40FBC"
   ],
   "jp": "{box:01}ねつでやけて{br}あつくなっている。{page}{end}",
-  "en": "{box:01}It's scorched and burning hot.{page}{end}",
+  "en": "{box:01}It's scorched{br}and burning hot.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -655,7 +655,7 @@
    "40FC8"
   ],
   "jp": "{box:01}あついようがんが{br}あぶくをふいた。{page}{end}",
-  "en": "{box:01}The hot lava spat out bubbles.{page}{end}",
+  "en": "{box:01}The hot lava{br}spat out bubbles.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -695,7 +695,7 @@
    "40FDC"
   ],
   "jp": "{box:01}やけてあつく{br}なったハコだ。{page}{end}",
-  "en": "{box:01}A scorched, burning-hot box.{page}{end}",
+  "en": "{box:01}A scorched,{br}burning-hot box.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -725,7 +725,7 @@
    "40FE8"
   ],
   "jp": "{box:01}じごくのかまの{br}ようなようがんだ。{page}{end}",
-  "en": "{box:01}Lava like a cauldron in Hell.{page}{end}",
+  "en": "{box:01}Lava like a{br}cauldron in Hell.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -765,7 +765,7 @@
    "40FFC"
   ],
   "jp": "{box:01}たなには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing on the shelf.{page}{end}",
+  "en": "{box:01}There's nothing{br}on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -775,7 +775,7 @@
    "41000"
   ],
   "jp": "{box:01}古びてよごれた{br}だんろがある。{page}{box:00}{name:02}ジョージ{br}「トゲをひっこめる{br} スイッチは…？{page}{box:00}{name:02}ジョージ{br}「ここには無いな…」{page}{end}",
-  "en": "{box:01}There's an old, dirty fireplace.{page}{box:00}{name:02}George{br}The switch to{br}retract the spikes...?{page}{box:00}{name:02}George{br}It's not here...{page}{end}",
+  "en": "{box:01}There's an old,{br}dirty fireplace.{page}{box:00}{name:02}George{br}The switch to{br}retract the spikes...?{page}{box:00}{name:02}George{br}It's not here...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -785,7 +785,7 @@
    "41004"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジャンプすれば{br} ドアにとどくな…{page}{box:00}{name:02}ジョージ{br}「でもドアにカギが{br} かかってたら…{page}{box:00}{name:02}ジョージ{br}「オレはトゲの上に{br} おっこちて…{page}{box:00}{name:02}ジョージ{br}「…やめとこう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}If I jump, I could reach the door...{page}{box:00}{name:02}George{br}But if the door's locked...{page}{box:00}{name:02}George{br}I'd land right on the spikes...{page}{box:00}{name:02}George{br}...Let's not.{page}{end}",
+  "en": "{box:00}{name:02}George{br}If I jump, I could{br}reach the door...{page}{box:00}{name:02}George{br}But if the door's locked...{page}{box:00}{name:02}George{br}I'd land right{br}on the spikes...{page}{box:00}{name:02}George{br}...Let's not.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -795,7 +795,7 @@
    "41008"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この床のトゲを{br} なんとかしないと、{page}{box:00}{name:02}ジョージ{br}「先には{br} すすめないな…{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} トゲをひっこめる{page}{box:00}{name:02}ジョージ{br}「スイッチが{br} あるのかな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Unless I do something{br}about these floor spikes,{page}{box:00}{name:02}George{br}I can't go any further...{page}{box:00}{name:02}George{br}Maybe somewhere in the house{page}{box:00}{name:02}George{br}there's a switch{page}{box:00}{name:02}George{br}that retracts them?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Unless I do something{br}about these floor spikes,{page}{box:00}{name:02}George{br}I can't go any further...{page}{box:00}{name:02}George{br}Maybe somewhere{br}in the house{page}{box:00}{name:02}George{br}there's a switch{page}{box:00}{name:02}George{br}that retracts them?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -815,7 +815,7 @@
    "41010"
   ],
   "jp": "{box:01}めぼしい物は{br}ないようだ。{page}{end}",
-  "en": "{box:01}Nothing worth noting, it seems.{page}{end}",
+  "en": "{box:01}Nothing worth{br}noting, it seems.{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -38,7 +38,7 @@
    "3CB60"
   ],
   "jp": "{box:01}あおくぬられた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting done in blue.{page}{end}",
+  "en": "{box:01}An oil painting{br}done in blue.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -49,7 +49,7 @@
    "3CB64"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A large painting is on display.{page}{end}",
+  "en": "{box:01}A large painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -71,7 +71,7 @@
    "3CB6C"
   ],
   "jp": "{box:01}わかい女の{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of a young woman.{page}{end}",
+  "en": "{box:01}An oil painting of{br}a young woman.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -115,7 +115,7 @@
    "3CB7C"
   ],
   "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some scenery.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some scenery.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -148,7 +148,7 @@
    "3CB88"
   ],
   "jp": "{box:01}床にあぶら絵が{br}おちている。{page}{end}",
-  "en": "{box:01}An oil painting lies on the floor.{page}{end}",
+  "en": "{box:01}An oil painting{br}lies on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -159,7 +159,7 @@
    "3CB8C"
   ],
   "jp": "{box:01}うみのように{br}あおい絵だ。{page}{end}",
-  "en": "{box:01}A painting as blue as the sea.{page}{end}",
+  "en": "{box:01}A painting as{br}blue as the sea.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -181,7 +181,7 @@
    "3CB94"
   ],
   "jp": "{box:01}あおくぬられた絵{br}がある。{page}{end}",
-  "en": "{box:01}There's a painting done in blue.{page}{end}",
+  "en": "{box:01}There's a painting{br}done in blue.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -214,7 +214,7 @@
    "3CBA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「前にすすむしか{br} 道はないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Guess I've got to keep going...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Guess I've got{br}to keep going...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -225,7 +225,7 @@
    "3CBA4"
   ],
   "jp": "{box:01}うえきが{br}かざってある。{page}{end}",
-  "en": "{box:01}A potted plant is on display.{page}{end}",
+  "en": "{box:01}A potted plant{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -269,7 +269,7 @@
    "3CBB4"
   ],
   "jp": "{box:01}ほうり出された{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting tossed aside.{page}{end}",
+  "en": "{box:01}An oil painting{br}tossed aside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -291,7 +291,7 @@
    "3CBBC"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A large oil painting hangs here.{page}{end}",
+  "en": "{box:01}A large oil painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -313,7 +313,7 @@
    "3CBC4"
   ],
   "jp": "{box:01}女のしょうぞうが{br}がある。{page}{end}",
-  "en": "{box:01}There's a portrait of a woman.{page}{end}",
+  "en": "{box:01}There's a portrait{br}of a woman.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -324,7 +324,7 @@
    "3CBC8"
   ],
   "jp": "{box:01}つちがかわいた{br}うえきばちだ。{page}{end}",
-  "en": "{box:01}A flowerpot with dried-out soil.{page}{end}",
+  "en": "{box:01}A flowerpot with{br}dried-out soil.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -357,7 +357,7 @@
    "3CBD4"
   ],
   "jp": "{box:01}ホコリをかぶった{br}ふうけいの絵だ。{page}{end}",
-  "en": "{box:01}A dusty landscape painting.{page}{end}",
+  "en": "{box:01}A dusty landscape{br}painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -390,7 +390,7 @@
    "3CBE0"
   ],
   "jp": "{box:01}なげ出された{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting flung aside.{page}{end}",
+  "en": "{box:01}An oil painting{br}flung aside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -412,7 +412,7 @@
    "3CBE8"
   ],
   "jp": "{box:01}きょだいな絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A huge painting hangs here.{page}{end}",
+  "en": "{box:01}A huge painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -445,7 +445,7 @@
    "3CBF4"
   ],
   "jp": "{box:01}かれかかった{br}うえきばちだ。{page}{end}",
-  "en": "{box:01}A flowerpot with a dying plant.{page}{end}",
+  "en": "{box:01}A flowerpot with{br}a dying plant.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -610,7 +610,7 @@
    "3CC30"
   ],
   "jp": "{box:01}心がなごむ{br}ふうけいの絵だ。{page}{end}",
-  "en": "{box:01}A soothing landscape painting.{page}{end}",
+  "en": "{box:01}A soothing{br}landscape painting.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -640,7 +640,7 @@
    "3CC3C"
   ],
   "jp": "{box:01}あおくぬられた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting done in blue.{page}{end}",
+  "en": "{box:01}An oil painting{br}done in blue.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -650,7 +650,7 @@
    "3CC40"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "{box:01}A large painting is on display.{page}{end}",
+  "en": "{box:01}A large painting{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -670,7 +670,7 @@
    "3CC48"
   ],
   "jp": "{box:01}わかい女の{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of a young woman.{page}{end}",
+  "en": "{box:01}An oil painting of{br}a young woman.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -690,7 +690,7 @@
    "3CC50"
   ],
   "jp": "{box:01}げんかんホールへ{br}つながるドア…{page}{box:00}{name:02}ジョージ{br}「もどれないな…{page}{box:00}{name:02}ジョージ{br}「アリシアにも{br} バカにされるし…{page}{box:00}{name:02}ジョージ{br}「そもそもオレは{br} プロだしな！」{page}{end}",
-  "en": "{box:01}The door to the Entrance Hall...{page}{box:00}{name:02}George{br}I can't go back...{page}{box:00}{name:02}George{br}Alicia would just make fun of me...{page}{box:00}{name:02}George{br}Besides, I'm a pro!{page}{end}",
+  "en": "{box:01}The door to the{br}Entrance Hall...{page}{box:00}{name:02}George{br}I can't go back...{page}{box:00}{name:02}George{br}Alicia would just{br}make fun of me...{page}{box:00}{name:02}George{br}Besides, I'm a pro!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -710,7 +710,7 @@
    "3CC58"
   ],
   "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting of some scenery.{page}{end}",
+  "en": "{box:01}An oil painting{br}of some scenery.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -730,7 +730,7 @@
    "3CC60"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「とにかくいろいろ{br} 調べてみよう。{page}{box:00}{name:02}ジョージ{br}「なにかてがかりが{br} あるかもな。{page}{box:00}{name:02}ジョージ{br}「ものに近づいて、{br} Aボタンだ。{page}{box:00}{name:02}ジョージ{br}「アイテムもそれで{br} ひろえるし、{page}{box:00}{name:02}ジョージ{br}「ドアもそれで{br} あけられる…{page}{box:00}{name:02}ジョージ{br}「カギがかかって{br} なければだけど…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Anyway, let's look around.{page}{box:00}{name:02}George{br}Maybe I'll find some clues.{page}{box:00}{name:02}George{br}Walk up to things and{br}press the A Button.{page}{box:00}{name:02}George{br}I can pick up items with it too,{page}{box:00}{name:02}George{br}and open doors...{page}{box:00}{name:02}George{br}as long as they're not locked...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Anyway, let's look around.{page}{box:00}{name:02}George{br}Maybe I'll find some clues.{page}{box:00}{name:02}George{br}Walk up to things and{br}press the A Button.{page}{box:00}{name:02}George{br}I can pick up{br}items with it too,{page}{box:00}{name:02}George{br}and open doors...{page}{box:00}{name:02}George{br}as long as they're{br}not locked...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -740,7 +740,7 @@
    "3CC64"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし、ゴースト{br} センサーは…{page}{box:00}{name:02}ジョージ{br}「だいじょうぶだ！{br} …ちなみに{page}{box:00}{name:02}ジョージ{br}「これはオレが{br} つくったもので、{page}{box:00}{name:02}ジョージ{br}「ゴーストとの{br} きょりによって{page}{box:00}{name:02}ジョージ{br}「音とはんのうが{br} 早く、大きくなる。{page}{box:00}{name:02}ジョージ{br}「しかも！{br} ゴーストの数で{page}{box:00}{name:02}ジョージ{br}「はんのうの色が{br} かわるスグレ物だ。{page}{box:00}{name:02}ジョージ{br}「…ま、アリシアは{br} このはつめいを{page}{box:00}{name:02}ジョージ{br}「バカにしてた{br} けどな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Okay, the Ghost Sensor is...{page}{box:00}{name:02}George{br}working fine! ...By the way,{page}{box:00}{name:02}George{br}I built this baby myself.{page}{box:00}{name:02}George{br}Depending on how{br}close a ghost is,{page}{box:00}{name:02}George{br}the beeping and readings{br}get faster and stronger.{page}{box:00}{name:02}George{br}And that's not all! The{br}color of the reading{page}{box:00}{name:02}George{br}changes with the number{br}of ghosts. Pretty slick.{page}{box:00}{name:02}George{br}...Not that Alicia appreciates{page}{box:00}{name:02}George{br}this invention. She{br}just made fun of it...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Okay, the Ghost{br}Sensor is...{page}{box:00}{name:02}George{br}working fine!{br}...By the way,{page}{box:00}{name:02}George{br}I built this baby myself.{page}{box:00}{name:02}George{br}Depending on how{br}close a ghost is,{page}{box:00}{name:02}George{br}the beeping and readings{br}get faster and stronger.{page}{box:00}{name:02}George{br}And that's not all! The{br}color of the reading{page}{box:00}{name:02}George{br}changes with the number{br}of ghosts. Pretty slick.{page}{box:00}{name:02}George{br}...Not that Alicia{br}appreciates{page}{box:00}{name:02}George{br}this invention. She{br}just made fun of it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -760,7 +760,7 @@
    "3CC6C"
   ],
   "jp": "{box:01}なげだされた{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}An oil painting flung aside.{page}{end}",
+  "en": "{box:01}An oil painting{br}flung aside.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -780,7 +780,7 @@
    "3CC74"
   ],
   "jp": "{box:01}きょだいな絵が{br}かかっている。{page}{end}",
-  "en": "{box:01}A huge painting hangs here.{page}{end}",
+  "en": "{box:01}A huge painting{br}hangs here.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -810,7 +810,7 @@
    "3CC80"
   ],
   "jp": "{box:01}かれかかった{br}うえきばちだ。{page}{end}",
-  "en": "{box:01}A flowerpot with a dying plant.{page}{end}",
+  "en": "{box:01}A flowerpot with{br}a dying plant.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -820,7 +820,7 @@
    "3CC84"
   ],
   "jp": "{box:01}げんかんホールに{br}つながるドア…{page}{box:00}{name:02}ジョージ{br}「シロートはここで{br} にげだすけど…{page}{box:00}{name:02}ジョージ{br}「プロは前に{br} すすむもんだ！」{page}{end}",
-  "en": "{box:01}The door to the Entrance Hall...{page}{box:00}{name:02}George{br}An amateur would{br}run away here...{page}{box:00}{name:02}George{br}but a pro keeps moving forward!{page}{end}",
+  "en": "{box:01}The door to the{br}Entrance Hall...{page}{box:00}{name:02}George{br}An amateur would{br}run away here...{page}{box:00}{name:02}George{br}but a pro keeps{br}moving forward!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -880,7 +880,7 @@
    "3CCA0"
   ],
   "jp": "{box:01}床にあぶら絵が{br}おちている。{page}{end}",
-  "en": "{box:01}An oil painting lies on the floor.{page}{end}",
+  "en": "{box:01}An oil painting{br}lies on the floor.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -890,7 +890,7 @@
    "3CCA4"
   ],
   "jp": "{box:01}うみのように{br}あおい絵だ。{page}{end}",
-  "en": "{box:01}A painting as blue as the sea.{page}{end}",
+  "en": "{box:01}A painting as{br}blue as the sea.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -910,7 +910,7 @@
    "3CCAC"
   ],
   "jp": "{box:01}あおくぬられた絵{br}がある。{page}{end}",
-  "en": "{box:01}There's a painting done in blue.{page}{end}",
+  "en": "{box:01}There's a painting{br}done in blue.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -940,7 +940,7 @@
    "3CCB8"
   ],
   "jp": "{box:01}げんかんホールに{br}つながるドア…{page}{box:00}{name:02}ジョージ{br}「こんなヘンテコな{br} 所だし…{page}{box:00}{name:02}ジョージ{br}「本当にげんかんへ{br} もどれるのか？」{page}{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「やっぱりな…」{page}{end}",
-  "en": "{box:01}The door to the Entrance Hall...{page}{box:00}{name:02}George{br}In a weird place like this...{page}{box:00}{name:02}George{br}can I really get back{br}to the entrance?{page}{box:01}The door is shut tight.{page}{box:00}{name:02}George{br}Figures...{page}{end}",
+  "en": "{box:01}The door to the{br}Entrance Hall...{page}{box:00}{name:02}George{br}In a weird place like this...{page}{box:00}{name:02}George{br}can I really get back{br}to the entrance?{page}{box:01}The door is shut tight.{page}{box:00}{name:02}George{br}Figures...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -950,7 +950,7 @@
    "3CCBC"
   ],
   "jp": "{box:01}うえきが{br}かざってある。{page}{end}",
-  "en": "{box:01}A potted plant is on display.{page}{end}",
+  "en": "{box:01}A potted plant{br}is on display.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -980,7 +980,7 @@
    "3CCCC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンが当たった？{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜん違う。{page}{box:00}{name:02}ジョージ{br}「この本が何かの{br} カギだったんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Was Karol-san's hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was some kind of key!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Was Karol-san's{br}hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was{br}some kind of key!{page}{end}",
   "status": "done",
   "notes": ""
  },

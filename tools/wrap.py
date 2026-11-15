@@ -36,18 +36,48 @@ def charw():
     return {c: px for c, px in w.items() if len(c) == 1}
 
 
+SCENE = 0x3BFD8  # script pointer table (127 u32): scripts 0-38 play as cutscenes (mode 8), 39+ in the field
+CUTSCENES = 39
+
+
+def in_field(entry):
+    """True if any slot shows the string in the field box (narrower than the cutscene box: the HUD sits right)."""
+    for s in entry["slots"]:
+        s = int(s, 16)
+        if not (SCENE <= s < SCENE + 4 * CUTSCENES):
+            return True
+    return False
+
+
 def variant(entry):
     """(px per line, lines per page) for the string's box."""
     import script
     if not entry["jp"].startswith("{box:") and script.table_of(int(entry["slots"][0], 16)) == "41F18":
         return WIN["help"]["px"], WIN["help"]["lines"]
+    if in_field(entry):
+        return WIN["field"]["px"], WIN["field"]["lines"]
     return WIN["box"]["px"], WIN["box"]["lines"]
+
+
+ITEM_NAMES = (0x4214C, 0x42294)  # slots of the item description strings; their first line is the item name
+
+
+@lru_cache(maxsize=1)
+def item_name_px():
+    """Widest English item name, which is what {name:0A} draws (the 152 px item-name budget if none is translated):
+    "Picked up {name:0A}" has to fit the 184 px field box with the real names, not the budget."""
+    import script
+    widths = [px(re.split(r"\{br\}|\{page\}|\{end\}", e["en"])[0]) for e in script.load()
+              if e.get("en") and any(ITEM_NAMES[0] <= int(s, 16) <= ITEM_NAMES[1] for s in e["slots"])]
+    return max(widths, default=WIN["item_name"]["px"])
 
 
 def px(text):
     w, total = charw(), 0
     for part in TOKEN.split(text):
-        if TOKEN.fullmatch(part):
+        if part == "{name:0A}":
+            total += item_name_px()
+        elif TOKEN.fullmatch(part):
             total += INSERT_PX.get(part, 0)
         else:
             total += sum(w.get(c, 8) for c in part)

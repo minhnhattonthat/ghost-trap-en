@@ -5,7 +5,7 @@
    "423A0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわっ！？{page}{box:00}{name:02}ジョージ{br}「なんかどんどん{br} ヤバくなってるぞ！{page}{box:00}{name:02}ジョージ{br}「このやりかたで{br} ほんとにいいのか？」{page}{box:00}{name:05}？？？？{br}「いいんですよ、{br} つづけてください」{page}{box:00}{name:02}ジョージ{br}「！？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whoa?!{page}{box:00}{name:02}George{br}Things are getting{br}worse and worse!{page}{box:00}{name:02}George{br}Is this really the{br}right way to do it?{page}{box:00}{name:05}????{br}It's all right. Please, keep going.{page}{box:00}{name:02}George{br}?!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Whoa?!{page}{box:00}{name:02}George{br}Things are getting{br}worse and worse!{page}{box:00}{name:02}George{br}Is this really the{br}right way to do it?{page}{box:00}{name:05}????{br}It's all right.{br}Please, keep going.{page}{box:00}{name:02}George{br}?!{page}{end}",
   "status": "done",
   "notes": ""
  }

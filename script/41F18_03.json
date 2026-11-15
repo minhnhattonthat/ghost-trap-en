@@ -5,7 +5,7 @@
    "4238C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…なるほど…」{page}{box:00}{name:02}ジョージ{br}「魔道書に文字が{br} あらわれると、」{page}{box:00}{name:02}ジョージ{br}「先にすすめるって{br} 事らしいな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}...I see...{page}{box:00}{name:02}George{br}When letters{br}appear in a grimoire,{page}{box:00}{name:02}George{br}it looks like I can move on...{page}{end}",
+  "en": "{box:00}{name:02}George{br}...I see...{page}{box:00}{name:02}George{br}When letters{br}appear in a grimoire,{page}{box:00}{name:02}George{br}it looks like I{br}can move on...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -25,7 +25,7 @@
    "42394"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここだ！{br} まちがいない！」{page}{box:00}{name:02}ジョージ{br}「あとはこの本を{br} じゅんばんに」{page}{box:00}{name:02}ジョージ{br}「床のもんしょうの{br} マルにおけば、」{page}{box:00}{name:02}ジョージ{br}「アリギエリが…{br} 死のつかいが…」{page}{box:00}{name:02}ジョージ{br}「完全に封印{br} されるんだな！」{page}{box:00}{name:02}ジョージ{br}「…どうやら、{br} あのひとだまが、」{page}{box:00}{name:02}ジョージ{br}「本をおく場所と{br} じゅんばんを」{page}{box:00}{name:02}ジョージ{br}「しめしている{br} みたいだな…」{page}{box:00}{name:02}ジョージ{br}「…まってろよ！{br} アリシア…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This is it! No doubt about it!{page}{box:00}{name:02}George{br}All that's left is to place{br}these books in order{page}{box:00}{name:02}George{br}on the circles of the{br}crest on the floor,{page}{box:00}{name:02}George{br}and Alighieri... the{br}messenger of death...{page}{box:00}{name:02}George{br}will be completely sealed away!{page}{box:00}{name:02}George{br}...Looks like those wisps of light{page}{box:00}{name:02}George{br}are showing me where{br}to put the books{page}{box:00}{name:02}George{br}and in what order...{page}{box:00}{name:02}George{br}...Hang in there! Alicia...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This is it! No{br}doubt about it!{page}{box:00}{name:02}George{br}All that's left is to place{br}these books in order{page}{box:00}{name:02}George{br}on the circles of the{br}crest on the floor,{page}{box:00}{name:02}George{br}and Alighieri... the{br}messenger of death...{page}{box:00}{name:02}George{br}will be completely{br}sealed away!{page}{box:00}{name:02}George{br}...Looks like those{br}wisps of light{page}{box:00}{name:02}George{br}are showing me where{br}to put the books{page}{box:00}{name:02}George{br}and in what order...{page}{box:00}{name:02}George{br}...Hang in there! Alicia...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -35,7 +35,7 @@
    "42398"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ、今のは{br} ・・・・？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What... was that just now...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}What... was that{br}just now...?{page}{end}",
   "status": "done",
   "notes": ""
  },

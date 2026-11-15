@@ -24,6 +24,17 @@ class TestShippedEnglish(unittest.TestCase):
                and wrap.layout(e, e["en"])[0] != e["en"]]
         self.assertEqual(bad, [], "re-wrap with wrap.layout: " + " ".join(bad[:40]))
 
+    def test_field_strings_use_the_field_box(self):
+        # the field box is 184 px (the HUD sits right), the cutscene box 224: Karol's lounge talk (script 123, slot
+        # 3C1C4) was linted at 224 and its 212 px first line flooded the field with glyphs (player report 2026-11-16)
+        ent = batches.index()
+        field, box = wrap.WIN["field"]["px"], wrap.WIN["box"]["px"]
+        self.assertEqual(wrap.variant(ent["1109AC"])[0], field)                   # scene script 123: field
+        self.assertEqual(wrap.variant(dict(ent["1109AC"], slots=["3C054"]))[0], box)  # scene script 31: cutscene
+        self.assertEqual(wrap.variant(dict(ent["1109AC"], slots=["3C054", "3C1C4"]))[0], field)  # shared: tighter
+        self.assertEqual(wrap.variant(dict(ent["1109AC"], slots=["3C55C"]))[0], field)  # field tables
+        self.assertLessEqual(wrap.item_name_px(), wrap.WIN["item_name"]["px"])
+
     def test_choice_rows_share_one_layout(self):
         # the item-menu cursor redraws 10F05C/10F06C over the question's own Yes/No row without clearing it:
         # any other spacing leaves two copies on screen ("YYes No No")

@@ -2,6 +2,8 @@
  "_doc": "Measured text budgets per window variant (phase-5 width gate, docs/re/text.md 'Width gate'). px = max advance sum per line (tools/font.py widths, en.tbl); lines = max lines per page ({page}/{clr}). Over budget does not clip: the text tiles spill over the whole screen. Every value is measured in-game; shot = the proof under work/qa/width/.",
  "box": {"match": "{box:00} or {box:01} string", "px": 224, "lines": 2, "state": "measured",
          "shot": "w28 ok / w29 corrupt (script_040, script_005); x1 = 216 px of digits + 'll' = 224 ok; l3: 3rd line corrupts"},
+ "field": {"match": "boxed string shown in the field (every table but the scene table, and scene scripts 39+); the HUD on the right narrows the box", "px": 176, "lines": 2, "state": "measured",
+           "shot": "field_plain_22 clean; field_*_23 (184 px) draws its last column over the box's right border; field_*_24 and field_plain_188 (23 digits + 'l') flood the field: Karol's lounge talk 1109AC, player report rom/report 2026-11-16"},
  "name": {"match": "text after {box:00}{name:NN} up to {br} (speaker name plate)", "px": 80, "lines": 1,
           "state": "measured", "shot": "n10 ok / n11 corrupt (10 / 11 W at 8 px, script_005)"},
  "narration": {"match": "scene-table strings with no {box:..} (opening crawl, cutscene captions)", "px": 224,
