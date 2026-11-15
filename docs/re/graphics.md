@@ -37,8 +37,10 @@ Rows below "Sweep findings" are candidates until confirmed in a shot.
 
 - Seen in phase 2: OPTION (English only), SAVE GAME / LOAD GAME titles, slots, NO DATA, YES/NO (English; the confirm
   boxes are G2), item-menu tabs (English). No game-over screen exists (faint = script 3).
-- Still to see: BOOK pages with grimoires held (inventory warp needed), item name display, trap/combine results,
-  chapter/area cards if any, ending stills and the staff-roll background (warps `ending`, `credits` exist).
+- Covered in phase 8 (2026-11-15): BOOK page text, item names and trap/combine results are text-engine strings, every
+  page shown in `work/qa/en/pages*` (pageview); chapter warps (tour `sheet_chapter`) show no card lettering; ending
+  stills, staff roll (script 34, text engine) and the post-credits skit (script 36, `work/qa/en/pageshot`) in the
+  story run; all with ok verdicts in the phase-8 gate. No graphics text beyond G1-G3 found.
 - The 44 cutscene stills (pointer entries 0-43 at `0x3BF28`, custom compression, unpacked by IWRAM code at
   `0x03000614`): not covered by the LZ77 sweep. Check each still for lettering in the phase-2 scene tour.
 

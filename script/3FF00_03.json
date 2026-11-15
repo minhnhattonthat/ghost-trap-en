@@ -540,7 +540,7 @@
    "406B0"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『こうげきほじょの{br} アイテムは、{page}{box:01}『同じ部屋にいる{br} ゴーストにきく』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Attack support items{page}{box:01}\"work on ghosts{br}in the same room.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"On attack support items:{page}{box:01}\"they work on ghosts{br}in the same room.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -550,7 +550,7 @@
    "406DC"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:01}『こうげきほじょの{br} アイテムは{page}{box:01}『全体にダメージ{br} をあたえる物と、{page}{box:01}『全体をバインド{br} する物の{page}{box:01}『大きく2つに{br} わけられる』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:01}\"Attack support items{page}{box:01}\"can be divided{page}{box:01}\"into those that damage all{page}{box:01}\"and those that bind all:{page}{box:01}\"two broad kinds.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:01}\"On attack support items:{page}{box:01}\"Some deal damage{br}to every ghost,{page}{box:01}\"and some bind{br}every ghost at once.{page}{box:01}\"Those are the two{br}main kinds.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
   "status": "done",
   "notes": ""
  },

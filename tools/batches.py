@@ -155,6 +155,15 @@ def glossary():
     return rows
 
 
+# Deliberate control-code changes, per string id: (JP code, code the English uses). The lint compares the English
+# with the JP after these swaps, so nothing else in the string may drift.
+CODE_FIXES = {
+    # {box:02} draws its name text with overlapping glyphs, in the JP too (work/qa/dbg/cmp1067.png, phase 8);
+    # the only {box:02} string. Box 00 + plate 02 is how every other George line is shown.
+    "1067A8": (("{box:02}", "{box:00}{name:02}"),),
+}
+
+
 def problems(entry, en, terms):
     """Every rule, on one line of English."""
     jp = entry["jp"]
@@ -166,7 +175,10 @@ def problems(entry, en, terms):
         out.append(f"unencodable characters {bad}")
     if re.search(r"\\u[0-9a-fA-F]{4}", en) or "\t" in en:
         out.append("escape sequence or tab in the English")
-    want, have = skeleton(jp), skeleton(en)
+    jp_codes = jp
+    for old, new in CODE_FIXES.get(entry.get("id"), ()):
+        jp_codes = jp_codes.replace(old, new)
+    want, have = skeleton(jp_codes), skeleton(en)
     if want != have:
         k = next((i for i, (a, b) in enumerate(zip(want, have)) if a != b), min(len(want), len(have)))
         out.append(f"control codes differ at unit {k}: JP {want[max(0, k - 1):k + 3]} EN {have[max(0, k - 1):k + 3]}")

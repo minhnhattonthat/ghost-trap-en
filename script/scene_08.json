@@ -65,7 +65,7 @@
    "3C0F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは…今までの{br} もんしょうと…{page}{box:00}{name:02}ジョージ{br}「ちょっと違う…{br} …そうか！！{page}{box:00}{name:02}ジョージ{br}「ここで儀式を{br} やったんだ！」{page}{box:00}{name:05}？？？？{br}『…そのとおり』{page}{box:00}{name:02}ジョージ{br}「だれだ！？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This... is a bit different from{page}{box:00}{name:02}George{br}the crests I've seen so far...{page}{box:00}{name:02}George{br}...That's it!!{page}{box:00}{name:02}George{br}This is where they did the ritual!{page}{box:00}{name:05}????{br}...Exactly so.{page}{box:00}{name:02}George{br}Who's there!?{page}{end}",
+  "en": "{box:00}{name:02}George{br}This... Compared to the crests{br}I've seen so far...{page}{box:00}{name:02}George{br}It's a bit different...{br}...That's it!!{page}{box:00}{name:02}George{br}This is where they did the ritual!{page}{box:00}{name:05}????{br}...Exactly so.{page}{box:00}{name:02}George{br}Who's there!?{page}{end}",
   "status": "done",
   "notes": ""
  },

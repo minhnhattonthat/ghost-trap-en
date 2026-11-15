@@ -265,7 +265,7 @@
    "42368"
   ],
   "jp": "{box:01}ニサンの書が{br}光っている！{page}{box:02}ジョージ{br}「な…なんだ？」{page}{end}",
-  "en": "{box:01}The Book of Nisan is glowing!{page}{box:02}George{br}Wh... what's going on?{page}{end}",
+  "en": "{box:01}The Book of Nisan is glowing!{page}{box:00}{name:02}George{br}Wh... what's going on?{page}{end}",
   "status": "done",
   "notes": ""
  },

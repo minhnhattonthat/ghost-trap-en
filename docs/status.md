@@ -2,12 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: in progress (phase 7 done 2026-11-15; its review had no Critical/Important).
-  **QA build: `build/ghost_trap_en.gba` sha1 `e067dd06da642c19398d69d338f84a3a1e9c9d96`** (G1+G2+G3 graphics, Yes/No
-  layout fix), frozen with its `strings.tsv` in `work/qa/roms/e067dd06/` (tour + story ran on that copy). The msgs
-  run (strings 1135-3192) ran on the text-only `19914506…`, frozen in `work/qa/roms/en_text_19914506.gba` with its
-  `strings.tsv` beside it; layouts differ (Yes/No strings grew), so coverage is `tools/coverage.py` (union by id,
-  a run counts only for strings with the same bytes as the final build), not plain textcover.
+- **Phase:** 9. Release: not started (phase 8 done 2026-11-15: gate exit 0, coverage 3192/3192, jp_left 0).
+  **Current build: `build/ghost_trap_en.gba` sha1 `667dd3c6a20b9f233097507eb06c2db2a9e6a1f7`**, frozen with its
+  `strings.tsv` in `work/qa/roms/667dd3c6/`; the QA gate's `manifest.tsv.build` records it. Tour/story ran on
+  `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6` (each later build differs only in reworded strings, each
+  re-shown on its build); coverage is `tools/coverage.py` (union by id over runs with the final bytes).
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -93,91 +92,42 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `play.py` (DROP -> Throw this away?, cursor both ways: `work/play/yesno3`, JP `work/play/yesno_jp`). Not a
     centred box (left-aligned like the JP), so inkbox doesn't apply. `tools/vqa_review.py` (codex exec verdicts per
     qa_gate chunk) written, not yet run.
-- **Runs stopped (2026-11-15, ~18:40, and again later that day):** Claude Code killed the background runs for low
-  system memory (2.2 GB free of 15.5; other repos' Mesen runs share the machine; not a tool fault). Msgs: stopped a
-  third time (19:11, `--jobs 1`, 1.2 GB free with 5 Mesen processes from other repos): ~2800/3192 strings have a proof
-  shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume3.log`). Fourth resume (`--jobs 1`,
-  log `work/qa/en_msgs_resume4.log`) stopped the same way after 300/391 ok: **~3100/3192 done, 0 failures**, about
-  90 strings left for the next `--resume`. `qa_tour.py --resume` now
-  passes `--resume` to msgs/tour/story, so the tour continues from scene 233 instead of restarting.
-  Save/load confirm boxes checked (step 5 first half): `work/qa/inkbox/{save,load}_confirm`, JP `work/qa/inkbox_jp`:
-  left-aligned like the JP, same layer shimmer as the JP, so not centred boxes and inkbox doesn't apply. Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
-  work/qa/en/tour --probe <skill>/scripts/lua/probes/textcover.lua ...` or re-run `qa_tour.py --skip msgs`); story
-  not started. Run them one at a time when memory allows.
-- **Msgs done (2026-11-15):** `work/qa/en/msgs` 3192 strings, 0 failed (4 ids had SCENE_OK but no shot from a killed
-  run: re-run). `work/qa/en/msgs_final`: the 5 Yes/No strings on the final build, 0 failed (the bare cursor rows
-  10F05C/10F06C draw nothing in msgview's box; in game: `work/play/yesno3`).
-- **Tour done, story half done (2026-11-15, log `work/qa/en_tour.log`):** tour 534 scenes, 532 ok; **area_30_r0 and
-  area_30_r1 timed out** (exit 124; r1 logged SCENE_OK before the timeout, so likely load from other Mesen runs):
-  re-run those two (`warp.py area_30_r0 --rom <frozen QA build> ...` or `--resume`). Story: 21/39 cutscenes proven,
-  then Claude Code stopped the run for low memory again; `qa_tour.py --skip msgs --resume ...` continues it (the tour
-  part re-runs only the 2 failures).
-- **This session (2026-11-15, log `work/qa/en_tour2.log`):** tour re-run of area_30_r0/r1 ok -> **tour 534/534, 0
-  failed**. Story: 28/39 proven; 022 023 024 031 032 033 logged SCENE_OK then timed out (load, no Lua error), 034-038
-  not run: Claude Code killed the run for low memory a third time (2.8 GB free at start). Coverage already passes
-  from msgs alone (`coverage.py` with the msgs + msgs_final runs: 3192/3192, 0 waived).
-  **Story sheets:** warp's `--sheet` (half size, whole-screen change) dropped most text pages, so new
-  `tools/story_pages.py` writes `story/<script>/sheet_pages*.png` (last fully-typed shot of each page, full size,
-  from SCENE_OK on) and removes warp's sheets; `qa_tour.py` runs it after the story step. Run it once over
-  `work/qa/en/story` after the story finishes (only script_002 converted so far).
-  **Extra-`{page}` check (step 5 second half) done:** 9 strings gain a page over the JP; seen in game for 1072F8
-  (script 2). Three were mid-phrase stubs and are reworded to the JP page count: 1072F8 ("country home of
-  Alighieri"), 108344's last Alicia line, 10B5D8 ("born of the immortality ritual"). The rest break on clauses.
-  **New build `3ee614ba…`** (frozen in `work/qa/roms/3ee614ba/`) differs from the QA build only in those 3 strings:
-  after the gate passes on e067dd06, re-show them (`msgview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --only
-  "1072F8|108344|10B5D8" --out work/qa/en/msgs_3ee`, story for script_002/009/025 on it) and `qa_gate.py waive` with
-  that reason, or point the gate at it.
-- **Session 2026-11-15 (late):** **story done: 39/39 cutscenes, 0 failed** (log `work/qa/en_story3.log`; story_pages
-  sheets written for all 39). The 3 reworded strings re-shown on `3ee614ba` (`work/qa/en/msgs_3ee`, 3/3 ok).
-  **Coverage passes on the final build** (= `build/ghost_trap_en.gba`, rebuilt from `script/`, sha1 3ee614ba):
-  `coverage.py --final work/qa/roms/3ee614ba/ghost_trap_en.gba --run work/qa/en/msgs work/qa/roms/en_text_19914506.gba
-  --run work/qa/en/tour <e067> --run work/qa/en/story <e067> --run work/qa/en/msgs_final <e067> --run
-  work/qa/en/msgs_3ee <3ee6> --waive docs/text_unshown.tsv` -> 3192/3192, 0 waived, exit 0 (`<e067>` =
-  `work/qa/roms/e067dd06/ghost_trap_en.gba`). Plain textcover in qa_tour reports 1 string (1271B8) only because it
-  reads one layout; coverage.py is the gate.
-  **Found: msgs sheets are unjudgeable** (shot 150 frames after the first glyph: most pages half typed), and the story
-  sheets miss pages and include no-text tiles. Shown through script 39, `{page}` does **not** wait for a button: the
-  FD/FE handler `0x080272B8` (jump table `0x0802717C`) runs after the page's last glyph and the box clears ~6 frames
-  later (`work/qa/dbg/fd.png`). New **`tools/pageview.py` + `tools/lua/pageview.lua`**: chains 48 strings per boot
-  into a QA-only ROM copy (`pages/_qa.gba`, chains appended past the build), shoots each page 4 frames after its
-  page-code handler, maps page n -> string by counting page codes, and writes labelled sheets
-  `pages/sheet_<group>*.png` (tile label `<id> p<k>/<n>`). Pilot group 3C55C_00_00: 39/39 pages, all fully typed and
-  matching `script/`. `tests/test_pageview.py`; qa_tour has a `pages` step; `docs/visual-qa-brief.md` notes both sheet
-  kinds. **Full run: 28/101 groups done, 0 failed**, then Claude Code stopped it for low memory (6th time).
-- **Session 2026-11-15 (night):** current build **`e520440d…`** (= `build/ghost_trap_en.gba`, frozen in
-  `work/qa/roms/e520440d/`; differs from 3ee614ba in 106B04 and 10A184 only). **Pages: 98/101 groups done** on
-  3ee614ba (logs `work/qa/en_pages{3,4,5}.log`). `tools/lua/pageview.lua` now presses A after `IDLE` (400) frames
-  with no page code: a `{clr}` in cutscene and item-help strings waits for a button even in script 39 (that stalled
-  all 13 scene_*/41F18_0x groups). Still stalled: **41F18_00_00** (stops after 4 pages, item-menu Yes/No question
-  strings 10EEFC.. wait for a choice; its 44 ids are `pages/missing.tsv`), **scene_06_00** (black after page 2,
-  likely a cutscene picture step), **scene_07_00** (119 pages then stall). Fix: split choice strings out of the chain
-  (or press A + Right/A) and look at the stall frame; or accept story sheets (scene_*) and msgs + `work/play/yesno3`
-  (Yes/No) for those ids, writing why in the gate notes. The e520 re-run of scene_00_00/scene_03_00 into
-  `work/qa/en/pages_e520` was **killed for low memory** (7th time) before it started.
-  Earlier codex verdicts (old manifest: story + tour, `work/qa/en/verdicts/`) triaged: stub pages (script 0/2/9/18/25)
-  are fixed in 3ee614ba/e520440d; script_020 save box = the JP's own shimmer (`work/qa/inkbox_save_cmp.png`);
-  scripts 37/38 licence screen: the JP fills the screen with repeated glyph tiles too (`work/qa/story_jp/cmp037.png`):
-  ok; script_000 dotted vertical line = one transition frame on the zigzag backdrop (judge with a JP story run if
-  in doubt); tour zigzag/half-size text: JP reference sheets copied to `work/qa/tour_jp/` (phase-2 warp sheets of
-  the original, same layout) for `vqa_review.py --compare work/qa/en/tour=work/qa/tour_jp`.
-- **Next (phase 8 done-when), in order:**
-  1. `python -X utf8 tools/pageview.py --rom work/qa/roms/e520440d/ghost_trap_en.gba --out work/qa/en/pages_e520
-     --group 48 --jobs 2 --only "^scene_0[03]_00$"`; fix or account for the 3 stalled groups (above); then
-     `pageview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --out work/qa/en/pages --group 48 --sheets`.
-  2. Gate: delete `work/qa/en/manifest.tsv*`, `work/qa/en/verdicts/`, `work/qa/chunks/`, then `qa_gate.py init
-     work/qa/en/manifest.tsv work/qa/en/pages work/qa/en/pages_e520 work/qa/en/story work/qa/en/tour --build
-     build/ghost_trap_en.gba --glob "*sheet*.png"` (drop pages' sheet_scene_00_00*/sheet_scene_03_00* from the
-     manifest or note they show the 3ee text of 106B04/10A184), `todo ... --out-dir work/qa/chunks`,
-     `tools/vqa_review.py work/qa/en/manifest.tsv work/qa/chunks/chunk_*.txt --compare work/qa/en/tour=work/qa/tour_jp`,
-     write the triage above into the verdicts, `qa_gate.py check` exit 0. Tour/story ran on e067dd06: say so in notes.
-  3. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above; coverage passes; lettering in
-     cutscene stills: the codex story verdicts flagged none).
-- **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
-  "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
-  `0x3FF00`, `0x41F18`).
+  - Phase 8 QA runs (2026-11-15; details in git log): msgs 3192/3192 (`work/qa/en/msgs`, plus `msgs_final`,
+    `msgs_3ee`, `msgs_667` for later rewords), tour 534/534 (`work/qa/en/tour`), story 39/39 (`work/qa/en/story`,
+    `tools/story_pages.py` sheets). **`tools/pageview.py`** (+ `tools/lua/pageview.lua`) is the text-QA viewer: chains
+    48 strings per boot through script 39 and shoots every page 4 frames after its page-code handler; labelled sheets
+    `pages*/sheet_<group>*.png`. It leaves `status: data` strings out (insert-only `{name:0B}` stalled the chain) and
+    presses A after 400 idle frames (`{clr}` waits). Runs: `pages` (3ee614ba, 98 groups), `pages_e520` (scene_00/03,
+    41F18_00_00, scene_07_00), `pages_667` (scene_08_00, 41F18_02_00, 3FF00_03_01). scene_07_00 ends at 11E1DC's blank
+    `{clr} {clr}` page in script 39 (the JP string has it too); its Reaper tail is shown by **`tools/lua/pageshot.lua`**
+    in the real script-36 cutscene (`work/qa/en/pageshot/script_036/sheet_tail.png`). JP reference chains:
+    `work/qa/jp_pages` (pageview on `work/qa/roms/jp/`, a copy of the dump with an id->address `strings.tsv`).
+  - **Phase 8 gate (2026-11-15): `qa_gate.py check work/qa/en/manifest.tsv work/qa/en/verdicts` exit 0**, 638 sheets
+    (story, tour, pages, pages_e520, pageshot, pages_667). Verdicts by `tools/vqa_review.py` (codex exec read-only),
+    then triage in `verdicts/triage_*.tsv`: page-break notes on strings with the JP page count -> ok (D9,
+    `tools/triage_breaks.py`); item-string glyph fill = script-39 viewer, identical on the JP
+    (`work/qa/jp_pages/sheet_41F18_00_00_3.png`); half-size tour sheets lose the 1-px English strokes (full size clean,
+    `work/qa/dbg/cmp005.png`). Fixed: 126134/1260E0/12658C reworded to the JP page count, 1067A8 `{box:02}` ->
+    `{box:00}{name:02}` (D10, `batches.CODE_FIXES`). Coverage: `coverage.py --final work/qa/roms/667dd3c6/... --run
+    work/qa/en/msgs work/qa/roms/en_text_19914506.gba --run work/qa/en/{tour,story,msgs_final} <e067> --run
+    work/qa/en/msgs_3ee <3ee6> --run work/qa/en/msgs_667 <667d> --waive docs/text_unshown.tsv` -> 3192/3192, exit 0.
+    `jp_left_build.py` on 667dd3c6: 0 runs. Graphics survey fully covered (`docs/re/graphics.md`). inkbox n/a (boxes
+    left-aligned like the JP).
+- **Next (phase 9, release; `references/pipeline.md` §Release):**
+  1. Story-pass verdict per chapter (`work/qa/story/manifest.tsv`, `references/translation.md` §Review), and tick or
+     fix every line of `docs/polish.md` (30 Minors from the phase-6 review).
+  2. `tools/release.py` (not written yet): build, `qa_gate.py check` on every manifest, coverage.py (not plain
+     textcover: layouts differ across runs), `jp_left_build.py`, debug tool off in the release build, `bps.py make` +
+     re-apply + verify, zip = patch + README with the base ROM hashes; repo README without template placeholders.
+  3. Any text change re-opens the gate for the sheets it touches: re-run pageview for that group on the new build,
+     add the dir to the manifest (`qa_gate.py init ... --build build/ghost_trap_en.gba`), msgview it for coverage.
+- **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
+  FE difference.
 - **Open bugs:** none.
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by hand (headless only); the owner
   can open it once to confirm. Not blocking. Long regens can get stopped by Claude Code for low memory (other repos'
   Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it. This
   has now stopped the phase-8 runs seven times (latest: the e520 pages run, 2026-11-15 night; 6 Mesen processes from
   another repo were running): the owner may want to set it, or not run other repos' tours alongside.
+  Not blocking: D9 accepts ~80 sentences that run on over a JP page break (the JP does the same); if the owner wants
+  them reflowed so every page ends on a clause, the list is `work/qa/issues_e520.txt` + `issues_667.txt`.
