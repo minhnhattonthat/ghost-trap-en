@@ -15,3 +15,4 @@ Rulings D1-D7 came from the owner's standing answers for one-shot runs (injected
 | D5 | 2026-11-15 | Graphics text left in Japanese | none (default), list | Translate all of it (titles, menus, banners, cards); leave the original Japanese logo only if it has no official English version. |
 | D6 | 2026-11-15 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at the end. |
 | D7 | 2026-11-15 | Existing saves / savestates | user supplies, none | None provided; build the debug tool as usual. |
+| D8 | 2026-11-15 | Register, flavour, sound effects, quote style | formal / casual; keep 「」 as quotes / drop after name plates | Casual modern American English, George narrates as "I", spooky-wry narration; English onomatopoeia; 「」 dropped after a name plate (saves width, the plate marks speech), "..." in narration. Set by the agent (pre-approved run, D6). |

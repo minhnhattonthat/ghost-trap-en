@@ -1,0 +1,157 @@
+"""Lay out English for the box it shows in, and check it against the measured budgets (tools/windows.json).
+
+    import wrap
+    text, problems = wrap.layout(entry, en)      # en as authored -> the string build.py inserts, plus problems
+    python -X utf8 tools/wrap.py ID "text"       # dry run: print the laid-out lines with their px widths
+
+Authoring rules (docs/translator-brief.md):
+- A page is the text between {page} / {clr} / {end}. Keep every {clr}, {end}, {box:..}, variable insert
+  ({name:0A} item, {name:15} count, {name:01}/{name:07} choice colours) where the Japanese has them.
+- Dialogue pages keep their prefix `{box:00}{name:NN}Speaker{br}`; the speaker plate is 80 px.
+- A page body with no {br} is wrapped here (greedy, on spaces); if it needs more lines than the box has, it is split
+  into extra pages joined by {page} (box pages repeat their prefix). A body with {br} is the author's layout and is
+  only checked. Item-help strings (table 41F18) are always laid out by hand: name{br}line{br}line.
+Widths: tools/font.py advances; {name:0A} counts as the widest item name, {name:15} as two digits.
+"""
+import json
+import re
+import sys
+from functools import lru_cache
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+WIN = json.loads((ROOT / "tools" / "windows.json").read_text(encoding="utf-8"))
+TOKEN = re.compile(r"(\{\w+(?::[0-9A-Fa-f]*)?\})")
+PAGE = ("{page}", "{clr}", "{end}")
+INSERT_PX = {"{name:0A}": WIN["item_name"]["px"], "{name:15}": 16, "{name:01}": 0, "{name:07}": 0, "{name:0B}": 0}
+
+
+@lru_cache(maxsize=1)
+def charw():
+    import build
+    import marker
+    rom = build.ROM.read_bytes()
+    w = marker.char_widths(rom, build.table("en"))
+    return {c: px for c, px in w.items() if len(c) == 1}
+
+
+def variant(entry):
+    """(px per line, lines per page) for the string's box."""
+    import script
+    if not entry["jp"].startswith("{box:") and script.table_of(int(entry["slots"][0], 16)) == "41F18":
+        return WIN["help"]["px"], WIN["help"]["lines"]
+    return WIN["box"]["px"], WIN["box"]["lines"]
+
+
+def px(text):
+    w, total = charw(), 0
+    for part in TOKEN.split(text):
+        if TOKEN.fullmatch(part):
+            total += INSERT_PX.get(part, 0)
+        else:
+            total += sum(w.get(c, 8) for c in part)
+    return total
+
+
+def segments(text):
+    """[(body, page code)]; the last code may be '' when the string has no {end}."""
+    out, cur = [], ""
+    for part in TOKEN.split(text):
+        if part in PAGE:
+            out.append((cur, part))
+            cur = ""
+        else:
+            cur += part
+    if cur:
+        out.append((cur, ""))
+    return out
+
+
+def prefix(body):
+    """Split `{box:NN}{name:NN}Speaker{br}` (or `{box:NN}`) off a page body."""
+    m = re.match(r"(\{box:[0-9A-F]{2}\}(?:\{name:[0-9A-F]{2}\}[^{]*\{br\})?)", body)
+    return (m.group(1), body[m.end():]) if m else ("", body)
+
+
+def wrap_body(body, width):
+    words, lines, cur = body.split(" "), [], ""
+    for wd in words:
+        cand = f"{cur} {wd}" if cur else wd
+        if cur and px(cand) > width:
+            lines.append(cur)
+            cur = wd
+        else:
+            cur = cand
+    lines.append(cur)
+    return lines
+
+
+def balance(lines, width):
+    """Two lines: move the break so the longer line is as short as possible (no one-word orphan)."""
+    if len(lines) != 2:
+        return lines
+    words = " ".join(lines).split(" ")
+    best = lines
+    for i in range(1, len(words)):
+        a, b = " ".join(words[:i]), " ".join(words[i:])
+        if px(a) <= width and px(b) <= width and max(px(a), px(b)) < max(px(best[0]), px(best[1])):
+            best = [a, b]
+    return best
+
+
+def paginate(body, width, nlines):
+    """Pages of at most nlines lines, broken between sentences where possible, each page balanced."""
+    chunks = [c for c in re.split(r"(?<=[.!?\"')])\s+", body) if c]
+    pages, cur = [], ""
+    for c in chunks:
+        cand = f"{cur} {c}" if cur else c
+        if cur and len(wrap_body(cand, width)) > nlines:
+            pages.append(cur)
+            cur = c
+        else:
+            cur = cand
+    pages.append(cur)
+    out = []
+    for p in pages:
+        lines = wrap_body(p, width)
+        out += [balance(lines[i:i + nlines], width) for i in range(0, len(lines), nlines)]
+    return out
+
+
+def layout(entry, en):
+    width, nlines = variant(entry)
+    help_box = width == WIN["help"]["px"]
+    out, bad = "", []
+    for body, code in segments(en):
+        pre, rest = prefix(body)
+        if "{name:" in pre:
+            name = re.sub(r"\{[^}]*\}", "", pre)
+            if px(name) > WIN["name"]["px"]:
+                bad.append(f"speaker {name!r} is {px(name)} px > {WIN['name']['px']}")
+        if "{br}" in rest or help_box or not rest.strip():
+            lines = rest.split("{br}")
+            pages = [lines]
+        else:
+            pages = paginate(rest.strip(), width, nlines)
+        for i, pg in enumerate(pages):
+            for ln in pg:
+                if px(ln) > width:
+                    bad.append(f"line {ln!r} is {px(ln)} px > {width}")
+            if len(pg) > nlines:
+                bad.append(f"{len(pg)} lines on a page > {nlines}: {pg!r}")
+            out += ("{page}" if i else "") + (pre if (i == 0 or pre.startswith("{box")) else "") + "{br}".join(pg)
+        out += code
+    return out, bad
+
+
+if __name__ == "__main__":
+    sys.stdout.reconfigure(encoding="utf-8")
+    import script
+    ent = {e["id"]: e for e in script.load()}[sys.argv[1]]
+    text, problems = layout(ent, sys.argv[2])
+    for body, code in segments(text):
+        for ln in body.split("{br}"):
+            print(f"{px(re.sub(r'^.*\}', '', ln) if ln.startswith('{box') else ln):4d}  {ln}")
+        print(f"      {code}")
+    print("\n".join(problems) or "OK")
