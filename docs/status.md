@@ -84,8 +84,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     0-38 clicked through, `--keep --sheet`) into `work/qa/en/`, then `textcover.py`. `warp.py --all` now passes
     `--probe/--var/--keep/--sheet`. `tools/lua/rompages.lua`: ROM pages read per frame (finds BIOS LZ sources).
 - **Next (phase 8 done-when), in order:**
-  1. Msgs run (`qa_tour.py --skip tour,story`, log `work/qa/en_msgs.log`) results: see the line below once done;
-     re-run with `tools/msgview.py --resume` if it was cut off. Strings that fail to show in the script-39 window
+  1. Msgs run (`qa_tour.py --skip tour,story`, log `work/qa/en_msgs.log`): **stopped by Claude Code for low
+     memory at 1134/3192 strings shown, 0 failures** (not a tool fault). Finish with
+     `python -X utf8 tools/msgview.py --resume --rom build/ghost_trap_en.gba --out work/qa/en/msgs` (on the
+     text-only `19914506…` build or a rebuild; the layout is the same), then run `textcover.py`. Strings that fail to show in the script-39 window
      (insert-only `status: data` ids, item help without `{box}`) get a scene or a reasoned line in
      `docs/text_unshown.tsv`.
   2. **G1 title logo**: the katakana ゴーストトラップ overlays the lower half of the GHOST TRAP letters (BG1 8bpp,
