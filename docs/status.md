@@ -136,6 +136,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `wrap.layout` (`work/polish/rewrapped_ids.txt`), new lint `test_shipped_text_is_laid_out` (stored `en` must equal
     its own layout). Build `ab915aca`: re-shot (`pages_ab91` 14 sheets all ok, checked by eye too; `msgs_ab91`),
     gate 728/728 + story 11/11, coverage 3192/3192, jp_left 0, `release.py` RELEASE OK (patch 333144 bytes).
+  - Re-verified 2026-11-16 (fresh session): `release.py --force` RELEASE OK again, same sha1 `ab915aca`, CRC32
+    `B7704AE0`, `check.py` 62 tests OK; nothing changed.
 - **Next:** nothing in the pipeline. Publishing only when the owner asks (`references/pipeline.md` §Publish; never
   run `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
