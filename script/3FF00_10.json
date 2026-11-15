@@ -86,7 +86,7 @@
    "412DC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あやしい水が{br} よどんでいる…{page}{box:00}{name:02}ジョージ{br}「早くわたって{br} しまおう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Sketchy water sits stagnant...{page}{box:00}{name:02}George{br}Let's hurry across.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That water looks nasty...{page}{box:00}{name:02}George{br}Let's hurry across.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -216,7 +216,7 @@
    "4131C"
   ],
   "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これがスイッチ{br} なのかな？」{page}{end}",
-  "en": "{box:01}George pulled the lever.{page}{box:00}{name:02}George{br}Is this the switch?{page}{end}",
+  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Is this the switch?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -306,7 +306,7 @@
    "41344"
   ],
   "jp": "{box:01}ジョージは{br}きかいを調べた。{page}{box:00}{name:02}ジョージ{br}「スイッチとかは{br} ないみたいだ」{page}{end}",
-  "en": "{box:01}George examined the machine.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}a switch or anything.{page}{end}",
+  "en": "{box:01}I examined the machine.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}a switch or anything.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -316,7 +316,7 @@
    "41348"
   ],
   "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これであの部屋が{br} うごくのかな？」{page}{end}",
-  "en": "{box:01}George pulled the lever.{page}{box:00}{name:02}George{br}Will this make that room move?{page}{end}",
+  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make that room move?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -406,7 +406,7 @@
    "41370"
   ],
   "jp": "{box:01}ジョージは{br}きかいを調べた。{page}{box:00}{name:02}ジョージ{br}「何のきかいだ？{br} スイッチすらない…」{page}{end}",
-  "en": "{box:01}George examined the machine.{page}{box:00}{name:02}George{br}What's this machine? It{br}doesn't even have a switch...{page}{end}",
+  "en": "{box:01}I examined the machine.{page}{box:00}{name:02}George{br}What's this machine? It{br}doesn't even have a switch...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -416,7 +416,7 @@
    "41374"
   ],
   "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これでかべが{br} かいてんするのか？{page}{box:00}{name:02}ジョージ{br}「ぎゃくに回って{br} たらイヤだな…」{page}{end}",
-  "en": "{box:01}George pulled the lever.{page}{box:00}{name:02}George{br}Will this make the wall rotate?{page}{box:00}{name:02}George{br}I'd hate for it to{br}spin the wrong way...{page}{end}",
+  "en": "{box:01}I pulled the lever.{page}{box:00}{name:02}George{br}Will this make the wall rotate?{page}{box:00}{name:02}George{br}I'd hate for it to{br}spin the wrong way...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -476,7 +476,7 @@
    "4138C"
   ],
   "jp": "{box:01}きかいはこまかく{br}しんどうしている。{page}{end}",
-  "en": "{box:01}The machine is vibrating finely.{page}{end}",
+  "en": "{box:01}The machine gives off a faint vibration.{page}{end}",
   "status": "done",
   "notes": ""
  },

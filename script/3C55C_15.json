@@ -37,7 +37,7 @@
    "3F8D0"
   ],
   "jp": "{box:01}はくぶつかんに{br}ありそうなテレビ。{page}{box:00}{name:02}ジョージ{br}「ブラウンかんが{br} まるい上に…{page}{box:00}{name:02}ジョージ{br}「リモコンなしで、{br} チャンネルは{page}{box:00}{name:02}ジョージ{br}「回すタイプの{br} モノクロ式！{page}{box:00}{name:02}ジョージ{br}「これでとびらが{br} ついてればなあ…」{page}{end}",
-  "en": "{box:01}A TV that belongs in a museum.{page}{box:00}{name:02}George{br}A round picture tube, plus...{page}{box:00}{name:02}George{br}no remote, and a channel dial{page}{box:00}{name:02}George{br}you turn by hand,{br}in black and white!{page}{box:00}{name:02}George{br}If only it had little{br}doors on the front...{page}{end}",
+  "en": "{box:01}A TV that belongs in a museum.{page}{box:00}{name:02}George{br}A round picture tube, plus...{page}{box:00}{name:02}George{br}no remote, a rotary{br}channel dial...{page}{box:00}{name:02}George{br}and a black-and-white{br}picture!{page}{box:00}{name:02}George{br}If only it had little{br}doors on the front...{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -85,7 +85,7 @@
    "3C0F8"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『いや、おみごと！{br} たいしたもんじゃ！』{page}{box:00}{name:02}ジョージ{br}「アリギエリ！？{br} …じゃ、ないな…{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}『このさい、名前は{br} どうでもよかろう』{page}{end}",
-  "en": "{box:00}{name:05}????{br}Well done, my boy!{br}Most impressive!{page}{box:00}{name:02}George{br}Alighieri!? ...No, you're not...{page}{box:00}{name:02}George{br}Who are you?{page}{box:00}{name:05}????{br}My name hardly{br}matters at this point.{page}{end}",
+  "en": "{box:00}{name:05}????{br}Well done, my boy!{br}Most impressive!{page}{box:00}{name:02}George{br}Alighieri!? ...No, you're not...{page}{box:00}{name:02}George{br}Who are you?{page}{box:00}{name:05}????{br}My name hardly{br}matters now, eh?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -149,7 +149,7 @@
    "3C120"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} 場所は、{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで{page}{box:00}{name:02}ジョージ{br}「かくにんできる。{br} さらに、{page}{box:00}{name:02}ジョージ{br}「オレがむいている{br} ほうこうは、{page}{box:00}{name:02}ジョージ{br}「がめんみぎの{br} コンパスに出る…{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！{page}{box:00}{name:02}ジョージ{br}「何でアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Places I've already been{page}{box:00}{name:02}George{br}show up on the mini map{page}{box:00}{name:02}George{br}with the START Button. Plus,{page}{box:00}{name:02}George{br}the direction I'm facing{page}{box:00}{name:02}George{br}shows on the compass at{br}the right of the screen...{page}{box:00}{name:02}George{br}A brilliant invention,{br}if I do say so!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble grumble...{page}{end}",
+  "en": "{box:00}{name:02}George{br}I can check places{br}I've already been{page}{box:00}{name:02}George{br}on the minimap{br}from the START Button.{page}{box:00}{name:02}George{br}What's more,{page}{box:00}{name:02}George{br}the direction I'm facing{page}{box:00}{name:02}George{br}shows on the compass at{br}the right of the screen...{page}{box:00}{name:02}George{br}A brilliant invention,{br}if I do say so!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble grumble...{page}{end}",
   "status": "done",
   "notes": ""
  },

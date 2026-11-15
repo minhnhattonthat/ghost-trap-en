@@ -25,7 +25,7 @@
    "3C1E8"
   ],
   "jp": "{box:00}{name:04}カロル{br}「そうそう！{br} ジョージさん！{page}{box:00}{name:04}カロル{br}「いらない物どうし{br} くみあわせると{page}{box:00}{name:04}カロル{br}「別のアイテムに{br} 成る事もあります。{page}{box:00}{name:04}カロル{br}「スタートボタンの{br} コマンドにある、{page}{box:00}{name:04}カロル{br}「COMBINE{br} コマンドですよ。{page}{box:00}{name:04}カロル{br}「アイテムどうし、{br} がったいできます。{page}{box:00}{name:04}カロル{br}「たとえば、それで{br} ハーブどうしを{page}{box:00}{name:04}カロル{br}「くみあわせて{br} 薬にかえると、{page}{box:00}{name:04}カロル{br}「かいふく度あいも{br} 高まりますよ。{page}{box:00}{name:04}カロル{br}「ほかにも、{br} マッチやナイフ…{page}{box:00}{name:04}カロル{br}「いろいろためして{br} 見てください…。{page}{box:00}{name:04}カロル{br}「こんなアドバイス{br} でしか、{page}{box:00}{name:04}カロル{br}「おやくに立てなくて{br} すみません…{page}{box:00}{name:04}カロル{br}「いい年をして{br} なさけないですよ」{page}{end}",
-  "en": "{box:00}{name:04}Karol{br}Oh, that's right! George-san!{page}{box:00}{name:04}Karol{br}If you combine items{br}you don't need,{page}{box:00}{name:04}Karol{br}they can sometimes{br}become a different item.{page}{box:00}{name:04}Karol{br}Among the START{br}Button commands,{page}{box:00}{name:04}Karol{br}there's the COMBINE command.{page}{box:00}{name:04}Karol{br}It lets you merge{br}items together.{page}{box:00}{name:04}Karol{br}For example, if you{br}use it to mix herbs{page}{box:00}{name:04}Karol{br}and turn them into medicine,{page}{box:00}{name:04}Karol{br}they'll restore more.{page}{box:00}{name:04}Karol{br}There are also matches, knives...{page}{box:00}{name:04}Karol{br}Please try out all{br}sorts of things...{page}{box:00}{name:04}Karol{br}I'm sorry that advice like this{page}{box:00}{name:04}Karol{br}is all I can do to help...{page}{box:00}{name:04}Karol{br}It's pathetic, at my age.{page}{end}",
+  "en": "{box:00}{name:04}Karol{br}Oh, that's right! George-san!{page}{box:00}{name:04}Karol{br}If you combine items{br}you don't need,{page}{box:00}{name:04}Karol{br}they can sometimes{br}become a different item.{page}{box:00}{name:04}Karol{br}Among the START{br}Button commands,{page}{box:00}{name:04}Karol{br}there's the COMBINE command.{page}{box:00}{name:04}Karol{br}It lets you merge{br}items together.{page}{box:00}{name:04}Karol{br}For example, if you{br}use it to mix herbs{page}{box:00}{name:04}Karol{br}and turn them into medicine,{page}{box:00}{name:04}Karol{br}it'll heal you more.{page}{box:00}{name:04}Karol{br}There are also matches, knives...{page}{box:00}{name:04}Karol{br}Please try out all{br}sorts of things...{page}{box:00}{name:04}Karol{br}I'm sorry that advice like this{page}{box:00}{name:04}Karol{br}is all I can do to help...{page}{box:00}{name:04}Karol{br}It's pathetic, at my age.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -325,7 +325,7 @@
    "3C29C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「今までだまって{br} いて、すみません。{page}{box:00}{name:04}カロル{br}「でもここから出たい{br} と思う気もちは…{page}{box:00}{name:04}カロル{br}「お二人と同じです。{page}{box:00}{name:04}カロル{br}「それだけは{br} 信じて下さい」{page}{end}",
-  "en": "{box:00}{name:04}Karol{br}I'm sorry I kept quiet until now.{page}{box:00}{name:04}Karol{br}But wanting to get out of here...{page}{box:00}{name:04}Karol{br}I feel the same as you two.{page}{box:00}{name:04}Karol{br}Please believe that much.{page}{end}",
+  "en": "{box:00}{name:04}Karol{br}I'm sorry I kept quiet until now.{page}{box:00}{name:04}Karol{br}But I want to leave this place...{page}{box:00}{name:04}Karol{br}just as much as you both do.{page}{box:00}{name:04}Karol{br}Please believe that much.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -415,7 +415,7 @@
    "3C2CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「そだいゴミ{br} ばっかりだ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It's all bulky trash...{page}{end}",
+  "en": "{box:00}{name:02}George{br}It's all big old junk...{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -50,7 +50,7 @@
    "41DB8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは館の{br} てつのゴミだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This is the house's scrap metal.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Just the house's scrap metal, huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -283,7 +283,7 @@
    "41E40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まるいテーブルだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A round table.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. A round table.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -423,7 +423,7 @@
    "41E80"
   ],
   "jp": "{box:01}床のあなが、{br}かすかににおう。{page}{end}",
-  "en": "{box:01}The hole in the{br}floor smells faintly.{page}{end}",
+  "en": "{box:01}There's a faint smell{br}coming from the hole.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -443,7 +443,7 @@
    "41E88"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？なんで{br} あかないんだ？」{page}{box:00}{name:02}ジョージ{br}「ん？ドアに何か{br} 書かれてるな…」{page}{box:01}『…はい は {br} はい に…{page}{box:01}『…すべては元の{br} サヤへともどる。{page}{box:01}『かの書を{br} 元におさめよ』{page}{box:00}{name:02}ジョージ{br}「書って…本の{br} ことだよな？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh? Why won't it open?{page}{box:00}{name:02}George{br}Hm? Something's{br}written on the door...{page}{box:01}\"...Ashes to ashes...{page}{box:01}\"...All returns to{br}where it belongs.{page}{box:01}\"Return that book to its place.\"{page}{box:00}{name:02}George{br}Book... as in a book, right?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh? Why won't it open?{page}{box:00}{name:02}George{br}Hm? Something's{br}written on the door...{page}{box:01}\"...Ashes to ashes...{page}{box:01}\"...All returns to{br}where it belongs.{page}{box:01}\"Return that tome to its place.\"{page}{box:00}{name:02}George{br}A tome... That's a book, right?{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -1014,7 +1014,7 @@
    "3F460"
   ],
   "jp": "{box:01}ジョージが本を{br}おさめると、{page}{box:01}どこかでカギの{br}あく音がした。{page}{box:00}{name:02}ジョージ{br}「これで全部、{br} もどったかな？」{page}{end}",
-  "en": "{box:01}When George put{br}the book in place,{page}{box:01}a lock clicked open somewhere.{page}{box:00}{name:02}George{br}Is that all of them back now?{page}{end}",
+  "en": "{box:01}When I put the{br}book in place,{page}{box:01}a lock clicked open somewhere.{page}{box:00}{name:02}George{br}Is that all of them back now?{page}{end}",
   "status": "done",
   "notes": ""
  }

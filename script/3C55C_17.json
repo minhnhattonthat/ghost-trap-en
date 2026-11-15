@@ -305,7 +305,7 @@
    "3FDF8"
   ],
   "jp": "{box:01}かべが全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…かたよった本{br} ばかりだなあ」{page}{end}",
-  "en": "{box:01}Every wall is a bookshelf.{page}{box:00}{name:02}George{br}...These books{br}sure are one-sided.{page}{end}",
+  "en": "{box:01}Every wall is a bookshelf.{page}{box:00}{name:02}George{br}...Not much variety{br}in these books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -605,7 +605,7 @@
    "3FE78"
   ],
   "jp": "{box:01}かべが全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「…かたよった本{br} ばかりだなあ」{page}{end}",
-  "en": "{box:01}Every wall is a bookshelf.{page}{box:00}{name:02}George{br}...These books{br}sure are one-sided.{page}{end}",
+  "en": "{box:01}Every wall is a bookshelf.{page}{box:00}{name:02}George{br}...Not much variety{br}in these books.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -665,7 +665,7 @@
    "3FE98"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわっ！？{page}{box:00}{name:02}ジョージ{br}「なんかどんどん{br} ヤバくなってるぞ！{page}{box:00}{name:02}ジョージ{br}「このやりかたで、{br} ほんとにいいのか？」{page}{box:00}{name:05}？？？？{br}「それでいいんです。{br} ジョージさん」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whoa?!{page}{box:00}{name:02}George{br}Things are getting{br}worse and worse!{page}{box:00}{name:02}George{br}Is this really the{br}right way to do it?{page}{box:00}{name:05}????{br}That's right, George-san.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Whoa?!{page}{box:00}{name:02}George{br}Things are getting{br}worse and worse!{page}{box:00}{name:02}George{br}Is this really the{br}right way to do it?{page}{box:00}{name:05}????{br}That is the right way, George-san.{page}{end}",
   "status": "done",
   "notes": ""
  }

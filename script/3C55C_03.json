@@ -549,7 +549,7 @@
    "3D094"
   ],
   "jp": "{box:01}どうみても{br}ナゾの絵だ。{page}{end}",
-  "en": "{box:01}No matter how you look at{br}it, it's a mystery painting.{page}{end}",
+  "en": "{box:01}However I look at it,{br}this painting's a mystery.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -649,7 +649,7 @@
    "3D164"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな絵いまは{br} 見たくないな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I don't want to look at{br}paintings right now.{page}{end}",
+  "en": "{box:00}{name:02}George{br}I don't want to look at a{br}painting like this right now.{page}{end}",
   "status": "done",
   "notes": ""
  },

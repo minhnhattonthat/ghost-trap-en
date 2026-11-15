@@ -86,7 +86,7 @@
    "40988"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} ベンチだらけだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This room is full of benches.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing but benches in here, huh?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -106,7 +106,7 @@
    "4095C"
   ],
   "jp": "{box:01}つくえにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『グレートマインに{br} イオウのこなで{page}{box:01}『さいこうきゅうの{br} マインができる』{page}{end}",
-  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
+  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -226,7 +226,7 @@
    "409F4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この部屋は{br} ベンチだらけだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This room is full of benches.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing but benches in here, huh?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -256,7 +256,7 @@
    "409C8"
   ],
   "jp": "{box:01}つくえにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『グレートマインに{br} イオウのこなで{page}{box:01}『さいこうきゅうの{br} マインができる』{page}{end}",
-  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
+  "en": "{box:01}A note was left on the desk.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"A Great Mine with Sulfur Powder{page}{box:01}\"makes the very best mine.\"{page}{end}",
   "status": "done",
   "notes": ""
  },

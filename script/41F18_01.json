@@ -245,7 +245,7 @@
    "42210"
   ],
   "jp": "イオウのこな{br}おんせんのにおい{br}ごうせいパーツ{clr}{end}",
-  "en": "Sulfur Powder{br}Smells like a spa{br}COMBINE part{clr}{end}",
+  "en": "Sulfur Powder{br}Hot spring smell{br}COMBINE part{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -677,7 +677,7 @@
    "422C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし、ゴースト{br} センサーは…」{page}{box:00}{name:02}ジョージ{br}「だいじょうぶだ！{br} …ちなみに」{page}{box:00}{name:02}ジョージ{br}「これはオレが{br} つくったもので、」{page}{box:00}{name:02}ジョージ{br}「ゴーストとの{br} きょりによって」{page}{box:00}{name:02}ジョージ{br}「音とはんのうが{br} 早く、大きくなる」{page}{box:00}{name:02}ジョージ{br}「しかも！{br} ゴーストの数で」{page}{box:00}{name:02}ジョージ{br}「はんのうの色が{br} かわるスグレ物だ」{page}{box:00}{name:02}ジョージ{br}「…ま、アリシアは{br} このはつめいを」{page}{box:00}{name:02}ジョージ{br}「バカにしてた{br} けどな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Okay, the Ghost Sensor is...{page}{box:00}{name:02}George{br}Working fine! By the way,{page}{box:00}{name:02}George{br}I built this thing myself.{page}{box:00}{name:02}George{br}The closer a ghost gets,{page}{box:00}{name:02}George{br}the faster and louder it beeps.{page}{box:00}{name:02}George{br}And that's not all!{page}{box:00}{name:02}George{br}The color changes with the{br}number of ghosts. Pretty slick!{page}{box:00}{name:02}George{br}...Not that Alicia didn't{page}{box:00}{name:02}George{br}laugh at this invention...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Okay, the Ghost Sensor is...{page}{box:00}{name:02}George{br}Working fine! By the way,{page}{box:00}{name:02}George{br}I built this thing myself.{page}{box:00}{name:02}George{br}The closer a ghost gets,{page}{box:00}{name:02}George{br}the faster and louder it beeps.{page}{box:00}{name:02}George{br}And that's not all!{page}{box:00}{name:02}George{br}The color changes with the{br}number of ghosts. Pretty slick!{page}{box:00}{name:02}George{br}...Of course, Alicia just{page}{box:00}{name:02}George{br}laughed at my invention...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -807,7 +807,7 @@
    "422FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ…？{br} あかないぞ。」{page}{box:00}{name:02}ジョージ{br}「あ、何かドアに{br} かかれてるな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「あなたのキフ？{br} きふ…？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What...? It won't open.{page}{box:00}{name:02}George{br}Oh, something's{br}written on the door...{page}{box:01}\"Into the three mouths,{br}your offering...\"{page}{box:00}{name:02}George{br}My offering? Offering...?{page}{end}",
+  "en": "{box:00}{name:02}George{br}What...? It won't open.{page}{box:00}{name:02}George{br}Oh, something's{br}written on the door...{page}{box:01}\"Into the three mouths,{br}your sweet offering...\"{page}{box:00}{name:02}George{br}A sweet offering? Sweet...?{page}{end}",
   "status": "done",
   "notes": ""
  }

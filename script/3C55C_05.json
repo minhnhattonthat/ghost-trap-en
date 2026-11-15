@@ -293,7 +293,7 @@
    "3D5EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「気がめいる{br} 絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A depressing painting...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's bringing me down...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -446,7 +446,7 @@
    "3D738"
   ],
   "jp": "{box:01}むぞうさに絵が{br}置かれている。{page}{box:01}そこにメモが{br}はさんであった。{page}{box:01}『アンジェリカと{br} カモミールは、{page}{box:01}『くみあわせが{br} できない』{page}{box:00}{name:02}ジョージ{br}「なるほどな…」{page}{end}",
-  "en": "{box:01}A painting has been{br}left here carelessly.{page}{box:01}A note was tucked into it.{page}{box:01}\"Angelica and Chamomile{page}{box:01}\"cannot be combined.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}A painting has been{br}left here carelessly.{page}{box:01}A note was tucked into it.{page}{box:01}\"Angelica and Chamomile{page}{box:01}\"cannot be combined.\"{page}{box:00}{name:02}George{br}Got it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -654,7 +654,7 @@
    "3D794"
   ],
   "jp": "{box:01}かれてしまった{br}はちうえだ。{page}{box:01}そのよこにノートを{br}みつけた。{page}{box:01}『永遠のように{br} まよいつづけて、{page}{box:01}『もう何日だろう。{br} おさななじみが…{page}{box:01}ノートはそこで{br}とぎれていた。{page}{box:00}{name:02}ジョージ{br}「この人もやっぱり{br} ゴーストに？？？{page}{end}",
-  "en": "{box:01}A withered potted plant.{page}{box:01}I found a notebook next to it.{page}{box:01}\"Lost here as if for eternity...{page}{box:01}\"how many days has it been?{br}My childhood friend...\"{page}{box:01}The notebook breaks off there.{page}{box:00}{name:02}George{br}Did this person end{br}up a ghost too???{page}{end}",
+  "en": "{box:01}A withered potted plant.{page}{box:01}I found a notebook next to it.{page}{box:01}\"Lost here as if for eternity...{page}{box:01}\"how many days has it been?{br}My childhood friend...\"{page}{box:01}The notebook breaks off there.{page}{box:00}{name:02}George{br}Did the ghosts get{br}this person too...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -790,7 +790,7 @@
    "3D6E0"
   ],
   "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{box:01}そこに何か{br}書かれている。{page}{box:01}『タリスマンに{br} 黒の石をつけよ』{page}{box:00}{name:02}ジョージ{br}「ふむふむ…」{page}{end}",
-  "en": "{box:01}A large oil painting hangs here.{page}{box:01}Something is written on it.{page}{box:01}\"Attach the Black Stone{br}to the Talisman.\"{page}{box:00}{name:02}George{br}Hmm, hmm...{page}{end}",
+  "en": "{box:01}A large oil painting hangs here.{page}{box:01}Something is written on it.{page}{box:01}\"Attach the Black Stone{br}to the Talisman.\"{page}{box:00}{name:02}George{br}Hmm... Got it.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -860,7 +860,7 @@
    "3D7BC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きいろくぬられた{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}An oil painting done in yellow...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. An oil painting done in yellow...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -880,7 +880,7 @@
    "3D7C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドライフラワーの{br} うえきばちだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A pot of dried flowers.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. A pot of dried flowers.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -900,7 +900,7 @@
    "3D7CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まっさおな{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A deep blue oil painting...{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's one blue oil painting...{page}{end}",
   "status": "done",
   "notes": ""
  },

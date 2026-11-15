@@ -352,7 +352,7 @@
    "3EEC8"
   ],
   "jp": "{box:01}しゃれこうべの{br}ぞうがある。{page}{end}",
-  "en": "{box:01}There's a statue{br}of a death's-head.{page}{end}",
+  "en": "{box:01}There's a statue of a skull.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -892,7 +892,7 @@
    "3F0B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きふワインの{br} あまいかおりだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The sweet scent{br}of Dessert Wine.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Dessert Wine, huh?{br}Smells sweet.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -914,7 +914,7 @@
    "3F0C0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たまったワインが{br} ゆれている…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The pooled wine is rippling...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh... that wine's rippling...{page}{end}",
   "status": "done",
   "notes": ""
  },

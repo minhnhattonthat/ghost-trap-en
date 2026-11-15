@@ -450,7 +450,7 @@
    "40190"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The gramophone's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -535,7 +535,7 @@
    "401C0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{box:00}{name:02}George{br}Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The gramophone's busted.{page}{box:00}{name:02}George{br}Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },

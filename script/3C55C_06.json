@@ -472,7 +472,7 @@
    "3D9D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きいろくぬられた{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}An oil painting done in yellow...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. An oil painting done in yellow...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -492,7 +492,7 @@
    "3D9DC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドライフラワーの{br} うえきばちだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A pot of dried flowers.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. A pot of dried flowers.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -512,7 +512,7 @@
    "3D9E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まっさおな{br} あぶら絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A deep blue oil painting...{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's one blue oil painting...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -925,7 +925,7 @@
    "3DBC4"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The cracks in the{br}paint look painful.{page}{end}",
+  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -936,7 +936,7 @@
    "3DBC8"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The cracks in the{br}paint look painful.{page}{end}",
+  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -35,7 +35,7 @@
    "3C150"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もたもたしてると{br} ヤバイぜ！{page}{box:00}{name:02}ジョージ{br}「みぎうえの{br} アイコンが{page}{box:00}{name:02}ジョージ{br}「そうびのぶきに{br} かわったら、{page}{box:00}{name:02}ジョージ{br}「Aボタンで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「オレが手本を{br} みせてやる！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Dawdling around{br}here is dangerous!{page}{box:00}{name:02}George{br}When the icon at the top right{page}{box:00}{name:02}George{br}changes to my equipped weapon,{page}{box:00}{name:02}George{br}I can attack with the A Button!{page}{box:00}{name:02}George{br}Let me show you how it's done!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Can't waste time here!{page}{box:00}{name:02}George{br}When the icon at the top right{page}{box:00}{name:02}George{br}changes to my equipped weapon,{page}{box:00}{name:02}George{br}I can attack with the A Button!{page}{box:00}{name:02}George{br}Let me show you how it's done!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -85,7 +85,7 @@
    "3C164"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかってるな…{page}{box:00}{name:02}ジョージ{br}「さっきのカギを{br} 使ってみるか…{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} USEコマンド、{page}{box:00}{name:02}ジョージ{br}「アイテムをえらび、{br} Aボタンだったな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}Let's try that{br}key from before...{page}{box:00}{name:02}George{br}The USE command on{br}the START Button,{page}{box:00}{name:02}George{br}pick the item, then{br}the A Button, right?{page}{end}",
+  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}Let's try that{br}key from before...{page}{box:00}{name:02}George{br}Press the START{br}Button, choose USE,{page}{box:00}{name:02}George{br}pick the item, then{br}the A Button, right?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -256,7 +256,7 @@
    "3C1AC"
   ],
   "jp": "{box:01}キスリムの書を{br}床に置いた。{page}{box:00}{name:02}ジョージ{br}「きえろ！！！{br} 死のつかい！！」{page}{end}",
-  "en": "{box:01}Placed the Book of{br}Kislim on the floor.{page}{box:00}{name:02}George{br}Begone!!! Messenger of death!!{page}{end}",
+  "en": "{box:01}Placed the Book of{br}Kislim on the floor.{page}{box:00}{name:02}George{br}Get lost!!! Messenger of death!!{page}{end}",
   "status": "done",
   "notes": ""
  },

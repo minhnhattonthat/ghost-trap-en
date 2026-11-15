@@ -397,7 +397,7 @@
    "3FC5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Broken furniture sits here.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like this furniture's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -611,7 +611,7 @@
    "3FCE4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Broken furniture sits here.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Looks like this furniture's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -661,7 +661,7 @@
    "3FCF8"
   ],
   "jp": "{box:00}{name:05}？？？？{br}『いや、おみごと！{br}たいしたもんじゃ！』{page}{box:00}{name:02}ジョージ{br}「アリギエリ！？{br}…じゃ、ないな…{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}『このさい、名前は{br}どうでもよかろう』{page}{end}",
-  "en": "{box:00}{name:05}????{br}Well, well, splendid! Quite{br}something, my boy!{page}{box:00}{name:02}George{br}Alighieri?! ...No, you're not...{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters at this point.{page}{end}",
+  "en": "{box:00}{name:05}????{br}Well, well, splendid! Quite{br}something, my boy!{page}{box:00}{name:02}George{br}Alighieri?! ...No, you're not...{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters now, eh?{page}{end}",
   "status": "done",
   "notes": ""
  },

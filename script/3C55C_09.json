@@ -179,7 +179,7 @@
    "3E278"
   ],
   "jp": "{box:01}『きさまの命も{br} これまでだ』{page}{box:01}と、書かれた{br}紙きれがあった。{page}{end}",
-  "en": "{box:01}\"Your life ends here.\"{page}{box:01}A scrap of paper said so.{page}{end}",
+  "en": "{box:01}\"Your life ends here.\"{page}{box:01}That's what was written{br}on a scrap of paper.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -199,7 +199,7 @@
    "3E1F8"
   ],
   "jp": "{box:01}『おまえの命は{br} あとわずか』{page}{box:01}そう、書かれた{br}紙きれがあった。{page}{end}",
-  "en": "{box:01}\"You have little life left.\"{page}{box:01}That's what the{br}scrap of paper said.{page}{end}",
+  "en": "{box:01}\"You don't have long to live.\"{page}{box:01}That's what the{br}scrap of paper said.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -297,7 +297,7 @@
    "3E3B0"
   ],
   "jp": "{box:01}たなの中に{br}何もない。{page}{end}",
-  "en": "{box:01}Nothing in the shelf.{page}{end}",
+  "en": "{box:01}Nothing on the shelves.{page}{end}",
   "status": "done",
   "notes": ""
  },

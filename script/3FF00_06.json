@@ -683,7 +683,7 @@
    "40DB4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こまかくチェック{br} それがきほんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's the basics!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's rule number one!{page}{end}",
   "status": "done",
   "notes": ""
  },

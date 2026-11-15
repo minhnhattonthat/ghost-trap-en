@@ -105,7 +105,7 @@
    "41414"
   ],
   "jp": "{box:01}文字ばんのよこに{br}ネジまきがある。{page}{box:00}{name:02}ジョージ{br}「ネジをまけば、{br} うごくかな…？{page}{box:01}ジョージは時計の{br}ネジをまいた。{page}{box:00}{name:02}ジョージ{br}「おっ！うごいた…{br} …けど、{page}{box:00}{name:02}ジョージ{br}「時計のハリが{br} ぎゃくに回ってる。{page}{box:00}{name:02}ジョージ{br}「時間がぎゃくに{br} すすむのか？{page}{box:00}{name:02}ジョージ{br}「いったいなんだ？{br} この時計は？」{page}{end}",
-  "en": "{box:01}There's a winding{br}key beside the dial.{page}{box:00}{name:02}George{br}If I wind it, will it run...?{page}{box:01}George wound the clock.{page}{box:00}{name:02}George{br}Oh! It's moving... but...{page}{box:00}{name:02}George{br}the clock hands are{br}running backward.{page}{box:00}{name:02}George{br}Is time running in reverse?{page}{box:00}{name:02}George{br}What the heck is with this clock?{page}{end}",
+  "en": "{box:01}There's a winding{br}key beside the dial.{page}{box:00}{name:02}George{br}If I wind it, will it run...?{page}{box:01}I wound the clock.{page}{box:00}{name:02}George{br}Oh! It's moving... but...{page}{box:00}{name:02}George{br}the clock hands are{br}running backward.{page}{box:00}{name:02}George{br}Is time running in reverse?{page}{box:00}{name:02}George{br}What the heck is with this clock?{page}{end}",
   "status": "done",
   "notes": ""
  },

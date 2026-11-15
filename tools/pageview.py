@@ -109,6 +109,8 @@ def main(argv=None):
     ap.add_argument("--rom", type=Path, default=ROOT / "build" / "ghost_trap_en.gba")
     ap.add_argument("--out", type=Path, default=ROOT / "work" / "qa" / "en" / "pages")
     ap.add_argument("--only", help="regex on group names (<script file>_<nn>)")
+    ap.add_argument("--ids", type=Path, help="file of string ids (one per line): chain only these (re-check after "
+                                             "a text change; groups are then made of these ids alone)")
     ap.add_argument("--group", type=int, default=24)
     ap.add_argument("--jobs", type=int, default=2)
     ap.add_argument("--resume", action="store_true", help="skip groups whose log says PAGES_DONE")
@@ -117,7 +119,11 @@ def main(argv=None):
     rows = [ln.split("\t") for ln in (a.rom.parent / "strings.tsv").read_text(encoding="utf-8").split("\n") if ln]
     addr = {i: int(x, 16) for i, x in rows}
     rom = a.rom.read_bytes()
-    grp = groups(list(addr), a.group)
+    keep = list(addr)
+    if a.ids:
+        want = set(a.ids.read_text(encoding="utf-8").split())
+        keep = [i for i in addr if i in want]
+    grp = groups(keep, a.group)
     if a.only:
         grp = {g: m for g, m in grp.items() if re.search(a.only, g)}
     a.out.mkdir(parents=True, exist_ok=True)

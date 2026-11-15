@@ -115,7 +115,7 @@
    "4058C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「気がめいる{br} 絵だ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A depressing painting...{page}{end}",
+  "en": "{box:00}{name:02}George{br}This painting's bringing me down...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -368,7 +368,7 @@
    "40600"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ひょういをかるく{br} する物と、{page}{box:01}『ぶつりこうげきを{br} かるくする物{page}{box:01}『ぼうぐは2つに{br} ぶんるいされる』{page}{box:00}{name:02}ジョージ{br}「なるほど…{br} 2つのぼうぐね…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Things that lighten possession,{page}{box:01}\"and things that lighten{br}physical attacks:{page}{box:01}\"armor falls into{br}these two types.\"{page}{box:00}{name:02}George{br}I see... two kinds of armor, huh...{page}{end}",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"Some protect against possession,{page}{box:01}\"and some against{br}physical attacks:{page}{box:01}\"armor falls into{br}these two types.\"{page}{box:00}{name:02}George{br}I see... two kinds of armor, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -561,7 +561,7 @@
    "40710"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The gramophone's busted.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -626,7 +626,7 @@
    "40708"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『全体ダメージの{br} アイテムで{page}{box:01}『さいきょうの物は{br} 夜あけのランプ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"Of the items that damage all,{page}{box:01}\"the strongest is{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"Of items that damage all ghosts,{page}{box:01}\"the strongest is{br}the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -636,7 +636,7 @@
    "40734"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:00}{name:02}ジョージ{br}「おっと、見のがす{br} 所だったな」{page}{box:01}『全体バインドの{br} アイテムで{page}{box:01}『さいきょうの物は{br} 赤の霊薬だ』{page}{end}",
-  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Of the items that bind all,{page}{box:01}\"the strongest{br}is the Red Brew.\"{page}{end}",
+  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Of items that bind all ghosts,{page}{box:01}\"the strongest{br}is the Red Brew.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -646,7 +646,7 @@
    "4073C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「先をいそごう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{box:00}{name:02}George{br}Let's keep moving.{page}{end}",
+  "en": "{box:00}{name:02}George{br}The gramophone's busted.{page}{box:00}{name:02}George{br}Let's keep moving.{page}{end}",
   "status": "done",
   "notes": ""
  },

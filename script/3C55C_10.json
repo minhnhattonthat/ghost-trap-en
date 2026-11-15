@@ -222,7 +222,7 @@
    "3E6C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これ…{br} あの時の…{page}{box:00}{name:02}ジョージ{br}「女のゴーストじゃ{br} ないか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This... it's from back then...{page}{box:00}{name:02}George{br}Isn't that the woman ghost?{page}{end}",
+  "en": "{box:00}{name:02}George{br}This... isn't this...{page}{box:00}{name:02}George{br}the woman ghost from before?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -386,7 +386,7 @@
    "3E770"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あ！ こいつも{br} さっき！{page}{box:00}{name:02}ジョージ{br}「さっきおそって{br} 来たヤツだ！{page}{box:00}{name:02}ジョージ{br}「やっぱりこいつも{br} メンバーなのか？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Ah! This guy too, earlier!{page}{box:00}{name:02}George{br}He's the one who{br}came at me just now!{page}{box:00}{name:02}George{br}So he's a member too?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Ah! This guy too!{page}{box:00}{name:02}George{br}He's the one who{br}came at me just now!{page}{box:00}{name:02}George{br}So he's a member too?{page}{end}",
   "status": "done",
   "notes": ""
  },

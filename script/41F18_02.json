@@ -5,7 +5,7 @@
    "42300"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「だめだ…{br} あかないな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「みっつの口に{br} キフ…ね…」{page}{box:00}{name:02}ジョージ{br}「ぜんぶのあなに{br} きふワインか…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No good... it won't open...{page}{box:01}\"Into the three mouths,{br}your offering...\"{page}{box:00}{name:02}George{br}An offering into{br}three mouths... huh...{page}{box:00}{name:02}George{br}Dessert Wine in{br}every hole, then...{page}{end}",
+  "en": "{box:00}{name:02}George{br}No good... it won't open...{page}{box:01}\"Into the three mouths,{br}your sweet offering...\"{page}{box:00}{name:02}George{br}A sweet offering for{br}three mouths... huh...{page}{box:00}{name:02}George{br}Dessert Wine in{br}every hole, then...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -65,7 +65,7 @@
    "42318"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「んー・・・{br} たしかこのへんに・・・{page}{box:00}{name:02}ジョージ{br}「・・・あった！」{page}{box:01}本のおくになにかの{br}スイッチがあった。{page}{box:01}おしてみると{br}とおくから{page}{box:01}ちいさな音が{br}きこえた。{page}{end}",
-  "en": "{box:00}{name:02}George{br}Hmm... I'm pretty sure{br}it was around here...{page}{box:00}{name:02}George{br}...Found it!{page}{box:01}Behind the books was{br}some kind of switch.{page}{box:01}When I pressed it, from far away{page}{box:01}came a faint sound.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Hmm... I'm pretty sure{br}it was around here...{page}{box:00}{name:02}George{br}...Found it!{page}{box:01}Behind the books was{br}some kind of switch.{page}{box:01}When I pressed it, I heard{page}{box:01}a faint sound in the distance.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -95,7 +95,7 @@
    "42324"
   ],
   "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}はしの方の一冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは・・・日記？{page}{box:00}{name:02}ジョージ{br}「・・・おおっと、{br} 英語じゃないか！{page}{box:00}{name:02}ジョージ{br}「わるいけど{br} 読ませてもらうよ・・{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・・」{page}{box:01}「ついに儀式の日が{br} 決まった。{page}{box:01}「アリギエリさまの{br} 魔法システムに{page}{box:01}「われらと書の魔力が{br} あわされば、{page}{box:01}「儀式はかならず{br} 成功する！{page}{box:01}「アトラハシスの{br} 長年の目的が、{page}{box:01}「はたされる時が{br} 来たのだ！」{page}{box:00}{name:02}ジョージ{br}「・・・・・・{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わからないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじか・・・」{page}{end}",
-  "en": "{box:01}Lots of difficult-looking{br}books are lined up.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{page}{box:00}{name:02}George{br}...Whoa, it's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read it...{page}{box:00}{name:02}George{br}.........{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When our magic and{br}the books' are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}......{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}that's the same{br}as not reading it...{page}{end}",
+  "en": "{box:01}Lots of difficult-looking{br}books are lined up.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{page}{box:00}{name:02}George{br}...Whoa, it's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read it...{page}{box:00}{name:02}George{br}.........{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When our magic and{br}the books' are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}......{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}I might as well not{br}be able to read it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -255,7 +255,7 @@
    "42364"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリギエリ！？{br} …じゃないな。」{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}「このさい、名前は{br} どうでもよかろう」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Alighieri?! ...No, you're not.{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters at this point.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Alighieri?! ...No, you're not.{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters now, eh?{page}{end}",
   "status": "done",
   "notes": ""
  },

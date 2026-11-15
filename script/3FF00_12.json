@@ -1093,7 +1093,7 @@
    "41D24"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
-  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}Alicia comes before{br}checking stuff out!{page}{end}",
+  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}No time for this!{br}Alicia comes first!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -1105,7 +1105,7 @@
    "41D28"
   ],
   "jp": "{box:01}きかいがかべに{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
-  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}Alicia comes before{br}checking stuff out!{page}{end}",
+  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}No time for this!{br}Alicia comes first!{page}{end}",
   "status": "done",
   "notes": ""
  },

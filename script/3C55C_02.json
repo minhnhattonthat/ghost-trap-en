@@ -244,7 +244,7 @@
    "3CE40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「前にすすむしか{br} 道はないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The only way is forward...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Guess I've got to keep going...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -607,7 +607,7 @@
    "3CED0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もどっても出口は{br} 見つからないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Going back won't{br}find me an exit...{page}{end}",
+  "en": "{box:00}{name:02}George{br}I won't find a way{br}out by going back...{page}{end}",
   "status": "done",
   "notes": ""
  },

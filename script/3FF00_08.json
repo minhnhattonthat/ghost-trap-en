@@ -337,7 +337,7 @@
    "41104"
   ],
   "jp": "{box:01}女の人の{br}しょうぞうがだ。{page}{box:00}{name:02}ジョージ{br}「さっきふんづけた{br} 絵だ…{page}{box:00}{name:02}ジョージ{br}「オレのふんだ{br} あとも無い…」{page}{end}",
-  "en": "{box:01}A portrait of a woman.{page}{box:00}{name:02}George{br}That's the painting I{br}stepped on earlier...{page}{box:00}{name:02}George{br}There's no footprint from me...{page}{end}",
+  "en": "{box:01}A portrait of a woman.{page}{box:00}{name:02}George{br}That's the painting I{br}stepped on earlier...{page}{box:00}{name:02}George{br}Even my footprint's gone...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -359,7 +359,7 @@
    "4110C"
   ],
   "jp": "{box:01}かべには絵と{br}シカのツノがある。{page}{box:00}{name:02}ジョージ{br}「なりきんシュミ{br} ってカンジだ」{page}{end}",
-  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Real nouveau-riche taste.{page}{end}",
+  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Talk about tacky rich-guy taste.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -447,7 +447,7 @@
    "41130"
   ],
   "jp": "{box:01}かべには絵と{br}シカのツノがある。{page}{box:00}{name:02}ジョージ{br}「いかにもな{br} そうしょくだなあ」{page}{end}",
-  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Such typical decor.{page}{end}",
+  "en": "{box:01}On the wall are paintings{br}and deer antlers.{page}{box:00}{name:02}George{br}Yeah, figures they'd decorate like this.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -501,7 +501,7 @@
    "41148"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あぶら絵が{br} かたむいているな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}The oil painting is tilted.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh. That oil painting's crooked.{page}{end}",
   "status": "done",
   "notes": ""
  },

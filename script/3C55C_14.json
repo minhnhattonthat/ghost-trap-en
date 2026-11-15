@@ -63,7 +63,7 @@
    "3F47C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Somebody should tidy up a little.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Clean up a little, would you?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -325,7 +325,7 @@
    "3F5D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「休んでる{br} ヒマはない。{page}{box:00}{name:02}ジョージ{br}「ベッドに用は{br} ないってことだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}No time to rest.{page}{box:00}{name:02}George{br}Which means I've got{br}no business with beds.{page}{end}",
+  "en": "{box:00}{name:02}George{br}No time to rest.{page}{box:00}{name:02}George{br}So I won't be{br}needing a bed.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -901,7 +901,7 @@
    "3F804"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここは{br} ちゅうぼうだな」{page}{end}",
-  "en": "{box:00}{name:02}George{br}This is the kitchen.{page}{end}",
+  "en": "{box:00}{name:02}George{br}So this is the kitchen, huh.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -972,7 +972,7 @@
    "3F84C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「止まった時計に{br} 用はないぞ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got no business{br}with a stopped clock.{page}{end}",
+  "en": "{box:00}{name:02}George{br}A stopped clock's no use to me.{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -175,7 +175,7 @@
    "40E94"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こまかくチェック{br} それがきほんだ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's the basics!{page}{end}",
+  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's rule number one!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -625,7 +625,7 @@
    "40FBC"
   ],
   "jp": "{box:01}ねつでやけて{br}あつくなっている。{page}{end}",
-  "en": "{box:01}It's scorched hot from the heat.{page}{end}",
+  "en": "{box:01}It's scorched and burning hot.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -695,7 +695,7 @@
    "40FDC"
   ],
   "jp": "{box:01}やけてあつく{br}なったハコだ。{page}{end}",
-  "en": "{box:01}A box scorched hot.{page}{end}",
+  "en": "{box:01}A scorched, burning-hot box.{page}{end}",
   "status": "done",
   "notes": ""
  },

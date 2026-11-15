@@ -122,7 +122,7 @@
    "411EC"
   ],
   "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I will run from the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}! It's a note from Karol-san...{page}{box:00}{name:02}George{br}...{page}{end}",
+  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I fear I will flee the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}It's a note from Karol-san...!{page}{box:00}{name:02}George{br}...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -236,7 +236,7 @@
    "4121C"
   ],
   "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I will run from the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}! It's a note from Karol-san...{page}{box:00}{name:02}George{br}...{page}{end}",
+  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I fear I will flee the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}It's a note from Karol-san...!{page}{box:00}{name:02}George{br}...{page}{end}",
   "status": "done",
   "notes": ""
  },

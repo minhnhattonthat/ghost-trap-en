@@ -554,7 +554,7 @@
    "3DCF8"
   ],
   "jp": "{box:01}絵にクモのすが{br}かかっている。{page}{box:01}クモのすについた、{br}紙きれがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？{br} 何か書いてあるな」{page}{box:01}ジョージは{br}紙きれを読んだ。{page}{box:01}『トランシーバーと{br} マグネトロン{page}{box:01}『それらを使えば、{br} ぼうぐが生まれる。{page}{box:00}{name:02}ジョージ{br}「オレと同じ科学者{br} のメモのようだな」{page}{end}",
-  "en": "{box:01}Cobwebs cover the painting.{page}{box:01}A scrap of paper is{br}caught in the web.{page}{box:00}{name:02}George{br}What's this...?{br}Something's written on it.{page}{box:01}George read the scrap of paper.{page}{box:01}\"With a transceiver{br}and a Magnetron,{page}{box:01}\"armor can be born.\"{page}{box:00}{name:02}George{br}Looks like a note from{br}a scientist like me.{page}{end}",
+  "en": "{box:01}Cobwebs cover the painting.{page}{box:01}A scrap of paper is{br}caught in the web.{page}{box:00}{name:02}George{br}What's this...?{br}Something's written on it.{page}{box:01}I read the scrap of paper.{page}{box:01}\"With a transceiver{br}and a Magnetron,{page}{box:01}\"you can make armor.\"{page}{box:00}{name:02}George{br}Looks like a note from{br}a scientist like me.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -644,7 +644,7 @@
    "3DD24"
   ],
   "jp": "{box:01}ナゾの絵が{br}かざってある。{page}{box:01}ナゾの絵にナゾの{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なになに…？」{page}{box:01}『カモミールと{br} バーベインで{page}{box:01}『まずいのみ薬が{br} つくれる。{page}{box:01}『かなりマズいが、{br} かいふくは中』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}A puzzling painting is on display.{page}{box:01}The puzzling painting{br}has a puzzling note.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"With Chamomile and Vervain,{page}{box:01}\"you can make a Nasty Potion.{page}{box:01}\"Tastes awful, but{br}restores a fair bit.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}A puzzling painting is on display.{page}{box:01}The puzzling painting{br}has a puzzling note.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"With Chamomile and Vervain,{page}{box:01}\"you can make a Nasty Potion.{page}{box:01}\"Tastes awful, but{br}restores a fair bit.\"{page}{box:00}{name:02}George{br}Got it...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -664,7 +664,7 @@
    "3DD2C"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The cracks in the{br}paint look painful.{page}{end}",
+  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -674,7 +674,7 @@
    "3DD30"
   ],
   "jp": "{box:01}えのぐのヒビが{br}いたいたしい。{page}{end}",
-  "en": "{box:01}The cracks in the{br}paint look painful.{page}{end}",
+  "en": "{box:01}The paint is badly cracked. What a sorry sight.{page}{end}",
   "status": "done",
   "notes": ""
  },

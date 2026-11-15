@@ -410,7 +410,7 @@
    "3EBF0"
   ],
   "jp": "{box:01}たなの中には{br}何もなかった。{page}{end}",
-  "en": "{box:01}There was nothing in the shelf.{page}{end}",
+  "en": "{box:01}There was nothing on the shelves.{page}{end}",
   "status": "done",
   "notes": ""
  },

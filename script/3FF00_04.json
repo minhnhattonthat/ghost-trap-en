@@ -90,7 +90,7 @@
    "407B0"
   ],
   "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『テスラコイルは{br} えいしゃきそばに』{page}{end}",
-  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"The Tesla Coil is{br}by the projector.\"{page}{end}",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"The Tesla Coil is{br}by the projector.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -110,7 +110,7 @@
    "407D0"
   ],
   "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『Nユニットは{br} ナゾのパーツ{page}{box:01}『それを使えば{br} ぼうぐができる{page}{box:01}『フライパンの{br} 後に使う』{page}{end}",
-  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"The N Unit is a mystery part.{page}{box:01}\"With it, armor can be made.{page}{box:01}\"Use it after the Frying Pan.\"{page}{end}",
+  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"The N Unit is a mystery part.{page}{box:01}\"With it, armor can be made.{page}{box:01}\"Use it after the Frying Pan.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -258,7 +258,7 @@
    "40830"
   ],
   "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{end}",
-  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"Put a stone in the Glass Jar.\"{page}{end}",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Put a stone in the Glass Jar.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -278,7 +278,7 @@
    "40850"
   ],
   "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『アタノールつぼに{br} 石を入れよ』{page}{box:01}『ガラスのつぼと{br} 違うこうかが…』{page}{end}",
-  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"Put a stone in{br}the Athanor Jar.\"{page}{box:01}\"It works differently{br}from the Glass Jar...\"{page}{end}",
+  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Put a stone in{br}the Athanor Jar.\"{page}{box:01}\"It works differently{br}from the Glass Jar...\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    "408B8"
   ],
   "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
-  "en": "{box:01}A half-hearted{br}handrail is fitted here.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
+  "en": "{box:01}A shoddy handrail{br}runs along the edge.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -503,7 +503,7 @@
    "40918"
   ],
   "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
-  "en": "{box:01}A half-hearted{br}handrail is fitted here.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
+  "en": "{box:01}A shoddy handrail{br}runs along the edge.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
   "status": "done",
   "notes": ""
  },

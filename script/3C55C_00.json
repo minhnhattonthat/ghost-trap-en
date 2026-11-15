@@ -125,7 +125,7 @@
    "3C590"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴースト！？{br} ここにもか！？」{page}{box:00}{name:05}？？？？{br}「その本にふれては{br} なりません。{page}{box:00}{name:05}？？？？{br}「このまま{br} 立ち去って下さい」{page}{box:00}{name:02}ジョージ{br}「オレたちだって{br} そうしたいさ。{page}{box:00}{name:02}ジョージ{br}「でも、この館に{br} とじこめられて…{page}{box:00}{name:02}ジョージ{br}「この本だけが{br} たよりなんだよ！{page}{box:00}{name:02}ジョージ{br}「そもそもこの館は{br} なんなんだ！？」{page}{box:00}{name:05}？？？？{br}「全ては私たちの{br} 過ちなのです…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A ghost!? Here too!?{page}{box:00}{name:05}????{br}You must not touch that book.{page}{box:00}{name:05}????{br}Please leave this{br}place as you are.{page}{box:00}{name:02}George{br}Believe me, we'd love to.{page}{box:00}{name:02}George{br}But we're trapped{br}in this mansion...{page}{box:00}{name:02}George{br}and this book is our only hope!{page}{box:00}{name:02}George{br}What IS this place, anyway!?{page}{box:00}{name:05}????{br}All of it is our mistake...{page}{end}",
+  "en": "{box:00}{name:02}George{br}A ghost!? Here too!?{page}{box:00}{name:05}????{br}You must not touch that book.{page}{box:00}{name:05}????{br}Please leave without{br}touching anything.{page}{box:00}{name:02}George{br}Believe me, we'd love to.{page}{box:00}{name:02}George{br}But we're trapped{br}in this mansion...{page}{box:00}{name:02}George{br}and this book is our only hope!{page}{box:00}{name:02}George{br}What IS this place, anyway!?{page}{box:00}{name:05}????{br}All of this is our fault...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -393,7 +393,7 @@
    "3C7FC"
   ],
   "jp": "{box:01}できそこないの{br}ぞうなどがある。{page}{box:00}{name:02}ジョージ{br}「しんぞうに{br} わるいな…」{page}{end}",
-  "en": "{box:01}Botched statues and such.{page}{box:00}{name:02}George{br}Bad for my heart...{page}{end}",
+  "en": "{box:01}Botched statues and such.{page}{box:00}{name:02}George{br}These'll give me a heart attack...{page}{end}",
   "status": "done",
   "notes": ""
  },

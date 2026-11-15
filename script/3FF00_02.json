@@ -57,7 +57,7 @@
    "402D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見る前に{br} いそがないと！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got to hurry before{br}I look at paintings!{page}{end}",
+  "en": "{box:00}{name:02}George{br}The paintings can wait!{br}I've got to hurry!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -377,7 +377,7 @@
    "403C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見る前に{br} いそがないと！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got to hurry before{br}I look at paintings!{page}{end}",
+  "en": "{box:00}{name:02}George{br}The paintings can wait!{br}I've got to hurry!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -557,7 +557,7 @@
    "40434"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きれいな{br} ちょうぞうだ」{page}{end}",
-  "en": "{box:00}{name:02}George{br}A beautiful statue.{page}{end}",
+  "en": "{box:00}{name:02}George{br}That's a good-looking statue.{page}{end}",
   "status": "done",
   "notes": ""
  },

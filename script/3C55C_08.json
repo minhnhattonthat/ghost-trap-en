@@ -165,7 +165,7 @@
    "3DF48"
   ],
   "jp": "{box:01}ホコリがひどくて{br}絵が見えない。{page}{box:01}絵のわきに{br}メモを見つけた。{page}{box:00}{name:02}ジョージ{br}「うん？{br} …なになに？{page}{box:01}『COMBINEを{br} かつようすべし』{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} コマンドのことか？{page}{box:00}{name:02}ジョージ{br}「だれがこんな所に？」{page}{end}",
-  "en": "{box:01}It's too dusty to{br}see the painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Huh? ...Let's see?{page}{box:01}\"Make good use of COMBINE.\"{page}{box:00}{name:02}George{br}The command on{br}the START Button?{page}{box:00}{name:02}George{br}Who'd leave this here?{page}{end}",
+  "en": "{box:01}It's too dusty to{br}see the painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Huh? ...Let's see...{page}{box:01}\"Make good use of COMBINE.\"{page}{box:00}{name:02}George{br}The command on{br}the START Button?{page}{box:00}{name:02}George{br}Who'd leave this here?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -245,7 +245,7 @@
    "3DF98"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{box:01}絵のわきにメモを{br}見つけた。{page}{box:00}{name:02}ジョージ{br}「なになに？」{page}{box:01}『このフロアに{br} クリスタルがある』{page}{box:01}『見つけだせ』{page}{end}",
-  "en": "{box:01}A dust-covered oil painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"There is a Crystal{br}on this floor.{page}{box:01}\"Find it.\"{page}{end}",
+  "en": "{box:01}A dust-covered oil painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"There is a Crystal{br}on this floor.{page}{box:01}\"Find it.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
