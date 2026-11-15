@@ -19,6 +19,7 @@ import check_rom  # noqa: E402
 import font  # noqa: E402
 import gbacomp  # noqa: E402
 import gfx_save  # noqa: E402
+import gfx_title  # noqa: E402
 import marker  # noqa: E402
 import script  # noqa: E402
 import textblock  # noqa: E402
@@ -77,7 +78,8 @@ def build(orig, texts=None, lang="en", layout=None):
             w.write(p, struct.pack("<I", textblock.GBA + at), "font-ptr")
         w.write(font.WIDTHS, font.width_table(orig), "widths")
         end = at + len(lz)
-        for ptrs, raw in gfx_save.writes(orig):  # graphics text G2/G3: new LZ blocks after the font, repointed
+        # graphics text G2/G3 (save/load boxes) and G1 (title logo): new LZ blocks after the font, repointed
+        for ptrs, raw in gfx_save.writes(orig) + gfx_title.writes(orig):
             end += -end % 4
             blk = gbacomp.lz77_compress(raw)
             w.write(end, blk, "gfx")

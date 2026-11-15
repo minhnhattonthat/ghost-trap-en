@@ -15,4 +15,5 @@
 23100-23103
 23128-2312B
 23150-23153
+20628-2062B   # title logo tiles pointer (G1, tools/gfx_title.py)
 800000-FFFFFF # English builds: relocated script block + font
