@@ -16,6 +16,16 @@ class TestShippedEnglish(unittest.TestCase):
                for p in batches.problems(e, e["en"], terms)]
         self.assertEqual(bad, [], "\n".join(bad[:40]))
 
+    def test_choice_rows_share_one_layout(self):
+        # the item-menu cursor redraws 10F05C/10F06C over the question's own Yes/No row without clearing it:
+        # any other spacing leaves two copies on screen ("YYes No No")
+        import re
+        rows = {i: re.search(r"(?:^|\{br\})( *\{name:0[17]\}Yes *\{name:0[17]\}No)\{clr\}", e["en"])
+                for i, e in batches.index().items() if re.search(r"\{name:0[17]\}はい", e["jp"]) and e.get("en")}
+        self.assertTrue(rows and all(rows.values()), rows)
+        layouts = {re.sub(r"\{name:0[17]\}", "{c}", m.group(1)) for m in rows.values()}
+        self.assertEqual(len(layouts), 1, layouts)
+
     def test_shorthand_roundtrip(self):
         jp = "{box:00}{name:02}ジョージ{br}「あ{page}{box:01}い{clr}{end}"
         self.assertEqual(batches.compact(jp), "@G 「あ|@1い^$")

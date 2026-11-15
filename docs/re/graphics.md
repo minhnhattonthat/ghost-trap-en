@@ -61,6 +61,9 @@ the hits re-rendered and checked by eye:
 `work/sweep8/index.tsv`), same review:
 
 - `0x7D8C68`: title logo with the katakana line -> G1 (checked by eye).
-- `0x53D49C`, `0x53DA80`, `0x53DD04`: small background signs, reviewer saw "apparent Japanese", medium/low
-  confidence; at 2x they look like plaques/frames. Candidate G4: confirm in the room where they show (phase 2 tour).
+- `0x53D49C`, `0x53DA60`, `0x53DD04`: small background signs, reviewer saw "apparent Japanese", medium/low
+  confidence. **Not text (phase 8):** room-picture overlays DMA'd to VRAM 0x6008500 by the area switch at
+  `0x08003E18` (case = area - 0x31, table `0x3E6C`): `0x53D49C` in areas 0x70-0x73 (pinned insect cases and a
+  specimen frame on the bedroom wall, `work/gfx/g4/a70w.png`), `0x53DA60`/`0x53DD04` in area 0x74/0x75 rooms 0/1
+  (framed paintings). Nothing to translate.
 - English only: `0x7DFEC8` (digits), `0x7E0CE8` (GHOST TRAP, L/R=SELECT, START).

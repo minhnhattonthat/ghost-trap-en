@@ -176,7 +176,9 @@ def problems(entry, en, terms):
         if m.group(1) not in ("0A", "15", "01", "07", "0B") and SPEAKERS.get(m.group(2)):
             if not re.search(re.escape("{name:" + m.group(1) + "}" + SPEAKERS[m.group(2)] + "{br}"), en):
                 out.append(f"speaker {m.group(2)} must read {SPEAKERS[m.group(2)]!r}")
-    if lead(jp) != lead(en):
+    # fewer is the bug (a choice box's leading space is the cursor's room); more is allowed, since an English
+    # space is 4 px against the JP's 8 (the item-menu Yes/No 10F05C/10F06C lead with two to sit where はい does)
+    if len(lead(en)) < len(lead(jp)) or (lead(en) and not lead(jp)):
         out.append(f"leading blanks {lead(en)!r} differ from the JP's {lead(jp)!r} (a choice box's leading space "
                    "is the cursor's room)")
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):

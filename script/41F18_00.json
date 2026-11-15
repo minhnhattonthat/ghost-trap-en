@@ -105,7 +105,7 @@
    "41F40"
   ],
   "jp": "これをすてますか？{br} {br} {name:07}はい  {name:01}いいえ{clr}{end}",
-  "en": "Throw this away?{br} {br} {name:07}Yes  {name:01}No{clr}{end}",
+  "en": "Throw this away?{br} {br}  {name:07}Yes       {name:01}No{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -375,7 +375,7 @@
    "41FAC"
   ],
   "jp": "{name:0A} {br}をつくりますか？{br} {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "{name:0A}{br}Make this?{br} {name:01}Yes  {name:07}No{clr}{end}",
+  "en": "{name:0A}{br}Make this?{br}  {name:01}Yes       {name:07}No{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -385,7 +385,7 @@
    "41FB0"
   ],
   "jp": "さらにつくりますか？{br} {br} {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "Make another?{br} {br} {name:01}Yes  {name:07}No{clr}{end}",
+  "en": "Make another?{br} {br}  {name:01}Yes       {name:07}No{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,9 +485,9 @@
    "41FD8"
   ],
   "jp": " {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": " {name:01}Yes  {name:07}No{clr}{end}",
+  "en": "  {name:01}Yes       {name:07}No{clr}{end}",
   "status": "done",
-  "notes": ""
+  "notes": "Item-menu Yes/No under DROP etc.: spaces put Yes at x 88 and No at x 140, where はい/いいえ sit (English space 4 px, JP 8)."
  },
  {
   "id": "10F06C",
@@ -495,9 +495,9 @@
    "41FDC"
   ],
   "jp": " {name:07}はい  {name:01}いいえ{clr}{end}",
-  "en": " {name:07}Yes  {name:01}No{clr}{end}",
+  "en": "  {name:07}Yes       {name:01}No{clr}{end}",
   "status": "done",
-  "notes": ""
+  "notes": "Same layout as 10F05C (the other cursor position)."
  },
  {
   "id": "11C544",
