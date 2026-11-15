@@ -112,8 +112,24 @@ Updated at the end of every session. Keep it to what the next session needs; his
   re-run those two (`warp.py area_30_r0 --rom <frozen QA build> ...` or `--resume`). Story: 21/39 cutscenes proven,
   then Claude Code stopped the run for low memory again; `qa_tour.py --skip msgs --resume ...` continues it (the tour
   part re-runs only the 2 failures).
+- **This session (2026-11-15, log `work/qa/en_tour2.log`):** tour re-run of area_30_r0/r1 ok -> **tour 534/534, 0
+  failed**. Story: 28/39 proven; 022 023 024 031 032 033 logged SCENE_OK then timed out (load, no Lua error), 034-038
+  not run: Claude Code killed the run for low memory a third time (2.8 GB free at start). Coverage already passes
+  from msgs alone (`coverage.py` with the msgs + msgs_final runs: 3192/3192, 0 waived).
+  **Story sheets:** warp's `--sheet` (half size, whole-screen change) dropped most text pages, so new
+  `tools/story_pages.py` writes `story/<script>/sheet_pages*.png` (last fully-typed shot of each page, full size,
+  from SCENE_OK on) and removes warp's sheets; `qa_tour.py` runs it after the story step. Run it once over
+  `work/qa/en/story` after the story finishes (only script_002 converted so far).
+  **Extra-`{page}` check (step 5 second half) done:** 9 strings gain a page over the JP; seen in game for 1072F8
+  (script 2). Three were mid-phrase stubs and are reworded to the JP page count: 1072F8 ("country home of
+  Alighieri"), 108344's last Alicia line, 10B5D8 ("born of the immortality ritual"). The rest break on clauses.
+  **New build `3ee614ba…`** (frozen in `work/qa/roms/3ee614ba/`) differs from the QA build only in those 3 strings:
+  after the gate passes on e067dd06, re-show them (`msgview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --only
+  "1072F8|108344|10B5D8" --out work/qa/en/msgs_3ee`, story for script_002/009/025 on it) and `qa_gate.py waive` with
+  that reason, or point the gate at it.
 - **Next (phase 8 done-when), in order:**
-  2. Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
+  2. Story: `qa_tour.py --skip msgs,tour --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`
+     (11 cutscenes left), then `tools/story_pages.py work/qa/en/story`. Old text of step 2: Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
      log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
   3. Coverage: `python -X utf8 tools/coverage.py --final work/qa/roms/e067dd06/ghost_trap_en.gba --run
      work/qa/en/msgs work/qa/roms/en_text_19914506.gba --run work/qa/en/tour work/qa/roms/e067dd06/ghost_trap_en.gba
@@ -122,8 +138,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   4. `qa_gate.py init work/qa/en/manifest.tsv work/qa/en --build work/qa/roms/e067dd06/ghost_trap_en.gba --glob
      "*sheet*.png"`, `todo ... --out-dir work/qa/chunks`, `tools/vqa_review.py work/qa/en/manifest.tsv
      work/qa/chunks/chunk_*.txt`, fix issues, `qa_gate.py check` exit 0. Copy the QA build to `build/` if it differs.
-  5. inkbox on the save/load confirm boxes (warp `save_confirm`, `load_confirm`); confirm on a long dialogue the
-     extra `{page}` wrap.py adds.
+  5. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above).
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).
@@ -131,4 +146,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by hand (headless only); the owner
   can open it once to confirm. Not blocking. Long regens can get stopped by Claude Code for low memory (other repos'
   Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it. This
-  stopped both phase-8 runs twice now: the owner may want to set it, or not run other repos' tours alongside.
+  has now stopped the phase-8 runs five times (latest: story, this session): the owner may want to set it, or not run other repos' tours alongside.
