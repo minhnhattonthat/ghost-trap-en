@@ -74,6 +74,8 @@ Dump: `rom.sha1` (AGVJ, 8 MiB). Tools: `tbl/jp.tbl`, `tools/textlog.lua` (in `to
 - `0x7E8B85-0x800000`: ~95 KB of 0x00/0xFF at the ROM end.
 - Past 8 MiB: the ROM can grow to 16 MiB (EEPROM save; keep it at or below 16 MiB, IPS/BPS).
 - Relocating the whole script past 0x800000 needs only the table region above repointed (no in-code pointers found).
+- The block itself has no slack: the last string ends 0x1271C5 and the font LZ block starts 0x1271C8 (verified by
+  `tests/test_identity.py`, which repacks it with `tools/textblock.py`). Any growth needs relocation.
 
 ## Other compression
 

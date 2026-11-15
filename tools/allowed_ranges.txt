@@ -1,0 +1,3 @@
+# Byte ranges the build may change (romdiff.py; inclusive hex ranges). docs/re/text.md has the map.
+3BF28-423A3   # text pointer region + the lone slot at 0x423A0
+100000-1271C7 # script block

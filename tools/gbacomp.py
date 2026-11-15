@@ -42,6 +42,55 @@ def lz77_decompress(data, off=0):
     return bytes(out[:size]), p
 
 
+def lz77_compress(data):
+    """BIOS LZ77 (type 0x10), VRAM-safe (no displacement of 1, so LZ77UnCompVram's 16-bit writes work), padded to 4.
+
+    Greedy longest match over a hash chain. Not byte-identical to the original packer: the build keeps a block's
+    original bytes while its unpacked content is unchanged, and packs only edited blocks."""
+    n = len(data)
+    out = bytearray(b"\x10" + n.to_bytes(3, "little"))
+    chains = {}
+    i = 0
+    while i < n:
+        flag_pos = len(out)
+        out.append(0)
+        flags = 0
+        for bit in range(8):
+            if i >= n:
+                break
+            best_len, best_disp = 0, 0
+            if i + 3 <= n:
+                cands = chains.get(data[i:i + 3], ())
+                for j in reversed(cands[-256:]):
+                    disp = i - j
+                    if disp > 0x1000:
+                        break
+                    if disp < 2:
+                        continue
+                    k = 3
+                    while k < 18 and i + k < n and data[j + k] == data[i + k]:
+                        k += 1
+                    if k > best_len:
+                        best_len, best_disp = k, disp
+                        if k == 18:
+                            break
+            step = best_len if best_len >= 3 else 1
+            if best_len >= 3:
+                flags |= 0x80 >> bit
+                d = best_disp - 1
+                out += bytes(((best_len - 3) << 4 | d >> 8, d & 0xFF))
+            else:
+                out.append(data[i])
+            for p in range(i, i + step):
+                if p + 3 <= n:
+                    chains.setdefault(data[p:p + 3], []).append(p)
+            i += step
+        out[flag_pos] = flags
+    while len(out) % 4:
+        out.append(0)
+    return bytes(out)
+
+
 def scan(rom, min_size=64, max_size=0x40000):
     """Yield (offset, end, unpacked) for plausible LZ77 blocks at 4-byte alignment."""
     for off in range(0, len(rom) - 4, 4):
