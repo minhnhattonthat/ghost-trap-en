@@ -1,6 +1,6 @@
 """Static graphics-text sweep: render every BIOS LZ77 block as 4bpp tiles into labelled pages.
 
-python -X utf8 tools/gfxsweep.py ROM OUTDIR [--tiles 512] [--cols 32] [--page-h 1100] [--fmt gba4|gba8]
+python -X utf8 tools/gfxsweep.py ROM OUTDIR [--tiles 512] [--cols 32] [--page-h 1100] [--fmt gba4|gba8] [--zoom 2]
 Every block gets a label row (ROM offset, unpacked size, tiles shown). Blocks whose size is not a multiple of 32
 (not tile data) are listed as skipped with the reason, never dropped silently. index.tsv maps page -> blocks.
 """
@@ -69,6 +69,9 @@ def main(argv):
                 im.paste(t.convert("RGB"), ((i % cols) * 8, y + 12 + (i // cols) * 8))
             idx.write(f"p{p:02d}\t{off:06X}\t{len(data):X}\t{n}\n")
             y += bh
+        z = opt("--zoom", 1)
+        if z > 1:
+            im = im.resize((im.width * z, im.height * z), Image.NEAREST)
         im.save(os.path.join(out, f"p{p:02d}.png"))
     for off, size, why in skipped:
         print(f"skipped {off:06X} {size:X}: {why}")
