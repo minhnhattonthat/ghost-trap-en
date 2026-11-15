@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release: not started (phase 8 done 2026-11-15: gate exit 0, coverage 3192/3192, jp_left 0).
+- **Phase:** 9. Release in progress (phase 8 done 2026-11-15: gate exit 0, coverage 3192/3192, jp_left 0).
   **Current build: `build/ghost_trap_en.gba` sha1 `667dd3c6a20b9f233097507eb06c2db2a9e6a1f7`**, frozen with its
   `strings.tsv` in `work/qa/roms/667dd3c6/`; the QA gate's `manifest.tsv.build` records it. Tour/story ran on
   `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6` (each later build differs only in reworded strings, each
@@ -113,14 +113,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
     work/qa/en/msgs_3ee <3ee6> --run work/qa/en/msgs_667 <667d> --waive docs/text_unshown.tsv` -> 3192/3192, exit 0.
     `jp_left_build.py` on 667dd3c6: 0 runs. Graphics survey fully covered (`docs/re/graphics.md`). inkbox n/a (boxes
     left-aligned like the JP).
+  - Phase 9 so far (2026-11-16): `docs/polish.md` all ticked (30 phase-6 Minors fixed, plus story-pass Minors).
+    Story pass: `tools/story_chapters.py` -> 11 chapter files in `work/qa/story/chapters/` (3 cutscene chapters by
+    scene table, 7 field chapters by table block, items/help), manifest `work/qa/story/manifest.tsv`;
+    `tools/story_review.sh [chapters]` = codex exec read-only per chapter (re-review points it at the last
+    `reports/<ch>.rN.md`). Round 1: all Critical/Important fixed (Albino confession first person, Shinfa uncontracted,
+    キフ pun "sweet offering", ~40 flat George lines voiced). Round 2: 8/11 ok, rest fixed. Round 3 = confirmation.
+    `tools/release.py` written (steps per pipeline §Release; coverage runs from `tools/coverage_runs.tsv`), README
+    filled. `pageview.py --ids FILE` re-shoots only given strings.
 - **Next (phase 9, release; `references/pipeline.md` §Release):**
-  1. Story-pass verdict per chapter (`work/qa/story/manifest.tsv`, `references/translation.md` §Review), and tick or
-     fix every line of `docs/polish.md` (30 Minors from the phase-6 review).
-  2. `tools/release.py` (not written yet): build, `qa_gate.py check` on every manifest, coverage.py (not plain
-     textcover: layouts differ across runs), `jp_left_build.py`, debug tool off in the release build, `bps.py make` +
-     re-apply + verify, zip = patch + README with the base ROM hashes; repo README without template placeholders.
-  3. Any text change re-opens the gate for the sheets it touches: re-run pageview for that group on the new build,
-     add the dir to the manifest (`qa_gate.py init ... --build build/ghost_trap_en.gba`), msgview it for coverage.
+  1. Finish the story pass: verdict files `work/qa/story/verdicts/*.tsv` (`chapter<TAB>ok|fixed<TAB>note`) from each
+     current report; `qa_gate.py check work/qa/story/manifest.tsv work/qa/story/verdicts` exit 0.
+  2. Text changed since 667dd3c6, so: build, freeze `work/qa/roms/<sha8>/`, list changed ids (`coverage.py` over
+     `tools/coverage_runs.tsv` prints them as unshown), `pageview.py --ids` them into `work/qa/en/pages_<sha8>`,
+     `qa_gate.py init work/qa/en/manifest.tsv <all dirs> --build build/ghost_trap_en.gba`, verdicts via
+     `tools/vqa_review.py`, `msgview.py --only` them into `work/qa/en/msgs_<sha8>` and add that run to
+     `tools/coverage_runs.tsv`.
+  3. `python -X utf8 tools/release.py` -> `release/v1.0/`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
   FE difference.
 - **Open bugs:** none.
