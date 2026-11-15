@@ -15,8 +15,8 @@
    "3BFE8"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「なんだろう？{br} この本・・・」{clr}{box:00}{name:02}ジョージ{br}「・・・なんだ、何も{br} 書いてないじゃないか{page}{box:00}{name:02}ジョージ{br}「でも、なんだか{br} 気になるな・・・」{page}ニサンの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}{box:00}{name:02}George{br}What's this? A book...?{clr}{box:00}{name:02}George{br}...Huh, there's{br}nothing written in it.{page}{box:00}{name:02}George{br}Still, something{br}about it bugs me...{page}Got the Book of Nisan!{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3BFEC"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「中の部屋が{br} 変わってる！？」{page}{box:00}{name:02}ジョージ{br}「そうなんだ・・・{page}{box:00}{name:02}ジョージ{br}「こんなゴーストハウスは{br} オレもはじめてだよ」{clr}{box:00}{name:03}アリシア{br}「まさか・・・{br} ・・・ほんとに？」{clr}{box:00}{name:02}ジョージ{br}「ウソついて{br} 何になるんだよ」{page}{box:00}{name:03}アリシア{br}「あたしをこわがらせようと{br} してるだけ・・・とか」{page}{box:00}{name:02}ジョージ{br}「・・・そういう事に{br} したいね、ぜひ」{clr}{box:00}{name:04}カロル{br}「それで・・・{br} これからどうします？」{page}{box:00}{name:02}ジョージ{br}「・・・わからない・・・{page}{box:00}{name:02}ジョージ{br}「何度も入ればそのうち{br} 出口が見つかるのか、{page}{box:00}{name:02}ジョージ{br}「それとも果ての無い{br} めいろなのか・・・」{page}{box:00}{name:04}カロル{br}「・・・その、おくで{br} ひろった本に・・・{page}{box:00}{name:04}カロル{br}「何かヒントに{br} なるような事は？」{clr}{box:00}{name:02}ジョージ{br}「これかい？{clr}{box:00}{name:02}ジョージ{br}「ダメだよ、なんにも{br} 書かれてないんだから」{clr}{box:00}{name:03}アリシア{br}「ちょっと！{br} 見てよ、あれ！」{clr} {clr}{box:00}{name:02}ジョージ{br}「ドアに文字が！？」{page}次なる道をのぞむならば{br}書とともにすすむがよい{page}{box:00}{name:03}アリシア{br}「・・・どういうイミ？」{clr}{box:00}{name:04}カロル{br}「ジョージさん・・・{page}{box:00}{name:04}カロル{br}「この本をもってもう一度{br} 中へ入ってくれませんか」{clr}{box:00}{name:02}ジョージ{br}「え？{br} どういう事だ？」{page}{box:00}{name:04}カロル{br}「わかりません。{br} ただのカンです。{page}{box:00}{name:04}カロル{br}「そうすれば、何かが{br} 変わる気がして・・・」{page}{box:00}{name:02}ジョージ{br}「・・・おもしろそうだ。{br} よし、のった！」{page}{box:00}{name:04}カロル{br}「たのみます・・・」{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}The rooms inside changed!?{page}{box:00}{name:02}George{br}That's right...{page}{box:00}{name:02}George{br}Even I've never seen a{br}ghost house like this.{clr}{box:00}{name:03}Alicia{br}No way... ...For real?{clr}{box:00}{name:02}George{br}What would I get out of lying?{page}{box:00}{name:03}Alicia{br}Maybe you're just{br}trying to scare me...?{page}{box:00}{name:02}George{br}...I wish that were it. I really do.{clr}{box:00}{name:04}Karol{br}So... what do we do now?{page}{box:00}{name:02}George{br}...I don't know...{page}{box:00}{name:02}George{br}Maybe if I keep going in,{br}I'll find an exit eventually,{page}{box:00}{name:02}George{br}or maybe it's an endless maze...{page}{box:00}{name:04}Karol{br}...That book you found in there...{page}{box:00}{name:04}Karol{br}Is there anything in it{br}that could be a hint?{clr}{box:00}{name:02}George{br}This?{clr}{box:00}{name:02}George{br}No good. There's{br}nothing written in it.{clr}{box:00}{name:03}Alicia{br}Hey! Look at that!{clr} {clr}{box:00}{name:02}George{br}Writing on the door!?{page}If thou seekest the next{br}path, go forth with the book.{page}{box:00}{name:03}Alicia{br}...What's that supposed to mean?{clr}{box:00}{name:04}Karol{br}George-san...{page}{box:00}{name:04}Karol{br}Would you take this book{br}and go inside once more?{clr}{box:00}{name:02}George{br}Huh? What do you mean?{page}{box:00}{name:04}Karol{br}I don't know. It's just a hunch.{page}{box:00}{name:04}Karol{br}I have a feeling that something{br}will change if you do...{page}{box:00}{name:02}George{br}...Sounds interesting.{br}All right, I'm in!{page}{box:00}{name:04}Karol{br}Please do...{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3BFF0"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「また本だ・・・{clr}{box:00}{name:02}ジョージ{br}「やっぱり何も{br} 書いてない・・・{page}{box:00}{name:02}ジョージ{br}「でもさっきと同じなら{br} この本もきっと・・・」{page}アイヤルの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}{box:00}{name:02}George{br}Another book...{clr}{box:00}{name:02}George{br}Nothing written in{br}this one either...{page}{box:00}{name:02}George{br}But if it's like the last{br}one, this book must...{page}Got the Book of Iyyar!{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3BFF4"
   ],
   "jp": "{box:00}{name:04}カロル{br}「魔法のもんしょうの{br} ようなモノ・・・ですか」{page}{box:00}{name:02}ジョージ{br}「ああ」{clr}{box:00}{name:02}ジョージ{br}「この館にはそういう、{br} 魔法というか・・・{clr}{box:00}{name:02}ジョージ{br}「オカルト的な力が{br} はたらいているのかも」{page}{box:00}{name:03}アリシア{br}「ああもう！{page}{box:00}{name:03}アリシア{br}「ゴーストハウスに{br} オカルトだなんて・・・{page}{box:00}{name:03}アリシア{br}「つぎはUFO？ ESP？{br} アトランティス！？」{page}{box:00}{name:02}ジョージ{br}「そう言うなよ、{br} アリシア・・・{page}{box:00}{name:02}ジョージ{br}「オレもオカルトを全部{br} 信じる気はないけど、{page}{box:00}{name:02}ジョージ{br}「この館では考えに{br} 入れてみた方がいい。{page}{box:00}{name:02}ジョージ{br}「それにこれはいいニュース{br} かもしれないぜ」{page}{box:00}{name:03}アリシア{br}「はぁ？」{clr}{box:00}{name:04}カロル{br}「オカルトにはオカルトの{br} ルールがあるんですよ。{page}{box:00}{name:04}カロル{br}「この館がオカルトの力で{br} おかしくなっているなら、{page}{box:00}{name:04}カロル{br}「そのルールさえ、{br} 何とかわかれば・・・」{page}{box:00}{name:03}アリシア{br}「ここから出る方法も{br} 見つかる・・・かもしれない？」{page}{box:00}{name:04}カロル{br}「そういうことです」{page}{box:00}{name:03}アリシア{br}「でも見つからないかも{br} しれないわけよね？」{clr}{box:00}{name:02}ジョージ{br}「今そんな事を言っても{br} しかたないだろ{page}{box:00}{name:02}ジョージ{br}「とにかく、ヘンな本を{br} また見つけて来たから、{clr}{box:00}{name:02}ジョージ{br}「今度はこれをもって{br} 入ってみるよ。{page}{box:00}{name:02}ジョージ{br}「手がかりのヒントは{br} つかんだんだ！{page}{box:00}{name:02}ジョージ{br}「だいじょうぶ、{br} きっと出られるさ」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}Something like... a{br}magic crest, you say?{page}{box:00}{name:02}George{br}Yeah.{clr}{box:00}{name:02}George{br}This mansion has some{br}kind of magic, or...{clr}{box:00}{name:02}George{br}some occult power{br}at work, maybe.{page}{box:00}{name:03}Alicia{br}Oh, come on!{page}{box:00}{name:03}Alicia{br}A ghost house AND the occult...{page}{box:00}{name:03}Alicia{br}What's next? UFOs?{br}ESP? Atlantis!?{page}{box:00}{name:02}George{br}Don't be like that, Alicia...{page}{box:00}{name:02}George{br}I don't buy into all{br}of the occult either,{page}{box:00}{name:02}George{br}but in this mansion, we{br}should keep it in mind.{page}{box:00}{name:02}George{br}Besides, this might be good news.{page}{box:00}{name:03}Alicia{br}Huh?{clr}{box:00}{name:04}Karol{br}The occult has rules{br}of its own, you see.{page}{box:00}{name:04}Karol{br}If an occult power is what's{br}warping this mansion,{page}{box:00}{name:04}Karol{br}then if we can just{br}figure out its rules...{page}{box:00}{name:03}Alicia{br}We might find a{br}way out of here...?{page}{box:00}{name:04}Karol{br}Exactly.{page}{box:00}{name:03}Alicia{br}But we might not find{br}one, either, right?{clr}{box:00}{name:02}George{br}There's no point{br}in saying that now.{page}{box:00}{name:02}George{br}Anyway, I found{br}another weird book,{clr}{box:00}{name:02}George{br}so this time I'll take it in with me.{page}{box:00}{name:02}George{br}We've got a lead on a clue!{page}{box:00}{name:02}George{br}Don't worry, we'll{br}get out for sure.{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3BFF8"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「またこの本か・・・{page}{box:00}{name:02}ジョージ{br}「あのゴーストがもって{br} いたみたいだな・・・{page}{box:00}{name:02}ジョージ{br}「でも、いったい何冊{br} あるんだか・・・」{page}シマヌの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}{box:00}{name:02}George{br}This book again...{page}{box:00}{name:02}George{br}Looks like that{br}ghost was holding it...{page}{box:00}{name:02}George{br}How many of these{br}are there, anyway...?{page}Got the Book of Simanu!{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3BFFC"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「オカルトの本が{br} たくさんあった？」{page}{box:00}{name:02}ジョージ{br}「ああ・・・」{page}{box:00}{name:04}カロル{br}「やはりここにはオカルトの{br} グループが集まっていて、{page}{box:00}{name:04}カロル{br}「アリギエリさんが{br} リーダーだったのでは？」{clr}{box:00}{name:03}アリシア{br}「アトラハシス・・・ってのは{br} そのグループの名前かな？」{clr}{box:00}{name:04}カロル{br}「かもしれませんね。{br} でも気になるのは・・・」{clr}{box:00}{name:02}ジョージ{br}「日記にあった儀式、だな。{page}{box:00}{name:02}ジョージ{br}「日づけもちょうどここが{br} 無人になったころだった」{page}{box:00}{name:04}カロル{br}「ええ。なにやらすごい{br} 儀式だったようですし、{page}{box:00}{name:04}カロル{br}「館がこうなったのは{br} それが原因かも・・」{page}{box:00}{name:02}ジョージ{br}「ああ。{br} オレもそんな気がする」{clr}{box:00}{name:03}アリシア{br}「ちょっと、何でいきなり{br} そうなるわけ？」{page}{box:00}{name:02}ジョージ{br}「ほかになっとくのいく{br} 考えがあるか？」{clr}{box:00}{name:03}アリシア{br}「そりゃ・・・{br} ・・・無いけどさ」{clr}{box:00}{name:02}ジョージ{br}「もっとくわしく調べれば{br} ハッキリしたんだが・・・{page}{box:00}{name:02}ジョージ{br}「ギリシャ語やラテン語じゃ{br} 読めないんだよなぁ」{page}{box:00}{name:04}カロル{br}「別の所に手がかりが{br} あるかもしれませんよ」{page}{box:00}{name:02}ジョージ{br}「ああ・・・そういえばまた{br} ヘンな本を見つけたっけ。{clr} {clr}{box:00}{name:02}ジョージ{br}「今度はこいつで{br} 行ってみるか・・・」{page}{box:00}{name:03}アリシア{br}「ジョージ！{br} くれぐれも言っとくけど、{clr}{box:00}{name:03}アリシア{br}「あたしたちの目的は{br} ここから出ることよ！{page}{box:00}{name:03}アリシア{br}「ヘンなことにむちゅうに{br} ならないでね！」{page}{box:00}{name:02}ジョージ{br}「ヘンなことってのは{br} ヘンケンだな！{page}{box:00}{name:02}ジョージ{br}「全てを調べた時に{br} こたえがあらわれる！{page}{box:00}{name:02}ジョージ{br}「それが科学ってモンだ！」{clr} {clr}{box:00}{name:03}アリシア{br}「・・・オカルトにハマって{br} 科学も何も無いでしょ・・・」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}There were lots{br}of occult books?{page}{box:00}{name:02}George{br}Yeah...{page}{box:00}{name:04}Karol{br}So an occult group{br}really did gather here,{page}{box:00}{name:04}Karol{br}and Alighieri-san was its leader?{clr}{box:00}{name:03}Alicia{br}Atrahasis... Is that{br}the name of the group?{clr}{box:00}{name:04}Karol{br}It might be. But{br}what bothers me is...{clr}{box:00}{name:02}George{br}The ritual in the diary, right?{page}{box:00}{name:02}George{br}And the date was right around{br}when this place was abandoned.{page}{box:00}{name:04}Karol{br}Yes. It sounds like{br}it was quite a ritual,{page}{box:00}{name:04}Karol{br}so maybe that's why{br}the mansion is like this..{page}{box:00}{name:02}George{br}Yeah. I've got the same feeling.{clr}{box:00}{name:03}Alicia{br}Hold on, how did you jump{br}to that all of a sudden?{page}{box:00}{name:02}George{br}Got a better explanation?{clr}{box:00}{name:03}Alicia{br}Well... ...no, but still.{clr}{box:00}{name:02}George{br}If I could read more of{br}it, we'd know for sure...{page}{box:00}{name:02}George{br}but I can't read Greek or Latin.{page}{box:00}{name:04}Karol{br}There may be clues{br}somewhere else.{page}{box:00}{name:02}George{br}Yeah... Come to think of it, I{br}found another weird book.{clr} {clr}{box:00}{name:02}George{br}Guess I'll go in with{br}this one next...{page}{box:00}{name:03}Alicia{br}George! Let me make{br}one thing clear.{clr}{box:00}{name:03}Alicia{br}Our goal is to get out of here!{page}{box:00}{name:03}Alicia{br}Don't go getting{br}hooked on weird stuff!{page}{box:00}{name:02}George{br}Calling it weird stuff{br}is just prejudice!{page}{box:00}{name:02}George{br}The answer reveals itself once{br}you've looked into everything!{page}{box:00}{name:02}George{br}That's what science is all about!{clr} {clr}{box:00}{name:03}Alicia{br}...You can't talk about science{br}when you're hooked on the{page}{box:00}{name:03}Alicia{br}occult...{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3C000"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「やれやれ・・・{br} またコイツかよ！{page}{box:00}{name:02}ジョージ{br}「つぎにすすむ道が{br} あるって事だから{page}{box:00}{name:02}ジョージ{br}「ありがたいと言えば、{br} ありがたいんだが」{page}ドゥウズの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}{box:00}{name:02}George{br}Oh, come on... This thing again!?{page}{box:00}{name:02}George{br}Well, it means there's{br}a way forward,{page}{box:00}{name:02}George{br}so I guess I should be grateful.{page}Got the Book of Duuzu!{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

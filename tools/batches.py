@@ -235,7 +235,7 @@ def check_batch(batch, entries, terms):
                    f"duplicate {dup[:8]} (order must match too)")
     for eid, en in rows:
         if eid in entries:
-            bad += [f"{eid}: {p}: {en!r}" for p in problems(entries[eid], en, terms)]
+            bad += [f"{eid}: {p}" for p in problems(entries[eid], en, terms)]
     return bad, dict(rows)
 
 

@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate (phase 5 engine spike + marker build done 2026-11-15). Last builds: 2026-11-15,
-  `build/ghost_trap_en.gba` with no `en` yet = the dump (sha1 `00efb5ed…`); `build/marker.gba` (`build.py --marker`)
+- **Phase:** 6. Translate in progress (b025-b027 merged, 28 batches to go). Last builds: 2026-11-15,
+  `build/ghost_trap_en.gba` with b025 only, sha1 `0176c388…`, script_001 checked in-game; `build/marker.gba` (`build.py --marker`)
   sha1 `0f58afea14d823a0ac7f944525888ca85ec1876e`, 0x870000 bytes, smoke ok.
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
@@ -38,11 +38,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
     stay Japanese = graphics G2/G3 (known). Width gate: box 224 px x 2 lines, name plate 80, narration 224 x 2, item
     help 152 x 3, item names 152 (docs/re/text.md "Width gate"). Torture line clean. FE = FD + cutscene picture step.
     `status: data`: staff roll, copyright screen (already English), seven `{name:0B}` insert-only strings.
-- **Next (phase 6 done-when):** translate in batches with translator agents per `references/translation.md`
-  (budgets: `glossary.md` "Limits", `tools/windows.json`); set register/flavour and the punctuation map in
-  `glossary.md` first; batch check 0 errors (write the width/overflow lint against `windows.json` +
-  `font.width_px` first: phase 7 needs it anyway), reviewer pass with no Critical/Important. Untested: whether an
-  extra `{page}` inside a box run is safe (expected yes; `{clr}` must stay where the JP has it).
+  - Phase 6 so far (2026-11-15): `tools/batches.py` (split/view/check/merge; shorthand `@G |^$\`, codes skeleton,
+    px widths), `tools/wrap.py` (wraps page bodies to 224 px x 2, packs pages on sentence breaks, balances lines,
+    adds `{page}` + repeats the speaker prefix), `tests/test_batches.py` (lint of every shipped `en` gates commits),
+    `docs/translator-brief.md` (the workflow; read it), `docs/synopsis.md`, glossary rulings + D8 (register, quotes).
+    31 batches split into `work/tl/b001-b031.tsv` (gitignored; ~95k JP chars without codes). **Merged: b025, b026,
+    b027** (25 cutscene strings, scripts 0-20ish). Pilot in-game: script_001 renders clean
+    (`work/qa/pilot/s1`).
+- **Next (phase 6 done-when):** translate b028-b031 (rest of the cutscenes, extend `docs/synopsis.md` as you go),
+  then b001-b024 (field text 3C55C/3FF00, items 41F18, menus) with `docs/translator-brief.md`; `batches.py check`
+  OK + merge per batch; commit after each few batches. Plugin translator/reviewer agent types are NOT available in
+  this harness (and the Orca brief forbids helpers): translate in the main thread, review yourself in a fresh
+  read-only pass at the end (pairs file, Critical/Important fixed, Minors -> `docs/polish.md`). If `work/tl/` is
+  missing (fresh clone), `batches.py split` regenerates batches for untranslated ids only. The extra `{page}` in a
+  box run is used by wrap.py; confirm in-game on a long dialogue during phase 8.
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).

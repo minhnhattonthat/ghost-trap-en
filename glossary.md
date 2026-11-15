@@ -42,7 +42,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アリギエリ | Alighieri | | the late artist who owned the mansion (氏 = Mr. Alighieri) | |
 | シンファ | Shinfa | 80px | | |
 | アルビノ | Albino | 80px | | |
-| 死のつかい | Reaper | 80px | name plate; in prose "messenger of death" | |
+| 死のつかい | Reaper / messenger of death | 80px | name plate; in prose "messenger of death" | |
 | アトラハシス | Atrahasis | | | |
 | アンジェリカ | Angelica | | | |
 | グレゴリ | Gregori | | | |

@@ -5,8 +5,8 @@
    "3C01C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「・・・じゃあ{br} アリシアは・・・{page}{box:00}{name:02}ジョージ{br}「ゴーストといっしょに{br} きえたってのか？」{page}{box:00}{name:04}カロル{br}「ええ・・・{page}{box:00}{name:04}カロル{br}「とつぜんあらわれた{br} ゴーストにつつまれて、{page}{box:00}{name:04}カロル{br}「そのまま、すーっと・・・」{clr}{box:00}{name:02}ジョージ{br}「くそっ！{br} ゆだんしたぜ！」{page}{box:00}{name:02}ジョージ{br}「ここはあんぜんだと{br} 思いこんでた！」{page}{box:00}{name:02}ジョージ{br}「・・・でも、何で{br} アリシアを・・・」{clr}{box:00}{name:04}カロル{br}「それはわかりませんが、{br} あのゴースト・・・・{page}{box:00}{name:04}カロル{br}「たぶん・・・いえ、きっと{br} アリギエリさんです。{page}{box:00}{name:04}カロル{br}「さっきジョージさんを{br} たすけた時に使った、{page}{box:00}{name:04}カロル{br}「私のタリスマンが、{br} ききませんでしたから」{clr}{box:00}{name:02}ジョージ{br}「・・・・いよいよ{br} ボスのおでましか・・・」{page}{box:00}{name:04}カロル{br}「行ってあげてください、{br} ジョージさん！{page}{box:00}{name:04}カロル{br}「アリシアさんはたぶん{br} 儀式をやった部屋か・・・{page}{box:00}{name:04}カロル{br}「その近くにつれて{br} いかれたはずです！」{page}{box:00}{name:02}ジョージ{br}「あ・・・ああ・・・{br} ・・・でも・・・{page}{box:00}{name:02}ジョージ{br}「ここにもゴーストが出ると{br} わかったんだから、{page}{box:00}{name:02}ジョージ{br}「カロルさんを一人きりに{br} するわけには・・・」{clr}{box:00}{name:04}カロル{br}「私の事はかまいません。{br} 先ほどのタリスマンで、{page}{box:00}{name:04}カロル{br}「ふつうのゴーストなら{br} 何とかできますから。{page}{box:00}{name:04}カロル{br}「今はアリシアさんの方が{br} しんぱいです」{clr}{box:00}{name:02}ジョージ{br}「・・・・・・・{br} ありがとう・・・・」{clr} {clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...So Alicia...{page}{box:00}{name:02}George{br}vanished along with a ghost?{page}{box:00}{name:04}Karol{br}Yes...{page}{box:00}{name:04}Karol{br}A ghost appeared out of{br}nowhere and wrapped around{page}{box:00}{name:04}Karol{br}her,{page}{box:00}{name:04}Karol{br}and she just... faded away...{clr}{box:00}{name:02}George{br}Damn it! I let my guard down!{page}{box:00}{name:02}George{br}I was sure it was safe here!{page}{box:00}{name:02}George{br}...But why Alicia...?{clr}{box:00}{name:04}Karol{br}I don't know, but that ghost....{page}{box:00}{name:04}Karol{br}was probably... no, it must{br}have been Alighieri-san.{page}{box:00}{name:04}Karol{br}When I saved you{br}earlier, George-san,{page}{box:00}{name:04}Karol{br}the talisman I used{br}didn't work on it.{clr}{box:00}{name:02}George{br}....So the boss finally shows up...{page}{box:00}{name:04}Karol{br}Please go after her, George-san!{page}{box:00}{name:04}Karol{br}Alicia-san must have been{br}taken to the ritual room...{page}{box:00}{name:04}Karol{br}or somewhere near it!{page}{box:00}{name:02}George{br}Y... yeah... ...but...{page}{box:00}{name:02}George{br}now we know ghosts{br}show up here too,{page}{box:00}{name:02}George{br}so I can't leave you all alone...{clr}{box:00}{name:04}Karol{br}Don't worry about me.{br}With that talisman,{page}{box:00}{name:04}Karol{br}I can handle an ordinary ghost.{page}{box:00}{name:04}Karol{br}Right now I'm more{br}worried about Alicia-san.{clr}{box:00}{name:02}George{br}....... Thank you....{clr} {clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3C020"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「生と死のはざまを{br} のりこえようとして、{page}{box:00}{name:05}？？？？{br}「むくいをうけた{br} おろか者の一人じゃよ」{clr}{box:00}{name:02}ジョージ{br}「わるいがそんなのは{br} オレの知った事じゃない。{page}{box:00}{name:02}ジョージ{br}「とにかくアリシアを{br} かえしてもらおうか！{page}{box:00}{name:02}ジョージ{br}「この館から出る方法も{br} おしえてほしいけどな」{page}{box:00}{name:05}？？？？{br}「そのねがい、ともに{br} かなえられるじゃろう。{page}{box:00}{name:05}？？？？{br}「全てを知り、{br} 成すべき事を成せばな」{page}{box:00}{name:02}ジョージ{br}「ここが儀式の場だろ？{br} まだ何かあるのか？」{page}{box:00}{name:05}？？？？{br}「儀式はただのきっかけ・・{br} もんだいはその後じゃ。{page}{box:00}{name:05}？？？？{br}「たしかにわれらは{br} 儀式に失敗したが・・・{page}{box:00}{name:05}？？？？{br}「アリギエリは死の世界から{br} かえってきたんじゃよ」{page}{box:00}{name:02}ジョージ{br}「なんだって！？」{clr}{box:00}{name:05}？？？？{br}「だからこそ、われらは{br} ゴーストに成ってまでも、{page}{box:00}{name:05}？？？？{br}「館をこんなふうにして{br} まもっておるのじゃ。{page}{box:00}{name:05}？？？？{br}「ここから何者も{br} 外に出さぬようにな・・」{clr}{box:00}{name:02}ジョージ{br}「ちょっとまて！{br} どういうイミだそれは？」{clr}{box:00}{name:05}？？？？{br}「その先はおのれの力で{br} 知るがよい・・・{page}{box:00}{name:05}？？？？{br}「ほれ、そのための書も{br} くれてやろう」{clr}{box:00}{name:05}？？？？{br}「その魔道書を{br} 9冊そろえれば・・・{page}{box:00}{name:05}？？？？{br}「おぬしなら・・・{br} あるいは・・・」{clr}{box:00}{name:02}ジョージ{br}「おい！{br} 待てよ！」{clr}アラフシャムの書{br}を手にいれた！{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}Just one of the fools who tried{br}to cross the border between{page}{box:00}{name:05}????{br}life and death,{page}{box:00}{name:05}????{br}and got what he{br}deserved, I'm afraid.{clr}{box:00}{name:02}George{br}Sorry, but that's{br}none of my business.{page}{box:00}{name:02}George{br}Just give Alicia back!{page}{box:00}{name:02}George{br}And while you're at it, tell me{br}how to get out of this mansion.{page}{box:00}{name:05}????{br}Both wishes may be{br}granted, my boy.{page}{box:00}{name:05}????{br}Once you know everything{br}and do what must be done.{page}{box:00}{name:02}George{br}This is where the ritual was,{br}right? What else is there?{page}{box:00}{name:05}????{br}The ritual was merely the{br}start.. The trouble came after.{page}{box:00}{name:05}????{br}True, we failed the ritual, but...{page}{box:00}{name:05}????{br}Alighieri came back from{br}the world of the dead.{page}{box:00}{name:02}George{br}What!?{clr}{box:00}{name:05}????{br}That is precisely why{br}we, even as ghosts,{page}{box:00}{name:05}????{br}have made the mansion{br}like this to guard it.{page}{box:00}{name:05}????{br}So that no one{br}gets out of here..{clr}{box:00}{name:02}George{br}Wait a minute! What's{br}that supposed to mean?{clr}{box:00}{name:05}????{br}The rest you must learn{br}by your own strength...{page}{box:00}{name:05}????{br}Here, I'll even give{br}you the book for it.{clr}{box:00}{name:05}????{br}Gather nine of these grimoires...{page}{box:00}{name:05}????{br}and you, boy...{br}perhaps you might...{clr}{box:00}{name:02}George{br}Hey! Wait!{clr}Got the Book of Arahsham!{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3C024"
   ],
   "jp": "{box:00}{name:04}カロル{br}「・・・アリギエリさんは{br} 生きかえっていた？」{page}{box:00}{name:02}ジョージ{br}「ああ。たしかにヤツは{br} そう言った」{page}{box:00}{name:04}カロル{br}「なのに儀式は失敗で、{br} 館はこのありさま・・・{page}{box:00}{name:04}カロル{br}「いったい、どういうこと{br} なんでしょう？」{page}{box:00}{name:02}ジョージ{br}「・・・オレに{br} きかないでくれ・・・」{clr}{box:00}{name:04}カロル{br}「儀式の後に何かが{br} おきて・・・{page}{box:00}{name:04}カロル{br}「アトラハシスの仲間は{br} みんな死んでしまった・・・」{clr}{box:00}{name:02}ジョージ{br}「そしてゴーストになって{br} この館をまもっている・・・{page}{box:00}{name:02}ジョージ{br}「ってコトらしいんだが、{br} よくわからない」{page}{box:00}{name:04}カロル{br}「・・・そうですね・・・」{clr}{box:00}{name:02}ジョージ{br}「とにかく、この本を{br} 9冊そろえろってことだ。{page}{box:00}{name:02}ジョージ{br}「今までに集めたのが{br} 8冊だから、残り1冊！{page}{box:00}{name:02}ジョージ{br}「それでこの館のナゾも{br} とけるし・・・{page}{box:00}{name:02}ジョージ{br}「アリシアをつれて{br} ここから出られる！{page}{box:00}{name:02}ジョージ{br}「・・・オレは{br} そう信じることにするよ」{clr}{box:00}{name:04}カロル{br}「・・・しんぱいですか？」{page}{box:00}{name:02}ジョージ{br}「そりゃまぁ・・・ね。{br} 幼なじみだしな・・・」{page}{box:00}{name:04}カロル{br}「アリシアさんと{br} 同じですね・・・」{page}{box:00}{name:02}ジョージ{br}「え？」{page}{box:00}{name:04}カロル{br}「彼女もあなたの前では{br} つよがってましたが、{page}{box:00}{name:04}カロル{br}「あなたが館のおくに{br} 入って行くといつも・・・{page}{box:00}{name:04}カロル{br}「すごくしんぱいそうに{br} していましたよ・・・」{page}{box:00}{name:02}ジョージ{br}「・・・アリシア・・・」{clr} {clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}...Alighieri-san had{br}come back to life?{page}{box:00}{name:02}George{br}Yeah. That's definitely{br}what he said.{page}{box:00}{name:04}Karol{br}Yet the ritual failed, and the{br}mansion is in this state...{page}{box:00}{name:04}Karol{br}What on earth does it mean?{page}{box:00}{name:02}George{br}...Don't ask me...{clr}{box:00}{name:04}Karol{br}Something happened{br}after the ritual...{page}{box:00}{name:04}Karol{br}and all my friends{br}in Atrahasis died...{clr}{box:00}{name:02}George{br}And then they became ghosts{br}and are guarding this mansion...{page}{box:00}{name:02}George{br}or so it seems. I{br}don't really get it.{page}{box:00}{name:04}Karol{br}...I see...{clr}{box:00}{name:02}George{br}Anyway, it said to gather{br}nine of these books.{page}{box:00}{name:02}George{br}I've got eight so{br}far, so just one left!{page}{box:00}{name:02}George{br}Then we'll solve this{br}mansion's mystery...{page}{box:00}{name:02}George{br}and I can get out{br}of here with Alicia!{page}{box:00}{name:02}George{br}...That's what I'm{br}choosing to believe.{clr}{box:00}{name:04}Karol{br}...Are you worried?{page}{box:00}{name:02}George{br}Well... yeah. She's my{br}childhood friend...{page}{box:00}{name:04}Karol{br}Just like Alicia-san...{page}{box:00}{name:02}George{br}Huh?{page}{box:00}{name:04}Karol{br}She acted tough in front of you,{page}{box:00}{name:04}Karol{br}but every time you went{br}deeper into the mansion...{page}{box:00}{name:04}Karol{br}she looked terribly worried...{page}{box:00}{name:02}George{br}...Alicia...{clr} {clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3C028"
   ],
   "jp": " {clr}ニサンの書が{br}光っている。{page}{box:00}{name:02}ジョージ{br}「な、なんだ？{br} 魔道書が光ってる？」{clr} {clr}{box:00}{name:02}ジョージ{br}「あっ！文字が！」{page}『この書を手にする{br} 全ての者につぐ{page}『これはおどろくべき{br} 魔法の力をしるした書{page}『この書の力を{br} 全てひきだせば、{page}『永遠の命を手にする{br} こともできるだろう』{page}{box:00}{name:02}ジョージ{br}「永遠の命・・・不老不死{br} そうか・・この本が・・・{page}{box:00}{name:02}ジョージ{br}「次のページは・・・{br} ・・・！？{page}{box:00}{name:02}ジョージ{br}「・・・どこの文字だコレ？{br} ぜんぜん読めないぞ！{page}{box:00}{name:02}ジョージ{br}「・・・カロルさんなら{br} 読めるかな？」{clr}{box:00}{name:02}ジョージ{br}「うわっ！{br} ・・・なんだ！？」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}The Book of Nisan is glowing.{page}{box:00}{name:02}George{br}Wh-what? The grimoire is glowing?{clr} {clr}{box:00}{name:02}George{br}Whoa! Writing!{page}To all who hold this book:{page}This book records a magic{br}power beyond belief.{page}Draw out all of{br}this book's power,{page}and you may even{br}gain eternal life.{page}{box:00}{name:02}George{br}Eternal life... immortality.{br}I see.. So this book...{page}{box:00}{name:02}George{br}The next page is... ...!?{page}{box:00}{name:02}George{br}...What kind of writing is{br}this? I can't read it at all!{page}{box:00}{name:02}George{br}...Maybe Karol-san can read it?{clr}{box:00}{name:02}George{br}Whoa! ...What the!?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3C02C"
   ],
   "jp": " {clr}アイヤルの書が{br}光っている。{page}{box:00}{name:02}ジョージ{br}「さっきと同じだ！」{clr} {clr}{box:00}{name:02}ジョージ{br}「また文字が・・・」{page}『命あるものの世界から{br} 死の世界へ{page}『そしてふたたび{br} 命あふれる世界へ{page}『この旅を成しとげた者は{br} 永遠の命を手に入れる』{page}{box:00}{name:02}ジョージ{br}「次のページは・・・{br} ・・・と・・・{page}{box:00}{name:02}ジョージ{br}「・・・やっぱり読めない{br} ・・・{page}{box:00}{name:02}ジョージ{br}「！？」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{clr}The Book of Iyyar is glowing.{page}{box:00}{name:02}George{br}Same as before!{clr} {clr}{box:00}{name:02}George{br}More writing...{page}From the world of the living{br}to the world of death,{page}and then once more to the{br}world brimming with life.{page}Whoever completes this{br}journey shall gain eternal life.{page}{box:00}{name:02}George{br}The next page is... ...let's see...{page}{box:00}{name:02}George{br}...I still can't read it... ...{page}{box:00}{name:02}George{br}!?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3C030"
   ],
   "jp": "シマヌの書が{br}光っている。{clr}{box:00}{name:02}ジョージ{br}「またかよ！」{clr} {clr}『だが心するがよい{page}『生と死のはざまを{br} のりこえる事の{page}『おそるべきいみを』{page}{box:00}{name:02}ジョージ{br}「…不死の儀式の{br} おそるべきいみ？」{page}{box:00}{name:02}ジョージ{br}「いったい、何の{br} ことなんだ？」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "The Book of Simanu is glowing.{clr}{box:00}{name:02}George{br}Again!?{clr} {clr}But take heed of{page}the dreadful meaning{page}of crossing the border{br}between life and death.{page}{box:00}{name:02}George{br}...The dreadful meaning{br}of the immortality ritual?{page}{box:00}{name:02}George{br}What's that supposed to mean?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3C034"
   ],
   "jp": "ドゥウズの書が{br}光っている。{clr}{box:00}{name:02}ジョージ{br}「次は何だ？」{clr} {clr}『この世に生きる人間が{br} 命をとおといと思うように{page}『死の世界に足を{br} ふみ入れたモノは{page}『死こそがすばらしいと{br} 思うかもしれない』{page}{box:00}{name:02}ジョージ{br}「不死への旅が、{br} 人を変えちまうコトも」{page}{box:00}{name:02}ジョージ{br}「あるのかもな・・・」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "The Book of Duuzu is glowing.{clr}{box:00}{name:02}George{br}What now?{clr} {clr}Just as the living{br}hold life precious,{page}one who has set foot{br}in the world of death{page}may come to think{br}death is wonderful.{page}{box:00}{name:02}George{br}So the journey to immortality{page}{box:00}{name:02}George{br}might change a person...{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3C038"
   ],
   "jp": "アブの書が{br}光っている。{clr} {clr}『死にとらわれたものは{br} 死のつかいとなるだろう{page}『彼は死の力とともに{br} この世にたちもどり{page}『すべての命に死のめぐみを{br} あたえようとするだろう』{clr}{box:00}{name:02}ジョージ{br}「死にとらわれたもの・・・{br} 不老不死のヤツ？」{page}{box:00}{name:02}ジョージ{br}「不老不死のヤロウが{br} 死のつかいになる？」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "The Book of Abu is glowing.{clr} {clr}One seized by death shall{br}become a messenger of death.{page}He shall return to this world{br}with the power of death,{page}and seek to grant the{br}blessing of death to all life.{clr}{box:00}{name:02}George{br}Seized by death...{br}the immortal one?{page}{box:00}{name:02}George{br}The immortal guy becomes{br}a messenger of death?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
