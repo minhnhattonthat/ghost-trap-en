@@ -464,7 +464,7 @@
    "40684"
   ],
   "jp": "{box:01}テーブルの上に{br}メモをみつけた。{page}{box:01}『マインのワナの{br} ダメージ小は{page}{box:01}『マッチとナイフで{br} つくりだせる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}I found a note on the table.{page}{box:01}\"A mine trap with low damage{page}{box:01}\"can be made from{br}matches and a knife.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}I found a note on the table.{page}{box:01}\"A mine trap with low damage{page}{box:01}\"can be made from{br}Matches and a Knife.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },

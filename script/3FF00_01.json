@@ -267,7 +267,7 @@
    "40094"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『じゅうじボタンで{br} ふりほどくか、{page}{box:01}『エルダーのえだを{br} そうびすべし』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"shake them off with{br}the +Control Pad,{page}{box:01}\"or equip an Elder Branch.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"shake them off with{br}the Control Pad,{page}{box:01}\"or equip an Elder Branch.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
   "status": "done",
   "notes": ""
  },

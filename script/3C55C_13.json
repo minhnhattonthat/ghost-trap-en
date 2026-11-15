@@ -954,7 +954,7 @@
    "3F448"
   ],
   "jp": "{box:01}やけ残った{br}メモがある。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに{page}{box:01}『きよめたナイフに{br} 黒いランプ。{page}{box:01}『さらにそれを{br} 白のランプに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}There's a half-burnt note.{page}{box:01}\"Holy Water on a knife{br}makes a Purified Knife,{page}{box:01}\"a Purified Knife{br}with a Black Lamp,{page}{box:01}\"and that, in turn,{br}into a White Lamp.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}There's a half-burnt note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife,{page}{box:01}\"a Purified Knife{br}with a Black Lamp,{page}{box:01}\"then combine that{br}with a White Lamp.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },

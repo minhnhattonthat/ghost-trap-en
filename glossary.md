@@ -111,7 +111,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   Karol is the villain. ダメだこりゃ (post-credits running gag) -> "He's hopeless..." / "Hopeless...".
 - {box:01} field notes the player reads: each page opens with `"`, the last closes it.
 - Stock field lines: 絵が かざられている -> "A painting ... is on display."; ガラクタ -> junk; そだいゴミ -> bulky trash;
-  げんかんホール -> Entrance Hall; スタートボタン -> START Button; Aボタン -> A Button; じゅうじボタン -> +Control Pad.
+  げんかんホール -> Entrance Hall; スタートボタン -> START Button; Aボタン -> A Button; じゅうじボタン -> Control Pad (no `+`: the font has no plus sign; changed 2026-11-15 when the build refused it).
 - Item names (table 41F18, first line of each help string) are capitalised wherever field notes mention them
   ("a Purified Knife", "Holy Water"); transceiver stays lower-case (glossary row). Item help lines: `Damage: low/mid/
   high/huge`, `Defense: ...`, `Restores HP: low/mid/high`, `Critical Low/Mid/High`.

@@ -55,7 +55,7 @@
    "3C32C"
   ],
   "jp": "{box:00}{name:04}カロル{br}「すみません、{br} ジョージさん…{page}{box:00}{name:04}カロル{br}「本当なら私が{br} やるべき事なのに…{page}{box:00}{name:04}カロル{br}「むしのいい{br} おねがいですが、{page}{box:00}{name:04}カロル{br}「私のむかしの{br} 仲間たちを…{page}{box:00}{name:04}カロル{br}「アリギエリさんを{br} すくってください！{page}{box:00}{name:04}カロル{br}「そして{br} アリシアさんを…」{page}{end}",
-  "en": "{box:00}{name:04}Karol{br}I'm sorry, George-san...{page}{box:00}{name:04}Karol{br}This should really be my job...{page}{box:00}{name:04}Karol{br}I know it's selfish to ask, but...{page}{box:00}{name:04}Karol{br}my old friends...{page}{box:00}{name:04}Karol{br}and Mr. Alighieri...{br}please save them!{page}{box:00}{name:04}Karol{br}And Alicia-san, too...{page}{end}",
+  "en": "{box:00}{name:04}Karol{br}I'm sorry, George-san...{page}{box:00}{name:04}Karol{br}This should really be my job...{page}{box:00}{name:04}Karol{br}I know it's selfish to ask, but...{page}{box:00}{name:04}Karol{br}my old friends...{page}{box:00}{name:04}Karol{br}and Alighieri-san...{br}please save them!{page}{box:00}{name:04}Karol{br}And Alicia-san, too...{page}{end}",
   "status": "done",
   "notes": ""
  },

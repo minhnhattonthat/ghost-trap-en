@@ -41,4 +41,12 @@ Cutscene strings (scene table, `tools/debug/scripts.tsv` scripts 0-38) in story 
   @B = the old じゃ ghost; Reaper @R thanks the player); Karol pines for Shinfa ("You creep!"). Hints: Crystal on
   BOOK4 FLOOR2/5, Ether Armor via COMBINE with an N Unit (BOOK8 FLOOR3/7).
 - Tutorial/field ghost lines: 126394-12712C (crest-room guardians), 104908 a ghost names itself Gregori.
-- Names still to place: Angelica.
+- Field clues (b006-b024): notes all over the house give COMBINE recipes and hints. Story notes: the Atrahasis
+  diary ("the day of the ritual is set", 115D00/115EE8/105E14), Alighieri's secretary's unfinished letter doubting
+  eternal life (11C024/106110), Alighieri's letter "Karol is terribly frightened" (1267E8), Karol's own note that he
+  will run from the ritual (12302C), and Shinfa's note fearing Karol will flee (123CF4: George's first sight of
+  the name Shinfa). Crest room: the じゃ ghost (@Q, Albino) tests George (10CA38/1065E0); the crest guardians cry
+  "How foolish!" (10C6F4). The ghost Gregori (11F694) can only say its name. Puzzles: wine into the floor mouths,
+  billiards 9-Ball, VCR tape showing the bookshelf switch, mirror for Alighieri's portrait, floor switch order,
+  clock running backward, rail rooms moved by switch-room machines.
+- Angelica is an herb (item), not a person.

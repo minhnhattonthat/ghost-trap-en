@@ -265,7 +265,7 @@
    "3DFAC"
   ],
   "jp": "{box:01}ほこりの高い{br}あぶら絵だ。{page}{end}",
-  "en": "{box:01}A very dusty oil painting.{page}{end}",
+  "en": "{box:01}An oil painting, proudly{br}gathering dust.{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -631,7 +631,7 @@
    "3E120"
   ],
   "jp": "{box:01}チェストの中に{br}ノートがあった。{page}{box:00}{name:02}ジョージ{br}「なんだこれ？{br} 読んでみるか…」{page}{box:01}『もし、ゴーストに{br} つかまってしまい、{page}{box:01}『ひょういされたら、{br} じゅうじボタンで{page}{box:01}『ゴーストを早く{br} ふりはらえる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}There was a notebook{br}in the chest.{page}{box:00}{name:02}George{br}What's this? Guess I'll read it...{page}{box:01}\"If a ghost catches you{page}{box:01}\"and possesses you,{br}use the +Control Pad{page}{box:01}\"to shake the{br}ghost off faster.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}There was a notebook{br}in the chest.{page}{box:00}{name:02}George{br}What's this? Guess I'll read it...{page}{box:01}\"If a ghost catches you{page}{box:01}\"and possesses you,{br}use the Control Pad{page}{box:01}\"to shake the{br}ghost off faster.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -770,7 +770,7 @@
    "3E144"
   ],
   "jp": "{box:01}チェストにメモが{br}残っていた。{page}{box:01}『ナイフとマッチで{br} ばくはつだ』{page}{box:00}{name:02}ジョージ{br}「なんだそりゃ？」{page}{end}",
-  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Knife plus matches: kaboom.\"{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{end}",
+  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Knife plus Matches: kaboom.\"{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -366,7 +366,7 @@
    "41254"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あぶら絵を{br} ぼんやりながめて、{page}{box:00}{name:02}ジョージ{br}「あぶらをうってる{br} ヒマはないぞ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}I've got no time to stand around{page}{box:00}{name:02}George{br}gawking at oil paintings!{page}{end}",
+  "en": "{box:00}{name:02}George{br}No standing around{br}gawking at oil paintings!{page}{box:00}{name:02}George{br}That's how you get{br}painted into a corner!{page}{end}",
   "status": "done",
   "notes": ""
  },

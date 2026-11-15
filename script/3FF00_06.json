@@ -270,7 +270,7 @@
    "40C4C"
   ],
   "jp": "{box:01}絵にメモが{br}はさんであった。{page}{box:01}『ナイフとマッチを{br} くみあわせて…』{page}{box:01}その先は{br}読めなかった。{page}{box:00}{name:02}ジョージ{br}「ふむ…。」{page}{end}",
-  "en": "{box:01}A note was tucked{br}into the painting.{page}{box:01}\"Combine a knife and matches...\"{page}{box:01}I couldn't read the rest.{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}A note was tucked{br}into the painting.{page}{box:01}\"Combine a Knife and Matches...\"{page}{box:01}I couldn't read the rest.{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },

@@ -185,7 +185,7 @@
    "41F60"
   ],
   "jp": "じゅうじボタンで{br}魔道書きりかえ。{clr}{end}",
-  "en": "+Control Pad:{br}switch grimoire.{clr}{end}",
+  "en": "Control Pad:{br}switch grimoire.{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -195,7 +195,7 @@
    "41F64"
   ],
   "jp": "魔道書を{br}もちません。{br}BOOK＃00へ{clr}{end}",
-  "en": "You have no{br}grimoire.{br}To BOOK#00{clr}{end}",
+  "en": "Hold no{br}grimoire.{br}To BOOK#00{clr}{end}",
   "status": "done",
   "notes": ""
  },

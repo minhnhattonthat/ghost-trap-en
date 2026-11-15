@@ -794,7 +794,7 @@
    "3DD68"
   ],
   "jp": "{box:01}絵が床に{br}置かれたままだ。{page}{box:01}絵と床の間に{br}紙きれがある。{page}{box:01}どうやらメモの{br}ようだ。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに…{page}{box:01}『エルダーのえだに{br} きよめたナイフを…』{page}{box:00}{name:02}ジョージ{br}「霊水って、{br} もってたっけ？」{page}{end}",
-  "en": "{box:01}A painting left{br}sitting on the floor.{page}{box:01}There's a scrap{br}of paper under it.{page}{box:01}Looks like some kind of note.{page}{box:01}\"Holy Water on a knife{br}makes a Purified Knife...{page}{box:01}\"A Purified Knife on{br}an Elder Branch...\"{page}{box:00}{name:02}George{br}Holy Water... do I have any?{page}{end}",
+  "en": "{box:01}A painting left{br}sitting on the floor.{page}{box:01}There's a scrap{br}of paper under it.{page}{box:01}Looks like some kind of note.{page}{box:01}\"Holy Water on a Knife{br}makes a Purified Knife...{page}{box:01}\"A Purified Knife on{br}an Elder Branch...\"{page}{box:00}{name:02}George{br}Holy Water... do I have any?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -929,7 +929,7 @@
    "3DEC8"
   ],
   "jp": "{box:01}ねんだいモノの{br}絵のようだ。{page}{box:00}{name:02}ジョージ{br}「なんだろう…？{br} これ」{page}{box:01}絵のわきに何か、{br}書かれている。{page}{box:01}『ナイフとマッチ、{br} それにオイル…{page}{box:01}『そこからさらに{br} イオウのこなだ』{page}{end}",
-  "en": "{box:01}Looks like a painting{br}with some age on it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}Something's written{br}beside the painting.{page}{box:01}\"A knife and matches, plus oil...{page}{box:01}\"and from there,{br}Sulfur Powder.\"{page}{end}",
+  "en": "{box:01}Looks like a painting{br}with some age on it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}Something's written{br}beside the painting.{page}{box:01}\"A Knife and Matches, plus Oil...{page}{box:01}\"then add{br}Sulfur Powder.\"{page}{end}",
   "status": "done",
   "notes": ""
  },

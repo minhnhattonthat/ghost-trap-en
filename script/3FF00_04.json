@@ -120,7 +120,7 @@
    "407E0"
   ],
   "jp": "{box:01}紙きれを{br}みつけた。{page}{box:00}{name:02}ジョージ{br}「あ、なんか{br} 書いてあるな…」{page}{box:01}『さいこうのぶきは{br} 聖者の石と。{page}{box:01}『聖者の石には{br} エリクシールが。{page}{box:01}『エリクシールには{br} Nリキッドが』{page}{end}",
-  "en": "{box:01}I found a scrap of paper.{page}{box:00}{name:02}George{br}Oh, something's written on it...{page}{box:01}\"The finest weapon comes{br}with the Saint's Stone.{page}{box:01}\"For the Saint's Stone, an Elixir.{page}{box:01}\"For an Elixir, N Liquid.\"{page}{end}",
+  "en": "{box:01}I found a scrap of paper.{page}{box:00}{name:02}George{br}Oh, something's written on it...{page}{box:01}\"For the finest weapon,{br}the Saint's Stone.{page}{box:01}\"For the Saint's Stone, an Elixir.{page}{box:01}\"For an Elixir, N Liquid.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -513,7 +513,7 @@
    "408EC"
   ],
   "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ゴーストに{br} ひょういされたら{page}{box:01}『じゅうじボタンで{br} ふりほどけるが、{page}{box:01}『さらにひょういを{br} みじかくするには{page}{box:01}『アミュレットが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "{box:01}The plaster is{br}peeling off the wall.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"If a ghost possesses you,{page}{box:01}\"you can shake it off{br}with the +Control Pad,{page}{box:01}\"but to shorten{br}possession further,{page}{box:01}\"an Amulet is effective.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "en": "{box:01}The plaster is{br}peeling off the wall.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"If a ghost possesses you,{page}{box:01}\"you can shake it off{br}with the Control Pad,{page}{box:01}\"but to shorten{br}possession further,{page}{box:01}\"an Amulet is effective.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
   "status": "done",
   "notes": ""
  },

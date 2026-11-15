@@ -145,7 +145,7 @@
    "3E6B4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whose painting is this, anyway?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who's this a painting of, anyway?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -265,7 +265,7 @@
    "41DF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Whose painting is this, anyway?{page}{end}",
+  "en": "{box:00}{name:02}George{br}Who's this a painting of, anyway?{page}{end}",
   "status": "done",
   "notes": ""
  },

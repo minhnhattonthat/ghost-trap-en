@@ -117,7 +117,7 @@
    "3EAB0"
   ],
   "jp": "{box:01}床にナイフが{br}ささっている。{page}{box:01}ゴーストセンサーに{br}はんのうし、{page}{box:01}ナイフがあやしく{br}光りだした！{page}{box:00}{name:02}ジョージ{br}「あのナイフは{br} なんだろう？{page}{box:00}{name:02}ジョージ{br}「オレのセンサーに{br} はんのうしてる…{page}{box:00}{name:02}ジョージ{br}「さわらない方が{br} いいかな…？」{page}{end}",
-  "en": "{box:01}A knife is stuck in the floor.{page}{box:01}It's setting off{br}the Ghost Sensor,{page}{box:01}and the knife starts{br}to glow eerily!{page}{box:00}{name:02}George{br}What's with that knife?{page}{box:00}{name:02}George{br}It's setting off my sensor...{page}{box:00}{name:02}George{br}Maybe I'd better not touch it...?{page}{end}",
+  "en": "{box:01}A knife is stuck in the floor.{page}{box:01}Reacting to{br}the Ghost Sensor,{page}{box:01}the knife starts{br}to glow eerily!{page}{box:00}{name:02}George{br}What's with that knife?{page}{box:00}{name:02}George{br}It's reacting to my sensor...{page}{box:00}{name:02}George{br}Maybe I'd better not touch it...?{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -224,7 +224,7 @@
    "3EAF4"
   ],
   "jp": "{box:01}くずれたかべだ。{page}{box:01}かべのすきまに{br}メモがあった。{page}{box:01}『ナイフとマッチで{br} バクハツだ』{page}{end}",
-  "en": "{box:01}A crumbled wall.{page}{box:01}There was a note in{br}a crack in the wall.{page}{box:01}\"Knife plus matches: kaboom.\"{page}{end}",
+  "en": "{box:01}A crumbled wall.{page}{box:01}There was a note in{br}a crack in the wall.{page}{box:01}\"Knife plus Matches: kaboom.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -279,7 +279,7 @@
    "3EB14"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{box:01}ガラクタの中に{br}メモを見つけた。{page}{box:01}『ゴーストマインに{br} オイルをそそげ』{page}{end}",
-  "en": "{box:01}Part of the wall has collapsed.{page}{box:01}I found a note among the junk.{page}{box:01}\"Pour oil on a Ghost Mine.\"{page}{end}",
+  "en": "{box:01}Part of the wall has collapsed.{page}{box:01}I found a note among the junk.{page}{box:01}\"Pour Oil on a Ghost Mine.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -311,7 +311,7 @@
    "3EB34"
   ],
   "jp": "{box:01}くずれたかべの{br}すきまに{page}{box:01}メモがはさんで{br}あった。{page}{box:01}『ナイフを霊水で{br} きよめよ』{page}{end}",
-  "en": "{box:01}Wedged in a crack{page}{box:01}of the crumbled wall was a note.{page}{box:01}\"Purify the knife{br}with Holy Water.\"{page}{end}",
+  "en": "{box:01}Wedged in a crack{page}{box:01}of the crumbled wall was a note.{page}{box:01}\"Purify the Knife{br}with Holy Water.\"{page}{end}",
   "status": "done",
   "notes": ""
  },

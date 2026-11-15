@@ -272,7 +272,7 @@
    "414D0"
   ],
   "jp": "{box:01}でんきのパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「スイッチで{br} かくしとびらが！{page}{box:00}{name:02}ジョージ{br}「…ひらいたり{br} しないかな…」{page}{end}",
-  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}Flip a switch, and{br}a secret door...!{page}{box:00}{name:02}George{br}...Won't open, huh...{page}{end}",
+  "en": "{box:01}There's an electrical panel.{page}{box:00}{name:02}George{br}Flip a switch, and{br}a secret door...!{page}{box:00}{name:02}George{br}...Think one might open...?{page}{end}",
   "status": "done",
   "notes": ""
  },

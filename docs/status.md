@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress (b001-b005 and b025-b031 merged, 19 batches to go: b006-b024). Last builds: 2026-11-15,
+- **Phase:** 7. Insert, fit, check: next (phase 6 done 2026-11-15: all 31 batches merged, 3183 strings `done` + 9
+  `data`, review clean). Last builds: 2026-11-15,
   `build/ghost_trap_en.gba` with b025 only, sha1 `0176c388…`, script_001 checked in-game; `build/marker.gba` (`build.py --marker`)
   sha1 `0f58afea14d823a0ac7f944525888ca85ec1876e`, 0x870000 bytes, smoke ok.
 - **Done:**
@@ -50,13 +51,22 @@ Updated at the end of every session. Keep it to what the next session needs; his
     with no translation yet, in-batch repeats dropped), translate those into `work/tl/bNNN.new` (same out.tsv
     format), `prefill.py --assemble bNNN` (prefill + .new + in-batch repeats -> bNNN.out.tsv), `check`, `merge`.
     Near-identical JP (違う/ちがう) is not matched: reuse the earlier English by hand.
-- **Next (phase 6 done-when):** translate b006-b024 (field text 3C55C/3FF00, items 41F18, menus) with
-  `docs/translator-brief.md` and the prefill flow above; `batches.py check` OK + merge per batch; commit after each
-  few batches. Plugin translator/reviewer agent types are NOT available in
-  this harness (and the Orca brief forbids helpers): translate in the main thread, review yourself in a fresh
-  read-only pass at the end (pairs file, Critical/Important fixed, Minors -> `docs/polish.md`). If `work/tl/` is
-  missing (fresh clone), `batches.py split` regenerates batches for untranslated ids only. The extra `{page}` in a
-  box run is used by wrap.py; confirm in-game on a long dialogue during phase 8.
+  - Phase 6 finished (2026-11-15): b006-b024 translated in the main thread (items/menus b023 first so names were
+    fixed before field notes used them; item names + stat-line wording in `glossary.md`). Review: `codex exec`
+    read-only over 4 pairs files (`work/qa/review/run.sh`, reports in `docs/review/`): 3 Critical + ~20 Important,
+    all fixed directly in `script/*.json` (knife "reacting to" the sensor, bust not mirror stand, item-name
+    capitals Knife/Matches/Oil/Black Stone, Alighieri-san x2, Talisman line 1090C8, puns 100E6C/1233C8/11DB88,
+    BOOK1 location, Encyclopedia, BOOK#00 help); re-review of the fixed ids: "No Critical/Important issues".
+    30 Minors in `docs/polish.md` (release blocks until ticked). Note: after hand edits in `script/`,
+    `batches.py merge` refuses to overwrite them (good); edit JSON directly for later fixes (quotes are `\"`).
+  - First all-English build (2026-11-15): `build/ghost_trap_en.gba` sha1 `63591450c2f9150cc7139ec57b6321ed19f71312`,
+    3183 strings, romdiff identical outside allowed ranges. It first failed on `+` (not in the font; "+Control
+    Pad" -> "Control Pad" in 5 strings + glossary). Gap: `batches.py check`/lint don't test encodability against
+    `tbl/en.tbl`; add that test in phase 7.
+- **Next (phase 7 done-when):** build green: `python -X utf8 tools/build.py` with all English, width/overflow lint
+  clean, control codes matched, `romdiff.py` no writes outside `tools/allowed_ranges.txt`; smoke boot. Then phase 8
+  in-game QA (warp `--all`, visual QA; the extra `{page}` wrap.py adds in a box run: confirm on a long dialogue).
+  b024 is an older duplicate script (alternate field/cutscene lines); check in phase 8 whether the game reads it.
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).

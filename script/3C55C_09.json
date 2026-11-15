@@ -15,7 +15,7 @@
    "3E178"
   ],
   "jp": "{box:01}ナイフでほられた{br}文字があった。{page}{box:01}『タリスマンという{br} ゴーストぶきは、{page}{box:01}『BOOK1のハコ{br} が出る部屋に…』{page}{end}",
-  "en": "{box:01}Letters were{br}carved with a knife.{page}{box:01}\"The ghost weapon{br}called the Talisman{page}{box:01}\"is in the room where the{br}BOOK1 box appears...\"{page}{end}",
+  "en": "{box:01}Letters were{br}carved with a knife.{page}{box:01}\"The ghost weapon{br}called the Talisman{page}{box:01}\"is in BOOK1, in the room{br}where a box appears...\"{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -259,7 +259,7 @@
    "3E288"
   ],
   "jp": "{box:01}きょうぞうが{br}のっている。{page}{end}",
-  "en": "{box:01}A mirror stand sits on top.{page}{end}",
+  "en": "{box:01}A bust sits on top.{page}{end}",
   "status": "done",
   "notes": ""
  },
