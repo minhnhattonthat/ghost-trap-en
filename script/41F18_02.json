@@ -5,8 +5,8 @@
    "42300"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「だめだ…{br} あかないな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「みっつの口に{br} キフ…ね…」{page}{box:00}{name:02}ジョージ{br}「ぜんぶのあなに{br} きふワインか…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No good... it won't open...{page}{box:01}\"Into the three mouths,{br}your offering...\"{page}{box:00}{name:02}George{br}An offering into{br}three mouths... huh...{page}{box:00}{name:02}George{br}Dessert Wine in{br}every hole, then...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "42304"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは…！？」{page}{box:00}{name:02}ジョージ{br}「魔法のもんしょう{br} みたいだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is...?!{page}{box:00}{name:02}George{br}Looks like a magic crest...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "42308"
   ],
   "jp": "{box:01}テレビがある。{page}{box:00}{name:02}ジョージ{br}「うつるのか？{br} これ・・・」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV.{page}{box:00}{name:02}George{br}Does this thing even work...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "4230C"
   ],
   "jp": "{box:01}ビデオデッキがある。{page}{box:00}{name:02}ジョージ{br}「まだつかえそうだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a VCR.{page}{box:00}{name:02}George{br}This still looks like it works.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "42310"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「お・・・うつった！{page}{box:00}{name:02}ジョージ{br}「これは・・・テープを{br} 見つけたへやだ・・・」{page}{box:01}ビデオにうつった{br}人物は{page}{box:01}本だなの{br}はしのところで{page}{box:01}なにかごそごそ{br}している{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・{br} なにやってんだ？{page}{box:00}{name:02}ジョージ{br}「・・・そうか！{br} 本だなにしかけが！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Oh... there's a picture!{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}The person in the video{page}{box:01}is at the end of the bookshelf,{page}{box:01}fumbling around with something.{page}{box:00}{name:02}George{br}........ What's he doing?{page}{box:00}{name:02}George{br}...I get it! The bookshelf{br}has a trick to it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "42314"
   ],
   "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}一冊手にとって{br}ひらいてみた。{page}{box:00}{name:02}ジョージ{br}「これは・・・{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな・・・」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Lots of difficult-looking{br}books are lined up.{page}{box:01}I picked one up and opened it.{page}{box:00}{name:02}George{br}Is this... Greek?{page}{box:00}{name:02}George{br}I can't read this...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "42318"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「んー・・・{br} たしかこのへんに・・・{page}{box:00}{name:02}ジョージ{br}「・・・あった！」{page}{box:01}本のおくになにかの{br}スイッチがあった。{page}{box:01}おしてみると{br}とおくから{page}{box:01}ちいさな音が{br}きこえた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Hmm... I'm pretty sure{br}it was around here...{page}{box:00}{name:02}George{br}...Found it!{page}{box:01}Behind the books was{br}some kind of switch.{page}{box:01}When I pressed it, from far away{page}{box:01}came a faint sound.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "4231C"
   ],
   "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}一冊手にとって{br}ひらいてみた。{page}{box:00}{name:02}ジョージ{br}「これはイタリア語・・{br} いや、ラテン語か？{page}{box:00}{name:02}ジョージ{br}「・・・読めないことに{br} かわりはないけどな。{page}{box:00}{name:02}ジョージ{br}「でもあちこちに{br} のってる図形は・・{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルトの{br} かんけいだろうな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Lots of difficult-looking{br}books are lined up.{page}{box:01}I picked one up and opened it.{page}{box:00}{name:02}George{br}Is this Italian... no, Latin?{page}{box:00}{name:02}George{br}...Either way, I can't read it.{page}{box:00}{name:02}George{br}But the diagrams all over it...{page}{box:00}{name:02}George{br}have got to be occult stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "42320"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここにもしかけが{br} あるんじゃないか？{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・{br} おっ、やっぱり！」{page}{box:00}{name:02}ジョージ{br}「これでよし・・・と」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Isn't there a trick here too?{page}{box:00}{name:02}George{br}........ Oh, there it is!{page}{box:00}{name:02}George{br}There... all set.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "42324"
   ],
   "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}はしの方の一冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは・・・日記？{page}{box:00}{name:02}ジョージ{br}「・・・おおっと、{br} 英語じゃないか！{page}{box:00}{name:02}ジョージ{br}「わるいけど{br} 読ませてもらうよ・・{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・・」{page}{box:01}「ついに儀式の日が{br} 決まった。{page}{box:01}「アリギエリさまの{br} 魔法システムに{page}{box:01}「われらと書の魔力が{br} あわされば、{page}{box:01}「儀式はかならず{br} 成功する！{page}{box:01}「アトラハシスの{br} 長年の目的が、{page}{box:01}「はたされる時が{br} 来たのだ！」{page}{box:00}{name:02}ジョージ{br}「・・・・・・{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わからないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじか・・・」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Lots of difficult-looking{br}books are lined up.{page}{box:01}One book at the{br}end catches my eye.{page}{box:00}{name:02}George{br}Is this... a diary?{page}{box:00}{name:02}George{br}...Whoa, it's in English!{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read it...{page}{box:00}{name:02}George{br}.........{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}books' magic are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{box:00}{name:02}George{br}......{page}{box:00}{name:02}George{br}If I can read it but{br}not understand it,{page}{box:00}{name:02}George{br}that's the same{br}as not reading it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "42328"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「さて、もしかすると{br} ここにも・・・・・{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・・{br} やっぱりな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Now, maybe there's{br}one here too...{page}{box:00}{name:02}George{br}......... Knew it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "4232C"
   ],
   "jp": "{box:01}だれかの日記がある。{page}{box:01}「ついに儀式の日が{br} 決まった。{page}{box:01}「アリギエリさまの{br} 魔法システムに{page}{box:01}「われらと書の魔力が{br} あわされば、{page}{box:01}「儀式はかならず{br} 成功する！{page}{box:01}「アトラハシスの{br} 長年の目的が、{page}{box:01}「はたされる時が{br} 来たのだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's someone's diary.{page}{box:01}\"At last, the day{br}of the ritual is set.{page}{box:01}\"When we and the{br}books' magic are joined{page}{box:01}\"to Master Alighieri's{br}magic system,{page}{box:01}\"the ritual is sure to succeed!{page}{box:01}\"The long-held goal of Atrahasis{page}{box:01}\"is at last about{br}to be fulfilled!\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "42330"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「立ちされ！{br} 立ちされ！{page}{box:00}{name:05}？？？？{br}「これより先へは{br} 行かせぬぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}Begone! Begone!{page}{box:00}{name:05}????{br}You shall go no further!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "42334"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「おろかな・・・{page}{box:00}{name:05}？？？？{br}「すすめば{br} きさまらにこそ・・・{page}{box:00}{name:05}？？？？{br}「おおいなる・・・{br} わざわいが・・・」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}Fool...{page}{box:00}{name:05}????{br}Go on, and upon you...{page}{box:00}{name:05}????{br}a great... calamity...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "42338"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おおいなる…{br} わざわい？？？」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A great... calamity???{page}{box:00}{name:02}George{br}...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "4233C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは・・・{br} どこかのカギ？」{page}{box:01}エサギラのカギ{br}を手にいれた！{page}{box:00}{name:02}ジョージ{br}「ん？ この下のは・・{br} 書きかけの手紙？{page}{box:00}{name:02}ジョージ{br}「・・・英語だな。{br} 読んでみるか」{page}{box:01}・・・・・{page}{box:01}「私はおそろしい{page}{box:01}「たしかにだんな様も{br} ほかのかたがたも{page}{box:01}「すばらしい力を{br} おもちだが・・・{page}{box:01}「本当に手に入るの{br} だろうか？{page}{box:01}「永遠の命、などと{br} いうものが・・・」{page}{box:00}{name:02}ジョージ{br}「・・・・・・{br} 永遠の命！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this... a key to somewhere?{page}{box:01}Got the Esagila Key!{page}{box:00}{name:02}George{br}Hm? What's under it...{br}an unfinished letter?{page}{box:00}{name:02}George{br}...It's in English. Let's read it.{page}{box:01}.....{page}{box:01}\"I am frightened.{page}{box:01}\"Certainly the master{br}and the others{page}{box:01}\"possess wonderful power, but...{page}{box:01}\"can it truly be obtained?{page}{box:01}\"Such a thing as eternal life...\"{page}{box:00}{name:02}George{br}...... Eternal life?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "42340"
   ],
   "jp": "{box:01}下になにか{br}書いてある。{page}{box:01}「3次元はまやかし{page}{box:01}「2次元こそが{br} まことのすがた{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Something's written underneath.{page}{box:01}\"Three dimensions{br}are an illusion.{page}{box:01}\"Two dimensions{br}are the true form.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "42344"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このカオ、写真で{br} 見たことがある。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんだ。{page}{box:00}{name:02}ジョージ{br}「・・・もしかしたら{br} あの儀式・・・{page}{box:00}{name:02}ジョージ{br}「ここでやったんじゃ{br} ないのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've seen this face in photos.{page}{box:00}{name:02}George{br}It's Alighieri-san.{page}{box:00}{name:02}George{br}...Maybe that ritual...{page}{box:00}{name:02}George{br}was held right here?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "42348"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは！魔法の{br} もんしょう！？」{page}{box:00}{name:02}ジョージ{br}「じゃあここで{br} 儀式が…？」{page}{box:00}{name:05}？？？？{br}「違うな」{page}{box:00}{name:02}ジョージ{br}「！？{br} 誰だ！」{page}{box:00}{name:05}？？？？{br}「うぬこそ{br} なにものよ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is...! A magic crest?!{page}{box:00}{name:02}George{br}So the ritual was held here...?{page}{box:00}{name:05}????{br}Wrong.{page}{box:00}{name:02}George{br}?! Who's there!{page}{box:00}{name:05}????{br}Who might YOU be...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "4234C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:05}？？？？{br}「何をどこまで{br} 知っておる？」{page}{box:00}{name:05}？？？？{br}「何ゆえ、{br} 魔道書を集める？」{page}{box:00}{name:02}ジョージ{br}「あ…お…{br} オ、オレは…」{page}{box:00}{name:05}？？？？{br}「…まあよい」{page}{box:00}{name:05}？？？？{br}「見のがすわけには{br} ゆかぬからな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}?!{page}{box:00}{name:05}????{br}What do you know, and how much?{page}{box:00}{name:05}????{br}Why do you gather{br}the grimoires?{page}{box:00}{name:02}George{br}Uh... I... I-I'm...{page}{box:00}{name:05}????{br}...Very well.{page}{box:00}{name:05}????{br}I cannot let you go, after all...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "42350"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「おろかしや！{br} おろかしや！」{page}{box:00}{name:05}？？？？{br}「われらの過ちを{br} ときはなつのか？」{page}{box:00}{name:05}？？？？{br}「生と死のはざまを{br} のりこえる事など」{page}{box:00}{name:05}？？？？{br}「人に過ぎぬ者には{br} ゆるされぬ！」{page}{box:00}{name:05}？？？？{br}「むりにこえようと{br} したばかりに…」{page}{box:00}{name:05}？？？？{br}「われらは…{br} この様な…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}How foolish! How foolish!{page}{box:00}{name:05}????{br}Would you set loose our mistake?{page}{box:00}{name:05}????{br}To cross the line{br}between life and death{page}{box:00}{name:05}????{br}is not permitted to mere humans!{page}{box:00}{name:05}????{br}Because we tried to{br}force our way across...{page}{box:00}{name:05}????{br}we have become... like this...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "42354"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「生と死のはざま？{br} のりこえる？」{page}{box:00}{name:02}ジョージ{br}「なんのはなしだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The line between life{br}and death? Cross it?{page}{box:00}{name:02}George{br}What are you talking about?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "42358"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「待って下さい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}Please wait!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "4235C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは…今までの{br} もんしょうと…」{page}{box:00}{name:02}ジョージ{br}「ちょっとちがう…{br} …そうか！！」{page}{box:00}{name:02}ジョージ{br}「ここで儀式を{br} やったんだ！」{page}{box:00}{name:05}？？？？{br}「…そのとおり」{page}{box:00}{name:02}ジョージ{br}「誰だ！？」{page}{box:00}{name:05}？？？？{br}「ゴーストでもない{br} ただの人間が…」{page}{box:00}{name:05}？？？？{br}「こんな所まで{br} やって来るとは…」{page}{box:00}{name:05}？？？？{br}「いやはや、{br} おそれいったぞ」{page}{box:00}{name:02}ジョージ{br}「…んじゃあ{br} ごほうびとして…」{page}{box:00}{name:05}？？？？{br}「まぁ、そう{br} あわてるでない」{page}{box:00}{name:05}？？？？{br}「人間よ。今少し、{br} たしかめようぞ！」{page}{box:00}{name:02}ジョージ{br}「アリシアかえして{br} 館から出させろ！」{page}{box:00}{name:05}？？？？{br}「このたたかいを{br} わるく思うな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is... a little{br}different from...{page}{box:00}{name:02}George{br}the other crests{br}so far... I get it!!{page}{box:00}{name:02}George{br}This is where they{br}held the ritual!{page}{box:00}{name:05}????{br}...Exactly so.{page}{box:00}{name:02}George{br}Who's there?!{page}{box:00}{name:05}????{br}A mere human, not even a ghost...{page}{box:00}{name:05}????{br}coming all the way here...{page}{box:00}{name:05}????{br}My, my, I'm impressed.{page}{box:00}{name:02}George{br}...Then how about a reward...{page}{box:00}{name:05}????{br}Now, now, don't be hasty.{page}{box:00}{name:05}????{br}Human. Let me test{br}you a little further!{page}{box:00}{name:02}George{br}Give Alicia back and let{br}us out of this house!{page}{box:00}{name:05}????{br}Don't take this{br}fight personally...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "42360"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「いや、おみごと！{br} たいしたもんじゃ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}Well, well, splendid! Quite{br}something, my boy!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "42364"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリギエリ！？{br} …じゃないな。」{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}「このさい、名前は{br} どうでもよかろう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Alighieri?! ...No, you're not.{page}{box:00}{name:02}George{br}Who are you, anyway?{page}{box:00}{name:05}????{br}My name hardly{br}matters at this point.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "42368"
   ],
   "jp": "{box:01}ニサンの書が{br}光っている！{page}{box:02}ジョージ{br}「な…なんだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Nisan is glowing!{page}{box:02}George{br}Wh... what's going on?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "4236C"
   ],
   "jp": "{box:01}アイヤルの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「またか！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Iyyar is glowing!{page}{box:00}{name:02}George{br}Again?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "42370"
   ],
   "jp": "{box:01}シマヌの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「またかよ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Simanu is glowing!{page}{box:00}{name:02}George{br}Seriously, again?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "42374"
   ],
   "jp": "{box:01}ドゥウズの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「次は何だ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Duuzu is glowing!{page}{box:00}{name:02}George{br}What now?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "42378"
   ],
   "jp": "{box:01}アブの書{br}が光っている！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Abu is glowing!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "4237C"
   ],
   "jp": "{box:01}ウルルの書{br}が光っている！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Ululu is glowing!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "42380"
   ],
   "jp": "{box:01}テシュリトゥの書{br}が光っている！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Teshritu is glowing!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "42384"
   ],
   "jp": "{box:01}アラフシャムの書{br}が光っている！{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The Book of Arahsham is glowing!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "42388"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここは…？」{page}{box:00}{name:02}ジョージ{br}「いったい{br} どうなってんだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Where am I...?{page}{box:00}{name:02}George{br}What on earth is going on?{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

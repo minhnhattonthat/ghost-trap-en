@@ -7,8 +7,8 @@
    "41804"
   ],
   "jp": "{box:01}きかいに見えるが{br}ハリボテだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It looks like a machine,{br}but it's a dummy.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -19,8 +19,8 @@
    "41808"
   ],
   "jp": "{box:01}きかいに見えるが{br}ハリボテだ。{page}{box:00}{name:02}ジョージ{br}「中に何か{br} 入ってたりして」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It looks like a machine,{br}but it's a dummy.{page}{box:00}{name:02}George{br}Maybe there's something inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -31,8 +31,8 @@
    "4184C"
   ],
   "jp": "{box:01}バルブが2つ{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ヒーターの{br} スチーム用かな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There are two valves.{page}{box:00}{name:02}George{br}For the heater's steam, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -43,8 +43,8 @@
    "41850"
   ],
   "jp": "{box:01}かべにヒーターが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「こわれてる{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「さむくないから{br} べつにいいけど」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A heater is built into the wall.{page}{box:00}{name:02}George{br}Looks like it's broken.{page}{box:00}{name:02}George{br}It's not cold, so no big deal.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "41854"
   ],
   "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ゴーストもでんき{br} 使うのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a power{br}distribution panel.{page}{box:00}{name:02}George{br}Do ghosts use electricity too?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -67,8 +67,8 @@
    "41858"
   ],
   "jp": "{box:01}ダンボールの{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a cardboard box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -79,8 +79,8 @@
    "4185C"
   ],
   "jp": "{box:01}ダンボールの{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a cardboard box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -91,8 +91,8 @@
    "41860"
   ],
   "jp": "{box:01}たなにゴミが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「あさる気に{br} ならないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Trash sits on the shelf.{page}{box:00}{name:02}George{br}I don't feel like{br}digging through it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -103,8 +103,8 @@
    "418A0"
   ],
   "jp": "{box:01}かべにヒーターが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「とりはずすと{br} かくしとびらが…{page}{box:00}{name:02}ジョージ{br}「……{br} はずれないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A heater is built into the wall.{page}{box:00}{name:02}George{br}Take it off, and a secret door...{page}{box:00}{name:02}George{br}...... It won't come off.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "418A4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「バルブがあるけど{br} さわりたくないな。{page}{box:00}{name:02}ジョージ{br}「スチーム用だと{br} やけどしそうだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a valve, but I{br}don't want to touch it.{page}{box:00}{name:02}George{br}If it's for steam, I'll get burned.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "418A8"
   ],
   "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ゴーストもでんき{br} 使うのか？{page}{box:00}{name:02}ジョージ{br}「なまいきな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a power{br}distribution panel.{page}{box:00}{name:02}George{br}Do ghosts use electricity too?{page}{box:00}{name:02}George{br}The nerve!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -139,8 +139,8 @@
    "418AC"
   ],
   "jp": "{box:01}からっぽの{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an empty box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -151,8 +151,8 @@
    "418B0"
   ],
   "jp": "{box:01}からっぽの{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an empty box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -163,8 +163,8 @@
    "418B4"
   ],
   "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Odds and ends are{br}lined up on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -178,8 +178,8 @@
    "41920"
   ],
   "jp": "{box:01}たなには小物が{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf has odds{br}and ends lined up on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -190,8 +190,8 @@
    "418E8"
   ],
   "jp": "{box:01}何かのそうさ{br}パネルがある。{page}{box:00}{name:02}ジョージ{br}「よこのきかいの{br} スイッチか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's some kind{br}of control panel.{page}{box:00}{name:02}George{br}A switch for the{br}machine next to it?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "418F4"
   ],
   "jp": "{box:01}えたいの知れない{br}きかいがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an{br}unidentifiable machine.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -217,8 +217,8 @@
    "418F0"
   ],
   "jp": "{box:01}えたいの知れない{br}きかいがある。{page}{box:01}こわれていて{br}うごかないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an{br}unidentifiable machine.{page}{box:01}It seems to be{br}broken and won't run.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -229,8 +229,8 @@
    "41924"
   ],
   "jp": "{box:01}何かのそうさ{br}パネルがある。{page}{box:00}{name:02}ジョージ{br}「館のじばくボタン{br} だったらおすぞ。{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけた後でな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's some kind{br}of control panel.{page}{box:00}{name:02}George{br}If it's the house's self-destruct{br}button, I'll press it.{page}{box:00}{name:02}George{br}After I rescue Alicia, that is.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -244,8 +244,8 @@
    "41930"
   ],
   "jp": "{box:01}よくわからない{br}きかいがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a machine{br}I don't really get.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -256,8 +256,8 @@
    "4192C"
   ],
   "jp": "{box:01}よくわからない{br}きかいがある。{page}{box:00}{name:02}ジョージ{br}「科学者として{br} きょうみはあるが、{page}{box:00}{name:02}ジョージ{br}「今はアリシアを{br} さがす方が先だ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a machine{br}I don't really get.{page}{box:00}{name:02}George{br}As a scientist, I'm curious,{page}{box:00}{name:02}George{br}but finding Alicia comes first!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -268,8 +268,8 @@
    "41964"
   ],
   "jp": "{box:01}パイプと{br}メーターがある。{page}{box:00}{name:02}ジョージ{br}「めもりはゼロで{br} 止まってるな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There are pipes and a meter.{page}{box:00}{name:02}George{br}The needle's stuck at zero.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -280,8 +280,8 @@
    "41968"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よこのきかいの{br} スイッチみたいだ。{page}{box:00}{name:02}ジョージ{br}「いじってもなにも{br} おきないけど」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Looks like the switch for{br}the machine next to it.{page}{box:00}{name:02}George{br}Fiddling with it does{br}nothing, though.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -301,8 +301,8 @@
    "419BC"
   ],
   "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange machine sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -313,8 +313,8 @@
    "41970"
   ],
   "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「なんに使うのか{br} まるでわからん」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange machine sits here.{page}{box:00}{name:02}George{br}I have no idea what it's for.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "419AC"
   ],
   "jp": "{box:01}パイプと{br}メーターがある。{page}{box:00}{name:02}ジョージ{br}「メーターは{br} うごいてないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There are pipes and a meter.{page}{box:00}{name:02}George{br}The meter isn't moving.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
    "419B0"
   ],
   "jp": "{box:01}そうさパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「いじってるヒマは{br} ないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a control panel.{page}{box:00}{name:02}George{br}No time to fiddle with it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -349,8 +349,8 @@
    "419B8"
   ],
   "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「調べてるヒマは{br} ないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange machine sits here.{page}{box:00}{name:02}George{br}No time to check it out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -364,8 +364,8 @@
    "41A34"
   ],
   "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Pieces of the wall are{br}scattered around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -376,8 +376,8 @@
    "41A30"
   ],
   "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{box:00}{name:02}ジョージ{br}「これはしぜんに{br} くずれたみたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Pieces of the wall are{br}scattered around.{page}{box:00}{name:02}George{br}Looks like this one{br}collapsed on its own.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -388,8 +388,8 @@
    "41A38"
   ],
   "jp": "{box:01}かべにポンプが{br}うめこんである。{page}{box:00}{name:02}ジョージ{br}「どこから何を{br} すいあげるんだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A pump is built into the wall.{page}{box:00}{name:02}George{br}What does it pump{br}up, and from where?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
    "41AD8"
   ],
   "jp": "{box:01}ポンプかんけいの{br}バルブだろう。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Probably a valve for the pump.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -418,8 +418,8 @@
    "41ADC"
   ],
   "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box beside the door.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -433,8 +433,8 @@
    "41AE0"
   ],
   "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box beside the door.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "41A48"
   ],
   "jp": "{box:01}パイプとバルブが{br}ある。{page}{box:00}{name:02}ジョージ{br}「かたくしまってて{br} 回せないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There are pipes and valves.{page}{box:00}{name:02}George{br}They're shut tight.{br}I can't turn them.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -457,8 +457,8 @@
    "41A4C"
   ],
   "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「じかはつでんきは{br} どこだろうな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a power{br}distribution panel.{page}{box:00}{name:02}George{br}Where's the{br}generator, I wonder?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -469,8 +469,8 @@
    "41A50"
   ],
   "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A cardboard box is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -481,8 +481,8 @@
    "41A54"
   ],
   "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A cardboard box is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -493,8 +493,8 @@
    "41A58"
   ],
   "jp": "{box:01}たなにあるのは{br}ガラクタばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -508,8 +508,8 @@
    "41AD0"
   ],
   "jp": "{box:01}かべが大きく{br}くずれおちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big section of the{br}wall has collapsed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -520,8 +520,8 @@
    "41ACC"
   ],
   "jp": "{box:01}かべが大きく{br}くずれおちている。{page}{box:00}{name:02}ジョージ{br}「ジャマだぞ{br} まったく！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big section of the{br}wall has collapsed.{page}{box:00}{name:02}George{br}It's in my way, seriously!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -532,8 +532,8 @@
    "41AD4"
   ],
   "jp": "{box:01}かべにポンプが{br}うめこんである。{page}{box:00}{name:02}ジョージ{br}「ポンプなんか気に{br} してどうなる！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A pump is built into the wall.{page}{box:00}{name:02}George{br}What good is worrying{br}about a pump!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -544,8 +544,8 @@
    "41AE4"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「こんなの回しても{br} いみはないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}There's no point turning these.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
    "41AE8"
   ],
   "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ヘタにいじらない{br} 方がいい。{page}{box:00}{name:02}ジョージ{br}「今でんきが{br} きえたらこまるぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a power{br}distribution panel.{page}{box:00}{name:02}George{br}Better not mess with it.{page}{box:00}{name:02}George{br}If the power went{br}out now, I'd be stuck.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -571,8 +571,8 @@
    "41AF0"
   ],
   "jp": "{box:01}ハコにガラクタが{br}入れられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk has been put in a box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -583,8 +583,8 @@
    "41AF4"
   ],
   "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Odds and ends are{br}lined up on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -594,8 +594,8 @@
    "41B5C"
   ],
   "jp": "{box:01}きかいがうなりを{br}あげている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The machine is roaring.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    "41B60"
   ],
   "jp": "{box:01}何かのきかいが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Some kind of machine sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -616,8 +616,8 @@
    "41B64"
   ],
   "jp": "{box:01}はいでんばん{br}だろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A switchboard, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -627,8 +627,8 @@
    "41B68"
   ],
   "jp": "{box:01}からばこが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty box sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -638,8 +638,8 @@
    "41B6C"
   ],
   "jp": "{box:01}何かコントロール{br}しているようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It seems to be{br}controlling something.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -649,8 +649,8 @@
    "41B70"
   ],
   "jp": "{box:01}てつクズの入った{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box of scrap iron.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -660,8 +660,8 @@
    "41B74"
   ],
   "jp": "{box:01}たなの中には{br}ガラクタしかない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk in the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -671,8 +671,8 @@
    "41B7C"
   ],
   "jp": "{box:01}きかいがしんどう{br}している。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The machine is vibrating.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -682,8 +682,8 @@
    "41B80"
   ],
   "jp": "{box:01}ハコがたの{br}きかいがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box-shaped machine.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -693,8 +693,8 @@
    "41B84"
   ],
   "jp": "{box:01}スイッチパネルの{br}ようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a switch panel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -704,8 +704,8 @@
    "41B88"
   ],
   "jp": "{box:01}カラのハコが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty box sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -715,8 +715,8 @@
    "41B8C"
   ],
   "jp": "{box:01}コントロール{br}パネルだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A control panel, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -726,8 +726,8 @@
    "41B90"
   ],
   "jp": "{box:01}クズてつの入った{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box full of scrap iron.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -737,8 +737,8 @@
    "41B94"
   ],
   "jp": "{box:01}たなにはゴミすら{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Not even trash has{br}been left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -748,8 +748,8 @@
    "41B9C"
   ],
   "jp": "{box:01}きかいのケースが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A machine casing sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -759,8 +759,8 @@
    "41BA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジャマだなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's in the way...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -770,8 +770,8 @@
    "41BA4"
   ],
   "jp": "{box:01}スイッチパネルが{br}ある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a switch panel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -781,8 +781,8 @@
    "41BA8"
   ],
   "jp": "{box:01}カラのハコが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty box is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -792,8 +792,8 @@
    "41BAC"
   ],
   "jp": "{box:01}館のでんきの{br}ブレイカーかも。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Maybe the house's{br}circuit breaker.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -803,8 +803,8 @@
    "41BB0"
   ],
   "jp": "{box:01}おもいハコが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「おもくて一人じゃ{br} うごかせないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A heavy box sits here.{page}{box:00}{name:02}George{br}It's too heavy to move on my own.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -814,8 +814,8 @@
    "41BB4"
   ],
   "jp": "{box:01}たなには何も{br}なかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    "41BE0"
   ],
   "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing is left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -836,8 +836,8 @@
    "41BE4"
   ],
   "jp": "{box:01}ガラクタの入った{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box full of junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -847,8 +847,8 @@
    "41BEC"
   ],
   "jp": "{box:01}たなはからっぽ{br}だった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -858,8 +858,8 @@
    "41BF0"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -869,8 +869,8 @@
    "41BF8"
   ],
   "jp": "{box:01}何も置かれて{br}いなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing had been left here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -880,8 +880,8 @@
    "41BFC"
   ],
   "jp": "{box:01}ハコに入った{br}ふようひんだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded stuff in a box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -892,8 +892,8 @@
    "41C6C"
   ],
   "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Odds and ends are{br}lined up on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -907,8 +907,8 @@
    "41C74"
   ],
   "jp": "{box:01}ダンボールばこの{br}中はからっぽだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The cardboard box is empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -919,8 +919,8 @@
    "41C78"
   ],
   "jp": "{box:01}ヒューズ式の{br}はいでんパネルだ。{page}{box:00}{name:02}ジョージ{br}「とんだら{br} なおせないぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fuse-type distribution panel.{page}{box:00}{name:02}George{br}If a fuse blows, I can't fix it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -931,8 +931,8 @@
    "41C7C"
   ],
   "jp": "{box:01}あかいバルブが{br}2つある。{page}{box:00}{name:02}ジョージ{br}「回してみたいけど{br} やめとこう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There are two red valves.{page}{box:00}{name:02}George{br}I'd like to turn{br}them, but I'll pass.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -943,8 +943,8 @@
    "41C80"
   ],
   "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box beside the door.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -955,8 +955,8 @@
    "41C84"
   ],
   "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a box beside the door.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -967,8 +967,8 @@
    "41C88"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「よこのきかいに{br} つながってるな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}They're hooked up to the{br}machine next to them.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -979,8 +979,8 @@
    "41C8C"
   ],
   "jp": "{box:01}きかいがかべに{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「ポンプか何か{br} みたいだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}Looks like a pump or something.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -994,8 +994,8 @@
    "41C98"
   ],
   "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Pieces of the wall are{br}scattered around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1006,8 +1006,8 @@
    "41C94"
   ],
   "jp": "{box:01}まるいあなが{br}あいている。{page}{box:00}{name:02}ジョージ{br}「きかいでほった{br} みたいなあなだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a round hole.{page}{box:00}{name:02}George{br}Looks like a hole{br}dug by a machine...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1018,8 +1018,8 @@
    "41D08"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタしか{br} ないみたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Looks like there's{br}nothing but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1030,8 +1030,8 @@
    "41D0C"
   ],
   "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A cardboard box is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1042,8 +1042,8 @@
    "41D10"
   ],
   "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A cardboard box is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1054,8 +1054,8 @@
    "41D14"
   ],
   "jp": "{box:01}ヒューズ式の{br}はいでんパネルだ。{page}{box:00}{name:02}ジョージ{br}「たのむから{br} とばないでくれよ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fuse-type distribution panel.{page}{box:00}{name:02}George{br}Please, don't blow on me.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1066,8 +1066,8 @@
    "41D18"
   ],
   "jp": "{box:01}さびついた{br}バルブがある。{page}{box:00}{name:02}ジョージ{br}「回したくても{br} 回せないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a rusted valve.{page}{box:00}{name:02}George{br}Even if I wanted to{br}turn it, I couldn't.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1081,8 +1081,8 @@
    "41D20"
   ],
   "jp": "{box:01}ハコの中は{br}ゴミだけのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like there's{br}only trash in the box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1093,8 +1093,8 @@
    "41D24"
   ],
   "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Two valves sit side by side.{page}{box:00}{name:02}George{br}Alicia comes before{br}checking stuff out!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1105,8 +1105,8 @@
    "41D28"
   ],
   "jp": "{box:01}きかいがかべに{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A machine is built into the wall.{page}{box:00}{name:02}George{br}Alicia comes before{br}checking stuff out!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1120,8 +1120,8 @@
    "41D34"
   ],
   "jp": "{box:01}かべがまるく{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled in a circle.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1132,8 +1132,8 @@
    "41D30"
   ],
   "jp": "{box:01}かべがまるく{br}くずれている。{page}{box:00}{name:02}ジョージ{br}「おくには何も{br} なさそうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled in a circle.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything back there...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1143,8 +1143,8 @@
    "41D84"
   ],
   "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing is left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1154,8 +1154,8 @@
    "41D88"
   ],
   "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Some junk is lying here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1165,8 +1165,8 @@
    "41D8C"
   ],
   "jp": "{box:01}スイッチパネルが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ヘタにさわると、{br} やばそうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a switch panel.{page}{box:00}{name:02}George{br}Touching it carelessly{br}looks like a bad idea...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1176,8 +1176,8 @@
    "41D90"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジャマなハコ{br} だなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This box is in the way...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1187,8 +1187,8 @@
    "41D94"
   ],
   "jp": "{box:01}かべに大きな{br}あながあいている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a big hole in the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1198,8 +1198,8 @@
    "41D9C"
   ],
   "jp": "{box:01}たなはからっぽ{br}だった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1209,8 +1209,8 @@
    "41DA0"
   ],
   "jp": "{box:01}ふようひんが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded stuff sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

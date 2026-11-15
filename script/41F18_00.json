@@ -5,8 +5,8 @@
    "41F18"
   ],
   "jp": "えらんだアイテムを{br}使います。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Uses the item{br}you selected.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "41F1C"
   ],
   "jp": "アイテムを{br}すてます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Throws away{br}an item.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "41F20"
   ],
   "jp": "えらんだアイテムを{br}そうびします。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Equips the item{br}you selected.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "41F24"
   ],
   "jp": "魔道書を{br}えらびます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Choose a{br}grimoire.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "41F28"
   ],
   "jp": "2つのアイテムを{br}ごうせいします。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Combines two{br}items.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "41F2C"
   ],
   "jp": "使うアイテムを{br}えらびます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Choose an item{br}to use.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "41F34"
   ],
   "jp": "ここでは{br}使えない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Can't use{br}that here.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "41F38"
   ],
   "jp": "すてるアイテムを{br}えらびます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Choose an item{br}to throw away.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "41F40"
   ],
   "jp": "これをすてますか？{br} {br} {name:07}はい  {name:01}いいえ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Throw this away?{br} {br} {name:07}Yes  {name:01}No{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "41F44"
   ],
   "jp": "このアイテムは{br}すてられない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "This item can't{br}be thrown away.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "41F48"
   ],
   "jp": "どのそうびを{br}へんこうする？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Change which{br}equipment?{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "41F50"
   ],
   "jp": "どのアイテムを{br}そうびする？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Equip which{br}item?{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "41F58"
   ],
   "jp": "そうびを{br}はずします。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Removes{br}equipment.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "41F5C"
   ],
   "jp": "このアイテムは{br}そうびできない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "This item can't{br}be equipped.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "41F60"
   ],
   "jp": "じゅうじボタンで{br}魔道書きりかえ。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "+Control Pad:{br}switch grimoire.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "41F64"
   ],
   "jp": "魔道書を{br}もちません。{br}BOOK＃00へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "You have no{br}grimoire.{br}To BOOK#00{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {

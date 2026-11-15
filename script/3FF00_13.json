@@ -6,8 +6,8 @@
    "41DA4"
   ],
   "jp": "{box:01}スイッチパネルの{br}ようだ。{page}{box:00}{name:02}ジョージ{br}「ヘタにいじらない{br} 方がよさそうだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a switch panel.{page}{box:00}{name:02}George{br}Better not mess{br}with it carelessly.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "41DA8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このハコで、{br} 歩きづらいな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This box makes it hard to walk...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "41DAC"
   ],
   "jp": "{box:01}かべに大きな{br}あながあいている。{page}{box:00}{name:02}ジョージ{br}「あなのおくには{br} なにもなさそうだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a big hole in the wall.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything at the back of the{page}{box:00}{name:02}George{br}hole.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "41DB4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なにもない…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "41DB8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは館の{br} てつのゴミだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is the house's scrap metal.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "41DBC"
   ],
   "jp": "{box:01}スイッチパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ヘタにいじると、{br} こわれるからな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a switch panel.{page}{box:00}{name:02}George{br}If I mess with it{br}carelessly, it'll break...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -72,8 +72,8 @@
    "41DC0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「歩きづらいな…{br} ここでよく、{page}{box:00}{name:02}ジョージ{br}「足のこゆびを{br} ぶつけるんだよ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It's hard to walk here...{page}{box:00}{name:02}George{br}This is exactly where{br}I'd stub my pinky toe.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -83,8 +83,8 @@
    "41DC4"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -93,8 +93,8 @@
    "41DCC"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -103,8 +103,8 @@
    "41DDC"
   ],
   "jp": "{box:01}女の人のぞうが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A statue of a{br}woman stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -113,8 +113,8 @@
    "41DE0"
   ],
   "jp": "{box:01}つちだけ入った{br}うえきばちだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A flowerpot holding{br}nothing but soil.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -123,8 +123,8 @@
    "41DE4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これはきっと{br} 天国の絵だろう…{page}{box:00}{name:02}ジョージ{br}「オレもこのまま{br} ゴーストに…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This must be a{br}painting of Heaven...{page}{box:00}{name:02}George{br}Am I going to end{br}up a ghost too...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -133,8 +133,8 @@
    "41DE8"
   ],
   "jp": "{box:01}うまいのかどうか{br}わからない絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I can't tell if this{br}painting is any good.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -143,8 +143,8 @@
    "41DEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここまでくれば{br} あんしんかな？{page}{box:00}{name:02}ジョージ{br}「くやしいが、{br} サプレッサーは、{page}{box:00}{name:02}ジョージ{br}「すばやいやつには{br} たいおうできない…{page}{box:00}{name:02}ジョージ{br}「しかたがないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストをよけて、{br} 出口をさがそう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Am I safe now that{br}I've made it this far?{page}{box:00}{name:02}George{br}I hate to admit it,{br}but the Suppressor{page}{box:00}{name:02}George{br}can't handle the fast ones...{page}{box:00}{name:02}George{br}Can't be helped...{page}{box:00}{name:02}George{br}I'll dodge the ghosts{br}and find an exit...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -153,8 +153,8 @@
    "41E04"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おっ？{br} これは…{page}{box:00}{name:02}ジョージ{br}「なんだ、{br} やっぱりゴミか」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Aw, trash again.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -163,8 +163,8 @@
    "41E08"
   ],
   "jp": "{box:00}{name:07}？？？？{br}「わ…れ…わ{br} グレ…ゴリ…」{page}{box:00}{name:02}ジョージ{br}「グレゴリ？{br} 何のことだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:07}????{br}I... am... Gre...gori...{page}{box:00}{name:02}George{br}Gregori? What's that{br}supposed to mean?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
    "41E0C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きえた…。でも、{br} 今のゴーストは、{page}{box:00}{name:02}ジョージ{br}「何かをいいたそう{br} だったな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It vanished... But{br}that ghost just now{page}{box:00}{name:02}George{br}looked like it wanted{br}to tell me something...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -183,8 +183,8 @@
    "41E14"
   ],
   "jp": "{box:01}かべが少し{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled a little.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "41E18"
   ],
   "jp": "{box:01}だいぶホコリが{br}たまっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A lot of dust has collected.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -203,8 +203,8 @@
    "41E1C"
   ],
   "jp": "{box:01}たなに手紙が{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「書きかけの手紙が{br} あるな…{page}{box:00}{name:02}ジョージ{br}「アリギエリさんの{br} ひしょの物だ…{page}{box:00}{name:02}ジョージ{br}「…英語だな。{br} 読んでみるか…」{page}{box:01}『私はおそろしい…{page}{box:01}『だんな様も{br} ほかのかたがたも{page}{box:01}『すばらしい力を{br} おもちだが…{page}{box:01}『本当に手に入るの{br} だろうか？{page}{box:01}『永遠の命、などと{br} いうモノが…』{page}{box:00}{name:02}ジョージ{br}「…永遠の命！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A letter was left on the shelf.{page}{box:00}{name:02}George{br}There's an unfinished letter...{page}{box:00}{name:02}George{br}It belonged to{br}Alighieri-san's secretary...{page}{box:00}{name:02}George{br}...It's in English. Let's read it...{page}{box:01}\"I am frightened...{page}{box:01}\"The master and the others{page}{box:01}\"possess wonderful power, but...{page}{box:01}\"can it truly be obtained?{page}{box:01}\"Such a thing as eternal life...\"{page}{box:00}{name:02}George{br}...Eternal life?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -213,8 +213,8 @@
    "41E24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミばこが{br} 置いてあるぞ{page}{box:00}{name:02}ジョージ{br}「中はあんまり{br} 調べたくないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a trash can here.{page}{box:00}{name:02}George{br}I'd rather not dig through it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -223,8 +223,8 @@
    "41E28"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは！{br} ジュークボックス！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whoa! A jukebox!{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -233,8 +233,8 @@
    "41E2C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコード、{br} けっこういいな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record's pretty good!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -243,8 +243,8 @@
    "41E30"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは！{br} ジュークボックス！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whoa! A jukebox!{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -253,8 +253,8 @@
    "41E34"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコード、{br} けっこういいな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record's pretty good!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -263,8 +263,8 @@
    "41E38"
   ],
   "jp": "{box:01}まるいテーブルが{br}ある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a round table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -273,8 +273,8 @@
    "41E3C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いわゆるえんたく{br} と、いうヤツだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What you'd call a round table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -283,8 +283,8 @@
    "41E40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まるいテーブルだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A round table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
    "41E44"
   ],
   "jp": "{box:01}かんそなイスが{br}ある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a plain chair.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -303,8 +303,8 @@
    "41E48"
   ],
   "jp": "{box:01}ルームランプが{br}たおれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A room lamp has fallen over.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -313,8 +313,8 @@
    "41E4C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「ボールが14こ{br} しかないぞ…？{page}{box:00}{name:02}ジョージ{br}「9ばんボール{br} だけがないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Billiards... huh?{page}{box:00}{name:02}George{br}There are only 14 balls...?{page}{box:00}{name:02}George{br}Just the 9-Ball is missing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -323,8 +323,8 @@
    "41E50"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これでボールは{br} フルセットだ。{page}{box:00}{name:02}ジョージ{br}「さいごの9！{br} このことだな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That makes a full set of balls.{page}{box:00}{name:02}George{br}\"The last 9!\" So{br}that's what it meant!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -333,8 +333,8 @@
    "41E54"
   ],
   "jp": "{box:01}しっそなイスが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A simple chair lies toppled over.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -343,8 +343,8 @@
    "41E58"
   ],
   "jp": "{box:01}ちくおんきが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「アンティーク{br} だらけの館だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A gramophone sits here.{page}{box:00}{name:02}George{br}This house is full of antiques...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -353,8 +353,8 @@
    "41E5C"
   ],
   "jp": "{box:01}ドアに小さく{br}ラクガキがある。{page}{box:01}『それは15コで、{br} 1セットになる。{page}{box:01}『われらの数字を{br} 思い出せ。{page}{box:01}『さいごの9を{br} 手に入れるのだ』{page}{box:00}{name:02}ジョージ{br}「15コで1セット？{br} さいごの9…？{page}{box:00}{name:02}ジョージ{br}「いったい、{br} 何のことだ？{page}{box:00}{name:02}ジョージ{br}「まわりをチェック{br} してみるか…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's small{br}scribbling on the door.{page}{box:01}\"Fifteen of them make one set.{page}{box:01}\"Remember our number.{page}{box:01}\"Obtain the last 9.\"{page}{box:00}{name:02}George{br}Fifteen make a{br}set? The last 9...?{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{box:00}{name:02}George{br}Let's check around...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -363,8 +363,8 @@
    "41E64"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「古い{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「…こわれている{br} みたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An old gramophone.{page}{box:00}{name:02}George{br}...Looks like it's broken.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -373,8 +373,8 @@
    "41E68"
   ],
   "jp": "{box:01}ジュークボックス{br}が置かれている{page}{box:00}{name:02}ジョージ{br}「こわれてる{br} みたいだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}Looks like it's broken.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -383,8 +383,8 @@
    "41E6C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なぜかあかないし{br} こわせない窓…{page}{box:00}{name:02}ジョージ{br}「調べても、{br} いみがないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A window that somehow{br}won't open or break...{page}{box:00}{name:02}George{br}No point checking it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -393,8 +393,8 @@
    "41E70"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あそんでいる{br} ヒマはないな…{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to play around...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
    "41E74"
   ],
   "jp": "{box:01}くちかけた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A rotting billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
    "41E7C"
   ],
   "jp": "{box:01}あなにワインは{br}入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's no wine in the hole.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -423,8 +423,8 @@
    "41E80"
   ],
   "jp": "{box:01}床のあなが、{br}かすかににおう。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The hole in the{br}floor smells faintly.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -433,8 +433,8 @@
    "41E84"
   ],
   "jp": "{box:01}床に口のような{br}あながある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a mouth-like{br}hole in the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -443,8 +443,8 @@
    "41E88"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？なんで{br} あかないんだ？」{page}{box:00}{name:02}ジョージ{br}「ん？ドアに何か{br} 書かれてるな…」{page}{box:01}『…はい は {br} はい に…{page}{box:01}『…すべては元の{br} サヤへともどる。{page}{box:01}『かの書を{br} 元におさめよ』{page}{box:00}{name:02}ジョージ{br}「書って…本の{br} ことだよな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Huh? Why won't it open?{page}{box:00}{name:02}George{br}Hm? Something's{br}written on the door...{page}{box:01}\"...Ashes to ashes...{page}{box:01}\"...All returns to{br}where it belongs.{page}{box:01}\"Return that book to its place.\"{page}{box:00}{name:02}George{br}Book... as in a book, right?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -453,8 +453,8 @@
    "41E90"
   ],
   "jp": "{box:01}ドアはナゾの力で{br}とざされている！{page}{box:00}{name:02}ジョージ{br}「やるかやられるか{br} しょうぶだな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The door is sealed by{br}a mysterious power!{page}{box:00}{name:02}George{br}It's kill or be killed!{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

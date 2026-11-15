@@ -100,8 +100,8 @@
    "411E4"
   ],
   "jp": "{box:01}かべにラクガキが{br}あった。{page}{box:00}{name:02}ジョージ{br}「どれどれ…」{page}{box:01}『ゴーストからの{br} ひょうい時間を{page}{box:01}『みじかくするには{br} エルダーのえだ、{page}{box:01}『ザツなおまもり、{br} アミュレット』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was scribbling on the wall.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"To shorten the time{page}{box:01}\"a ghost possesses{br}you: an Elder Branch,{page}{box:01}\"a Cheap Charm, an Amulet.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -111,8 +111,8 @@
    "411E8"
   ],
   "jp": "{box:01}ななめになった{br}あぶら絵だ。{page}{box:01}かべとのすきまに{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？」{page}{box:01}『ぼうぐにもなる{br} いやくひんは{page}{box:01}『ほうたい、{br} しっぷ薬、{page}{box:01}『気つけなんこう{br} である』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tilted oil painting.{page}{box:01}There was a note behind it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}\"Medicines that{br}also work as armor:{page}{box:01}\"the Bandage, the Poultice,{page}{box:01}\"and the Reviving Salve.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -122,8 +122,8 @@
    "411EC"
   ],
   "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I will run from the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}! It's a note from Karol-san...{page}{box:00}{name:02}George{br}...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -133,8 +133,8 @@
    "411F0"
   ],
   "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「この部屋は{br} ゆうえんちの{page}{box:00}{name:02}ジョージ{br}「アトラクション{br} みたいだよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rails are laid on the floor.{page}{box:01}There's a gap between{br}the rails and the wall.{page}{box:00}{name:02}George{br}This room is like{page}{box:00}{name:02}George{br}an amusement park ride...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -144,8 +144,8 @@
    "411F4"
   ],
   "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「この手の物に{br} くわしくないから{page}{box:00}{name:02}ジョージ{br}「あんまりよく{br} わかんないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a bronze statue{br}in the corner of the room.{page}{box:00}{name:02}George{br}I don't know much about{br}this kind of thing,{page}{box:00}{name:02}George{br}so I don't really get it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "411F8"
   ],
   "jp": "{box:01}かべを見つめる{br}女のこのぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A statue of a girl{br}gazing at the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -166,8 +166,8 @@
    "411FC"
   ],
   "jp": "{box:01}ガラクタが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「物はたくさん{br} 置かれているけど、{page}{box:00}{name:02}ジョージ{br}「使える物が{br} 何もないなんて…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk sits here.{page}{box:00}{name:02}George{br}There's tons of stuff here,{page}{box:00}{name:02}George{br}but not a single usable thing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -176,8 +176,8 @@
    "41204"
   ],
   "jp": "{box:01}小さい絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -186,8 +186,8 @@
    "41208"
   ],
   "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -196,8 +196,8 @@
    "4120C"
   ],
   "jp": "{box:01}床にレールが{br}しかれている。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんは{br} こんなしかけを{page}{box:00}{name:02}ジョージ{br}「何のために使って{br} いたんだろう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rails are laid on the floor.{page}{box:00}{name:02}George{br}What did Alighieri-san use{page}{box:00}{name:02}George{br}a contraption like this for...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
    "41210"
   ],
   "jp": "{box:01}いろんな人の絵が{br}かざってある。{page}{box:00}{name:02}ジョージ{br}「この中に{br} ゴーストで{page}{box:00}{name:02}ジョージ{br}「見かけた人も{br} いるみたいだな…{page}{box:00}{name:02}ジョージ{br}「この人たちは{br} やっぱり、{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーなんだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Paintings of all sorts{br}of people are on display.{page}{box:00}{name:02}George{br}Looks like some of these{page}{box:00}{name:02}George{br}are people I've seen as ghosts...{page}{box:00}{name:02}George{br}So these people really are...{page}{box:00}{name:02}George{br}members of Atrahasis...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
    "41214"
   ],
   "jp": "{box:01}かべにラクガキが{br}あった。{page}{box:00}{name:02}ジョージ{br}「どれどれ…」{page}{box:01}『部屋のガラクタを{br} さがすべし』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was scribbling on the wall.{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Search the junk in the room.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "41218"
   ],
   "jp": "{box:01}ななめになった{br}あぶら絵だ。{page}{box:01}かべとのすきまに{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？」{page}{box:01}『ぼうぐにもなる{br} いやくひんは{page}{box:01}『ほうたい、{br} しっぷ薬、{page}{box:01}『気つけなんこう{br} である』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tilted oil painting.{page}{box:01}There was a note behind it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}\"Medicines that{br}also work as armor:{page}{box:01}\"the Bandage, the Poultice,{page}{box:01}\"and the Reviving Salve.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -236,8 +236,8 @@
    "4121C"
   ],
   "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big painting is on display.{page}{box:01}Behind it was a written note.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"It will mean betraying{br}Alighieri-san{page}{box:01}\"and my fellow members,{page}{box:01}\"but I will run from the ritual.{page}{box:01}\"Karol\"{page}{box:00}{name:02}George{br}! It's a note from Karol-san...{page}{box:00}{name:02}George{br}...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -246,8 +246,8 @@
    "41220"
   ],
   "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「この部屋は{br} ゆうえんちの{page}{box:00}{name:02}ジョージ{br}「アトラクション{br} みたいだよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rails are laid on the floor.{page}{box:01}There's a gap between{br}the rails and the wall.{page}{box:00}{name:02}George{br}This room is like{page}{box:00}{name:02}George{br}an amusement park ride...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -256,8 +256,8 @@
    "41224"
   ],
   "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「この手の物に{br} くわしくないから{page}{box:00}{name:02}ジョージ{br}「あんまりよく{br} わかんないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a bronze statue{br}in the corner of the room.{page}{box:00}{name:02}George{br}I don't know much about{br}this kind of thing,{page}{box:00}{name:02}George{br}so I don't really get it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -266,8 +266,8 @@
    "41228"
   ],
   "jp": "{box:01}かべを見つめる{br}女のこのぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A statue of a girl{br}gazing at the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -276,8 +276,8 @@
    "4122C"
   ],
   "jp": "{box:01}ガラクタが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「物はたくさん{br} 置かれているけど、{page}{box:00}{name:02}ジョージ{br}「使える物が{br} 何もないなんて…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk sits here.{page}{box:00}{name:02}George{br}There's tons of stuff here,{page}{box:00}{name:02}George{br}but not a single usable thing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -286,8 +286,8 @@
    "41234"
   ],
   "jp": "{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「カギあなが{br} 見当たらない！」{page}{box:01}ドアに文字が{br}うかんでいる。{page}{box:01}『全てをほろぼせ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The door is shut tight.{page}{box:00}{name:02}George{br}I don't see a keyhole!{page}{box:01}Letters are{br}floating on the door.{page}{box:01}\"Destroy them all.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -296,8 +296,8 @@
    "41238"
   ],
   "jp": "{box:01}じゆうのめがみを{br}えがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of the{br}Statue of Liberty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -306,8 +306,8 @@
    "4123C"
   ],
   "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -316,8 +316,8 @@
    "41240"
   ],
   "jp": "{box:01}みどりの絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A green painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
    "41244"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵をながめてる{br} ヒマなんてない！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to stand around{br}looking at paintings!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "41248"
   ],
   "jp": "{box:01}女の人の{br}あぶら絵だ。{page}{box:00}{name:02}ジョージ{br}「アリシア！{br} 無事でいてくれよ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of a woman.{page}{box:00}{name:02}George{br}Alicia! Please be okay!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -346,8 +346,8 @@
    "4124C"
   ],
   "jp": "{box:01}古ぼけた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A faded old oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -356,8 +356,8 @@
    "41250"
   ],
   "jp": "{box:01}女の人の{br}しょうぞうがだ。{page}{box:00}{name:02}ジョージ{br}「この人はもしや、{br} あのゴーストか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A portrait of a woman.{page}{box:00}{name:02}George{br}Could this be that ghost?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -366,8 +366,8 @@
    "41254"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あぶら絵を{br} ぼんやりながめて、{page}{box:00}{name:02}ジョージ{br}「あぶらをうってる{br} ヒマはないぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got no time to stand around{page}{box:00}{name:02}George{br}gawking at oil paintings!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -376,8 +376,8 @@
    "41258"
   ],
   "jp": "{box:01}すごいがくぶちの{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting in{br}an amazing frame.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -386,8 +386,8 @@
    "4125C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゆっくりながめる{br} ヒマはないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time for a leisurely look.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -396,8 +396,8 @@
    "41264"
   ],
   "jp": "{box:01}小さなテーブルが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「しゃれたスタンド{br} しかないようだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small table stands here.{page}{box:00}{name:02}George{br}Looks like there's{br}just a stylish lamp.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -406,8 +406,8 @@
    "41268"
   ],
   "jp": "{box:01}ならくへつづく{br}おとしあなだ。{page}{box:00}{name:02}ジョージ{br}「うわ！{br} そこが見えない…{page}{box:00}{name:02}ジョージ{br}「おっこちたら{br} じごく行きだ！{page}{box:00}{name:02}ジョージ{br}「あぶないから{br} むちゃできないし…{page}{box:00}{name:02}ジョージ{br}「あなを物で{br} ふさげないし…{page}{box:00}{name:02}ジョージ{br}「どこかにしかけが{br} あるに違いない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A pit leading into the abyss.{page}{box:00}{name:02}George{br}Whoa! I can't see the bottom...{page}{box:00}{name:02}George{br}Fall in there and it's{br}a one-way trip to Hell!{page}{box:00}{name:02}George{br}It's too dangerous to{br}try anything crazy...{page}{box:00}{name:02}George{br}and I can't plug the{br}hole with anything...{page}{box:00}{name:02}George{br}There's got to be{br}a trick somewhere.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -416,8 +416,8 @@
    "4126C"
   ],
   "jp": "{box:01}からっぽの{br}キャビネットだ。{page}{box:01}その中に書き置き{br}を見つけた。{page}{box:00}{name:02}ジョージ{br}「なんだろう…？」{page}{box:01}『Nリキッドを{br} それぞれのつぼに{page}{box:01}『夜あけのランプ、{br} エリクシール』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty cabinet.{page}{box:01}I found a written note inside it.{page}{box:00}{name:02}George{br}What's this...?{page}{box:01}\"N Liquid into each of the jars:{page}{box:01}\"the Lamp of Dawn, the Elixir.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -426,8 +426,8 @@
    "41270"
   ],
   "jp": "{box:01}しゃれた絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A stylish painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -436,8 +436,8 @@
    "41274"
   ],
   "jp": "{box:01}かべ時計は{br}うごいていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall clock isn't moving.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -446,8 +446,8 @@
    "41278"
   ],
   "jp": "{box:01}使えそうな物は{br}とくになかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}particularly usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -456,8 +456,8 @@
    "4127C"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがある。{page}{box:01}『じごくのクチには{br} ふみつけるべし{page}{box:01}『さすればクチも{br} とじるだろう』{page}{box:00}{name:02}ジョージ{br}「何のことだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a note on the table.{page}{box:01}\"Trample the mouth of Hell,{page}{box:01}\"and the mouth shall close.\"{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -467,8 +467,8 @@
    "412A0"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「ライトしか{br} のってないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small table stands here.{page}{box:00}{name:02}George{br}There's only a lamp on it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -478,8 +478,8 @@
    "412A4"
   ],
   "jp": "{box:01}キャビネットが{br}置かれている。{page}{box:01}中にメモが{br}残っていた。{page}{box:01}『夜あけのランプは{br} 全体ダメージ{page}{box:01}『Nリキッドと{br} ガラスのつぼで』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A cabinet stands here.{page}{box:01}A note was left inside.{page}{box:01}\"The Lamp of Dawn damages all.{page}{box:01}\"N Liquid and a Glass Jar.\"{page}{box:00}{name:02}George{br}Gotcha...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -489,8 +489,8 @@
    "412A8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ふんいきのある{br} あぶら絵だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's one atmospheric{br}oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -500,8 +500,8 @@
    "412AC"
   ],
   "jp": "{box:01}こわれてしまった{br}ハト時計のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a broken{br}cuckoo clock.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -511,8 +511,8 @@
    "412B0"
   ],
   "jp": "{box:01}テーブルのシミが{br}文字に見える。{page}{box:01}『おまえももうすぐ{br} ゴーストに…』{page}{box:00}{name:02}ジョージ{br}「いかん、つかれて{br} 来たのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A stain on the table{br}looks like writing.{page}{box:01}\"Soon you too will{br}become a ghost...\"{page}{box:00}{name:02}George{br}Whoa, am I getting{br}tired or something?{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

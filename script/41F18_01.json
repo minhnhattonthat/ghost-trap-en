@@ -737,8 +737,8 @@
    "422E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし！ゴーストを{br} やっつけたぞ！」{page}{box:00}{name:02}ジョージ{br}「…それにしても{br} あのナイフには、」{page}{box:00}{name:02}ジョージ{br}「ゴーストを止めて{br} うごけなくする、」{page}{box:00}{name:02}ジョージ{br}「バインドのうりょく{br} があるのか？」{page}{box:00}{name:02}ジョージ{br}「どうやらナイフの{br} ふしぎなチカラと」{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} がはんのうして…」{page}{box:00}{name:02}ジョージ{br}「ワナになった{br} みたいだけど…」{page}{box:00}{name:02}ジョージ{br}「もう一つのワナを{br} しらべてみるか…」{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}All right! I took out the ghost!{page}{box:00}{name:02}George{br}...But that knife...{page}{box:00}{name:02}George{br}Does it have the{br}power to bind ghosts,{page}{box:00}{name:02}George{br}stopping them so{br}they can't move?{page}{box:00}{name:02}George{br}Looks like the{br}knife's weird power{page}{box:00}{name:02}George{br}reacted with the{br}power of my sensor...{page}{box:00}{name:02}George{br}and turned into a trap...{page}{box:00}{name:02}George{br}Let's check out{br}the other trap...{page}{box:00}{name:02}George{br}Walk up to the trap and{br}press the A Button...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -747,8 +747,8 @@
    "422E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このひろった{br} ナイフを…」{page}{box:00}{name:02}ジョージ{br}「床に同じように{br} ならべてみるか…」{page}{box:00}{name:02}ジョージ{br}「ナイフをせんたく{br} してAボタンで、」{page}{box:00}{name:02}ジョージ{br}「ナイフを使えば、{br} ワナができると…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This knife I picked up...{page}{box:00}{name:02}George{br}Maybe I'll line it up on{br}the floor the same way...{page}{box:00}{name:02}George{br}Select the knife and{br}press the A Button,{page}{box:00}{name:02}George{br}and using it makes a trap...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -757,8 +757,8 @@
    "422E8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「やっぱりセンサー{br} にはんのうして、」{page}{box:00}{name:02}ジョージ{br}「ワナになる{br} みたいだ！」{page}{box:00}{name:02}ジョージ{br}「よし！センサーを{br} かいぞうしよう。」{page}{box:00}{name:02}ジョージ{br}「少しだけパワーを{br} ワナにむけて…」{page}{box:00}{name:02}ジョージ{br}「ワナがのこる{br} ようにしよう。」{page}{box:00}{name:02}ジョージ{br}「…でも、マトモな{br} 道具が無いから、」{page}{box:00}{name:02}ジョージ{br}「5つまでが{br} げんどだな…」{page}{box:00}{name:02}ジョージ{br}「それにパワーも{br} 小さいから、」{page}{box:00}{name:02}ジョージ{br}「とおくに行くと{br} ワナがきえるな…」{page}{box:00}{name:02}ジョージ{br}「…でも、まぁ、{br} なんとかなるさ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Just as I thought, it{br}reacts to the sensor{page}{box:00}{name:02}George{br}and turns into a trap!{page}{box:00}{name:02}George{br}Okay! Let's modify the sensor.{page}{box:00}{name:02}George{br}Send a little of its{br}power to the traps...{page}{box:00}{name:02}George{br}so the traps stick around.{page}{box:00}{name:02}George{br}...But without any decent tools,{page}{box:00}{name:02}George{br}five is the limit...{page}{box:00}{name:02}George{br}And since the power's weak,{page}{box:00}{name:02}George{br}the traps vanish if{br}I go too far away...{page}{box:00}{name:02}George{br}...Eh, I'll manage somehow.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -767,8 +767,8 @@
    "422EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは…！？」{page}{box:00}{name:02}ジョージ{br}「さっきと部屋の{br} ふんいきがちがう。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What's this...?!{page}{box:00}{name:02}George{br}The room feels{br}different from before.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -777,8 +777,8 @@
    "422F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「やっぱりさっきと{br} ちがう！」{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ？{br} この館は！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It really is different{br}from before!{page}{box:00}{name:02}George{br}What is up with this house?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -787,8 +787,8 @@
    "422F4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンがあたった？」{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜんちがう。」{page}{box:00}{name:02}ジョージ{br}「この本がなにかの{br} カギだったんだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Was Karol-san's hunch right?{page}{box:00}{name:02}George{br}It's totally different{br}from before.{page}{box:00}{name:02}George{br}This book was some kind of key!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -797,8 +797,8 @@
    "422F8"
   ],
   "jp": "{box:00}{name:05}？？？？{br}「わ…れ…わ{br} グレ…ゴリ…」{page}{box:00}{name:02}ジョージ{br}「グレゴリ？{br} 何のことだ？」{page}{box:00}{name:02}ジョージ{br}「きえた……でも、{br} 今のゴーストは、」{page}{box:00}{name:02}ジョージ{br}「何かをいいたそう{br} だったな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:05}????{br}I... am... Gre...gori...{page}{box:00}{name:02}George{br}Gregori? What's that{br}supposed to mean?{page}{box:00}{name:02}George{br}It vanished... But{br}that ghost just now{page}{box:00}{name:02}George{br}looked like it wanted{br}to tell me something...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -807,8 +807,8 @@
    "422FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ…？{br} あかないぞ。」{page}{box:00}{name:02}ジョージ{br}「あ、何かドアに{br} かかれてるな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「あなたのキフ？{br} きふ…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What...? It won't open.{page}{box:00}{name:02}George{br}Oh, something's{br}written on the door...{page}{box:01}\"Into the three mouths,{br}your offering...\"{page}{box:00}{name:02}George{br}My offering? Offering...?{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]
