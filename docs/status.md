@@ -96,7 +96,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Runs stopped (2026-11-15, ~18:40, and again later that day):** Claude Code killed the background runs for low
   system memory (2.2 GB free of 15.5; other repos' Mesen runs share the machine; not a tool fault). Msgs: stopped a
   third time (19:11, `--jobs 1`, 1.2 GB free with 5 Mesen processes from other repos): ~2800/3192 strings have a proof
-  shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume3.log`). `qa_tour.py --resume` now
+  shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume3.log`). Fourth resume (`--jobs 1`,
+  log `work/qa/en_msgs_resume4.log`) stopped the same way after 300/391 ok: **~3100/3192 done, 0 failures**, about
+  90 strings left for the next `--resume`. `qa_tour.py --resume` now
   passes `--resume` to msgs/tour/story, so the tour continues from scene 233 instead of restarting.
   Save/load confirm boxes checked (step 5 first half): `work/qa/inkbox/{save,load}_confirm`, JP `work/qa/inkbox_jp`:
   left-aligned like the JP, same layer shimmer as the JP, so not centred boxes and inkbox doesn't apply. Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
