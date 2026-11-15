@@ -38,11 +38,42 @@ Use a real tab character. The ids, in attachment order:
 Do not run any commands."""
 
 
-def ask(ids_paths, raw):
+REF_NOTE = """
+Some English sheets are followed by a JP REFERENCE image: the same scenes on the original Japanese ROM, shot the same
+way. It gets no verdict line. Anything that looks the same in the reference (picture art, zigzag cutscene backdrops,
+background fills, effects, small unreadable text at sheet scale) is the game's own: ok. Judge only what differs.
+Attachment order: {order}
+"""
+
+
+def reference(p, compare):
+    """The JP counterpart of an English sheet, from --compare EN_DIR=JP_DIR pairs, if it exists."""
+    rp = Path(p).resolve()
+    for en, jp in compare:
+        try:
+            rel = rp.relative_to(en)
+        except ValueError:
+            continue
+        ref = jp / rel
+        return ref if ref.exists() else None
+    return None
+
+
+def ask(ids_paths, raw, compare=()):
     args = ["codex", "exec", "--skip-git-repo-check", "-s", "read-only"]
-    for _, p in ids_paths:
+    order = []
+    for i, p in ids_paths:
         args += ["-i", str(p)]
+        order.append(i)
+        ref = reference(p, compare)
+        if ref:
+            args += ["-i", str(ref)]
+            order.append(f"(JP REFERENCE for {i})")
     prompt = PROMPT.format(rules=rules(), ids="\n".join(i for i, _ in ids_paths))
+    if len(order) > len(ids_paths):
+        prompt = prompt.replace("Answer with exactly one line per image, in attachment order",
+                                "Answer with exactly one line per English image (none for references), in order")
+        prompt += REF_NOTE.format(order="; ".join(order))
     r = subprocess.run(args + ["--", prompt], capture_output=True, text=True, encoding="utf-8", errors="replace",
                        cwd=ROOT, timeout=1800)
     raw.write_text(r.stdout + "\n--- stderr ---\n" + r.stderr, encoding="utf-8")
@@ -55,7 +86,7 @@ def ask(ids_paths, raw):
     return out
 
 
-def review(chunk, ids, vdir, batch):
+def review(chunk, ids, vdir, batch, compare=()):
     items = []
     for line in chunk.read_text(encoding="utf-8").splitlines():
         if not line.strip():
@@ -68,10 +99,11 @@ def review(chunk, ids, vdir, batch):
             items.append((ids[str(p.resolve())], p))
     got = {}
     for n in range(0, len(items), batch):
-        got.update(ask(items[n:n + batch], vdir / "raw" / f"{chunk.stem}_{n // batch}.txt"))
+        got.update(ask(items[n:n + batch], vdir / "raw" / f"{chunk.stem}_{n // batch}.txt", compare))
     for i, p in items:
         if i not in got:
-            got.update(ask([(i, p)], vdir / "raw" / f"{chunk.stem}_retry_{re.sub(r'[^\\w]+', '_', i)}.txt"))
+            got.update(ask([(i, p)], vdir / "raw" / f"{chunk.stem}_retry_{re.sub(r'[^\\w]+', '_', i)}.txt",
+                           compare))
     lines = [f"{i}\t{got[i][0]}\t{got[i][1]}" for i, _ in items if i in got]
     (vdir / f"{chunk.stem}.tsv").write_text("\n".join(lines) + "\n", encoding="utf-8")
     missing = [i for i, _ in items if i not in got]
@@ -85,7 +117,10 @@ def main(argv=None):
     ap.add_argument("chunks", nargs="+", type=Path)
     ap.add_argument("--batch", type=int, default=6)
     ap.add_argument("--jobs", type=int, default=2)
+    ap.add_argument("--compare", action="append", default=[], metavar="EN_DIR=JP_DIR",
+                    help="attach the same-named sheet under JP_DIR after each sheet under EN_DIR (repeatable)")
     a = ap.parse_args(argv)
+    compare = [tuple((ROOT / d).resolve() for d in c.split("=", 1)) for c in a.compare]
     ids = {}
     for line in a.manifest.read_text(encoding="utf-8").splitlines():
         cells = line.split("\t")
@@ -95,7 +130,7 @@ def main(argv=None):
     (vdir / "raw").mkdir(parents=True, exist_ok=True)
     bad = 0
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        for name, n, missing, issues in ex.map(lambda c: review(c, ids, vdir, a.batch), a.chunks):
+        for name, n, missing, issues in ex.map(lambda c: review(c, ids, vdir, a.batch, compare), a.chunks):
             print(f"{name}: {n} verdicts, {len(issues)} issues, {len(missing)} missing", flush=True)
             for ln in issues:
                 print("  ISSUE " + ln, flush=True)

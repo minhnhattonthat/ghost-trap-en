@@ -41,6 +41,11 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   picture, and cutscene or menu strings in the plain field box, are normal. A sentence that continues from p1 onto
   p2 at a clause break is fine (the wrapper splits long sentences there); judge each page's own lines. A tile that
   shows only a name plate, or an empty box, is an issue only if the label's string has text on that page.
+- `tour/sheet_*` (warp proof shots, half size): they prove each scene is reached and nothing gross is wrong. The
+  cutscene backdrops are zigzag "warp" art, and dialogue at half size is a few pixels per glyph: both the game's
+  own (compare the JP reference, `work/qa/tour_jp`). Text is judged on `pages/` and `story/` sheets, not here.
+- Scripts 37-38 (copyright/licence screen played out of context): the screen-filling repeat of glyph tiles behind
+  the licence lines is compared with the JP reference; the licence text itself is the original English.
 - `story/*/sheet_pages*`: cutscenes clicked through in context. Tiles of the scene with no text box (the picture
   or the room between pages) are the shot picker's false positives: `ok`.
 
