@@ -93,6 +93,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `play.py` (DROP -> Throw this away?, cursor both ways: `work/play/yesno3`, JP `work/play/yesno_jp`). Not a
     centred box (left-aligned like the JP), so inkbox doesn't apply. `tools/vqa_review.py` (codex exec verdicts per
     qa_gate chunk) written, not yet run.
+- **Runs stopped (2026-11-15, ~18:40):** Claude Code killed both background runs for low system memory (other
+  repos' Mesen runs share the machine; not a tool fault). Msgs: ~1788/3192 strings have a proof shot, 0 failures
+  (`--resume` continues). Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
+  work/qa/en/tour --probe <skill>/scripts/lua/probes/textcover.lua ...` or re-run `qa_tour.py --skip msgs`); story
+  not started. Run them one at a time when memory allows.
 - **Next (phase 8 done-when), in order:**
   1. Msgs run on the frozen text build (`work/qa/en_msgs_resume.log`, out `work/qa/en/msgs`): if it stopped, resume
      with `python -X utf8 tools/msgview.py --resume --jobs 2 --rom <repo>/work/qa/roms/en_text_19914506.gba --out
@@ -116,4 +121,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Open bugs:** none.
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by hand (headless only); the owner
   can open it once to confirm. Not blocking. Long regens can get stopped by Claude Code for low memory (other repos'
-  Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it.
+  Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it. This
+  stopped both phase-8 runs twice now: the owner may want to set it, or not run other repos' tours alongside.
