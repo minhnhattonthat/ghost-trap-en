@@ -26,7 +26,22 @@ TOKEN = re.compile(r"\{\w+(?::[0-9A-Fa-f]*)?\}")  # control codes and variable i
 FREE = {"{br}", "{page}"}
 VARIABLE = r"\{name:(?:0A|15)\}"  # an item name or count the game draws
 HONORIFICS = {"さん": "-san", "くん": "-kun", "ちゃん": "-chan", "先生": "-sensei"}  # glossary ruling D1
-ENCODABLE = set(" !\"%&'()+,-./0123456789:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#~")
+
+
+def table_chars(path=ROOT / "tbl" / "en.tbl"):
+    """The single characters the project table encodes (\\s is the space): the font's real charset."""
+    out = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if line.startswith("#") or "=" not in line:
+            continue
+        val = line.split("=", 1)[1]
+        val = " " if val == "\\s" else val
+        if len(val) == 1:
+            out.add(val)
+    return out
+
+
+ENCODABLE = table_chars()
 
 
 def docs():

@@ -114,9 +114,46 @@ def paginate(body, width, nlines):
     pages.append(cur)
     out = []
     for p in pages:
-        lines = wrap_body(p, width)
-        out += [balance(lines[i:i + nlines], width) for i in range(0, len(lines), nlines)]
+        for part in split_long(p, width, nlines):
+            out.append(balance(wrap_body(part, width), width))
     return out
+
+
+@lru_cache(maxsize=4096)
+def split_long(text, width, nlines):
+    """One sentence too long for a page: split it into as few pages as it needs, at the break that keeps the
+    pages even and prefers a clause boundary (comma, dash, ellipsis), so no page is a one-word stub."""
+    lines = wrap_body(text, width)
+    if len(lines) <= nlines:
+        return [text]
+    words = text.split(" ")
+    best = None
+    for i in range(1, len(words)):
+        a, b = " ".join(words[:i]), " ".join(words[i:])
+        if len(wrap_body(a, width)) > nlines:
+            break
+        rest = split_long(b, width, nlines)
+        clause = a[-1] in ",;:-" or a.endswith("...")
+        score = (len(rest), -min(len(a), len(rest[0])) - (12 if clause else 0))
+        if best is None or score < best[0]:
+            best = (score, [a] + rest)
+    return best[1] if best else [text]
+
+
+STUB = 8  # a page wrap.py adds must hold at least this many characters
+
+
+def stubs(text):
+    """Pages that continue a sentence from the page before (it ends without . ! ? or a quote) yet hold under
+    STUB characters: what a mid-clause page split looks like to the player."""
+    bad, prev = [], None
+    for body, _ in segments(text):
+        rest = prefix(body)[1].replace("{br}", " ")
+        plain = TOKEN.sub("", rest).strip()
+        if prev and plain and len(plain) < STUB and not re.search(r"[.!?\"')~]$", prev):
+            bad.append(f"stub page {plain!r} continues {prev[-30:]!r}")
+        prev = plain
+    return bad
 
 
 def layout(entry, en):
@@ -142,7 +179,7 @@ def layout(entry, en):
                 bad.append(f"{len(pg)} lines on a page > {nlines}: {pg!r}")
             out += ("{page}" if i else "") + (pre if (i == 0 or pre.startswith("{box")) else "") + "{br}".join(pg)
         out += code
-    return out, bad
+    return out, bad + stubs(out)
 
 
 if __name__ == "__main__":

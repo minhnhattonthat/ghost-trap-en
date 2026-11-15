@@ -28,7 +28,7 @@
    "41DAC"
   ],
   "jp": "{box:01}かべに大きな{br}あながあいている。{page}{box:00}{name:02}ジョージ{br}「あなのおくには{br} なにもなさそうだ」{page}{end}",
-  "en": "{box:01}There's a big hole in the wall.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything at the back of the{page}{box:00}{name:02}George{br}hole.{page}{end}",
+  "en": "{box:01}There's a big hole in the wall.{page}{box:00}{name:02}George{br}Doesn't look like there's{br}anything at the back of it.{page}{end}",
   "status": "done",
   "notes": ""
  },

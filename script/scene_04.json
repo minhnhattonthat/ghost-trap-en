@@ -5,7 +5,7 @@
    "3C044"
   ],
   "jp": "アラフシャムの書が{br}光っている。{clr} {clr}『だが死のつかいの力は{br} 人のそれをはるかにこえる{page}『1人や2人の魔力で{br} 封じられるモノではない{page}『少なくとも9人の力が{br} ひつようだろう{page}『そのうちの何人かは{br} 命をおとすかもしれない』{clr}{box:00}{name:02}ジョージ{br}「9人？それだけいないと{br} 封印できないのか！{page}{box:00}{name:02}ジョージ{br}「しかも、命をおとすだって？{br} なんてこった！」{clr} {clr}{end}",
-  "en": "The Book of Arahsham is glowing.{clr} {clr}But the messenger of death's{br}power far exceeds that of any{page}human.{page}The magic of one or{br}two will not seal him.{page}The power of at least{br}nine will be needed.{page}Some of them may{br}lose their lives.{clr}{box:00}{name:02}George{br}Nine? It takes that{br}many to seal him!?{page}{box:00}{name:02}George{br}And people might die doing{br}it? You've got to be kidding!{clr} {clr}{end}",
+  "en": "The Book of Arahsham is glowing.{clr} {clr}But the messenger of death's{br}power far exceeds any human's.{page}The magic of one or{br}two will not seal him.{page}The power of at least{br}nine will be needed.{page}Some of them may{br}lose their lives.{clr}{box:00}{name:02}George{br}Nine? It takes that{br}many to seal him!?{page}{box:00}{name:02}George{br}And people might die doing{br}it? You've got to be kidding!{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  },

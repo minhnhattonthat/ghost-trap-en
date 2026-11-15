@@ -30,6 +30,17 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
   Alicia (アリシア): his childhood friend, sharp-tongued, sceptical of ghost hunting. Karol (カロル): a nervous
   tourist who came to gawk at the haunted house; polite (です/ます) -> politer, hesitant English.
   ???? (？？？？): an unseen voice; keep it fragmentary and eerie.
+- Voice table (JP marker -> English device). Every line of these speakers carries the device; a neutral line is a
+  flattened voice (review: Important).
+
+  | Speaker | JP markers | English devices | Example |
+  |---|---|---|---|
+  | George | オレ, 〜ぜ, 〜だぜ, くそっ | contractions, slang, blunt asides ("Damn it!", "Seriously?") | ゆだんしたぜ！ -> "I let my guard down!" |
+  | Alicia | 〜わよ, 〜のよね, 〜ねぇ | casual, teasing, dry sighs ("...Sigh...", "you know!") | ダメだこりゃ -> "He's hopeless..." |
+  | Karol | です/ます, 〜さん; Time Attack host: わたし/キミ, だとも | polite, hesitant ("I-I...", "please"); as host, hammy and grand ("SILENCE!!", "Ha-ha-ha") | |
+  | Shinfa | gentle です/ます, 〜てください, ごめんなさい | soft, formal, no contractions where it reads natural ("he has returned", "Please help me!") | もうあらわれる事はないでしょう -> "He will never appear again..." |
+  | Albino | ワイ, 〜のう, 〜できんとな, やれやれ | old-man: "Bah", "eh?", "What's this!?", ", that." tags, "old-timer" | つらいのう -> "Rough on an old-timer, that." |
+  | Reaper (Time Attack host) | です/ます host lines, ゲームスタート！ | game-show host, cheerful and courteous ("Here we go!", "We look forward to your next visit.") | |
 - Field examine text ({box:01}, 3C55C/3FF00): short, wry observations; vary the stock openers ("There's a...",
   "A ... sits here.") instead of repeating one form.
 
