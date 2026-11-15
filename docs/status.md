@@ -107,6 +107,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Msgs done (2026-11-15):** `work/qa/en/msgs` 3192 strings, 0 failed (4 ids had SCENE_OK but no shot from a killed
   run: re-run). `work/qa/en/msgs_final`: the 5 Yes/No strings on the final build, 0 failed (the bare cursor rows
   10F05C/10F06C draw nothing in msgview's box; in game: `work/play/yesno3`).
+- **Tour done, story half done (2026-11-15, log `work/qa/en_tour.log`):** tour 534 scenes, 532 ok; **area_30_r0 and
+  area_30_r1 timed out** (exit 124; r1 logged SCENE_OK before the timeout, so likely load from other Mesen runs):
+  re-run those two (`warp.py area_30_r0 --rom <frozen QA build> ...` or `--resume`). Story: 21/39 cutscenes proven,
+  then Claude Code stopped the run for low memory again; `qa_tour.py --skip msgs --resume ...` continues it (the tour
+  part re-runs only the 2 failures).
 - **Next (phase 8 done-when), in order:**
   2. Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
      log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
