@@ -1,0 +1,8 @@
+# boot: skip logos, title, press start into the menu
+1500 -
+6 start
+240 -
+6 start
+240 -
+6 a
+300 -
