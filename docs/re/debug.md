@@ -55,13 +55,22 @@ After a cutscene ends the game goes to SAVE GAME (mode 5), then the field.
 - **mode N**: request mode N from the title. SAVE GAME needs four A presses to write (YES, slot, box, confirm);
   LOAD GAME two (box, confirm). `save_write` produces `work/saves/slot1.sav`, which the `load_*` scenes boot with.
 - **script N**: from the title set act 1, 0x8E = 0, script 2 and request mode 8 (the new-game path); on entry to
-  sub-state 1 swap the id 2 -> N. Arrival = first glyph drawn while script N plays. Proven so far for scripts
-  0-23, 34, 37 and 39 (39+ are field messages; they show in the cutscene window); the rest wait for `--all`.
+  sub-state 1 swap the id 2 -> N. Arrival = first glyph drawn while script N plays. All 127 proven (39+
+  are field messages; they show on black in the cutscene window). The proof shot is 120 frames after the first glyph
+  for cutscenes 0-38 (0, 2 and 34 are still black at 45) and 45 for field messages 39+ (41, 77, 126... have closed
+  by 120).
 - **story act/cnt/phase**: set the story block and request mode 8; the game picks the scene. `chapter_N` = act N,
   counter N-1, phase 0 (the act's first story scene); `chapter_Nb` = the second.
 - **field area/room**: same new-game path with script `0xFE` (goes to the field); the floor-loader hook replaces the
   area id. The floor loader picks the room from the player's position (`0x08003A2C`), so a room other than that one
-  is reached with a fake door (`0x03003716` = room, `0x03003710` = 1) once the area has loaded.
+  is reached with a fake door (`0x03003716` = room, `0x03003710` = 1) once the area has loaded. The door is read at
+  `0x080010EC` (field main loop) only while no field dialogue is open; rooms that open with an arrival line (areas
+  09, 2C, 2D, 2E, 31, 33: "むこうで何か、光ってるな…") ignore it until the text closes, so warp.lua presses A and
+  re-arms the door every 60 frames until the room changes. Door taken: `0x03003714` = 3 (`0x08001174`), flag cleared
+  (`0x08001398`), room stored (`0x08003D20`). In some target rooms (areas 09, 2C, 2D, 2E, 6E) the player then stands
+  inside that room's exit rect, and the game's door check (`0x08004774` sets the flag, `0x0800477C` the room) walks
+  straight back out; warp.lua clears the flag at `0x0800477E` from landing until the proof shot. A `--state` taken
+  there still has the player on the exit.
 
 ## Limits and leads
 

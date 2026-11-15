@@ -67,6 +67,20 @@ L.on_write(SCRIPT, SCRIPT, function(_, v)
   if stage == "warped" and sc.kind == "story" then storyScript = v & 0xFF end
 end)
 
+-- field: log the door flag and room writes after a fake door
+local landed = false
+L.on_write(0x03003710, ROOM + 1, function(a, v)
+  if doored and stage == "warped" then
+    L.log(string.format("ROOMW f%d %08X=%d pc %08X", L.frame, a, v & 0xFF, L.pc()))
+    if a == ROOM and (v & 0xFF) == (sc.room or 0) then landed = true end
+  end
+end)
+-- field: after a fake door the player can stand on the target room's exit (areas 09, 2C-2E, 6E), and the game's
+-- door-rect check (0x08004774 sets the flag, 0x0800477C the room) walks straight back out: cancel it until the shot
+L.on_exec(0x0800477E, 0x0800477E, function()
+  if landed and stage ~= "done" then w8(0x03003710, 0) end
+end)
+
 L.on_exec(GLYPH, GLYPH, function()
   if stage ~= "warped" or glyphAt then return end
   if (sc.kind == "script" and swapped) or sc.kind == "story" then glyphAt = L.frame end
@@ -124,12 +138,15 @@ L.on_frame(function(n)
       if stable == 60 then
         if r8(ROOM) == (sc.room or 0) then
           arrive(string.format("area %02X room %d%s", sc.area, sc.room or 0, doored and " (door)" or ""))
-        elseif not doored then
+        else
+          -- a room that opens with an arrival dialogue (areas 09, 2C-2E, 31, 33) takes no door until the text
+          -- is closed: press A and re-arm the door every 60 frames until the room changes
+          if doored then L.press("a", 6) end
           doored = true
           w8(0x03003716, sc.room or 0)
           w8(0x03003710, 1)
           stable = 0
-          L.log(string.format("WARP f%d door to room %d", n, sc.room or 0))
+          L.log(string.format("WARP f%d door to room %d (sub %d, was room %d)", n, sc.room or 0, r16(SUB), r8(ROOM)))
         end
       end
     elseif k == "story" and (glyphAt or ((mode == 9 or mode == 5) and n - warpAt > 30)) then

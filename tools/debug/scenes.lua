@@ -15,7 +15,7 @@
 SCENES = {
   title       = { kind = "title", hold = 400, note = "title screen, PRESS START" },
   title_menu  = { kind = "title", after = "600 -;6 start;150 -", note = "NEW GAME / CONTINUE / OPTION" },
-  title_intro = { kind = "mode", mode = 4, stable = 1, hold = 60, note = "title intro (castle rising into the logo)" },
+  title_intro = { kind = "mode", mode = 4, stable = 1, hold = 210, note = "title intro (castle rising into the logo)" },
   option      = { kind = "mode", mode = 3, note = "OPTION: sound test, message speed" },
   save        = { kind = "mode", mode = 5, note = "SAVE GAME yes/no" },
   save_slots  = { kind = "mode", mode = 5, after = "6 a;150 -", note = "SAVE GAME slot list (after YES)" },
@@ -49,7 +49,8 @@ SCENES = {
 function SCENE_LOOKUP(name)
   if SCENES[name] then return SCENES[name] end
   local n = name:match("^script_(%d+)$")
-  if n then return { kind = "script", id = tonumber(n), hold = 120 } end
+  -- cutscenes (0-38) fade in slowly: shoot 120 frames after the first glyph; field messages (39+) can close by then
+  if n then return { kind = "script", id = tonumber(n), hold = tonumber(n) >= 39 and 45 or 120 } end
   local a, r = name:match("^area_(%x%x)_r(%d+)$")
   if a then return { kind = "field", area = tonumber(a, 16), room = tonumber(r), hold = 90 } end
   local c, b = name:match("^chapter_(%d+)(b?)$")
