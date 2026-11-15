@@ -104,12 +104,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   left-aligned like the JP, same layer shimmer as the JP, so not centred boxes and inkbox doesn't apply. Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
   work/qa/en/tour --probe <skill>/scripts/lua/probes/textcover.lua ...` or re-run `qa_tour.py --skip msgs`); story
   not started. Run them one at a time when memory allows.
+- **Msgs done (2026-11-15):** `work/qa/en/msgs` 3192 strings, 0 failed (4 ids had SCENE_OK but no shot from a killed
+  run: re-run). `work/qa/en/msgs_final`: the 5 Yes/No strings on the final build, 0 failed (the bare cursor rows
+  10F05C/10F06C draw nothing in msgview's box; in game: `work/play/yesno3`).
 - **Next (phase 8 done-when), in order:**
-  1. Msgs run on the frozen text build (`work/qa/en_msgs_resume.log`, out `work/qa/en/msgs`): if it stopped, resume
-     with `python -X utf8 tools/msgview.py --resume --jobs 2 --rom <repo>/work/qa/roms/en_text_19914506.gba --out
-     work/qa/en/msgs`. Then show the 5 changed Yes/No strings on the final build:
-     `msgview.py --only "10EEFC|10EF18|10EF50|10F05C|10F06C" --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba
-     --out work/qa/en/msgs_final` (or waive them citing `work/play/yesno3`).
   2. Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
      log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
   3. Coverage: `python -X utf8 tools/coverage.py --final work/qa/roms/e067dd06/ghost_trap_en.gba --run
