@@ -5,8 +5,8 @@
    "3F144"
   ],
   "jp": "{box:01}たるの中は{br}カラッポのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The barrel seems empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3F148"
   ],
   "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing in the barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -26,8 +26,8 @@
    "3F16C"
   ],
   "jp": "{box:01}木ばこなどが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wooden crates{br}and such sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -37,8 +37,8 @@
    "3F170"
   ],
   "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Broken things are stacked up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -48,8 +48,8 @@
    "3F174"
   ],
   "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but stuff nobody needs.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -59,8 +59,8 @@
    "3F178"
   ],
   "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a closet.{page}{box:01}But there was nothing inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -69,8 +69,8 @@
    "3F164"
   ],
   "jp": "{box:01}何が入っていた{br}たるだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}What was in this{br}barrel, I wonder?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -79,8 +79,8 @@
    "3F168"
   ],
   "jp": "{box:01}たるからワインの{br}ニオイがする。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The barrel smells of wine.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -89,8 +89,8 @@
    "3F184"
   ],
   "jp": "{box:01}このたるはもう{br}使われない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}This barrel won't{br}be used anymore...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -99,8 +99,8 @@
    "3F188"
   ],
   "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing in this barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -110,8 +110,8 @@
    "3F1AC"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -121,8 +121,8 @@
    "3F1B0"
   ],
   "jp": "{box:01}これはガラクタの{br}やまのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a heap of junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -132,8 +132,8 @@
    "3F1B4"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -143,8 +143,8 @@
    "3F1B8"
   ],
   "jp": "{box:01}物置のとびらは{br}ひらかなかった。{page}{box:01}あきらめた方が{br}よさそうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The storeroom{br}door wouldn't open.{page}{box:01}Better give up on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -153,8 +153,8 @@
    "3F1A4"
   ],
   "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken barrel sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -163,8 +163,8 @@
    "3F1A8"
   ],
   "jp": "{box:01}あながあいた{br}たるだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A barrel with a hole in it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
    "3F1C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's one well-aged barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -183,8 +183,8 @@
    "3F1C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たるからカビが{br} 生えている…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's mold growing{br}on the barrel...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -193,8 +193,8 @@
    "3F1CC"
   ],
   "jp": "{box:01}館のいらない物が{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The house's unwanted{br}stuff is piled here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -203,8 +203,8 @@
    "3F1D0"
   ],
   "jp": "{box:01}古びたガラクタ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but old junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -213,8 +213,8 @@
    "3F1D4"
   ],
   "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing here but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -223,8 +223,8 @@
    "3F1D8"
   ],
   "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a closet in the wall.{page}{box:01}But nothing in it was any use.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -233,8 +233,8 @@
    "3F1E4"
   ],
   "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Barrels full of wine, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -244,8 +244,8 @@
    "3F208"
   ],
   "jp": "{box:01}木ばこなどの{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wooden crates and other junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "3F20C"
   ],
   "jp": "{box:01}こわれたガラクタ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but broken junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -266,8 +266,8 @@
    "3F210"
   ],
   "jp": "{box:01}ガラクタいがいに{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing here but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -278,8 +278,8 @@
    "3F294"
   ],
   "jp": "{box:01}何かをほかん{br}しているようだ。{page}{box:01}ひどいニオイが{br}立ちこめている。{page}{box:01}あけないほうが{br}よさそうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like something's{br}being stored here.{page}{box:01}A horrible smell hangs in the air.{page}{box:01}Better not open it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -288,8 +288,8 @@
    "3F1F8"
   ],
   "jp": "{box:01}たるがつまれて{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Barrels are stacked here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -306,8 +306,8 @@
    "3F2FC"
   ],
   "jp": "{box:01}カラの木ばこしか{br}ないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like only empty crates.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -324,8 +324,8 @@
    "3F300"
   ],
   "jp": "{box:01}たなに木ばこが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wooden crates sit{br}on the shelves.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -334,8 +334,8 @@
    "3F204"
   ],
   "jp": "{box:01}大きなたるが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Big barrels are stacked up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -344,8 +344,8 @@
    "3F218"
   ],
   "jp": "{box:01}大きなたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big barrel sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -354,8 +354,8 @@
    "3F224"
   ],
   "jp": "{box:01}たるの中は{br}ワインだろう。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's probably{br}wine in the barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "3F248"
   ],
   "jp": "{box:01}コケむした{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Moss-covered junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -376,8 +376,8 @@
    "3F24C"
   ],
   "jp": "{box:01}ボロボロの{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Battered junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -387,8 +387,8 @@
    "3F250"
   ],
   "jp": "{box:01}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -398,8 +398,8 @@
    "3F254"
   ],
   "jp": "{box:01}とびらの中は{br}物置だ。{page}{box:01}物置の中は{br}カラッポだった…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Behind the door is a storeroom.{page}{box:01}The storeroom was empty...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -408,8 +408,8 @@
    "3F238"
   ],
   "jp": "{box:01}カビが生えた{br}たるだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A moldy barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -418,8 +418,8 @@
    "3F244"
   ],
   "jp": "{box:01}ずいぶんと古い{br}たるがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a really old barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -428,8 +428,8 @@
    "3F258"
   ],
   "jp": "{box:01}ボロボロのたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered barrel sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -438,8 +438,8 @@
    "3F264"
   ],
   "jp": "{box:01}たるの中は{br}カラッポのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The barrel seems empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -449,8 +449,8 @@
    "3F288"
   ],
   "jp": "{box:01}木ばこなどが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wooden crates{br}and such sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -460,8 +460,8 @@
    "3F28C"
   ],
   "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Broken things are stacked up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -471,8 +471,8 @@
    "3F290"
   ],
   "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but stuff nobody needs.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -481,8 +481,8 @@
    "3F274"
   ],
   "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a closet.{page}{box:01}But there was nothing inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -491,8 +491,8 @@
    "3F278"
   ],
   "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing in the barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -501,8 +501,8 @@
    "3F284"
   ],
   "jp": "{box:01}何が入っていた{br}たるだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}What was in this{br}barrel, I wonder?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -511,8 +511,8 @@
    "3F298"
   ],
   "jp": "{box:01}たるからワインの{br}ニオイがする。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The barrel smells of wine.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -521,8 +521,8 @@
    "3F2A4"
   ],
   "jp": "{box:01}このたるはもう{br}使われない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}This barrel won't{br}be used anymore...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -532,8 +532,8 @@
    "3F2C8"
   ],
   "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff is piled up here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -543,8 +543,8 @@
    "3F2CC"
   ],
   "jp": "{box:01}これはガラクタの{br}やまのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a heap of junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -554,8 +554,8 @@
    "3F2D0"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    "3F2D4"
   ],
   "jp": "{box:01}物置のとびらは{br}ひらかなかった。{page}{box:01}あきらめた方が{br}よさそうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The storeroom{br}door wouldn't open.{page}{box:01}Better give up on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    "3F2B8"
   ],
   "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing in this barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    "3F2C4"
   ],
   "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken barrel sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    "3F2D8"
   ],
   "jp": "{box:01}あながあいた{br}たるだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A barrel with a hole in it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    "3F2E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's one well-aged barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    "3F2E8"
   ],
   "jp": "{box:01}館のいらない物が{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The house's unwanted{br}stuff is piled here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "3F2EC"
   ],
   "jp": "{box:01}古びたガラクタ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but old junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    "3F2F0"
   ],
   "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing here but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    "3F2F4"
   ],
   "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a closet in the wall.{page}{box:01}But nothing in it was any use.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "3F2F8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たるからカビが{br} 生えている…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's mold growing{br}on the barrel...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -665,8 +665,8 @@
    "3F304"
   ],
   "jp": "{box:01}ビデオデッキ{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「これはまだ{br} 使えそうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A VCR sits here.{page}{box:00}{name:02}George{br}This still looks like it works...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -682,8 +682,8 @@
    "3F420"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビデオテープを{br} 見てみよう…」{page}{box:00}{name:02}ジョージ{br}「…おっ！{br} テレビが写った！」{page}{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Let's watch the videotape...{page}{box:00}{name:02}George{br}...Oh! The TV's showing something!{page}{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's doing something{br}at the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -692,8 +692,8 @@
    "3F30C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このだんろから{br} 出られないかな？{page}{box:00}{name:02}ジョージ{br}「…ダメだ。{page}{box:00}{name:02}ジョージ{br}「えんとつが{br} ふさがれてる…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Could I get out through{br}this fireplace?{page}{box:00}{name:02}George{br}...No good.{page}{box:00}{name:02}George{br}The chimney's blocked...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -702,8 +702,8 @@
    "3F310"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テレビは{br} 生きてるけど…{page}{box:00}{name:02}ジョージ{br}「アンテナがダメ{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「ビデオなら{br} 写りそうだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The TV works, but...{page}{box:00}{name:02}George{br}looks like the antenna's shot.{page}{box:00}{name:02}George{br}A video would{br}probably play, though.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -712,8 +712,8 @@
    "3F314"
   ],
   "jp": "{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A video is playing.{page}{box:00}{name:02}George{br}This is... the room where{br}I found the tape...{page}{box:01}Someone's doing something{br}at the bookshelf.{page}{box:00}{name:02}George{br}...? What's he doing{br}at the bookshelf?{page}{box:00}{name:02}George{br}I get it! The bookshelf{br}has a trick to it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -722,8 +722,8 @@
    "3F318"
   ],
   "jp": "{box:01}がくぶちだけが{br}かかっている。{page}{box:00}{name:02}ジョージ{br}「絵は{br} どうしたんだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Only an empty frame hangs here.{page}{box:00}{name:02}George{br}What happened to the painting?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -739,8 +739,8 @@
    "3F434"
   ],
   "jp": "{box:01}せの低いたなが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A low shelf stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -756,8 +756,8 @@
    "3F438"
   ],
   "jp": "{box:01}大きなたなが{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Big shelves stand in a row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -773,8 +773,8 @@
    "3F43C"
   ],
   "jp": "{box:01}かざりけの多い{br}本だながある。{page}{box:01}オカルトの本が{br}入っている。{page}{box:00}{name:02}ジョージ{br}「お！めずらしく{br} 英語の本だ！{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『やさしい魔道書{br} こども用{page}{box:01}『魔道書はグリモア{br} とよばれます』{page}{box:00}{name:02}ジョージ{br}「知ってるコト{br} ばっかりだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a fancy bookshelf.{page}{box:01}It holds occult books.{page}{box:00}{name:02}George{br}Oh! A book in English, for once!{page}{box:00}{name:02}George{br}Let's see...{page}{box:01}\"Grimoires Made Easy, for Kids{page}{box:01}\"A book of magic is{br}called a grimoire.\"{page}{box:00}{name:02}George{br}I knew all that already...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -783,8 +783,8 @@
    "3F32C"
   ],
   "jp": "{box:01}ビデオデッキが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ここにいたヤツも{br} ビデオ見てたんだ。{page}{box:00}{name:02}ジョージ{br}「…なんか{br} ホッとするな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a VCR.{page}{box:00}{name:02}George{br}Whoever was here{br}watched videos too.{page}{box:00}{name:02}George{br}...That's kind of a relief.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -793,8 +793,8 @@
    "3F334"
   ],
   "jp": "{box:01}だんろがある。{page}{box:00}{name:02}ジョージ{br}「えんとつが{br} ふさがってる。{page}{box:00}{name:02}ジョージ{br}「だんろとしては{br} 使えないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a fireplace.{page}{box:00}{name:02}George{br}The chimney's blocked.{page}{box:00}{name:02}George{br}It's useless as a fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -803,8 +803,8 @@
    "3F338"
   ],
   "jp": "{box:01}テレビがある。{page}{box:01}なぜか何も{br}写らない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV.{page}{box:01}For some reason,{br}it shows nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -813,8 +813,8 @@
    "3F33C"
   ],
   "jp": "{box:01}テレビがある。{page}{box:01}なぜか何も{br}写らない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV.{page}{box:01}For some reason,{br}it shows nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -826,8 +826,8 @@
    "3F3B8"
   ],
   "jp": "{box:01}がくぶちだけ{br}かけられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Only an empty frame hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -836,8 +836,8 @@
    "3F354"
   ],
   "jp": "{box:01}ビデオデッキが{br}ある。{page}{box:00}{name:02}ジョージ{br}「やっぱり日本の{br} ヤツだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a VCR.{page}{box:00}{name:02}George{br}Japanese-made,{br}just as I thought.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -848,8 +848,8 @@
    "3F3AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えない{br} だんろだ。{page}{box:00}{name:02}ジョージ{br}「えんとつを{br} ふさいである」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A useless fireplace.{page}{box:00}{name:02}George{br}The chimney's been blocked off.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -863,8 +863,8 @@
    "3F428"
   ],
   "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV that shows nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -878,8 +878,8 @@
    "3F42C"
   ],
   "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV that shows nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -889,8 +889,8 @@
    "3F3A4"
   ],
   "jp": "{box:01}日本せいの{br}ビデオデッキだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A Japanese-made VCR.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -901,8 +901,8 @@
    "3F41C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビデオなんか{br} ほっとこう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Forget about the VCR.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -913,8 +913,8 @@
    "3F424"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「えんとつが外に{br} つうじていても…{page}{box:00}{name:02}ジョージ{br}「今にげるわけ{br} にはいかない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Even if the chimney{br}leads outside...{page}{box:00}{name:02}George{br}I can't run away now.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -923,8 +923,8 @@
    "3F3E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵に手がかりでも{br} 書いてあるんなら、{page}{box:00}{name:02}ジョージ{br}「いくらでも{br} 見るけど…{page}{box:00}{name:02}ジョージ{br}「イミないから{br} 早く行こう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}If the painting had{br}some clue written on it,{page}{box:00}{name:02}George{br}I'd look all day, but...{page}{box:00}{name:02}George{br}it's pointless, so let's move.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -934,8 +934,8 @@
    "3F430"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵なんか見てる{br} ヒマはないぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to look at paintings!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -944,8 +944,8 @@
    "3F444"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このビデオは{br} こわれてるな…」{page}{box:00}{name:02}ジョージ{br}「使えるパーツも{br} なさそうだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This VCR is broken...{page}{box:00}{name:02}George{br}Doesn't look like it{br}has any usable parts...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -954,8 +954,8 @@
    "3F448"
   ],
   "jp": "{box:01}やけ残った{br}メモがある。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに{page}{box:01}『きよめたナイフに{br} 黒いランプ。{page}{box:01}『さらにそれを{br} 白のランプに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a half-burnt note.{page}{box:01}\"Holy Water on a knife{br}makes a Purified Knife,{page}{box:01}\"a Purified Knife{br}with a Black Lamp,{page}{box:01}\"and that, in turn,{br}into a White Lamp.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -964,8 +964,8 @@
    "3F44C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんにも{br} 写らないな…{page}{box:00}{name:02}ジョージ{br}「完全にダメに{br} なってるな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It doesn't show anything...{page}{box:00}{name:02}George{br}It's totally busted...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -974,8 +974,8 @@
    "3F450"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「部屋がくらくて{br} 絵が見づらいな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The room's too dark to{br}see the painting well.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -984,8 +984,8 @@
    "3F454"
   ],
   "jp": "{box:01}たなにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「見のがす所{br} だったよ」{page}{box:01}『魔道書ぜんぱんを{br} グリモアとよぶ』{page}{box:00}{name:02}ジョージ{br}「なんだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:00}{name:02}George{br}I almost missed it.{page}{box:01}\"All books of magic{br}are called grimoires.\"{page}{box:00}{name:02}George{br}Oh, is that all...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -994,8 +994,8 @@
    "3F458"
   ],
   "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing is left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1004,8 +1004,8 @@
    "3F45C"
   ],
   "jp": "{box:01}魔道書がびっしり{br}つまった本だなだ。{page}{box:00}{name:02}ジョージ{br}「たなに1冊ぶんの{br} すきまがあるな…{page}{box:00}{name:02}ジョージ{br}「誰かが本を{br} かりたまま…{page}{box:00}{name:02}ジョージ{br}「元にもどして{br} ないのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A bookshelf packed{br}with grimoires.{page}{box:00}{name:02}George{br}There's a gap on the{br}shelf for one book...{page}{box:00}{name:02}George{br}Did someone borrow a book...{page}{box:00}{name:02}George{br}and never put it back?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1014,8 +1014,8 @@
    "3F460"
   ],
   "jp": "{box:01}ジョージが本を{br}おさめると、{page}{box:01}どこかでカギの{br}あく音がした。{page}{box:00}{name:02}ジョージ{br}「これで全部、{br} もどったかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}When George put{br}the book in place,{page}{box:01}a lock clicked open somewhere.{page}{box:00}{name:02}George{br}Is that all of them back now?{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

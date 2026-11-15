@@ -559,8 +559,8 @@
    "3E868"
   ],
   "jp": "{box:01}きたないイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty chair sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -570,8 +570,8 @@
    "3E86C"
   ],
   "jp": "{box:01}いらない物が{br}つんである。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff is piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -581,8 +581,8 @@
    "3E870"
   ],
   "jp": "{box:01}ホコリまみれの{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace caked in dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -592,8 +592,8 @@
    "3E874"
   ],
   "jp": "{box:01}ひとむかし前の{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old-fashioned telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -603,8 +603,8 @@
    "3E87C"
   ],
   "jp": "{box:01}使えそうな物は{br}ないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing usable, it seems.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -614,8 +614,8 @@
    "3E884"
   ],
   "jp": "{box:01}バネがとび出た{br}よごれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty sofa with{br}springs popping out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "3E888"
   ],
   "jp": "{box:01}いらなくなった{br}イスらしい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a chair{br}nobody wanted.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -636,8 +636,8 @@
    "3E88C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -647,8 +647,8 @@
    "3E890"
   ],
   "jp": "{box:01}すすけたニオイの{br}するだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace that smells of soot.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -658,8 +658,8 @@
    "3E894"
   ],
   "jp": "{box:01}レトロデザインの{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -669,8 +669,8 @@
    "3E89C"
   ],
   "jp": "{box:01}古いかぐが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Old furniture is stacked up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -680,8 +680,8 @@
    "3E8A4"
   ],
   "jp": "{box:01}ボロボロに{br}こわれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa broken to bits.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -691,8 +691,8 @@
    "3E8A8"
   ],
   "jp": "{box:01}ガタついたイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wobbly chair sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -702,8 +702,8 @@
    "3E8AC"
   ],
   "jp": "{box:01}いらない物が{br}やまのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A mountain of unwanted stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -713,8 +713,8 @@
    "3E8B0"
   ],
   "jp": "{box:01}だんろにホコリが{br}つまっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The fireplace is{br}clogged with dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -724,8 +724,8 @@
    "3E8B4"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken telephone sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -735,8 +735,8 @@
    "3E8BC"
   ],
   "jp": "{box:01}いらないかぐが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -746,8 +746,8 @@
    "3E8C4"
   ],
   "jp": "{box:01}ホコリのつもった{br}こわれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken, dust-covered sofa.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -757,8 +757,8 @@
    "3E8C8"
   ],
   "jp": "{box:01}ガラクタばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -768,8 +768,8 @@
    "3E8CC"
   ],
   "jp": "{box:01}あきバコやゴミが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Empty boxes and{br}trash are piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -779,8 +779,8 @@
    "3E8D0"
   ],
   "jp": "{box:01}だいり石の{br}りっぱなだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A splendid marble fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -790,8 +790,8 @@
    "3E8D4"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{box:01}でんわせんも{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken telephone sits here.{page}{box:01}Its line has been cut, too...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -809,8 +809,8 @@
    "3EA64"
   ],
   "jp": "{box:01}はんびらきの{br}たんすがある。{page}{box:01}中には何も{br}入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wardrobe stands half open.{page}{box:01}There's nothing inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -820,8 +820,8 @@
    "3EA68"
   ],
   "jp": "{box:01}ダイヤル式の{br}でんわだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A rotary phone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -831,8 +831,8 @@
    "3EA6C"
   ],
   "jp": "{box:01}すえたニオイが{br}するだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace that smells sour.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -842,8 +842,8 @@
    "3EA70"
   ],
   "jp": "{box:01}にもつが置かれて{br}いるようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like some luggage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -853,8 +853,8 @@
    "3EA74"
   ],
   "jp": "{box:01}古いイスがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an old chair.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -864,8 +864,8 @@
    "3EA78"
   ],
   "jp": "{box:01}こわれたソファが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -883,8 +883,8 @@
    "3EA7C"
   ],
   "jp": "{box:01}めぼしい物は{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -894,8 +894,8 @@
    "3EA80"
   ],
   "jp": "{box:01}かぐが置かれて{br}いるようだ。{page}{box:01}そのすきまに{br}紙を見つけた。{page}{box:00}{name:02}ジョージ{br}「なになに…？」{page}{box:01}『ハーブはいくつか{br} くみあわせ、{page}{box:01}『薬にするべし。{br} 薬の中でも…{page}{box:01}『さいこうきゅうは{br} エリクシールだ』{page}{box:00}{name:02}ジョージ{br}「ふむ。{br} なるほど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like some furniture.{page}{box:01}I found a paper wedged in a gap.{page}{box:00}{name:02}George{br}Let's see...?{page}{box:01}\"Combine some of the herbs{page}{box:01}\"to make medicine.{br}And of all medicines...{page}{box:01}\"the very best is the Elixir.\"{page}{box:00}{name:02}George{br}Hmm. I see...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -904,8 +904,8 @@
    "3E920"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかっているな…{page}{box:00}{name:02}ジョージ{br}「どこかにカギが{br} あるはずだ…{page}{box:00}{name:02}ジョージ{br}「まわりの物を{br} チェックしよう。{page}{box:00}{name:02}ジョージ{br}「気になる物の{br} 前でAボタンだ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}There's got to be{br}a key somewhere...{page}{box:00}{name:02}George{br}Let's check out the{br}stuff around here.{page}{box:00}{name:02}George{br}Press the A Button in front{br}of anything interesting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -915,8 +915,8 @@
    "3E9C8"
   ],
   "jp": "{box:01}ひとむかし前の{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old-fashioned telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -926,8 +926,8 @@
    "3E9CC"
   ],
   "jp": "{box:01}ホコリまみれの{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace caked in dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -937,8 +937,8 @@
    "3E9D0"
   ],
   "jp": "{box:01}いらない物が{br}つんである。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff is piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -948,8 +948,8 @@
    "3E9D4"
   ],
   "jp": "{box:01}きたないイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty chair sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -959,8 +959,8 @@
    "3E9D8"
   ],
   "jp": "{box:01}こわれてバラバラ{br}になったソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa smashed to pieces.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -970,8 +970,8 @@
    "3E9E0"
   ],
   "jp": "{box:01}走り書きを{br}みつけた。{page}{box:01}『ゴーストを{br} バインドする薬{page}{box:01}『それは3しゅの{br} 霊薬である』{page}{box:00}{name:02}ジョージ{br}「ほう…そんな物が{br} あるとはね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a hasty scrawl.{page}{box:01}\"Potions that bind ghosts:{page}{box:01}\"there are three{br}kinds of Brew.\"{page}{box:00}{name:02}George{br}Huh... who knew there{br}was such a thing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -981,8 +981,8 @@
    "3E9F0"
   ],
   "jp": "{box:01}レトロデザインの{br}でんわきだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A retro-style telephone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -992,8 +992,8 @@
    "3E9F4"
   ],
   "jp": "{box:01}すすけたニオイの{br}するだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace that smells of soot.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1003,8 +1003,8 @@
    "3E9F8"
   ],
   "jp": "{box:01}置き物にメモが{br}はってあった。{page}{box:01}『マインはバインド{br} と同時に…{page}{box:01}『ゴーストに{br} ダメージ』{page}{box:00}{name:02}ジョージ{br}「なんだかなぁ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was stuck{br}to the ornament.{page}{box:01}\"A mine binds ghosts{br}and, at the same time...{page}{box:01}\"damages them.\"{page}{box:00}{name:02}George{br}Well, whatever...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1014,8 +1014,8 @@
    "3E9FC"
   ],
   "jp": "{box:01}いらなくなった{br}イスらしい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a chair{br}nobody wanted.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1025,8 +1025,8 @@
    "3EA00"
   ],
   "jp": "{box:01}バネがとび出た{br}よごれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty sofa with{br}springs popping out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1036,8 +1036,8 @@
    "3EA08"
   ],
   "jp": "{box:01}使えそうな物は{br}ないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing usable, it seems.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1047,8 +1047,8 @@
    "3EA18"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken telephone sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1058,8 +1058,8 @@
    "3EA1C"
   ],
   "jp": "{box:01}だんろにホコリが{br}つまっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The fireplace is{br}clogged with dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1069,8 +1069,8 @@
    "3EA20"
   ],
   "jp": "{box:01}いらない物が{br}やまのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A mountain of unwanted stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1080,8 +1080,8 @@
    "3EA24"
   ],
   "jp": "{box:01}ガタついたイスが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wobbly chair sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1091,8 +1091,8 @@
    "3EA28"
   ],
   "jp": "{box:01}ボロボロに{br}こわれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa broken to bits.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1102,8 +1102,8 @@
    "3EA30"
   ],
   "jp": "{box:01}古いかぐが{br}つまれている。{page}{box:01}すきまに紙が{br}はさんであった。{page}{box:01}『全体ダメージの{br} さいこうきゅうは{page}{box:01}『夜あけのランプ{br} である』{page}{box:00}{name:02}ジョージ{br}「へえ…手に入れば、{br} 100人力だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Old furniture is stacked up.{page}{box:01}A paper was tucked in a gap.{page}{box:01}\"The best for{br}damaging all ghosts{page}{box:01}\"is the Lamp of Dawn.\"{page}{box:00}{name:02}George{br}Wow... if I got my hands on{br}that, I'd be unstoppable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1113,8 +1113,8 @@
    "3EA40"
   ],
   "jp": "{box:01}こわれたでんわが{br}置かれている。{page}{box:01}でんわせんも{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken telephone sits here.{page}{box:01}Its line has been cut, too...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1124,8 +1124,8 @@
    "3EA44"
   ],
   "jp": "{box:01}だいり石の{br}りっぱなだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A splendid marble fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1135,8 +1135,8 @@
    "3EA48"
   ],
   "jp": "{box:01}あきバコやゴミが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Empty boxes and{br}trash are piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1146,8 +1146,8 @@
    "3EA4C"
   ],
   "jp": "{box:01}ガラクタの中に{br}メモをはっけん。{page}{box:01}『聖者の石は、{br} そうびするだけで{page}{box:01}『かいふくして{br} くれる魔法の石』{page}{box:00}{name:02}ジョージ{br}「聖者の石か…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Found a note among the junk.{page}{box:01}\"The Saint's Stone{br}is a magic stone{page}{box:01}\"that heals you just{br}by equipping it.\"{page}{box:00}{name:02}George{br}The Saint's Stone, huh...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

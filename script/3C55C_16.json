@@ -5,8 +5,8 @@
    "3FADC"
   ],
   "jp": "{box:01}ジュークボックスが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「ねんだい物だな。{br} 使えるかな？{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}It's a real antique. Does it work?{page}{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3FAE0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} イマイチだな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record's kind of meh!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3FAE4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}If only I had a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3FAE8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} イマイチだな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record's kind of meh!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3FB00"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The 9-Ball is missing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3FB04"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いつもマッセで{br} やられるんだよな…{page}{box:00}{name:02}ジョージ{br}「それもアリシアの{br} ヘソと同じで…{page}{box:00}{name:02}ジョージ{br}「これがまた、よく{br} まがるんだよな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}She always gets me{br}with a masse shot...{page}{box:00}{name:02}George{br}Twisted, just like{br}Alicia's personality...{page}{box:00}{name:02}George{br}and boy, does it curve.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3FB08"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The 9-Ball is missing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3FB0C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「いつもマッセで{br} やられるんだよな…{page}{box:00}{name:02}ジョージ{br}「それもアリシアの{br} ヘソと同じで…{page}{box:00}{name:02}ジョージ{br}「これがまた、よく{br} まがるんだよな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}She always gets me{br}with a masse shot...{page}{box:00}{name:02}George{br}Twisted, just like{br}Alicia's personality...{page}{box:00}{name:02}George{br}and boy, does it curve.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -87,8 +87,8 @@
    "3FB98"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミあさってる{br} ばあいか！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this any time to{br}dig through trash?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -99,8 +99,8 @@
    "3FB9C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ、今は{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff right now!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -111,8 +111,8 @@
    "3FBA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} ひどい音だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record sounds awful.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -123,8 +123,8 @@
    "3FBA4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ、今は{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}this stuff right now!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "3FBA8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} ひどい音だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This record sounds awful.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -147,8 +147,8 @@
    "3FBC0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The 9-Ball is missing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -159,8 +159,8 @@
    "3FBC4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシア！{br} いつかきっと…{page}{box:00}{name:02}ジョージ{br}「ビリヤードで{br} まかしてやるぞ！{page}{box:00}{name:02}ジョージ{br}「だから{br} 無事でいろよ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Alicia! Someday, for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -171,8 +171,8 @@
    "3FBC8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The 9-Ball is missing...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -183,8 +183,8 @@
    "3FBCC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アリシア！{br} いつかきっと…{page}{box:00}{name:02}ジョージ{br}「ビリヤードで{br} まかしてやるぞ！{page}{box:00}{name:02}ジョージ{br}「だから{br} 無事でいろよ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Alicia! Someday, for sure...{page}{box:00}{name:02}George{br}I'll beat you at billiards!{page}{box:00}{name:02}George{br}So you'd better be okay!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -194,8 +194,8 @@
    "3FC10"
   ],
   "jp": "{box:01}この館の{br}ふようひんだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Stuff this house didn't need.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "3FC14"
   ],
   "jp": "{box:01}こわれたかぐが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Broken furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
    "3FC18"
   ],
   "jp": "{box:01}どれもガラクタ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's all junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
    "3FC1C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -238,8 +238,8 @@
    "3FC20"
   ],
   "jp": "{box:01}古びたつくえが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A worn old desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
    "3FC24"
   ],
   "jp": "{box:01}いすやかぐの{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junked chairs and furniture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -260,8 +260,8 @@
    "3FC28"
   ],
   "jp": "{box:01}かぐにホコリが{br}つもっている{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust has piled up{br}on the furniture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -271,8 +271,8 @@
    "3FC2C"
   ],
   "jp": "{box:01}いらない物が{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
    "3FC30"
   ],
   "jp": "{box:01}使われなくなった{br}モノばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}All stuff nobody uses anymore.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -293,8 +293,8 @@
    "3FC34"
   ],
   "jp": "{box:01}はいきょのゴミが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubbish from the{br}ruins sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -304,8 +304,8 @@
    "3FC38"
   ],
   "jp": "{box:01}ホコリをかぶった{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust-covered junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "3FC3C"
   ],
   "jp": "{box:01}古いつくえが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
    "3FC40"
   ],
   "jp": "{box:01}そだいゴミが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Bulky trash is piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -337,8 +337,8 @@
    "3FC44"
   ],
   "jp": "{box:01}小さなたなが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small shelf stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -347,8 +347,8 @@
    "3FC48"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミのやまの{br} ようだ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Looks like a mountain of trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -357,8 +357,8 @@
    "3FC4C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタばっかり{br} だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing but junk...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -367,8 +367,8 @@
    "3FC50"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「めぼしいモノは{br} 何もないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing worth taking...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -377,8 +377,8 @@
    "3FC54"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうなモノは{br} ないみたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Doesn't look like{br}anything usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -387,8 +387,8 @@
    "3FC58"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「古いつくえだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An old desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -397,8 +397,8 @@
    "3FC5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Broken furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -407,8 +407,8 @@
    "3FC60"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「小さいたなには{br} 何もない…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing on the little shelf...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -418,8 +418,8 @@
    "3FC9C"
   ],
   "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unneeded items are stored here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -429,8 +429,8 @@
    "3FCA0"
   ],
   "jp": "{box:01}どれもガラクタ{br}ばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's all junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -440,8 +440,8 @@
    "3FCA4"
   ],
   "jp": "{box:01}古びたつくえが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A worn old desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -451,8 +451,8 @@
    "3FCA8"
   ],
   "jp": "{box:01}こわれたかぐが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Broken furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -462,8 +462,8 @@
    "3FCAC"
   ],
   "jp": "{box:01}イスやかぐの{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junked chairs and furniture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -473,8 +473,8 @@
    "3FCB0"
   ],
   "jp": "{box:01}この館の{br}ふようひんだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Stuff this house didn't need.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -484,8 +484,8 @@
    "3FCB4"
   ],
   "jp": "{box:01}かぐにホコリが{br}つもっている{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust has piled up{br}on the furniture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    "3FCB8"
   ],
   "jp": "{box:01}ホコリをかぶった{br}ガラクタだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust-covered junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -506,8 +506,8 @@
    "3FCBC"
   ],
   "jp": "{box:01}はいきょのゴミが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubbish from the{br}ruins sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -517,8 +517,8 @@
    "3FCC0"
   ],
   "jp": "{box:01}古いつくえが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -528,8 +528,8 @@
    "3FCC4"
   ],
   "jp": "{box:01}使われなくなった{br}モノばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}All stuff nobody uses anymore.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -539,8 +539,8 @@
    "3FCC8"
   ],
   "jp": "{box:01}そだいゴミが{br}つまれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Bulky trash is piled up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -550,8 +550,8 @@
    "3FCCC"
   ],
   "jp": "{box:01}いらない物が{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted stuff sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -561,8 +561,8 @@
    "3FCD0"
   ],
   "jp": "{box:01}小さなたなが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small shelf stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -571,8 +571,8 @@
    "3FCD4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうなモノは{br} ないみたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Doesn't look like{br}anything usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -581,8 +581,8 @@
    "3FCD8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「めぼしいモノは{br} 何もないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing worth taking...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -591,8 +591,8 @@
    "3FCDC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「古いつくえだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An old desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -601,8 +601,8 @@
    "3FCE0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタばっかり{br} だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing but junk...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
    "3FCE4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれたかぐが{br} 置かれている」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Broken furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -621,8 +621,8 @@
    "3FCE8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミのやまの{br} ようだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Looks like a mountain of trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -631,8 +631,8 @@
    "3FCEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「小さいたなには{br} 何もない…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing on the little shelf...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {

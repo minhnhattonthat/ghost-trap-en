@@ -6,8 +6,8 @@
    "3EA50"
   ],
   "jp": "{box:01}ホコリのつもった{br}こわれたソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken, dust-covered sofa.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "3EA58"
   ],
   "jp": "{box:01}いらないかぐが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Unwanted furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -27,8 +27,8 @@
    "3EA8C"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -37,8 +37,8 @@
    "3EA90"
   ],
   "jp": "{box:01}古いでんわが{br}置かれている{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old telephone sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -47,8 +47,8 @@
    "3EA94"
   ],
   "jp": "{box:01}ホコリまみれの{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace caked in dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -57,8 +57,8 @@
    "3EA98"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「変わった置き物{br} だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What an odd ornament...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -67,8 +67,8 @@
    "3EA9C"
   ],
   "jp": "{box:01}ガラクタばかりだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -77,8 +77,8 @@
    "3EAA0"
   ],
   "jp": "{box:01}こわれたソファが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -87,8 +87,8 @@
    "3EAA4"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -97,8 +97,8 @@
    "3EAA8"
   ],
   "jp": "{box:01}めぼしいモノは{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking{br}has been left here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -107,8 +107,8 @@
    "3EAAC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわっ！出た！{br} ゴーストだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whoa! There it is! A ghost!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -117,8 +117,8 @@
    "3EAB0"
   ],
   "jp": "{box:01}床にナイフが{br}ささっている。{page}{box:01}ゴーストセンサーに{br}はんのうし、{page}{box:01}ナイフがあやしく{br}光りだした！{page}{box:00}{name:02}ジョージ{br}「あのナイフは{br} なんだろう？{page}{box:00}{name:02}ジョージ{br}「オレのセンサーに{br} はんのうしてる…{page}{box:00}{name:02}ジョージ{br}「さわらない方が{br} いいかな…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A knife is stuck in the floor.{page}{box:01}It's setting off{br}the Ghost Sensor,{page}{box:01}and the knife starts{br}to glow eerily!{page}{box:00}{name:02}George{br}What's with that knife?{page}{box:00}{name:02}George{br}It's setting off my sensor...{page}{box:00}{name:02}George{br}Maybe I'd better not touch it...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -127,8 +127,8 @@
    "3EAB4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…？{br} どうしたんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！今なら{br} 近づいて…{page}{box:00}{name:02}ジョージ{br}「サプレッサーで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「よし！近づいて、{br} Aボタンだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...? What happened?{page}{box:00}{name:02}George{br}I get it! Now I can get close...{page}{box:00}{name:02}George{br}and hit it with the Suppressor!{page}{box:00}{name:02}George{br}Okay! Get close and{br}press the A Button!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -137,8 +137,8 @@
    "3EAB8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし！ゴーストを{br} やっつけたぞ！{page}{box:00}{name:02}ジョージ{br}「…それにしても{br} あのナイフには、{page}{box:00}{name:02}ジョージ{br}「ゴーストを止めて{br} うごけなくする、{page}{box:00}{name:02}ジョージ{br}「バインドのうりょく{br} があるのか？{page}{box:00}{name:02}ジョージ{br}「どうやらナイフの{br} フシギなチカラと{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} がはんのうして…{page}{box:00}{name:02}ジョージ{br}「ワナになった{br} みたいだけど…{page}{box:00}{name:02}ジョージ{br}「もう一つのワナを{br} しらべてみるか…{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}All right! I took out the ghost!{page}{box:00}{name:02}George{br}...But that knife...{page}{box:00}{name:02}George{br}Does it have the{br}power to bind ghosts,{page}{box:00}{name:02}George{br}stopping them so{br}they can't move?{page}{box:00}{name:02}George{br}Looks like the{br}knife's weird power{page}{box:00}{name:02}George{br}reacted with the{br}power of my sensor...{page}{box:00}{name:02}George{br}and turned into a trap...{page}{box:00}{name:02}George{br}Let's check out{br}the other trap...{page}{box:00}{name:02}George{br}Walk up to the trap and{br}press the A Button...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -147,8 +147,8 @@
    "3EABC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このひろった{br} ナイフを…{page}{box:00}{name:02}ジョージ{br}「床に同じように{br} ならべてみるか…{page}{box:00}{name:02}ジョージ{br}「ナイフをせんたく{br} してBボタンで、{page}{box:00}{name:02}ジョージ{br}「ナイフを使えば、{br} ワナができると…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This knife I picked up...{page}{box:00}{name:02}George{br}Maybe I'll line it up on{br}the floor the same way...{page}{box:00}{name:02}George{br}Select the knife and{br}press the B Button,{page}{box:00}{name:02}George{br}and using it makes a trap...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -157,8 +157,8 @@
    "3EAC0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「やっぱりセンサー{br} にはんのうして、{page}{box:00}{name:02}ジョージ{br}「ワナになる{br} みたいだ！{page}{box:00}{name:02}ジョージ{br}「よし！センサーを{br} かいぞうしよう。{page}{box:00}{name:02}ジョージ{br}「少しだけパワーを{br} ワナにむけて…{page}{box:00}{name:02}ジョージ{br}「ワナが残る{br} ようにしよう。{page}{box:00}{name:02}ジョージ{br}「…でも、マトモな{br} 道具が無いから、{page}{box:00}{name:02}ジョージ{br}「5つまでが{br} げんどだな…{page}{box:00}{name:02}ジョージ{br}「それにパワーも{br} 小さいから、{page}{box:00}{name:02}ジョージ{br}「とおくに行くと{br} ワナがきえるな…{page}{box:00}{name:02}ジョージ{br}「…でも、まぁ、{br} なんとかなるさ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Just as I thought, it{br}reacts to the sensor{page}{box:00}{name:02}George{br}and turns into a trap!{page}{box:00}{name:02}George{br}Okay! Let's modify the sensor.{page}{box:00}{name:02}George{br}Send a little of its{br}power to the traps...{page}{box:00}{name:02}George{br}so the traps stick around.{page}{box:00}{name:02}George{br}...But without any decent tools,{page}{box:00}{name:02}George{br}five is the limit...{page}{box:00}{name:02}George{br}And since the power's weak,{page}{box:00}{name:02}George{br}the traps vanish if{br}I go too far away...{page}{box:00}{name:02}George{br}...Eh, I'll manage somehow.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -168,8 +168,8 @@
    "3EAD4"
   ],
   "jp": "{box:01}少しくずれた{br}かべだ。{page}{box:01}かべのすきまに{br}メモがあった。{page}{box:01}『さびたナイフには{br} ヤスリをかけよう』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A slightly crumbled wall.{page}{box:01}There was a note in{br}a crack in the wall.{page}{box:01}\"Use the File on a Rusty Knife.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -179,8 +179,8 @@
    "3EB18"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -191,8 +191,8 @@
    "3EB5C"
   ],
   "jp": "{box:01}たなにはホコリ{br}しかなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}but dust on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -202,8 +202,8 @@
    "3EB28"
   ],
   "jp": "{box:01}ぶきみなぞうが{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A creepy statue is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -213,8 +213,8 @@
    "3EB2C"
   ],
   "jp": "{box:01}とるべき物は{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -224,8 +224,8 @@
    "3EAF4"
   ],
   "jp": "{box:01}くずれたかべだ。{page}{box:01}かべのすきまに{br}メモがあった。{page}{box:01}『ナイフとマッチで{br} バクハツだ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A crumbled wall.{page}{box:01}There was a note in{br}a crack in the wall.{page}{box:01}\"Knife plus matches: kaboom.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "3EB38"
   ],
   "jp": "{box:01}きみょうなぞうが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -246,8 +246,8 @@
    "3EB3C"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -257,8 +257,8 @@
    "3EB48"
   ],
   "jp": "{box:01}キミのわるい{br}どうぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A creepy bronze statue.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -268,8 +268,8 @@
    "3EB4C"
   ],
   "jp": "{box:01}何もない{br}たなだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -279,8 +279,8 @@
    "3EB14"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{box:01}ガラクタの中に{br}メモを見つけた。{page}{box:01}『ゴーストマインに{br} オイルをそそげ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Part of the wall has collapsed.{page}{box:01}I found a note among the junk.{page}{box:01}\"Pour oil on a Ghost Mine.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -290,8 +290,8 @@
    "3EB58"
   ],
   "jp": "{box:01}イヤなカンジの{br}石こうぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue{br}with a nasty vibe.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -300,8 +300,8 @@
    "3EB0C"
   ],
   "jp": "{box:01}何も置かれて{br}いないたなだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A shelf with nothing on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -311,8 +311,8 @@
    "3EB34"
   ],
   "jp": "{box:01}くずれたかべの{br}すきまに{page}{box:01}メモがはさんで{br}あった。{page}{box:01}『ナイフを霊水で{br} きよめよ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wedged in a crack{page}{box:01}of the crumbled wall was a note.{page}{box:01}\"Purify the knife{br}with Holy Water.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -322,8 +322,8 @@
    "3EB54"
   ],
   "jp": "{box:01}くずれたかべの{br}ひびわれに{page}{box:01}メモがはさんで{br}あった。{page}{box:01}『エルダーのえだに{br} きよめたナイフを』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wedged in a crack{page}{box:01}of the crumbled wall was a note.{page}{box:01}\"A Purified Knife on{br}an Elder Branch.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -333,8 +333,8 @@
    "3EBC8"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -344,8 +344,8 @@
    "3EBCC"
   ],
   "jp": "{box:01}女の人の{br}石こうぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue of a woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "3EB80"
   ],
   "jp": "{box:01}あぶら絵に{br}ラクガキがある。{page}{box:01}『ネクターには{br} バーベインと{page}{box:01}『アンジェリカが{br} ひつようだ』{page}{box:00}{name:02}ジョージ{br}「レシピかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone scribbled{br}on the oil painting.{page}{box:01}\"Nectar needs Vervain{page}{box:01}\"and Angelica.\"{page}{box:00}{name:02}George{br}A recipe, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -366,8 +366,8 @@
    "3EBD4"
   ],
   "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old, worn oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -377,8 +377,8 @@
    "3EBDC"
   ],
   "jp": "{box:01}たなの中は{br}からっぽだった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -388,8 +388,8 @@
    "3EBE0"
   ],
   "jp": "{box:01}中年の女の{br}どうぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A bronze statue of{br}a middle-aged woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -399,8 +399,8 @@
    "3EBE8"
   ],
   "jp": "{box:01}えのぐが{br}色あせた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting with faded paint.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -410,8 +410,8 @@
    "3EBF0"
   ],
   "jp": "{box:01}たなの中には{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing in the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -421,8 +421,8 @@
    "3EBF4"
   ],
   "jp": "{box:01}ろうばのぞうが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A statue of an old{br}woman stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -432,8 +432,8 @@
    "3EBA8"
   ],
   "jp": "{box:01}あぶら絵に{br}ラクガキがあった。{page}{box:01}『ぬり薬には{br} バーベイン{page}{box:01}『そしてフラックス{br} がひつようだ』{page}{box:00}{name:02}ジョージ{br}「薬のちょうごう{br} 方法だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone scribbled{br}on the oil painting.{page}{box:01}\"For Ointment you need Vervain{page}{box:01}\"and Flax.\"{page}{box:00}{name:02}George{br}How to mix medicine...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -443,8 +443,8 @@
    "3EBFC"
   ],
   "jp": "{box:01}えのぐにヒビが{br}入った絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting with cracked paint.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -454,8 +454,8 @@
    "3EC04"
   ],
   "jp": "{box:01}ホコリしかない{br}たなだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A shelf with nothing but dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "3EC08"
   ],
   "jp": "{box:01}しゃれこうべの{br}白いぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white statue of a skull.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -476,8 +476,8 @@
    "3EC10"
   ],
   "jp": "{box:01}ボロボロになった{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tattered oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -487,8 +487,8 @@
    "3EC18"
   ],
   "jp": "{box:01}たなはからっぽで{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf is empty.{br}Nothing at all.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -498,8 +498,8 @@
    "3EC1C"
   ],
   "jp": "{box:01}おさない女のこの{br}石こうぞうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue of a little girl.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -509,8 +509,8 @@
    "3EBD0"
   ],
   "jp": "{box:01}あぶら絵に{br}走り書きがある。{page}{box:01}『タリスマンは{br} BOOK1の{page}{box:01}『ハシゴの所に{br} かくされている』{page}{box:00}{name:02}ジョージ{br}「誰かの{br} おぼえ書きかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Something's scrawled{br}on the oil painting.{page}{box:01}\"The Talisman is hidden{page}{box:01}\"by the ladder in BOOK1.\"{page}{box:00}{name:02}George{br}Somebody's memo?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -520,8 +520,8 @@
    "3EC24"
   ],
   "jp": "{box:01}シミのついた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A stained oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -531,8 +531,8 @@
    "3EBF8"
   ],
   "jp": "{box:01}絵に走り書きが{br}残っている。{page}{box:01}『タリスマンには{br} 黒の石がにあう』{page}{box:00}{name:02}ジョージ{br}「レシピかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A scrawl is left on the painting.{page}{box:01}\"A Black Stone{br}suits the Talisman.\"{page}{box:00}{name:02}George{br}A recipe, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -542,8 +542,8 @@
    "3EC20"
   ],
   "jp": "{box:01}絵のスミに{br}走り書きがある。{page}{box:01}『黒の石に{br} アタノールつぼ{page}{box:01}『それでうごきを{br} 止められる』{page}{box:00}{name:02}ジョージ{br}「うーむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Something's scrawled in the{br}corner of the painting.{page}{box:01}\"A Black Stone in{br}the Athanor Jar{page}{box:01}\"can stop them in their tracks.\"{page}{box:00}{name:02}George{br}Hmmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -552,8 +552,8 @@
    "3EC2C"
   ],
   "jp": "{box:01}かべがはがれて{br}いる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -562,8 +562,8 @@
    "3EC30"
   ],
   "jp": "{box:01}小さなどうぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small bronze{br}statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -572,8 +572,8 @@
    "3EC34"
   ],
   "jp": "{box:01}小さなどうぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small bronze{br}statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -591,8 +591,8 @@
    "3ED10"
   ],
   "jp": "{box:01}とくにめぼしい{br}モノはない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing much worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -610,8 +610,8 @@
    "3ED14"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -629,8 +629,8 @@
    "3ED18"
   ],
   "jp": "{box:01}何も置かれて{br}いない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been placed here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -639,8 +639,8 @@
    "3EC44"
   ],
   "jp": "{box:01}かべがくずれ、{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled and fallen.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -649,8 +649,8 @@
    "3EC48"
   ],
   "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -659,8 +659,8 @@
    "3EC4C"
   ],
   "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -669,8 +669,8 @@
    "3EC5C"
   ],
   "jp": "{box:01}かべがくずれて{br}ほねが見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled,{br}and bones show through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -679,8 +679,8 @@
    "3EC60"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -689,8 +689,8 @@
    "3EC64"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -699,8 +699,8 @@
    "3EC74"
   ],
   "jp": "{box:01}かべがこわれて{br}ほねが見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is broken, and{br}bones show through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -709,8 +709,8 @@
    "3EC78"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -719,8 +719,8 @@
    "3EC7C"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -729,8 +729,8 @@
    "3EC8C"
   ],
   "jp": "{box:01}ボロボロになった{br}かべだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wall in ruins.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -739,8 +739,8 @@
    "3EC90"
   ],
   "jp": "{box:01}石こうでできた{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -749,8 +749,8 @@
    "3EC94"
   ],
   "jp": "{box:01}石こうでできた{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -759,8 +759,8 @@
    "3ECA4"
   ],
   "jp": "{box:01}かべのしっくいが{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The plaster has{br}fallen off the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -769,8 +769,8 @@
    "3ECA8"
   ],
   "jp": "{box:01}白くぬられた{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture painted white.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -779,8 +779,8 @@
    "3ECAC"
   ],
   "jp": "{box:01}白くぬられた{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture painted white.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -789,8 +789,8 @@
    "3ECBC"
   ],
   "jp": "{box:01}ハデにこわれた{br}かべだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wall smashed to bits.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -799,8 +799,8 @@
    "3ECC0"
   ],
   "jp": "{box:01}石こうでできた{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -809,8 +809,8 @@
    "3ECC4"
   ],
   "jp": "{box:01}石こうでできた{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -819,8 +819,8 @@
    "3ECD4"
   ],
   "jp": "{box:01}かべのはへんが{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chunks of the wall have fallen.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -829,8 +829,8 @@
    "3ECD8"
   ],
   "jp": "{box:01}ボロボロの{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered sculpture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -839,8 +839,8 @@
    "3ECDC"
   ],
   "jp": "{box:01}ボロボロの{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered sculpture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -849,8 +849,8 @@
    "3ECEC"
   ],
   "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Pieces of the wall are{br}scattered around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -859,8 +859,8 @@
    "3ECF0"
   ],
   "jp": "{box:01}ボロボロの{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -869,8 +869,8 @@
    "3ECF4"
   ],
   "jp": "{box:01}ボロボロの{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -879,8 +879,8 @@
    "3ED04"
   ],
   "jp": "{box:01}くずれたかべだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A crumbled wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -889,8 +889,8 @@
    "3ED08"
   ],
   "jp": "{box:01}よごれきった{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A filthy sculpture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -899,8 +899,8 @@
    "3ED0C"
   ],
   "jp": "{box:01}よごれきった{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A filthy sculpture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -918,8 +918,8 @@
    "3EDF4"
   ],
   "jp": "{box:01}とくにめぼしい{br}物はない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing much worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -937,8 +937,8 @@
    "3EDF8"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -956,8 +956,8 @@
    "3EDFC"
   ],
   "jp": "{box:01}何も置かれて{br}いない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been placed here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -966,8 +966,8 @@
    "3ED28"
   ],
   "jp": "{box:01}小さなどうぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small bronze{br}statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -976,8 +976,8 @@
    "3ED2C"
   ],
   "jp": "{box:01}小さなどうぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small bronze{br}statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -986,8 +986,8 @@
    "3ED30"
   ],
   "jp": "{box:01}かべがはがれて{br}いる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -996,8 +996,8 @@
    "3ED40"
   ],
   "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1006,8 +1006,8 @@
    "3ED44"
   ],
   "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1016,8 +1016,8 @@
    "3ED48"
   ],
   "jp": "{box:01}かべがくずれ、{br}おちている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled and fallen.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1026,8 +1026,8 @@
    "3ED58"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1036,8 +1036,8 @@
    "3ED5C"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1046,8 +1046,8 @@
    "3ED60"
   ],
   "jp": "{box:01}かべがくずれて{br}ほねが見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled,{br}and bones show through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1056,8 +1056,8 @@
    "3ED70"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1066,8 +1066,8 @@
    "3ED74"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1076,8 +1076,8 @@
    "3ED78"
   ],
   "jp": "{box:01}かべがこわれて{br}ほねが見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is broken, and{br}bones show through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1086,8 +1086,8 @@
    "3ED88"
   ],
   "jp": "{box:01}石こうでできた{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]
