@@ -166,7 +166,7 @@
    "41304"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「かべのはぐるまが{br} うごいたおかげで{page}{box:00}{name:02}ジョージ{br}「ドアに入れる{br} ようになったぞ！」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Thanks to the gears{br}in the wall moving,{page}{box:00}{name:02}George{br}now I can get through the door!{page}{end}",
+  "en": "{box:00}{name:02}George{br}The wall gears moved!{page}{box:00}{name:02}George{br}Now I can get through the door!{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -646,7 +646,7 @@
    "413D8"
   ],
   "jp": "{box:01}床にスイッチが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「じゅんばんに{br} ふむスイッチだ」{page}{end}",
-  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}Switches you step on in order.{page}{end}",
+  "en": "{box:01}Switches are lined{br}up on the floor.{page}{box:00}{name:02}George{br}So I've got to step on these in order.{page}{end}",
   "status": "done",
   "notes": ""
  },

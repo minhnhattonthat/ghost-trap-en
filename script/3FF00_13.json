@@ -343,7 +343,7 @@
    "41E58"
   ],
   "jp": "{box:01}ちくおんきが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「アンティーク{br} だらけの館だな…」{page}{end}",
-  "en": "{box:01}A gramophone sits here.{page}{box:00}{name:02}George{br}This house is full of antiques...{page}{end}",
+  "en": "{box:01}A gramophone sits here.{page}{box:00}{name:02}George{br}This place is packed with antiques, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },

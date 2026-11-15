@@ -312,7 +312,7 @@
    "40D0C"
   ],
   "jp": "{box:01}がくに紙きれが{br}はさんであった。{page}{box:01}紙きれには{br}メモがあった。{page}{box:01}『くさいぬり薬と{br} まずいのみ薬で…』{page}{box:00}{name:02}ジョージ{br}「薬のちょうごう{br} 方法みたいだな」{page}{end}",
-  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}There was a note on the scrap.{page}{box:01}\"Smelly Ointment and{br}a Nasty Potion...\"{page}{box:00}{name:02}George{br}Looks like how to mix medicine.{page}{end}",
+  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}There was a note on the scrap.{page}{box:01}\"Smelly Ointment and{br}a Nasty Potion...\"{page}{box:00}{name:02}George{br}Looks like instructions{br}for mixing medicine.{page}{end}",
   "status": "done",
   "notes": ""
  },

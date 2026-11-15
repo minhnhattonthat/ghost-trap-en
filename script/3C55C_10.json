@@ -187,7 +187,7 @@
    "3E660"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？{br} この絵…{page}{box:00}{name:02}ジョージ{br}「あのゴーストに{br} にてる気がするぞ。{page}{box:00}{name:02}ジョージ{br}「どのゴーストだか{br} 思い出せないけど」{page}{end}",
-  "en": "{box:00}{name:02}George{br}Huh? This painting...{page}{box:00}{name:02}George{br}I feel like it looks like{br}one of the ghosts.{page}{box:00}{name:02}George{br}I just can't remember which one.{page}{end}",
+  "en": "{box:00}{name:02}George{br}Huh? This painting...{page}{box:00}{name:02}George{br}Reminds me of one of the ghosts.{page}{box:00}{name:02}George{br}I just can't remember which one.{page}{end}",
   "status": "done",
   "notes": ""
  },

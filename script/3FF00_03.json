@@ -454,7 +454,7 @@
    "40658"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ゴーストのワナは{br} 大きくわけて{page}{box:01}『足止めするワナ{br} マインになるワナ{page}{box:01}『この2つに{br} わけられるだろう』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "{box:01}There was a note on the table.{page}{box:01}\"Ghost traps come{br}in two broad kinds:{page}{box:01}\"traps that stop{br}them in their tracks,{page}{box:01}\"and traps that become mines.{page}{box:01}\"So they may be divided.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"Ghost traps come{br}in two broad kinds:{page}{box:01}\"traps that stop{br}them in their tracks,{page}{box:01}\"and traps that become mines.{page}{box:01}\"Those are the two main kinds.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
   "status": "done",
   "notes": ""
  },

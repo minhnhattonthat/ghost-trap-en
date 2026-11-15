@@ -1056,7 +1056,7 @@
    "3D80C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ？あのドア、{br} 光がもれてるぞ…{page}{box:00}{name:02}ジョージ{br}「もしかして、{br} 外への出口か！？{page}{box:00}{name:02}ジョージ{br}「それとも、スゴイ{br} ゴーストの光…？{page}{box:00}{name:02}ジョージ{br}「とにかく、先に{br} すすむしかないな…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}What's that? Light's leaking{br}out around that door...{page}{box:00}{name:02}George{br}Could it be a way outside?!{page}{box:00}{name:02}George{br}Or maybe the glow of{br}some serious ghost...?{page}{box:00}{name:02}George{br}Either way, all I can{br}do is keep going...{page}{end}",
+  "en": "{box:00}{name:02}George{br}What's that? Light's leaking{br}out around that door...{page}{box:00}{name:02}George{br}Could it be a way outside?!{page}{box:00}{name:02}George{br}Or is that some seriously{br}powerful ghost glowing...?{page}{box:00}{name:02}George{br}Either way, all I can{br}do is keep going...{page}{end}",
   "status": "done",
   "notes": ""
  }

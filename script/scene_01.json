@@ -55,7 +55,7 @@
    "3BFF8"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「またこの本か・・・{page}{box:00}{name:02}ジョージ{br}「あのゴーストがもって{br} いたみたいだな・・・{page}{box:00}{name:02}ジョージ{br}「でも、いったい何冊{br} あるんだか・・・」{page}シマヌの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": " {clr}{box:00}{name:02}George{br}This book again...{page}{box:00}{name:02}George{br}Looks like that{br}ghost was holding it...{page}{box:00}{name:02}George{br}How many of these{br}are there, anyway...?{page}Got the Book of Simanu!{clr} {clr}{end}",
+  "en": " {clr}{box:00}{name:02}George{br}Another one of these books...{page}{box:00}{name:02}George{br}Looks like that{br}ghost was holding it...{page}{box:00}{name:02}George{br}How many of these{br}are there, anyway...?{page}Got the Book of Simanu!{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -75,7 +75,7 @@
    "3C000"
   ],
   "jp": " {clr}{box:00}{name:02}ジョージ{br}「やれやれ・・・{br} またコイツかよ！{page}{box:00}{name:02}ジョージ{br}「つぎにすすむ道が{br} あるって事だから{page}{box:00}{name:02}ジョージ{br}「ありがたいと言えば、{br} ありがたいんだが」{page}ドゥウズの書{br}を手に入れた！{clr} {clr}{end}",
-  "en": " {clr}{box:00}{name:02}George{br}Oh, come on... This thing again!?{page}{box:00}{name:02}George{br}Well, it means there's{br}a way forward,{page}{box:00}{name:02}George{br}so I guess I should be grateful.{page}Got the Book of Duuzu!{clr} {clr}{end}",
+  "en": " {clr}{box:00}{name:02}George{br}Oh, come on... Another one!?{page}{box:00}{name:02}George{br}Well, it means there's{br}a way forward,{page}{box:00}{name:02}George{br}so I guess I should be grateful.{page}Got the Book of Duuzu!{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  }

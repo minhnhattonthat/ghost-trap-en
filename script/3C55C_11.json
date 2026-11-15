@@ -432,7 +432,7 @@
    "3EBA8"
   ],
   "jp": "{box:01}あぶら絵に{br}ラクガキがあった。{page}{box:01}『ぬり薬には{br} バーベイン{page}{box:01}『そしてフラックス{br} がひつようだ』{page}{box:00}{name:02}ジョージ{br}「薬のちょうごう{br} 方法だな…」{page}{end}",
-  "en": "{box:01}Someone scribbled{br}on the oil painting.{page}{box:01}\"For Ointment you need Vervain{page}{box:01}\"and Flax.\"{page}{box:00}{name:02}George{br}How to mix medicine...{page}{end}",
+  "en": "{box:01}Someone scribbled{br}on the oil painting.{page}{box:01}\"For Ointment you need Vervain{page}{box:01}\"and Flax.\"{page}{box:00}{name:02}George{br}So that's how you mix medicine...{page}{end}",
   "status": "done",
   "notes": ""
  },

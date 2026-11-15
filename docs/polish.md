@@ -71,3 +71,24 @@ George's flat object-label lines voiced: 118204 118D64 10D3E0 10D028 10D760 10D0
 - [x] 12177C - "There's no footprint from me" (fixed: "Even my footprint's gone...")
 - [x] 12302C 11B37C - George's stray leading "!" (fixed: "It's a note from Karol-san...!"; Important in the same ids: Karol's note "but I fear I will flee the ritual.")
 - [x] 105CA4 - literary inversion "from far away came a faint sound" (fixed: "When I pressed it, I heard a faint sound in the distance.")
+
+## Story pass, round 2 (phase 9, 2026-11-16; reports `work/qa/story/reports/*.r2.md`)
+
+8 chapters ok; 06, 07, 10 issue on remaining flat George lines (fixed: 12048C "So that's how you mix medicine...",
+1176A4 "A round table, huh.", 117D10 117ECC "That's an old desk.", 124B98 "Books and bookshelves everywhere, huh...",
+1252C8 "They're all about the occult.", 1234F4 "So I've got to step on these in order.", 103220 "This place is packed
+with antiques, huh..."). Minors:
+
+- [x] 109CD4 109D44 - "This book again" / "This thing again!?" (fixed: "Another one of these books..." / "Oh, come on... Another one!?")
+- [x] 10A184 - old ghost's confession awkwardly joined (fixed: "I am one of the fools who tried to cross the border between life and death... and paid the price, my boy.")
+- [x] 11086C (+ 3C1D4_00 copy) - "mini map" vs "minimap" (fixed: "minimap")
+- [x] 1118D8 110F88 - round-1 "big old junk" broke the glossary's そだいゴミ -> bulky trash (fixed: "Nothing but bulky trash..." / "Yep. Just bulky trash.")
+- [x] 101D80 - "some serious ghost" (fixed: "Or is that some seriously powerful ghost glowing...?")
+- [x] 100E58 - "gone sallow" (fixed: "Even the yellow paint has yellowed.")
+- [x] 1002CC - "I feel like it looks like" (fixed: "Reminds me of one of the ghosts.")
+- [x] 117E20 117FFC - "Rubbish" (fixed: "Trash")
+- [x] 125F14 - "So they may be divided." (fixed: "Those are the two main kinds.")
+- [x] 12022C - "Looks like how to mix medicine." (fixed: "Looks like instructions for mixing medicine.")
+- [x] 122970 - inverted narration (fixed: "I found a note tucked / between the frame and the wall.")
+- [x] 124064 - "Thanks to the gears in the wall moving" (fixed: "The wall gears moved! / Now I can get through the door!")
+- [x] 1018A4 - "Touching it carelessly" (fixed: "Messing with this looks like a bad idea...")

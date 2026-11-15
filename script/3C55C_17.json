@@ -135,7 +135,7 @@
    "3FDB0"
   ],
   "jp": "{box:01}かべは全て{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「本と本だなに{br} かこまれた部屋か…」{page}{end}",
-  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}A room surrounded by{br}books and bookshelves...{page}{end}",
+  "en": "{box:01}The walls are all bookshelves.{page}{box:00}{name:02}George{br}Books and bookshelves{br}everywhere, huh...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -365,7 +365,7 @@
    "3FE14"
   ],
   "jp": "{box:01}本がつまった{br}本だなだ。{page}{box:00}{name:02}ジョージ{br}「全部、オカルト{br} かんけいの本だ」{page}{end}",
-  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}Every one of them{br}is about the occult.{page}{end}",
+  "en": "{box:01}A bookshelf packed with books.{page}{box:00}{name:02}George{br}They're all about the occult.{page}{end}",
   "status": "done",
   "notes": ""
  },

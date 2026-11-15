@@ -1165,7 +1165,7 @@
    "41D8C"
   ],
   "jp": "{box:01}スイッチパネルが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ヘタにさわると、{br} やばそうだな…」{page}{end}",
-  "en": "{box:01}There's a switch panel.{page}{box:00}{name:02}George{br}Touching it carelessly{br}looks like a bad idea...{page}{end}",
+  "en": "{box:01}There's a switch panel.{page}{box:00}{name:02}George{br}Messing with this{br}looks like a bad idea...{page}{end}",
   "status": "done",
   "notes": ""
  },

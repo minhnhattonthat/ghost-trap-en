@@ -15,7 +15,7 @@
    "3C1E4"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「ゴーストなんて{br} 気のせいよ！{page}{box:00}{name:03}アリシア{br}「気のせいに{br} きまってるけど…{page}{box:00}{name:03}アリシア{br}「とにかくゴースト{br} をかわして、{page}{box:00}{name:03}アリシア{br}「にげるのがきほん{br} だからね！そして…{page}{box:00}{name:03}アリシア{br}「まいごにだけは{br} ならないでね！{page}{box:00}{name:03}アリシア{br}「コンパスと{br} ミニマップで{page}{box:00}{name:03}アリシア{br}「チェックすれば{br} ヘイキよね？{page}{box:00}{name:03}アリシア{br}「気をつけてね{br} ジョージ…」{page}{end}",
-  "en": "{box:00}{name:03}Alicia{br}Ghosts are all in your head!{page}{box:00}{name:03}Alicia{br}I mean, obviously they are, but...{page}{box:00}{name:03}Alicia{br}anyway, the basic rule is{page}{box:00}{name:03}Alicia{br}dodge the ghosts and run! And...{page}{box:00}{name:03}Alicia{br}whatever you do, don't get lost!{page}{box:00}{name:03}Alicia{br}If you check the compass{page}{box:00}{name:03}Alicia{br}and the mini map,{br}you'll be fine, right?{page}{box:00}{name:03}Alicia{br}Be careful, George...{page}{end}",
+  "en": "{box:00}{name:03}Alicia{br}Ghosts are all in your head!{page}{box:00}{name:03}Alicia{br}I mean, obviously they are, but...{page}{box:00}{name:03}Alicia{br}anyway, the basic rule is{page}{box:00}{name:03}Alicia{br}dodge the ghosts and run! And...{page}{box:00}{name:03}Alicia{br}whatever you do, don't get lost!{page}{box:00}{name:03}Alicia{br}If you check the compass{page}{box:00}{name:03}Alicia{br}and the minimap,{br}you'll be fine, right?{page}{box:00}{name:03}Alicia{br}Be careful, George...{page}{end}",
   "status": "done",
   "notes": ""
  },
@@ -415,7 +415,7 @@
    "3C2CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「そだいゴミ{br} ばっかりだ…」{page}{end}",
-  "en": "{box:00}{name:02}George{br}It's all big old junk...{page}{end}",
+  "en": "{box:00}{name:02}George{br}Nothing but bulky trash...{page}{end}",
   "status": "done",
   "notes": ""
  },

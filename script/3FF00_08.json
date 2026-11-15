@@ -551,7 +551,7 @@
    "4115C"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{box:01}がくぶちとかべの{br}すきまに{page}{box:01}メモの紙が{br}はさんであった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『レール上の物を{br} うごかすには、{page}{box:01}『スイッチ部屋にて{br} でんげんを入れよ』{page}{end}",
-  "en": "{box:01}A big painting is on display.{page}{box:01}In the gap between{br}the frame and the wall,{page}{box:01}a note was tucked.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"To move what sits on the rails,{page}{box:01}\"turn on the power{br}in the switch room.\"{page}{end}",
+  "en": "{box:01}A big painting is on display.{page}{box:01}I found a note tucked{page}{box:01}between the frame and the wall.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"To move what sits on the rails,{page}{box:01}\"turn on the power{br}in the switch room.\"{page}{end}",
   "status": "done",
   "notes": ""
  },
