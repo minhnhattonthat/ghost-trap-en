@@ -5,8 +5,8 @@
    "3C1C4"
   ],
   "jp": "{box:00}{name:04}カロル{br}「ジョージさん！{br} 館の中で{page}{box:00}{name:04}カロル{br}「ゴーストに{br} であったら、{page}{box:00}{name:04}カロル{br}「まよわずに{br} にげてください。{page}{box:00}{name:04}カロル{br}「ゴーストに{br} つかまって、{page}{box:00}{name:04}カロル{br}「ひょういされて{br} しまうと、{page}{box:00}{name:04}カロル{br}「みうごきが{br} とれなくなって、{page}{box:00}{name:04}カロル{br}「HPをうばわれて{br} しまいますよ…。{page}{box:00}{name:04}カロル{br}「もし、ゴーストに{br} ひょういされたら、{page}{box:00}{name:04}カロル{br}「じゅうじボタンで{br} ふりほどけば、{page}{box:00}{name:04}カロル{br}「ひょういが早く{br} とけますよ。{page}{box:00}{name:04}カロル{br}「気をつけて{br} くださいね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:04}Karol{br}George-san! Inside the mansion,{page}{box:00}{name:04}Karol{br}if you run into a ghost,{page}{box:00}{name:04}Karol{br}run away without hesitating.{page}{box:00}{name:04}Karol{br}If a ghost catches you{page}{box:00}{name:04}Karol{br}and possesses you,{page}{box:00}{name:04}Karol{br}you won't be able to move,{page}{box:00}{name:04}Karol{br}and it will drain your HP...{page}{box:00}{name:04}Karol{br}If a ghost does possess you,{page}{box:00}{name:04}Karol{br}shake it off with{br}the +Control Pad{page}{box:00}{name:04}Karol{br}and the possession{br}will wear off faster.{page}{box:00}{name:04}Karol{br}Please be careful...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3C1C8"
   ],
   "jp": "{box:01}りっぱだが、{br}古い時計だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fine clock, but an old one.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3C1CC"
   ],
   "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Some junk is lying here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3C1D0"
   ],
   "jp": "{box:01}そだいゴミか{br}何かだろう。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Probably bulky{br}trash or something.{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

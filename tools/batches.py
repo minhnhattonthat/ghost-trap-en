@@ -164,7 +164,8 @@ def problems(entry, en, terms):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
         out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
     for jp_form, en_form in HONORIFICS.items():
-        if jp_form in jp_plain and en_form.lower() not in en.lower():
+        # only after a katakana name: ちゃんと (properly) and たくさん (many) are not honorifics
+        if re.search(rf"[ァ-ヶー]{jp_form}", jp_plain) and en_form.lower() not in en.lower():
             out.append(f"honorific {jp_form} needs {en_form}")
     return out + width_problems(entry, en)
 

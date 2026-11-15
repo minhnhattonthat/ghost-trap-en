@@ -29,5 +29,16 @@ Cutscene strings (scene table, `tools/debug/scripts.tsv` scripts 0-38) in story 
 - **Glowing books (10B1A4-10B524):** each grimoire glows and reveals a page: eternal life via a journey to death
   and back; the dreadful meaning of it; one who walks in death may come to love death; "one seized by death becomes
   a messenger of death (死のつかい) and will bring death's blessing to all life".
-- A voice "????" (later "Gregori"?) speaks in fragments. Other names to place: Shinfa, Albino, Reaper (死のつかい),
-  Angelica.
+- **Last books (10B5D8-10B734, 10A45C):** the messenger of death would cover the world in death within a year; the
+  only cure is sealing him before he wakes, which takes at least nine casters, some of whom may die. Kislim (book 9)
+  hides Alighieri's diary: he wanted eternal life at any cost and trusted his friends to seal him if he turned.
+- **Climax (1096B4-10A688, 1268AC-126C88):** Karol reasons the seal was incomplete and the ghosts guard the house;
+  the 2nd-floor door opens. In the crest room with the coffin, George lays the books on the crest; Karol turns out
+  to be the villain (wants "eternal peace", death for all), holding Alicia asleep. Shinfa (the polite ghost, @S)
+  breaks his spell by possessing Alicia, George knocks Karol out, and Shinfa guides the re-sealing.
+- **Ending (10ABD0):** the ghosts thank George and pass on; Alicia remembers nothing and still won't believe in
+  ghosts. Post-credits (11DB88, 11E1DC): jokey fourth-wall skits that unlock Time Attack Mode (Karol hosts; Albino
+  @B = the old じゃ ghost; Reaper @R thanks the player); Karol pines for Shinfa ("You creep!"). Hints: Crystal on
+  BOOK4 FLOOR2/5, Ether Armor via COMBINE with an N Unit (BOOK8 FLOOR3/7).
+- Tutorial/field ghost lines: 126394-12712C (crest-room guardians), 104908 a ghost names itself Gregori.
+- Names still to place: Angelica.

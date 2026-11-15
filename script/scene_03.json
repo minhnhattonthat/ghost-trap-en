@@ -85,8 +85,8 @@
    "3C03C"
   ],
   "jp": "ウルルの書が{br}光っている。{clr} {clr}『死のつかいがひとたび{br} 力をふるいはじめれば{page}『彼の行く手をはばむ事は{br} だれにもできない{page}『1日で一つの村が{br} 1月で一つの国が{page}『1年で世界の全てが{br} 死につつまれるだろう』{clr}{box:00}{name:02}ジョージ{br}「不死の儀式で生まれる{br} かもしれない死のつかい・・・{page}{box:00}{name:02}ジョージ{br}「かなりヤバイやつなんじゃ{br} ないのか！？」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "The Book of Ululu is glowing.{clr} {clr}Once the messenger of death{br}begins to wield his power,{page}no one will be able{br}to stand in his way.{page}In a day, a village;{br}in a month, a nation;{page}in a year, the whole world{br}will be wrapped in death.{clr}{box:00}{name:02}George{br}A messenger of death that might{br}be born from the immortality{page}{box:00}{name:02}George{br}ritual...{page}{box:00}{name:02}George{br}That sounds like{br}seriously bad news!?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "3C040"
   ],
   "jp": "テシュリトゥの書が{br}光っている。{clr} {clr}『死のつかいをおさえる{br} 方法はただ一つ{page}『彼がめざめてしまう前に{br} 封じる事のみ{page}『そのための魔法も{br} しるしておく』{clr}{box:00}{name:02}ジョージ{br}「不死のヤロウを封印か…{br} それしかないのか…」{clr} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "The Book of Teshritu is glowing.{clr} {clr}There is but one way to stop{br}the messenger of death:{page}seal him away before he awakens.{page}The magic for that is{br}written here as well.{clr}{box:00}{name:02}George{br}Seal the immortal creep{br}away... Is that the only way...?{clr} {clr}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

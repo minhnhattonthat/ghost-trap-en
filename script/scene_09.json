@@ -5,8 +5,8 @@
    "3C144"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし！ゴーストを{br} やっつけたぞ！{page}{box:00}{name:02}ジョージ{br}「…それにしても{br} あのナイフには、{page}{box:00}{name:02}ジョージ{br}「ゴーストを止めて{br} うごけなくする、{page}{box:00}{name:02}ジョージ{br}「バインドのうりょく{br} があるのか？{page}{box:00}{name:02}ジョージ{br}「どうやらナイフの{br} フシギなチカラと{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} があわさって…{page}{box:00}{name:02}ジョージ{br}「ワナになった{br} みたいだけど…{page}{box:00}{name:02}ジョージ{br}「もう一つのワナを{br} しらべてみるか…{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}All right! I took out the ghost!{page}{box:00}{name:02}George{br}...Still, does that knife have{page}{box:00}{name:02}George{br}some kind of Bind power{page}{box:00}{name:02}George{br}that stops ghosts{br}so they can't move?{page}{box:00}{name:02}George{br}Looks like the knife's{br}strange power{page}{box:00}{name:02}George{br}and the sensor's{br}power combined...{page}{box:00}{name:02}George{br}and turned it into a trap...{page}{box:00}{name:02}George{br}Let's check out{br}the other trap...{page}{box:00}{name:02}George{br}Walk up to a trap and{br}press the A Button...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3C148"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このひろった{br} ナイフを…{page}{box:00}{name:02}ジョージ{br}「床へ同じように{br} ならべてみるか…{page}{box:00}{name:02}ジョージ{br}「Bボタンでナイフ{br} を使えば…{page}{box:00}{name:02}ジョージ{br}「たぶん、同じ{br} ワナができるハズ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What if I lay this{br}knife I picked up{page}{box:00}{name:02}George{br}on the floor the same way...{page}{box:00}{name:02}George{br}If I use the knife{br}with the B Button...{page}{box:00}{name:02}George{br}it should make the{br}same kind of trap.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3C14C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「やっぱりセンサー{br} とはんのうして、{page}{box:00}{name:02}ジョージ{br}「ワナになる{br} みたいだ！{page}{box:00}{name:02}ジョージ{br}「よし！センサーを{br} かいぞうしよう。{page}{box:00}{name:02}ジョージ{br}「少しだけパワーを{br} ワナにむけて…{page}{box:00}{name:02}ジョージ{br}「ワナが残る{br} ようにしよう。{page}{box:00}{name:02}ジョージ{br}「…でも、マトモな{br} 道具が無いから、{page}{box:00}{name:02}ジョージ{br}「ワナは5つまでが{br} げんかいだな…{page}{box:00}{name:02}ジョージ{br}「それにパワーも{br} 小さいから、{page}{box:00}{name:02}ジョージ{br}「遠くに行くと{br} ワナがきえるな…{page}{box:00}{name:02}ジョージ{br}「…でも、まぁ、{br} なんとかなるさ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Just as I thought, it{br}reacts to the sensor{page}{box:00}{name:02}George{br}and becomes a trap!{page}{box:00}{name:02}George{br}All right! Let's{br}modify the sensor.{page}{box:00}{name:02}George{br}Send a little of its{br}power to the traps...{page}{box:00}{name:02}George{br}so the traps stay put.{page}{box:00}{name:02}George{br}...But I don't have{br}any decent tools,{page}{box:00}{name:02}George{br}so five traps is the limit...{page}{box:00}{name:02}George{br}And since the power is weak,{page}{box:00}{name:02}George{br}traps will vanish if{br}I go too far away...{page}{box:00}{name:02}George{br}...Oh well, I'll manage somehow.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3C150"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「もたもたしてると{br} ヤバイぜ！{page}{box:00}{name:02}ジョージ{br}「みぎうえの{br} アイコンが{page}{box:00}{name:02}ジョージ{br}「そうびのぶきに{br} かわったら、{page}{box:00}{name:02}ジョージ{br}「Aボタンで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「オレが手本を{br} みせてやる！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Dawdling around{br}here is dangerous!{page}{box:00}{name:02}George{br}When the icon at the top right{page}{box:00}{name:02}George{br}changes to my equipped weapon,{page}{box:00}{name:02}George{br}I can attack with the A Button!{page}{box:00}{name:02}George{br}Let me show you how it's done!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3C154"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「マッチか…{br} このままじゃ、{box:00}{name:02}ジョージ{br}「何のやくにも{br} 立たないけれど、{page}{box:00}{name:02}ジョージ{br}「ナイフとマッチを{br} COMBINEすれば、{page}{box:00}{name:02}ジョージ{br}「マインのワナが{br} できるかも！{page}{box:00}{name:02}ジョージ{br}「ほかにも何かある{br} かもしれないし…{page}{box:00}{name:02}ジョージ{br}「アイテム入手で、{br} COMBINEを{page}{box:00}{name:02}ジョージ{br}「いろいろためして{br} みないとな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Matches, huh... By themselves,{page}{box:00}{name:02}George{br}they won't do me any good,{page}{box:00}{name:02}George{br}but if I COMBINE the{br}knife and the matches,{page}{box:00}{name:02}George{br}I might make a Mine trap!{page}{box:00}{name:02}George{br}There might be{br}other combos, too...{page}{box:00}{name:02}George{br}Whenever I get an item,{page}{box:00}{name:02}George{br}I'd better try out{br}COMBINE a bunch...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3C158"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うかつにすすむと{br} あぶないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストが出ても{br} 何もできないし…{page}{box:00}{name:02}ジョージ{br}「まずは床のワナを{br} しらべておこう{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Rushing ahead blindly{br}is dangerous...{page}{box:00}{name:02}George{br}If a ghost shows up,{br}I can't do anything...{page}{box:00}{name:02}George{br}First, let's check the{br}trap on the floor.{page}{box:00}{name:02}George{br}Walk up to a trap and{br}press the A Button...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3C15C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うかつにすすむと{br} あぶないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストが出ても{br} 何もできないし…{page}{box:00}{name:02}ジョージ{br}「ナイフでワナを{br} つくってみよう{page}{box:00}{name:02}ジョージ{br}「Bボタンでナイフ{br} を使えば…{page}{box:00}{name:02}ジョージ{br}「たぶん、おなじ{br} ワナができるハズ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Rushing ahead blindly{br}is dangerous...{page}{box:00}{name:02}George{br}If a ghost shows up,{br}I can't do anything...{page}{box:00}{name:02}George{br}Let's try making a{br}trap with the knife.{page}{box:00}{name:02}George{br}If I use the knife{br}with the B Button...{page}{box:00}{name:02}George{br}it should make the{br}same kind of trap.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3C160"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかっているな…{page}{box:00}{name:02}ジョージ{br}「どこかにカギが{br} あるはずだ…{page}{box:00}{name:02}ジョージ{br}「まわりの物を{br} チェックしよう。{page}{box:00}{name:02}ジョージ{br}「気になる物の{br} 前でAボタンだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}There has to be a{br}key somewhere...{page}{box:00}{name:02}George{br}Let's check the{br}stuff around here.{page}{box:00}{name:02}George{br}Press the A Button in front{br}of anything suspicious.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "3C164"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかってるな…{page}{box:00}{name:02}ジョージ{br}「さっきのカギを{br} 使ってみるか…{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} USEコマンド、{page}{box:00}{name:02}ジョージ{br}「アイテムをえらび、{br} Aボタンだったな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The door's locked...{page}{box:00}{name:02}George{br}Let's try that{br}key from before...{page}{box:00}{name:02}George{br}The USE command on{br}the START Button,{page}{box:00}{name:02}George{br}pick the item, then{br}the A Button, right?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "3C168"
   ],
   "jp": "{box:01}ゴーストの口が{br}きみょうにゆがむ。{page}{box:01}しゃがれたこえが{br}あたりにひびく…{page}{box:00}{name:05}？？？？{br}『…わ…れ…わ…{br} グ…レ…ゴリ…』{page}{box:00}{name:02}ジョージ{br}「…グレゴリ？{br} 何のことだ？」{page}{box:00}{name:05}？？？？{br}『手…出す…{br} やめ……ろ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The ghost's mouth{br}twists strangely.{page}{box:01}A hoarse voice echoes around...{page}{box:00}{name:05}????{br}...I... am... Gre...go...ri...{page}{box:00}{name:02}George{br}...Gregori? What's that{br}supposed to mean?{page}{box:00}{name:05}????{br}Hands... off... st...op...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "3C16C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「きえた…。でも、{br} 今のゴーストは、{page}{box:00}{name:02}ジョージ{br}「何かを言いたそう{br} だったな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It vanished... But{br}that ghost just now{page}{box:00}{name:02}George{br}looked like it wanted{br}to tell me something...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "3C170"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これは…！？{page}{box:00}{name:02}ジョージ{br}「魔法のもんしょう{br} みたいだな…{page}{box:00}{name:02}ジョージ{br}「でも、日づけや{br} 文字がない上に{page}{box:00}{name:02}ジョージ{br}「使った人のサイン{br} すらないから、{page}{box:00}{name:02}ジョージ{br}「本物じゃなくて、{br} ただのシンボルか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What's this...!?{page}{box:00}{name:02}George{br}Looks like a magic crest...{page}{box:00}{name:02}George{br}But there's no date or writing,{page}{box:00}{name:02}George{br}not even a signature{br}from whoever used it,{page}{box:00}{name:02}George{br}so it's not real, just a symbol?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "3C174"
   ],
   "jp": "{box:01}ドアにカギが{br}かかる音がした。{page}{box:00}{name:02}ジョージ{br}「くっ！一人でに{br} ドアにカギが…？{page}{box:00}{name:02}ジョージ{br}「…まてよ、{br} あそこにあるのは{page}{box:00}{name:02}ジョージ{br}「カンオケか？{br} …となると、{page}{box:00}{name:02}ジョージ{br}「あとは魔道書を{br} じゅんばんに{page}{box:00}{name:02}ジョージ{br}「床のもんしょうの{br} マルにおけば、{page}{box:00}{name:02}ジョージ{br}「あのカンオケの{br} 中にいるヤツ…{page}{box:00}{name:02}ジョージ{br}「アリギエリ…いや、{br} 死のつかいが{page}{box:00}{name:02}ジョージ{br}「完全に封印{br} されるんだな！{page}{box:00}{name:02}ジョージ{br}「よーし、どうせ{br} 出られないんだし{page}{box:00}{name:02}ジョージ{br}「さっさと{br} 封印してしまおう！{page}{box:00}{name:02}ジョージ{br}「…どうやら、{br} あのひとだまが、{page}{box:00}{name:02}ジョージ{br}「本をおく場所と{br} じゅんばんを{page}{box:00}{name:02}ジョージ{br}「しめしている{br} みたいだな…{page}{box:00}{name:02}ジョージ{br}「…まってろよ！{br} アリシア…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I heard the door lock behind me.{page}{box:00}{name:02}George{br}Ugh! The door locked by itself...?{page}{box:00}{name:02}George{br}...Wait, is that thing over there{page}{box:00}{name:02}George{br}a coffin? ...In that case,{page}{box:00}{name:02}George{br}all that's left is to{br}set the grimoires,{page}{box:00}{name:02}George{br}in order, on the circles{br}of the floor crest,{page}{box:00}{name:02}George{br}and the thing{br}inside that coffin...{page}{box:00}{name:02}George{br}Alighieri... no, the{br}messenger of death{page}{box:00}{name:02}George{br}will be completely sealed!{page}{box:00}{name:02}George{br}All right, I can't get out anyway,{page}{box:00}{name:02}George{br}so let's hurry up and seal him!{page}{box:00}{name:02}George{br}...Looks like those will-o'-wisps{page}{box:00}{name:02}George{br}are showing me{br}where the books go{page}{box:00}{name:02}George{br}and in what order...{page}{box:00}{name:02}George{br}...Hang on! Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "3C178"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ、{br} 今のは…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What... was that...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "3C17C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？{page}{box:00}{name:02}ジョージ{br}「…くそっ、{br} 何だってんだ！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:02}George{br}...Damn it, what's going on!?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "3C180"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわっ！？{page}{box:00}{name:02}ジョージ{br}「なんかどんどん{br} ヤバくなってるぞ！{page}{box:00}{name:02}ジョージ{br}「この方法で、{br} 本当にいいのか？」{page}{box:00}{name:05}？？？？{br}「それでいいんです。{br} ジョージさん」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whoa!?{page}{box:00}{name:02}George{br}Things are getting{br}worse and worse!{page}{box:00}{name:02}George{br}Is this really the{br}right way to do it?{page}{box:00}{name:05}????{br}It's fine, George-san.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -166,8 +166,8 @@
    "3C188"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:04}カロル{br}「いいんですよ。{br} つづけて下さい」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:04}Karol{br}It's all right. Please, go on.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -176,8 +176,8 @@
    "3C18C"
   ],
   "jp": "{box:01}ニサンの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Nisan on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -186,8 +186,8 @@
    "3C190"
   ],
   "jp": "{box:01}アイヤルの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Iyyar on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -196,8 +196,8 @@
    "3C194"
   ],
   "jp": "{box:01}シマヌの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Simanu on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
    "3C198"
   ],
   "jp": "{box:01}ドゥウズの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Duuzu on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
    "3C19C"
   ],
   "jp": "{box:01}アブの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Abu on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -226,8 +226,8 @@
    "3C1A0"
   ],
   "jp": "{box:01}ウルルの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Ululu on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -236,8 +236,8 @@
    "3C1A4"
   ],
   "jp": "{box:01}テシュリトゥの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Teshritu on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -246,8 +246,8 @@
    "3C1A8"
   ],
   "jp": "{box:01}アラフシャムの書を{br}床に置いた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Arahsham on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -256,8 +256,8 @@
    "3C1AC"
   ],
   "jp": "{box:01}キスリムの書を{br}床に置いた。{page}{box:00}{name:02}ジョージ{br}「きえろ！！！{br} 死のつかい！！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Placed the Book of{br}Kislim on the floor.{page}{box:00}{name:02}George{br}Begone!!! Messenger of death!!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -266,8 +266,8 @@
    "3C1B0"
   ],
   "jp": "{box:01}{name:0A}{br}を床からひろった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Picked up {name:0A}{br}from the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -276,8 +276,8 @@
    "3C1B4"
   ],
   "jp": "{box:00}{name:06}シンファ{br}「まずは床に置いた{br} 全ての魔道書を…{page}{box:00}{name:06}シンファ{br}「ひろいあげて{br} ください」{page}{box:00}{name:02}ジョージ{br}「わかった！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:06}Shinfa{br}First, please pick up{page}{box:00}{name:06}Shinfa{br}all the grimoires you{br}placed on the floor.{page}{box:00}{name:02}George{br}Got it!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -286,8 +286,8 @@
    "3C1B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これでよし！」{page}{box:00}{name:02}ジョージ{br}「あのゴーストの{br} いる場所に{page}{box:00}{name:02}ジョージ{br}「もう一度、全部の{br} 魔道書を置いて、{page}{box:00}{name:02}ジョージ{br}「死のつかいを{br} 封印するんだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That should do it!{page}{box:00}{name:02}George{br}Now I put all the{br}grimoires down again{page}{box:00}{name:02}George{br}where that ghost is,{page}{box:00}{name:02}George{br}and seal the{br}messenger of death!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -306,8 +306,8 @@
    "3C324"
   ],
   "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Some junk is lying here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -316,8 +316,8 @@
    "3C1C0"
   ],
   "jp": "{box:00}{name:03}アリシア{br}「そうさのきほんは{br} Aボタンよ！{page}{box:00}{name:03}アリシア{br}「ドアをあけたり、{br} 物をひろったり、{page}{box:00}{name:03}アリシア{br}「何かを調べる{br} のもAボタン！{page}{box:00}{name:03}アリシア{br}「それから、{br} スタートボタンで、{page}{box:00}{name:03}アリシア{br}「アイテムじゅんび{br} ができたり、{page}{box:00}{name:03}アリシア{br}「ミニマップなどの{br} じょうほうを{page}{box:00}{name:03}アリシア{br}「見ることが{br} できるからね。{page}{box:00}{name:03}アリシア{br}「げんかんわきに{br} ハコがあるから、{page}{box:00}{name:03}アリシア{br}「にもつが多くて{br} じゃまな時は、{page}{box:00}{name:03}アリシア{br}「そこに入れると{br} いいかもね。{page}{box:00}{name:03}アリシア{br}「気をつけてね！{br} ジョージ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:03}Alicia{br}The A Button is{br}the basic control!{page}{box:00}{name:03}Alicia{br}Opening doors, picking things up,{page}{box:00}{name:03}Alicia{br}examining stuff,{br}it's all the A Button!{page}{box:00}{name:03}Alicia{br}And with the START Button,{page}{box:00}{name:03}Alicia{br}you can get your items ready{page}{box:00}{name:03}Alicia{br}and check info{page}{box:00}{name:03}Alicia{br}like the mini map.{page}{box:00}{name:03}Alicia{br}There's a box by the entrance,{page}{box:00}{name:03}Alicia{br}so when you're carrying{br}too much stuff,{page}{box:00}{name:03}Alicia{br}you might want to{br}put it in there.{page}{box:00}{name:03}Alicia{br}Be careful, George!{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]
