@@ -5,8 +5,8 @@
    "3FEB0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？{page}{box:00}{name:02}ジョージ{br}「…くそっ、{br} 何だってんだ！？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:02}George{br}...Damn it, what's going on!?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3FEB8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここだ！{br} 間違いない！{page}{box:00}{name:02}ジョージ{br}「あとは魔道書を{br} じゅんばんに{page}{box:00}{name:02}ジョージ{br}「床のもんしょうの{br} マルにおけば、{page}{box:00}{name:02}ジョージ{br}「アリギエリが…{br} 死のつかいが…{page}{box:00}{name:02}ジョージ{br}「完全に封印{br} されるんだな！{page}{box:00}{name:02}ジョージ{br}「…どうやら、{br} あのひとだまが、{page}{box:00}{name:02}ジョージ{br}「本をおく場所と{br} じゅんばんを{page}{box:00}{name:02}ジョージ{br}「しめしている{br} みたいだな…{page}{box:00}{name:02}ジョージ{br}「…まってろよ！{br} アリシア…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is it! No doubt about it!{page}{box:00}{name:02}George{br}All that's left is to place{br}the grimoires in order{page}{box:00}{name:02}George{br}on the circles of the{br}crest on the floor,{page}{box:00}{name:02}George{br}and Alighieri... the{br}messenger of death...{page}{box:00}{name:02}George{br}will be completely sealed away!{page}{box:00}{name:02}George{br}...Looks like those wisps of light{page}{box:00}{name:02}George{br}are showing me where{br}to put the books{page}{box:00}{name:02}George{br}and in what order...{page}{box:00}{name:02}George{br}...Hang in there! Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3FEBC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:04}カロル{br}「いいんですよ。{br} つづけて下さい」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}!?{page}{box:00}{name:04}Karol{br}It's all right. Please, go on.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3FEC0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ヤバイ！何とか{br} しないと！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Uh-oh! I've got to do something!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3FEC4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「このままだと{br} かなりまずいぜ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}If this keeps up,{br}I'm in big trouble!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3FEC8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ふたが完全に{br} なくなってる！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The lid is completely gone!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3FECC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「早いとこ、封印{br} しないとな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I'd better seal it, fast!{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

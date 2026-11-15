@@ -5,8 +5,8 @@
    "40000"
   ],
   "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a towel on the bed.{page}{box:00}{name:02}George{br}I've worked up{br}quite a sweat, but...{page}{box:00}{name:02}George{br}I don't want to use this towel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "40004"
   ],
   "jp": "{box:01}イスなどがザツに{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Chairs and such{br}are tossed around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "40008"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This painting's crooked too.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "4000C"
   ],
   "jp": "{box:01}テレビがある。{page}{box:01}こわれている{br}ようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a TV.{page}{box:01}It seems to be broken.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "40010"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきが{br} 置かれてるな…{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a gramophone here...{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "40014"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「本物は{br} はじめてだ！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}First time I've seen a real one!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "40018"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「くそっ！{br} ガラスの窓なのに{page}{box:00}{name:02}ジョージ{br}「ビクともしないし、{br} われないなんて！{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ！{br} この館は！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Dammit! It's a glass window,{page}{box:00}{name:02}George{br}but it won't budge,{br}and it won't break!{page}{box:00}{name:02}George{br}What is up with this house?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -84,8 +84,8 @@
    "401CC"
   ],
   "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is in the way;{br}it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -103,8 +103,8 @@
    "401D0"
   ],
   "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is in the way;{br}it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -122,8 +122,8 @@
    "401D4"
   ],
   "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is in the way;{br}it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -132,8 +132,8 @@
    "40028"
   ],
   "jp": "{box:01}ぼろぼろになった{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tattered billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -142,8 +142,8 @@
    "4002C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{page}{box:00}{name:02}ジョージ{br}「アリシアに{br} かてないんだよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Billiards, huh...{page}{box:00}{name:02}George{br}I can never beat Alicia...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -152,8 +152,8 @@
    "40030"
   ],
   "jp": "{box:01}かなりくたびれた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A really worn-out billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -162,8 +162,8 @@
    "40034"
   ],
   "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}めぼしいモノは{br}ないようだ{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small table stands here.{page}{box:01}Nothing worth taking, it seems.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -181,8 +181,8 @@
    "401EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、{page}{box:00}{name:02}ジョージ{br}「スタートボタンで{br} ひょうじされる、{page}{box:00}{name:02}ジョージ{br}「ミニマップで{br} かくにんできる。{page}{box:00}{name:02}ジョージ{br}「オレがむいている{br} ほうこうは、{page}{box:00}{name:02}ジョージ{br}「がめんみぎの{br} コンパスに出る…{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}when I press the START Button.{page}{box:00}{name:02}George{br}The direction I'm facing{page}{box:00}{name:02}George{br}shows on the compass on{br}the right of the screen...{page}{box:00}{name:02}George{br}Brilliant invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -192,8 +192,8 @@
    "40070"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「アンティークな{br} ちくおんきだ」{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An antique gramophone.{page}{box:00}{name:02}George{br}Doesn't look like there{br}are any records.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -203,8 +203,8 @@
    "40074"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a jukebox!{page}{box:00}{name:02}George{br}Too bad I don't have a record...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -214,8 +214,8 @@
    "40078"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビクともしない{br} ガラス窓だ。{page}{box:00}{name:02}ジョージ{br}「こわすのは{br} あきらめよう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A glass window that won't budge.{page}{box:00}{name:02}George{br}I'll give up on breaking it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "40088"
   ],
   "jp": "{box:01}かなり古い{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A really old billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -236,8 +236,8 @@
    "4008C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -247,8 +247,8 @@
    "40090"
   ],
   "jp": "{box:01}ボロボロの{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -257,8 +257,8 @@
    "40064"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ゴーストの{br} こうげきは2つ{page}{box:01}『とりついて{br} うごけなくなる{page}{box:01}『ひょういこうげき{br} もうひとつは{page}{box:01}『ぶつりてきな{br} こうげきである』{page}{box:00}{name:02}ジョージ{br}「なるほど…{br} 2つのこうげきか」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"Ghosts have two{br}kinds of attack.{page}{box:01}\"One is possession,{br}where they latch on{page}{box:01}\"so you can't move.{page}{box:01}\"The other is a{br}physical attack.\"{page}{box:00}{name:02}George{br}I see... two kinds of attack.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -267,8 +267,8 @@
    "40094"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『じゅうじボタンで{br} ふりほどくか、{page}{box:01}『エルダーのえだを{br} そうびすべし』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"shake them off with{br}the +Control Pad,{page}{box:01}\"or equip an Elder Branch.\"{page}{box:00}{name:02}George{br}Uh-huh, uh-huh.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -278,8 +278,8 @@
    "400D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「古い{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「…こわれている{br} みたいだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An old gramophone.{page}{box:00}{name:02}George{br}...Looks like it's broken.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -289,8 +289,8 @@
    "400D4"
   ],
   "jp": "{box:01}ジュークボックス{br}が置かれている{page}{box:00}{name:02}ジョージ{br}「こわれてる{br} みたいだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}Looks like it's broken.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -300,8 +300,8 @@
    "400D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なぜかあかないし{br} こわせない窓…{page}{box:00}{name:02}ジョージ{br}「調べても、{br} いみがないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A window that somehow{br}won't open or break...{page}{box:00}{name:02}George{br}No point checking it...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -311,8 +311,8 @@
    "400E8"
   ],
   "jp": "{box:01}かなりよごれた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A really dirty billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -322,8 +322,8 @@
    "400EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あそんでいる{br} ヒマはないな…{page}{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to play around...{page}{box:00}{name:02}George{br}Forget billiards, I need an exit.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -333,8 +333,8 @@
    "400F0"
   ],
   "jp": "{box:01}くちかけた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A rotting billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -343,8 +343,8 @@
    "400C4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『エルダーのえだ{br} よりも{page}{box:01}『ザツなおまもりが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"a Cheap Charm works better{page}{box:01}\"than an Elder Branch.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -353,8 +353,8 @@
    "400F4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモを見つけた。{page}{box:01}『エルダーのえだは{br} きよめたナイフで{page}{box:01}『けずることで、{br} ザツなおまもりに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a note on the table.{page}{box:01}\"Whittle an Elder Branch{br}with a Purified Knife{page}{box:01}\"and it becomes a Cheap Charm.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -364,8 +364,8 @@
    "40130"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきに{br} 用はないな…{page}{box:00}{name:02}ジョージ{br}「そもそも{br} こわれてるしね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got no business{br}with the gramophone...{page}{box:00}{name:02}George{br}It's broken anyway.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "40134"
   ],
   "jp": "{box:01}ジュークボックス{br}が置かれている{page}{box:00}{name:02}ジョージ{br}「こわれてるんじゃ{br} しょうがないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}If it's broken, there's{br}nothing I can do...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -386,8 +386,8 @@
    "40138"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あかないし、{br} こわれない…{page}{box:00}{name:02}ジョージ{br}「フシギな窓だ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Won't open, won't break...{page}{box:00}{name:02}George{br}What a weird window.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -397,8 +397,8 @@
    "40148"
   ],
   "jp": "{box:01}ビリヤードだいは{br}ボロボロだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The billiard table{br}is falling apart.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -408,8 +408,8 @@
    "4014C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これであそんで{br} いた人も、{page}{box:00}{name:02}ジョージ{br}「今はゴーストに{br} なってるのか…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The people who used{br}to play on this...{page}{box:00}{name:02}George{br}are they ghosts now...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -419,8 +419,8 @@
    "40150"
   ],
   "jp": "{box:01}ビリヤードだいが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A billiard table stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -429,8 +429,8 @@
    "40124"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『ザツなおまもり{br} よりも…{page}{box:01}『アミュレットが{br} こうかてきである』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"To shorten possession time,{page}{box:01}\"an Amulet works better{page}{box:01}\"than a Cheap Charm.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -439,8 +439,8 @@
    "40154"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ、{page}{box:01}『アミュレットが{br} 生まれるだろう』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note lies on the table.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm,{page}{box:01}\"and an Amulet shall be born.\"{page}{box:00}{name:02}George{br}Huh...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -450,8 +450,8 @@
    "40190"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -461,8 +461,8 @@
    "40194"
   ],
   "jp": "{box:01}ジュークボックス{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「こわれてるんじゃ{br} しかたないよな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}If it's broken,{br}there's no helping it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -472,8 +472,8 @@
    "40198"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あかないし{br} こわれない窓…{page}{box:00}{name:02}ジョージ{br}「これもオカルトの{br} チカラなのか…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A window that won't{br}open or break...{page}{box:00}{name:02}George{br}Is this occult power too...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -483,8 +483,8 @@
    "401A8"
   ],
   "jp": "{box:01}こわれかけた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A billiard table on its last legs.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -494,8 +494,8 @@
    "401AC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…アリシア…{br} 待ってろよ！{page}{box:00}{name:02}ジョージ{br}「かならずたすけて、{br} またビリヤードで{page}{box:00}{name:02}ジョージ{br}「しょうぶしてやる！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...Alicia... hang on!{page}{box:00}{name:02}George{br}I'll save you for sure, and then{page}{box:00}{name:02}George{br}we'll have a billiards rematch!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    "401B0"
   ],
   "jp": "{box:01}ホコリのつもった{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dust-covered billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    "40184"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『ひょういぼうぐの{br} アミュレットから{page}{box:01}『心のおまもりが{br} つくれるだろう』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:00}{name:02}George{br}Sorry, but I'm gonna read this...{page}{box:01}\"From the Amulet, a guard{br}against possession,{page}{box:01}\"a Heart Charm can be made.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    "401B4"
   ],
   "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:00}{name:02}ジョージ{br}「おっと、見のがす{br} ところだったな」{page}{box:01}『アミュレットに{br} 赤の石を入れろ。{page}{box:01}『心のおまもりが{br} できるであろう』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note lies on the table.{page}{box:00}{name:02}George{br}Whoa, I almost missed this.{page}{box:01}\"Put a Red Stone in the Amulet.{page}{box:01}\"A Heart Charm shall be made.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    "401C0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「先をいそごう」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A broken gramophone.{page}{box:00}{name:02}George{br}Let's keep moving.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "401C4"
   ],
   "jp": "{box:01}ジュークボックス{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「こわれている物に{br} 用は無いな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jukebox sits here.{page}{box:00}{name:02}George{br}I've got no business{br}with broken stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    "401C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「窓を見ている{br} ヒマはないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to look at windows.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    "401D8"
   ],
   "jp": "{box:01}古びた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A worn old billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    "401DC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「待ってろよ{br} アリシア！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Hang on, Alicia!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    "401E0"
   ],
   "jp": "{box:01}くたびれた{br}ビリヤードだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A worn-out billiard table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    "401E4"
   ],
   "jp": "{box:01}テーブルの上には{br}メモがあった。{page}{box:01}『先をいそげ』{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a note on the table.{page}{box:01}\"Hurry on.\"{page}{box:00}{name:02}George{br}...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    "401F0"
   ],
   "jp": "{box:01}石こうでできた{br}ちょうこくがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a sculpture{br}made of plaster.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    "401F4"
   ],
   "jp": "{box:01}かれたはちうえと{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A withered potted plant{br}and an oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "401F8"
   ],
   "jp": "{box:01}フシギな絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A mysterious{br}painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    "401FC"
   ],
   "jp": "{box:01}むぞうさに絵が{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting has been{br}left here carelessly.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    "40200"
   ],
   "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A large painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -656,8 +656,8 @@
    "40268"
   ],
   "jp": "{box:01}白いちょうこくが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white sculpture stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -667,8 +667,8 @@
    "4026C"
   ],
   "jp": "{box:01}びじゅつひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Works of art sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -678,8 +678,8 @@
    "40270"
   ],
   "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -689,8 +689,8 @@
    "40274"
   ],
   "jp": "{box:01}あぶら絵が床に{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting has{br}been set on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -700,8 +700,8 @@
    "40278"
   ],
   "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old, worn oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -711,8 +711,8 @@
    "40280"
   ],
   "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -722,8 +722,8 @@
    "40284"
   ],
   "jp": "{box:01}そうしょくひんが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -733,8 +733,8 @@
    "40288"
   ],
   "jp": "{box:01}何かの絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of{br}something is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -744,8 +744,8 @@
    "4028C"
   ],
   "jp": "{box:01}床にあぶら絵が{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting has{br}been set on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -755,8 +755,8 @@
    "40290"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dust-covered oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -766,8 +766,8 @@
    "40298"
   ],
   "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -777,8 +777,8 @@
    "4029C"
   ],
   "jp": "{box:01}そうしょくが床に{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A decoration sits on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -788,8 +788,8 @@
    "402A0"
   ],
   "jp": "{box:01}きみょうな絵が{br}かけてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -799,8 +799,8 @@
    "402A4"
   ],
   "jp": "{box:01}床にはきたない{br}絵が置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty painting{br}sits on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -810,8 +810,8 @@
    "402A8"
   ],
   "jp": "{box:01}かなり古い{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A very old oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -821,8 +821,8 @@
    "402B0"
   ],
   "jp": "{box:01}白い石こうの{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white plaster ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -832,8 +832,8 @@
    "402B4"
   ],
   "jp": "{box:01}はちうえと絵が{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A potted plant and{br}a painting sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -843,8 +843,8 @@
    "402B8"
   ],
   "jp": "{box:01}なかなかみごとな{br}あぶら絵がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a pretty{br}impressive oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

@@ -6,8 +6,8 @@
    "407BC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たくさんたるが{br} 置かれてるなあ」{page}{box:00}{name:02}ジョージ{br}「この館には{br} いったい何人が…{page}{box:00}{name:02}ジョージ{br}「くらして{br} いたんだろうな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Sure are a lot of barrels here.{page}{box:00}{name:02}George{br}Just how many people...{page}{box:00}{name:02}George{br}used to live in this house?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -16,8 +16,8 @@
    "40780"
   ],
   "jp": "{box:01}たなに書きおきが{br}置かれていた。{page}{box:01}『トランスは{br} でんあつを上げる{page}{box:01}『それはベッドの{br} よこのたなに』{page}{box:00}{name:02}ジョージ{br}「ふむ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:01}\"The Transformer{br}raises the voltage.{page}{box:01}\"It's on the shelf{br}beside the bed.\"{page}{box:00}{name:02}George{br}Hmm.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -27,8 +27,8 @@
    "407C8"
   ],
   "jp": "{box:01}カビの生えた{br}ワインのたるだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A moldy wine barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -38,8 +38,8 @@
    "407CC"
   ],
   "jp": "{box:01}いくつもたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A number of barrels sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -48,8 +48,8 @@
    "40790"
   ],
   "jp": "{box:01}たなに古い{br}メモをみつけた。{page}{box:01}『タリスマンには{br} 石をはめこめ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found an old note on the shelf.{page}{box:01}\"Set a stone into the Talisman.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -59,8 +59,8 @@
    "407D8"
   ],
   "jp": "{box:01}ねんきの入った{br}ワインのたるだ。{page}{box:00}{name:02}ジョージ{br}「…なかみは全部{br} ワインビネガー？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A well-aged wine barrel.{page}{box:00}{name:02}George{br}...Is all of it wine vinegar by now?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -70,8 +70,8 @@
    "407DC"
   ],
   "jp": "{box:01}ワインのたるが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「だいぶ古いから、{br} なかみがあっても{page}{box:00}{name:02}ジョージ{br}「全部ビネガーに{br} なってるよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wine barrels sit here.{page}{box:00}{name:02}George{br}They're pretty old, so even{br}if there's anything in them,{page}{box:00}{name:02}George{br}it's all turned to vinegar...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -80,8 +80,8 @@
    "407A0"
   ],
   "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『ゴーストたいじの{br} クリスタルは、{page}{box:01}『きいろいつうろに{br} 置いてある』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"The ghost-fighting Crystal{page}{box:01}\"lies in the yellow passage.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -90,8 +90,8 @@
    "407B0"
   ],
   "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『テスラコイルは{br} えいしゃきそばに』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"The Tesla Coil is{br}by the projector.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -100,8 +100,8 @@
    "407C0"
   ],
   "jp": "{box:01}たなには何も{br}のってなかった。{page}{box:00}{name:02}ジョージ{br}「アリシアの{br} 手がかりもなし…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing on the shelf.{page}{box:00}{name:02}George{br}No clue about Alicia either...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -110,8 +110,8 @@
    "407D0"
   ],
   "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『Nユニットは{br} ナゾのパーツ{page}{box:01}『それを使えば{br} ぼうぐができる{page}{box:01}『フライパンの{br} 後に使う』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"The N Unit is a mystery part.{page}{box:01}\"With it, armor can be made.{page}{box:01}\"Use it after the Frying Pan.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -120,8 +120,8 @@
    "407E0"
   ],
   "jp": "{box:01}紙きれを{br}みつけた。{page}{box:00}{name:02}ジョージ{br}「あ、なんか{br} 書いてあるな…」{page}{box:01}『さいこうのぶきは{br} 聖者の石と。{page}{box:01}『聖者の石には{br} エリクシールが。{page}{box:01}『エリクシールには{br} Nリキッドが』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a scrap of paper.{page}{box:00}{name:02}George{br}Oh, something's written on it...{page}{box:01}\"The finest weapon comes{br}with the Saint's Stone.{page}{box:01}\"For the Saint's Stone, an Elixir.{page}{box:01}\"For an Elixir, N Liquid.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -131,8 +131,8 @@
    "40828"
   ],
   "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Barrels full of wine, maybe?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -142,8 +142,8 @@
    "4082C"
   ],
   "jp": "{box:01}たるがたくさん{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Lots of barrels sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -152,8 +152,8 @@
    "407F0"
   ],
   "jp": "{box:01}たなに書きおきを{br}見つけた。{page}{box:01}『トランシーバーは{br} でんわの部屋に』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a written{br}note on the shelf.{page}{box:01}\"The transceiver is in{br}the telephone room.\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -163,8 +163,8 @@
    "40838"
   ],
   "jp": "{box:01}こわれかけた{br}ワインのたるだ。{page}{box:01}しっけのせいで{br}カビが生えている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wine barrel on its last legs.{page}{box:01}Mold is growing on{br}it from the damp.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -174,8 +174,8 @@
    "4083C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たくさんたるが{br} 置かれてるなあ」{page}{box:00}{name:02}ジョージ{br}「この館には{br} いったい何人が…{page}{box:00}{name:02}ジョージ{br}「くらして{br} いたんだろうな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Sure are a lot of barrels here.{page}{box:00}{name:02}George{br}Just how many people...{page}{box:00}{name:02}George{br}used to live in this house?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -184,8 +184,8 @@
    "40800"
   ],
   "jp": "{box:01}たなに書きおきが{br}置かれていた。{page}{box:01}『タリスマンと{br} マグネトロンは{page}{box:01}『おなじ部屋に{br} かくされている』{page}{box:00}{name:02}ジョージ{br}「ふむ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:01}\"The Talisman and the Magnetron{page}{box:01}\"are hidden in the same room.\"{page}{box:00}{name:02}George{br}Hmm.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "40848"
   ],
   "jp": "{box:01}カビの生えた{br}ワインのたるだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A moldy wine barrel.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
    "4084C"
   ],
   "jp": "{box:01}いくつもたるが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A number of barrels sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -216,8 +216,8 @@
    "40810"
   ],
   "jp": "{box:01}たなに古い{br}メモをみつけた。{page}{box:01}『フライパンは{br} ようがんに』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found an old note on the shelf.{page}{box:01}\"The Frying Pan: in the lava.\"{page}{box:00}{name:02}George{br}Gotcha.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -227,8 +227,8 @@
    "40858"
   ],
   "jp": "{box:01}ねんきの入った{br}ワインのたるだ。{page}{box:00}{name:02}ジョージ{br}「…なかみは全部{br} ワインビネガー？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A well-aged wine barrel.{page}{box:00}{name:02}George{br}...Is all of it wine vinegar by now?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -238,8 +238,8 @@
    "4085C"
   ],
   "jp": "{box:01}ワインのたるが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「だいぶ古いから、{br} なかみがあっても{page}{box:00}{name:02}ジョージ{br}「全部ビネガーに{br} なってるよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Wine barrels sit here.{page}{box:00}{name:02}George{br}They're pretty old, so even{br}if there's anything in them,{page}{box:00}{name:02}George{br}it's all turned to vinegar...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -248,8 +248,8 @@
    "40820"
   ],
   "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『クリスタルは{br} 2度に1度、{page}{box:01}『クリティカルな{br} こうげきになる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"The Crystal, one time in two,{page}{box:01}\"lands a critical attack.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -258,8 +258,8 @@
    "40830"
   ],
   "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A written note was{br}left on the shelf.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"Put a stone in the Glass Jar.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -268,8 +268,8 @@
    "40840"
   ],
   "jp": "{box:01}たなには何も{br}のってなかった。{page}{box:00}{name:02}ジョージ{br}「アリシアの{br} 手がかりもなし…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing on the shelf.{page}{box:00}{name:02}George{br}No clue about Alicia either...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -278,8 +278,8 @@
    "40850"
   ],
   "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『アタノールつぼに{br} 石を入れよ』{page}{box:01}『ガラスのつぼと{br} 違うこうかが…』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a written note.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"Put a stone in{br}the Athanor Jar.\"{page}{box:01}\"It works differently{br}from the Glass Jar...\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -288,8 +288,8 @@
    "40860"
   ],
   "jp": "{box:01}紙きれを{br}みつけた。{page}{box:00}{name:02}ジョージ{br}「あ、なんか{br} 書いてあるな…」{page}{box:01}『Nリキッドには{br} くさいぬり薬と{page}{box:01}『まずいのみ薬が{br} ひつようだ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a scrap of paper.{page}{box:00}{name:02}George{br}Oh, something's written on it...{page}{box:01}\"N Liquid needs Smelly Ointment{page}{box:01}\"and a Nasty Potion.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -299,8 +299,8 @@
    "40898"
   ],
   "jp": "{box:01}手すりは古くて{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「あんまりそばには{br} 行きたくないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}I don't want to get too close...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -310,8 +310,8 @@
    "4089C"
   ],
   "jp": "{box:01}手すりのむこうは{br}何もない。{page}{box:00}{name:02}ジョージ{br}「下には何が{br} あるんだろ…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing{br}beyond the handrail.{page}{box:00}{name:02}George{br}What's down there, I wonder...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -321,8 +321,8 @@
    "408A0"
   ],
   "jp": "{box:01}手すりがある。{page}{box:00}{name:02}ジョージ{br}「くらくて下が{br} 見えないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a handrail.{page}{box:00}{name:02}George{br}It's too dark to see below...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -332,8 +332,8 @@
    "408A4"
   ],
   "jp": "{box:01}かべのとそうが{br}はがれている。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} かおに見えるな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The paint is peeling off the wall.{page}{box:00}{name:02}George{br}The stains on the{br}wall look like faces...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -342,8 +342,8 @@
    "40878"
   ],
   "jp": "{box:01}かべがはがれて{br}いる。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ゴーストからの{br} こうげきから{page}{box:01}『みをまもるには、{br} フライパンや{page}{box:01}『なべのふた、{br} 心のおまもり{page}{box:01}『などがこうかてき』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"To protect yourself{page}{box:01}\"from ghost attacks,{br}a Frying Pan,{page}{box:01}\"a Pot Lid, a Heart Charm,{page}{box:01}\"and the like are effective.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
