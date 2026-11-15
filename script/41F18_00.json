@@ -145,7 +145,7 @@
    "41F50"
   ],
   "jp": "どのアイテムを{br}そうびする？{clr}{end}",
-  "en": "Equip which{br}item?{clr}{end}",
+  "en": "Which item{br}to equip?{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -355,7 +355,7 @@
    "41FA4"
   ],
   "jp": "くみあわせた{br}アイテムを{br}もちきれない。{clr}{end}",
-  "en": "You can't carry{br}the combined{br}item.{clr}{end}",
+  "en": "No room to{br}carry the{br}combined item.{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -415,7 +415,7 @@
    "41FBC"
   ],
   "jp": "この場所に{br}えらんだアイテムを{br}置きます。{clr}{end}",
-  "en": "Puts the item{br}you selected{br}here.{clr}{end}",
+  "en": "Puts the{br}selected item{br}in this spot.{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -485,7 +485,7 @@
    "41FD8"
   ],
   "jp": " {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "{name:01}Yes  {name:07}No{clr}{end}",
+  "en": " {name:01}Yes  {name:07}No{clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -495,7 +495,7 @@
    "41FDC"
   ],
   "jp": " {name:07}はい  {name:01}いいえ{clr}{end}",
-  "en": "{name:07}Yes  {name:01}No{clr}{end}",
+  "en": " {name:07}Yes  {name:01}No{clr}{end}",
   "status": "done",
   "notes": ""
  },

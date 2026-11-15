@@ -141,6 +141,7 @@ def split_long(text, width, nlines):
 
 
 STUB = 8  # a page wrap.py adds must hold at least this many characters
+LAST_MIN = 6  # the last line of a multi-line page (an orphaned word reads as a layout bug)
 
 
 def stubs(text):
@@ -177,6 +178,9 @@ def layout(entry, en):
                     bad.append(f"line {ln!r} is {px(ln)} px > {width}")
             if len(pg) > nlines:
                 bad.append(f"{len(pg)} lines on a page > {nlines}: {pg!r}")
+            last = TOKEN.sub("", pg[-1]).strip()
+            if len(pg) > 1 and re.search(r"[A-Za-z]", last) and len(last) < LAST_MIN:
+                bad.append(f"stub last line {last!r} (under {LAST_MIN} characters): {pg!r}")
             out += ("{page}" if i else "") + (pre if (i == 0 or pre.startswith("{box")) else "") + "{br}".join(pg)
         out += code
     return out, bad + stubs(out)

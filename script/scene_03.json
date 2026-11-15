@@ -35,7 +35,7 @@
    "3C028"
   ],
   "jp": " {clr}ニサンの書が{br}光っている。{page}{box:00}{name:02}ジョージ{br}「な、なんだ？{br} 魔道書が光ってる？」{clr} {clr}{box:00}{name:02}ジョージ{br}「あっ！文字が！」{page}『この書を手にする{br} 全ての者につぐ{page}『これはおどろくべき{br} 魔法の力をしるした書{page}『この書の力を{br} 全てひきだせば、{page}『永遠の命を手にする{br} こともできるだろう』{page}{box:00}{name:02}ジョージ{br}「永遠の命・・・不老不死{br} そうか・・この本が・・・{page}{box:00}{name:02}ジョージ{br}「次のページは・・・{br} ・・・！？{page}{box:00}{name:02}ジョージ{br}「・・・どこの文字だコレ？{br} ぜんぜん読めないぞ！{page}{box:00}{name:02}ジョージ{br}「・・・カロルさんなら{br} 読めるかな？」{clr}{box:00}{name:02}ジョージ{br}「うわっ！{br} ・・・なんだ！？」{clr} {clr}{end}",
-  "en": "{clr}The Book of Nisan is glowing.{page}{box:00}{name:02}George{br}Wh-what? The grimoire is glowing?{clr} {clr}{box:00}{name:02}George{br}Whoa! Writing!{page}To all who hold this book:{page}This book records a magic{br}power beyond belief.{page}Draw out all of{br}this book's power,{page}and you may even{br}gain eternal life.{page}{box:00}{name:02}George{br}Eternal life... immortality.{br}I see.. So this book...{page}{box:00}{name:02}George{br}The next page is... ...!?{page}{box:00}{name:02}George{br}...What kind of writing is{br}this? I can't read it at all!{page}{box:00}{name:02}George{br}...Maybe Karol-san can read it?{clr}{box:00}{name:02}George{br}Whoa! ...What the!?{clr} {clr}{end}",
+  "en": " {clr}The Book of Nisan is glowing.{page}{box:00}{name:02}George{br}Wh-what? The grimoire is glowing?{clr} {clr}{box:00}{name:02}George{br}Whoa! Writing!{page}To all who hold this book:{page}This book records a magic{br}power beyond belief.{page}Draw out all of{br}this book's power,{page}and you may even{br}gain eternal life.{page}{box:00}{name:02}George{br}Eternal life... immortality.{br}I see.. So this book...{page}{box:00}{name:02}George{br}The next page is... ...!?{page}{box:00}{name:02}George{br}...What kind of writing is{br}this? I can't read it at all!{page}{box:00}{name:02}George{br}...Maybe Karol-san can read it?{clr}{box:00}{name:02}George{br}Whoa! ...What the!?{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  },
@@ -45,7 +45,7 @@
    "3C02C"
   ],
   "jp": " {clr}アイヤルの書が{br}光っている。{page}{box:00}{name:02}ジョージ{br}「さっきと同じだ！」{clr} {clr}{box:00}{name:02}ジョージ{br}「また文字が・・・」{page}『命あるものの世界から{br} 死の世界へ{page}『そしてふたたび{br} 命あふれる世界へ{page}『この旅を成しとげた者は{br} 永遠の命を手に入れる』{page}{box:00}{name:02}ジョージ{br}「次のページは・・・{br} ・・・と・・・{page}{box:00}{name:02}ジョージ{br}「・・・やっぱり読めない{br} ・・・{page}{box:00}{name:02}ジョージ{br}「！？」{clr} {clr}{end}",
-  "en": "{clr}The Book of Iyyar is glowing.{page}{box:00}{name:02}George{br}Same as before!{clr} {clr}{box:00}{name:02}George{br}More writing...{page}From the world of the living{br}to the world of death,{page}and then once more to the{br}world brimming with life.{page}Whoever completes this{br}journey shall gain eternal life.{page}{box:00}{name:02}George{br}The next page is... ...let's see...{page}{box:00}{name:02}George{br}...I still can't read it... ...{page}{box:00}{name:02}George{br}!?{clr} {clr}{end}",
+  "en": " {clr}The Book of Iyyar is glowing.{page}{box:00}{name:02}George{br}Same as before!{clr} {clr}{box:00}{name:02}George{br}More writing...{page}From the world of the living{br}to the world of death,{page}and then once more to the{br}world brimming with life.{page}Whoever completes this{br}journey shall gain eternal life.{page}{box:00}{name:02}George{br}The next page is... ...let's see...{page}{box:00}{name:02}George{br}...I still can't read it... ...{page}{box:00}{name:02}George{br}!?{clr} {clr}{end}",
   "status": "done",
   "notes": ""
  },

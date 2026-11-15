@@ -113,6 +113,11 @@ def width_problems(entry, en):
     return wrap.layout(entry, en)[1]
 
 
+def lead(text):
+    """Leading blanks (half- or full-width spaces), as a count of spaces: the English keeps the JP's count."""
+    return " " * len(re.match(r"[ 　]*", text).group(0))
+
+
 def encodable(char):
     return char in ENCODABLE
 # ---- end of ADAPTER ----
@@ -171,6 +176,9 @@ def problems(entry, en, terms):
         if m.group(1) not in ("0A", "15", "01", "07", "0B") and SPEAKERS.get(m.group(2)):
             if not re.search(re.escape("{name:" + m.group(1) + "}" + SPEAKERS[m.group(2)] + "{br}"), en):
                 out.append(f"speaker {m.group(2)} must read {SPEAKERS[m.group(2)]!r}")
+    if lead(jp) != lead(en):
+        out.append(f"leading blanks {lead(en)!r} differ from the JP's {lead(jp)!r} (a choice box's leading space "
+                   "is the cursor's room)")
     if re.search(VARIABLE + r"(st|nd|rd|th)\b", en):
         out.append('ordinal suffix after a variable (write "No. [var]")')
     jp_plain = TOKEN.sub("", jp)
@@ -243,6 +251,8 @@ def check_batch(batch, entries, terms):
         elif line.strip():
             raw.append(line)
     rows = [(r.split("\t")[0], expand("\t".join(r.split("\t")[1:]).strip())) for r in raw]
+    # the TSV can't carry a leading blank (it is stripped above): give back the JP's
+    rows = [(i, (lead(entries[i]["jp"]) if i in entries and not lead(en) else "") + en) for i, en in rows]
     bad = []
     if [r[0] for r in rows] != want:
         got = [r[0] for r in rows]
