@@ -353,8 +353,8 @@
    "408B0"
   ],
   "jp": "{box:01}古い手すりが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ここからおちたら{br} どうなるのかな？{page}{box:00}{name:02}ジョージ{br}「やっぱりゴースト{br} になるのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an old handrail.{page}{box:00}{name:02}George{br}What happens if I fall from here?{page}{box:00}{name:02}George{br}Do I turn into a ghost too?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -364,8 +364,8 @@
    "408B4"
   ],
   "jp": "{box:01}こわれそうな{br}手すりがある。{page}{box:00}{name:02}ジョージ{br}「そばによるだけで{br} こわれそうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a handrail that{br}looks ready to break.{page}{box:00}{name:02}George{br}Looks like it'd break{br}if I just got close...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "408B8"
   ],
   "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A half-hearted{br}handrail is fitted here.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "4088C"
   ],
   "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『フライパンや{br} なべのふたは{page}{box:01}『トランシーバーと{br} マグネトロンから{page}{box:01}『つくれるぼうぐに{br} くみあわせると{page}{box:01}『よりすぐれた{br} ぼうぐになる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The plaster is{br}peeling off the wall.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"Combine a Frying Pan or Pot Lid{page}{box:01}\"with the armor made from{page}{box:01}\"a transceiver and a Magnetron,{page}{box:01}\"and it becomes{br}superior armor.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -396,8 +396,8 @@
    "408C0"
   ],
   "jp": "{box:01}かべがはがれて{br}レンガが見える。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} いやなカンジだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling,{br}and the bricks show.{page}{box:00}{name:02}George{br}The stains on the wall{br}give me the creeps.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -406,8 +406,8 @@
    "408A8"
   ],
   "jp": "{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ランプと{br} きよめたナイフで{page}{box:01}『ゴーストのワナが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"A lamp and a Purified Knife{page}{box:01}\"make a ghost trap.\"{page}{box:00}{name:02}George{br}Gotcha...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -416,8 +416,8 @@
    "408BC"
   ],
   "jp": "{box:01}かべの一部に{br}ラクガキがある。{page}{box:01}『ガラスのつぼに{br} 赤い石を入れよ。{page}{box:01}『さいこうのワナが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「ふむ…』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's scribbling{br}on part of the wall.{page}{box:01}\"Put a Red Stone{br}in the Glass Jar.{page}{box:01}\"The finest trap will be made.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -427,8 +427,8 @@
    "408F8"
   ],
   "jp": "{box:01}手すりは古くて{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「あんまりそばには{br} 行きたくないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The handrail is old{br}and falling apart.{page}{box:00}{name:02}George{br}I don't want to get too close...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -438,8 +438,8 @@
    "408FC"
   ],
   "jp": "{box:01}手すりのむこうは{br}何もない。{page}{box:00}{name:02}ジョージ{br}「下には何が{br} あるんだろ…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing{br}beyond the handrail.{page}{box:00}{name:02}George{br}What's down there, I wonder...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -449,8 +449,8 @@
    "40900"
   ],
   "jp": "{box:01}手すりがある。{page}{box:00}{name:02}ジョージ{br}「くらくて下が{br} 見えないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a handrail.{page}{box:00}{name:02}George{br}It's too dark to see below...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -460,8 +460,8 @@
    "40904"
   ],
   "jp": "{box:01}かべのとそうが{br}はがれている。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} かおに見えるな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The paint is peeling off the wall.{page}{box:00}{name:02}George{br}The stains on the{br}wall look like faces...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -470,8 +470,8 @@
    "408D8"
   ],
   "jp": "{box:01}かべがはがれて{br}いる。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ワナはゴーストの{br} 足を止める。{page}{box:01}『そのスキをぬって{br} にげるのもよし』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"A trap stops a{br}ghost in its tracks.{page}{box:01}\"Slipping away in that{br}moment works too.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -481,8 +481,8 @@
    "40910"
   ],
   "jp": "{box:01}古い手すりが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ここからおちたら{br} どうなるのかな？{page}{box:00}{name:02}ジョージ{br}「やっぱりゴースト{br} になるのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an old handrail.{page}{box:00}{name:02}George{br}What happens if I fall from here?{page}{box:00}{name:02}George{br}Do I turn into a ghost too?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -492,8 +492,8 @@
    "40914"
   ],
   "jp": "{box:01}こわれそうな{br}手すりがある。{page}{box:00}{name:02}ジョージ{br}「そばによるだけで{br} こわれそうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a handrail that{br}looks ready to break.{page}{box:00}{name:02}George{br}Looks like it'd break{br}if I just got close...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -503,8 +503,8 @@
    "40918"
   ],
   "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A half-hearted{br}handrail is fitted here.{page}{box:00}{name:02}George{br}It's pitch black{br}on the other side,{page}{box:00}{name:02}George{br}I can't see up or down...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -513,8 +513,8 @@
    "408EC"
   ],
   "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ゴーストに{br} ひょういされたら{page}{box:01}『じゅうじボタンで{br} ふりほどけるが、{page}{box:01}『さらにひょういを{br} みじかくするには{page}{box:01}『アミュレットが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The plaster is{br}peeling off the wall.{page}{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"If a ghost possesses you,{page}{box:01}\"you can shake it off{br}with the +Control Pad,{page}{box:01}\"but to shorten{br}possession further,{page}{box:01}\"an Amulet is effective.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -524,8 +524,8 @@
    "40920"
   ],
   "jp": "{box:01}かべがはがれて{br}レンガが見える。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} いやなカンジだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is peeling,{br}and the bricks show.{page}{box:00}{name:02}George{br}The stains on the wall{br}give me the creeps.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -534,8 +534,8 @@
    "40908"
   ],
   "jp": "{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『エルダーのえだに{br} きよめたナイフで{page}{box:01}『ザツなおまもりが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone scribbled{br}on part of the wall.{page}{box:01}\"An Elder Branch{br}with a Purified Knife{page}{box:01}\"makes a Cheap Charm.\"{page}{box:00}{name:02}George{br}Gotcha...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

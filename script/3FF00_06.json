@@ -6,8 +6,8 @@
    "40CA0"
   ],
   "jp": "{box:01}ヘンな絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A weird painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -17,8 +17,8 @@
    "40CA8"
   ],
   "jp": "{box:01}ガレキが行く手を{br}はばんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubble blocks the way forward.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -28,8 +28,8 @@
    "40CAC"
   ],
   "jp": "{box:01}どしゃがジャマで{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The dirt's in the way;{br}it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -39,8 +39,8 @@
    "40CB0"
   ],
   "jp": "{box:01}ガレキが道を{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubble blocks the path.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -50,8 +50,8 @@
    "40CB4"
   ],
   "jp": "{box:01}じゃまなガレキが{br}ある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubble is in the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -61,8 +61,8 @@
    "40CB8"
   ],
   "jp": "{box:01}あぶら絵が2まい{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Two oil paintings side by side.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -73,8 +73,8 @@
    "40CBC"
   ],
   "jp": "{box:01}絵にメモが{br}書かれている。{page}{box:01}『フラックスと{br} バーベイン』{page}{box:00}{name:02}ジョージ{br}「薬のちょうごう{br} メモかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note is written{br}on the painting.{page}{box:01}\"Flax and Vervain.\"{page}{box:00}{name:02}George{br}A note on mixing medicine?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -84,8 +84,8 @@
    "40CC0"
   ],
   "jp": "{box:01}小さいあぶら絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small oil painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -96,8 +96,8 @@
    "40CC4"
   ],
   "jp": "{box:01}絵に走り書きが{br}あった。{page}{box:01}『マグネトロンと{br} トランシーバー{page}{box:01}『それがあれば、{br} ぼうぐとして…』{page}{box:01}その先はかすれて{br}読めない。{page}{box:00}{name:02}ジョージ{br}「マグネトロンと{br} トランシーバー？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a scrawl{br}on the painting.{page}{box:01}\"A Magnetron and a transceiver.{page}{box:01}\"With those, as armor...\"{page}{box:01}The rest is too faded to read.{page}{box:00}{name:02}George{br}A Magnetron and a transceiver?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -107,8 +107,8 @@
    "40CC8"
   ],
   "jp": "{box:01}きみょうな絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -118,8 +118,8 @@
    "40CD0"
   ],
   "jp": "{box:01}つちくれがやまに{br}なっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Clods of earth are heaped up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -129,8 +129,8 @@
    "40CD4"
   ],
   "jp": "{box:01}ガレキがジャマで{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The rubble's in the{br}way; it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -140,8 +140,8 @@
    "40CD8"
   ],
   "jp": "{box:01}どしゃが道を{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dirt blocks the path.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -151,8 +151,8 @@
    "40CDC"
   ],
   "jp": "{box:01}こわれたかべが{br}さんらんしている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Pieces of broken wall{br}are strewn about.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -162,8 +162,8 @@
    "40CE0"
   ],
   "jp": "{box:01}2まいならんだ{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Two oil paintings in a row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -173,8 +173,8 @@
    "40CE8"
   ],
   "jp": "{box:01}きひんのある{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An elegant oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -184,8 +184,8 @@
    "40CF0"
   ],
   "jp": "{box:01}おかしな絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An odd painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "40CF8"
   ],
   "jp": "{box:01}どしゃがやまに{br}なっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dirt is heaped up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -206,8 +206,8 @@
    "40CFC"
   ],
   "jp": "{box:01}ガレキが行く手を{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubble blocks the way forward.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -217,8 +217,8 @@
    "40D00"
   ],
   "jp": "{box:01}ガレキが道を{br}おおっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rubble covers the path.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -228,8 +228,8 @@
    "40D04"
   ],
   "jp": "{box:01}ガレキがジャマで{br}歩きづらい。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The rubble's in the{br}way; it's hard to walk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -239,8 +239,8 @@
    "40D08"
   ],
   "jp": "{box:01}絵がならんで{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Paintings are displayed in a row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
    "40C44"
   ],
   "jp": "{box:01}絵に走り書きを{br}見つけた。{page}{box:01}『なべのふたや{br} フライパンを{page}{box:01}『ぼうぐと{br} くみあわせ…』{page}{box:01}その先はかすれて{br}読めなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found a scrawl on the painting.{page}{box:01}\"A Pot Lid or Frying Pan,{page}{box:01}\"combined with armor...\"{page}{box:01}The rest was too faded to read.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -260,8 +260,8 @@
    "40D10"
   ],
   "jp": "{box:01}絵がかべに{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting hangs on the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -270,8 +270,8 @@
    "40C4C"
   ],
   "jp": "{box:01}絵にメモが{br}はさんであった。{page}{box:01}『ナイフとマッチを{br} くみあわせて…』{page}{box:01}その先は{br}読めなかった。{page}{box:00}{name:02}ジョージ{br}「ふむ…。」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was tucked{br}into the painting.{page}{box:01}\"Combine a knife and matches...\"{page}{box:01}I couldn't read the rest.{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -281,8 +281,8 @@
    "40D18"
   ],
   "jp": "{box:01}きみのわるい{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A creepy oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -291,8 +291,8 @@
    "40C94"
   ],
   "jp": "{box:01}がくにメモが{br}はさんであった。{page}{box:01}『タリスマンを{br} かいぞうするには{page}{box:01}『タリスマンに{br} 黒の石を…』{page}{box:01}その先は書かれて{br}いなかった。{page}{box:00}{name:02}ジョージ{br}「ふーむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was tucked{br}into the frame.{page}{box:01}\"To upgrade the Talisman,{page}{box:01}\"put a Black Stone{br}in the Talisman...\"{page}{box:01}Nothing more was written.{page}{box:00}{name:02}George{br}Hmmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -301,8 +301,8 @@
    "40C9C"
   ],
   "jp": "{box:01}がくにメモが{br}はさまれている。{page}{box:01}『タリスマンは{br} BOOK1{page}{box:01}『ハシゴの所に{br} かくされ…』{page}{box:01}その先は書かれて{br}いなかった。{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note is tucked into the frame.{page}{box:01}\"The Talisman is{br}hidden by the ladder{page}{box:01}\"in BOOK1...\"{page}{box:01}Nothing more was written.{page}{box:00}{name:02}George{br}...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -312,8 +312,8 @@
    "40D0C"
   ],
   "jp": "{box:01}がくに紙きれが{br}はさんであった。{page}{box:01}紙きれには{br}メモがあった。{page}{box:01}『くさいぬり薬と{br} まずいのみ薬で…』{page}{box:00}{name:02}ジョージ{br}「薬のちょうごう{br} 方法みたいだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}There was a note on the scrap.{page}{box:01}\"Smelly Ointment and{br}a Nasty Potion...\"{page}{box:00}{name:02}George{br}Looks like how to mix medicine.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -323,8 +323,8 @@
    "40D14"
   ],
   "jp": "{box:01}がくに紙きれが{br}はさんであった。{page}{box:01}紙きれにメモが{br}書かれている。{page}{box:01}『Nリキッドと{br} ガラスのつぼ…」{page}{box:00}{name:02}ジョージ{br}「何かのレシピ{br} なんだろうな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A scrap of paper was{br}tucked into the frame.{page}{box:01}A note is written on the scrap.{page}{box:01}\"N Liquid and a Glass Jar...\"{page}{box:00}{name:02}George{br}Some kind of recipe, I guess...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -333,8 +333,8 @@
    "40D20"
   ],
   "jp": "{box:01}つうろのそうしょく{br}が置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A decoration for the{br}passage sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -343,8 +343,8 @@
    "40D24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「シュミがいいのか{br} わるいのか…{page}{box:00}{name:02}ジョージ{br}「オレにはさっぱり{br} わからないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this good taste{br}or bad taste...{page}{box:00}{name:02}George{br}I have no clue...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -353,8 +353,8 @@
    "40D28"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ハァ…{br} 何もない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Sigh... nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -363,8 +363,8 @@
    "40D2C"
   ],
   "jp": "{box:01}つうろのたなを{br}調べてみる。{page}{box:00}{name:02}ジョージ{br}「こんな所に物は{br} 置かないよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I check the shelf in the passage.{page}{box:00}{name:02}George{br}Nobody'd leave stuff{br}in a place like this...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -373,8 +373,8 @@
    "40D30"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -383,8 +383,8 @@
    "40D34"
   ],
   "jp": "{box:01}からっぽのたな{br}しかなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}but an empty shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -393,8 +393,8 @@
    "40D38"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -403,8 +403,8 @@
    "40D3C"
   ],
   "jp": "{box:01}つうろのカドに{br}置き物がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an ornament at the{br}corner of the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -413,8 +413,8 @@
    "40D40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうな物は{br} 見当たらないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I don't see anything usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -423,8 +423,8 @@
    "40D44"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「すみずみまで{br} さがすよ！オレは{page}{box:00}{name:02}ジョージ{br}「でも、何にも{br} ないけどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I search every nook{br}and cranny! That's me!{page}{box:00}{name:02}George{br}Not that there's{br}anything here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -433,8 +433,8 @@
    "40D48"
   ],
   "jp": "{box:01}高そうな{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An expensive-looking ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -443,8 +443,8 @@
    "40D4C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何もないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -453,8 +453,8 @@
    "40D50"
   ],
   "jp": "{box:01}つうろをかざる{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament decorating{br}the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -463,8 +463,8 @@
    "40D58"
   ],
   "jp": "{box:01}りっぱな置き物が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fine ornament is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -473,8 +473,8 @@
    "40D5C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「高そうな{br} かざりモノは、{page}{box:00}{name:02}ジョージ{br}「アリシアが{br} よろこびそうだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Fancy decorations like this...{page}{box:00}{name:02}George{br}Alicia would love them.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -483,8 +483,8 @@
    "40D60"
   ],
   "jp": "{box:01}つうろのたなは{br}からっぽだった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf in the{br}passage was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -493,8 +493,8 @@
    "40D64"
   ],
   "jp": "{box:01}何ものっていない{br}たながある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a shelf{br}with nothing on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -503,8 +503,8 @@
    "40D68"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えるような{br} モノはないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing I could use...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -513,8 +513,8 @@
    "40D6C"
   ],
   "jp": "{box:01}ホコリしか{br}ないようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like there's{br}nothing but dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -523,8 +523,8 @@
    "40D70"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何にも…{br} ないなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing... at all...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -533,8 +533,8 @@
    "40D74"
   ],
   "jp": "{box:01}つうろをかざる{br}しょくだいだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A candlestick{br}decorating the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -543,8 +543,8 @@
    "40D78"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「たなには何も{br} のってないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's nothing on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -553,8 +553,8 @@
    "40D7C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こんな所まで{br} オレはさがすよ！{page}{box:00}{name:02}ジョージ{br}「たとえ何も{br} なくてもね！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I'll search even a place like this!{page}{box:00}{name:02}George{br}Even if there's nothing here!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -563,8 +563,8 @@
    "40D80"
   ],
   "jp": "{box:01}りっぱな{br}しょくだいだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fine candlestick.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -573,8 +573,8 @@
    "40D84"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使える物は{br} ないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing usable...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -583,8 +583,8 @@
    "40D88"
   ],
   "jp": "{box:01}つうろを色どる{br}しょくだいだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A candlestick that{br}brightens up the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -593,8 +593,8 @@
    "40D90"
   ],
   "jp": "{box:01}高そうな{br}そうしょくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An expensive-looking decoration.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -603,8 +603,8 @@
    "40D94"
   ],
   "jp": "{box:01}りっぱな{br}そうしょくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fine decoration.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -613,8 +613,8 @@
    "40D98"
   ],
   "jp": "{box:01}たなはからっぽ{br}だった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -623,8 +623,8 @@
    "40D9C"
   ],
   "jp": "{box:01}たなに物は{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -633,8 +633,8 @@
    "40DA0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「からっぽのたなは{br} さみしいなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An empty shelf is kind of sad...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -643,8 +643,8 @@
    "40DA4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「とにかく何も{br} ないなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Anyway, there's nothing here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -653,8 +653,8 @@
    "40DA8"
   ],
   "jp": "{box:01}めぼしい物は{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -663,8 +663,8 @@
    "40DAC"
   ],
   "jp": "{box:01}ろうかをかざる{br}そうしょくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A decoration for the hallway.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -673,8 +673,8 @@
    "40DB0"
   ],
   "jp": "{box:01}使えそうな物は{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing usable has{br}been left here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -683,8 +683,8 @@
    "40DB4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「こまかくチェック{br} それがきほんだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Check everything carefully.{br}That's the basics!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -693,8 +693,8 @@
    "40DB8"
   ],
   "jp": "{box:01}せの高い{br}そうしょくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tall decoration.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -703,8 +703,8 @@
    "40DBC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何か手がかりは{br} ないかな…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Isn't there some kind of clue...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -713,8 +713,8 @@
    "40DC0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おもそうな{br} そうしょくだ。{page}{box:00}{name:02}ジョージ{br}「一人じゃ{br} うごかせないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A heavy-looking decoration.{page}{box:00}{name:02}George{br}I can't move it on my own.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -723,8 +723,8 @@
    "40DC8"
   ],
   "jp": "{box:01}つうろのそうしょく{br}が置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A decoration for the{br}passage sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -733,8 +733,8 @@
    "40DCC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「シュミがいいのか{br} わるいのか…{page}{box:00}{name:02}ジョージ{br}「オレにはさっぱり{br} わからないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this good taste{br}or bad taste...{page}{box:00}{name:02}George{br}I have no clue...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -743,8 +743,8 @@
    "40DD0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ハァ…{br} 何もない{page}{box:00}{name:02}ジョージ{br}「ここには何かある{br} と思うんだが…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Sigh... nothing.{page}{box:00}{name:02}George{br}I'd have thought there'd{br}be something here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -753,8 +753,8 @@
    "40DD4"
   ],
   "jp": "{box:01}つうろのたなを{br}調べてみる。{page}{box:00}{name:02}ジョージ{br}「こんな所に物は{br} 置かないよな…{page}{box:00}{name:02}ジョージ{br}「いやいや、まずは{br} チェックだよな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I check the shelf in the passage.{page}{box:00}{name:02}George{br}Nobody'd leave stuff{br}in a place like this...{page}{box:00}{name:02}George{br}No, no, check it first!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -763,8 +763,8 @@
    "40DD8"
   ],
   "jp": "{box:01}たなにメモが{br}置かれていた。{page}{box:00}{name:02}ジョージ{br}「お？何だろう？」{page}{box:01}『このつうろに{br} クリスタルが…』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:00}{name:02}George{br}Oh? What's this?{page}{box:01}\"In this passage, a Crystal...\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -773,8 +773,8 @@
    "40DDC"
   ],
   "jp": "{box:01}からっぽのたな{br}しかなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}but an empty shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -783,8 +783,8 @@
    "40DE0"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -793,8 +793,8 @@
    "40DE4"
   ],
   "jp": "{box:01}つうろのカドに{br}置き物がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an ornament at the{br}corner of the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -803,8 +803,8 @@
    "40DE8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうな物は{br} 見当たらないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I don't see anything usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -813,8 +813,8 @@
    "40DEC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「すみずみまで{br} さがすよ！オレは{page}{box:00}{name:02}ジョージ{br}「でも、なんにも{br} ないけどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I search every nook{br}and cranny! That's me!{page}{box:00}{name:02}George{br}Not that there's{br}anything here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -823,8 +823,8 @@
    "40DF0"
   ],
   "jp": "{box:01}高そうな{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An expensive-looking ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -833,8 +833,8 @@
    "40DF4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何もないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -843,8 +843,8 @@
    "40DF8"
   ],
   "jp": "{box:01}つうろをかざる{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament decorating{br}the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -853,8 +853,8 @@
    "40E00"
   ],
   "jp": "{box:01}つうろのそうしょく{br}が置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A decoration for the{br}passage sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -863,8 +863,8 @@
    "40E04"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「シュミがいいのか{br} わるいのか…{page}{box:00}{name:02}ジョージ{br}「オレにはさっぱり{br} わからないや…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this good taste{br}or bad taste...{page}{box:00}{name:02}George{br}I have no clue...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -873,8 +873,8 @@
    "40E08"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ハァ…{br} 何もない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Sigh... nothing.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -883,8 +883,8 @@
    "40E0C"
   ],
   "jp": "{box:01}つうろのたなを{br}調べてみる。{page}{box:00}{name:02}ジョージ{br}「こんな所に物は{br} 置かないよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I check the shelf in the passage.{page}{box:00}{name:02}George{br}Nobody'd leave stuff{br}in a place like this...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -893,8 +893,8 @@
    "40E10"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -903,8 +903,8 @@
    "40E14"
   ],
   "jp": "{box:01}からっぽのたな{br}しかなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}but an empty shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -913,8 +913,8 @@
    "40E18"
   ],
   "jp": "{box:01}ホコリがあつく{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust lies thick here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -923,8 +923,8 @@
    "40E1C"
   ],
   "jp": "{box:01}つうろのカドに{br}置き物がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an ornament at the{br}corner of the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -933,8 +933,8 @@
    "40E20"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えそうな物は{br} 見当たらないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I don't see anything usable.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -943,8 +943,8 @@
    "40E24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「すみずみまで{br} さがすよ！オレは{page}{box:00}{name:02}ジョージ{br}「でも、何にも{br} ないけどね…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I search every nook{br}and cranny! That's me!{page}{box:00}{name:02}George{br}Not that there's{br}anything here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -953,8 +953,8 @@
    "40E28"
   ],
   "jp": "{box:01}高そうな{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An expensive-looking ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -963,8 +963,8 @@
    "40E2C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何もないな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -973,8 +973,8 @@
    "40E30"
   ],
   "jp": "{box:01}つうろをかざる{br}置き物だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament decorating{br}the passage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -983,8 +983,8 @@
    "40E38"
   ],
   "jp": "{box:01}りっぱな置き物が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fine ornament is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -993,8 +993,8 @@
    "40E3C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「高そうな{br} かざりモノは、{page}{box:00}{name:02}ジョージ{br}「アリシアが{br} よろこびそうだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Fancy decorations like this...{page}{box:00}{name:02}George{br}Alicia would love them.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1003,8 +1003,8 @@
    "40E40"
   ],
   "jp": "{box:01}つうろのたなは{br}からっぽだった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf in the{br}passage was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1013,8 +1013,8 @@
    "40E44"
   ],
   "jp": "{box:01}何ものっていない{br}たながある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a shelf{br}with nothing on it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1023,8 +1023,8 @@
    "40E48"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「使えるような{br} モノはないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing I could use...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

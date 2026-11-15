@@ -5,8 +5,8 @@
    "4118C"
   ],
   "jp": "{box:01}大きな絵が{br}かかっている。{page}{box:01}すきまにメモは{br}見あたらない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big painting hangs here.{page}{box:01}I don't see a note in the gap.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "41190"
   ],
   "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「部屋のかべ全部が{br} レールにのって、{page}{box:00}{name:02}ジョージ{br}「うごくしかけとは{br} 大がかりだよな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rails are laid on the floor.{page}{box:01}There's a gap between{br}the rails and the wall.{page}{box:00}{name:02}George{br}Every wall in the{br}room rides on rails{page}{box:00}{name:02}George{br}and moves. That's{br}quite a setup...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "41194"
   ],
   "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「かべがうごいて、{br} さっきのぞうが{page}{box:00}{name:02}ジョージ{br}「部屋のすみに{br} いどうしたんだな」{page}{box:00}{name:02}ジョージ{br}「これでドアが{br} 使えるぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a bronze statue{br}in the corner of the room.{page}{box:00}{name:02}George{br}The wall moved, and the{br}statue from before{page}{box:00}{name:02}George{br}ended up in the{br}corner of the room.{page}{box:00}{name:02}George{br}Now I can use the door.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "41198"
   ],
   "jp": "{box:01}かべの絵を見て{br}わらっている。{page}{box:00}{name:02}ジョージ{br}「思いすごしかも{br} しれないけど…{page}{box:00}{name:02}ジョージ{br}「絵はどうぞうの{br} おかあさんか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's smiling at the{br}painting on the wall.{page}{box:00}{name:02}George{br}Maybe I'm overthinking it, but...{page}{box:00}{name:02}George{br}is the painting the{br}statue's mother?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "4119C"
   ],
   "jp": "{box:01}部屋のまんなかに{br}ガラクタがある。{page}{box:01}使えそうな物は{br}何もない。{page}{box:00}{name:02}ジョージ{br}「このガラクタ…{br} かべがうごいて{page}{box:00}{name:02}ジョージ{br}「ジャマな場所に{br} 来ちまったな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's junk in the{br}middle of the room.{page}{box:01}Nothing usable.{page}{box:00}{name:02}George{br}This junk... the wall moved,{page}{box:00}{name:02}George{br}and now it's in the way...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -56,8 +56,8 @@
    "411D4"
   ],
   "jp": "{box:01}小さい絵が{br}かかっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small painting hangs here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -67,8 +67,8 @@
    "411D8"
   ],
   "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -78,8 +78,8 @@
    "411DC"
   ],
   "jp": "{box:01}床にレールが{br}しかれている。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんは{br} こんなしかけを{page}{box:00}{name:02}ジョージ{br}「何のために使って{br} いたんだろう…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Rails are laid on the floor.{page}{box:00}{name:02}George{br}What did Alighieri-san use{page}{box:00}{name:02}George{br}a contraption like this for...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -89,8 +89,8 @@
    "411E0"
   ],
   "jp": "{box:01}いろんな人の絵が{br}かざってある。{page}{box:00}{name:02}ジョージ{br}「この中に{br} ゴーストで{page}{box:00}{name:02}ジョージ{br}「見かけた人も{br} いるみたいだな…{page}{box:00}{name:02}ジョージ{br}「この人たちは{br} やっぱり、{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーなんだ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Paintings of all sorts{br}of people are on display.{page}{box:00}{name:02}George{br}Looks like some of these{page}{box:00}{name:02}George{br}are people I've seen as ghosts...{page}{box:00}{name:02}George{br}So these people really are...{page}{box:00}{name:02}George{br}members of Atrahasis...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
