@@ -8,6 +8,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/ghost_trap_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - JP left: `python -X utf8 tools/jp_left_build.py [ROM]` (jp_left.py over every text slot; exit 0 = none)
 - Warp:     `python -X utf8 tools/debug/warp.py <scene> [--rom build/ghost_trap_en.gba] [--state] [--keep --frames 6000]` -> `work/qa/warp/<scene>/scene.png`; `--list`, `--all` regenerates every scene (scenes: `tools/debug/scenes.lua`, RAM map `docs/re/debug.md`; never ask the user to play to a scene)
+- QA tour:  `python -X utf8 tools/qa_tour.py [--skip msgs,tour,story]` -> `work/qa/en/` + textcover over `build/strings.tsv` (one string: `tools/msgview.py --only ID`)
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; written in phase 9)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

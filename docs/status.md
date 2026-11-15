@@ -2,10 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: next (phase 7 done 2026-11-15). Last build: 2026-11-15, all English (3183
-  strings), `build/ghost_trap_en.gba` sha1 `19914506efe7e8331ef709d4335d2a79d073cdcb`, 0x840000 bytes, romdiff
-  identical outside `tools/allowed_ranges.txt` (5748 logged writes), smoke ok, `jp_left_build.py` 0 runs.
-  `build/marker.gba` (`build.py --marker`) sha1 `0f58afea14d823a0ac7f944525888ca85ec1876e`, smoke ok.
+- **Phase:** 8. QA in the emulator: in progress (phase 7 done 2026-11-15; its review had no Critical/Important).
+  Last build: 2026-11-15 with the G2/G3 graphics, `build/gfx/ghost_trap_en.gba` sha1
+  `02ac3fddcc25a3f0b2bb9dd24fd29c0d615b8f5d` (5770 writes, romdiff clean); `build/ghost_trap_en.gba` was still the
+  text-only `19914506…` while the message tour ran on it (same script layout, so `build/strings.tsv` holds for both).
+  Rebuild `build/` with plain `tools/build.py` before the next tour.
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -75,12 +76,30 @@ Updated at the end of every session. Keep it to what the next session needs; his
     untranslated strings keep their bytes, no u32 in code/tables (< 0xE0000) still points at the old block, header
     or font, no Japanese in any `en`. `tools/jp_left_build.py`: jp_left.py over every slot with jp.tbl minus the
     en.tbl cells (English punctuation sits in small-kana cells, so plain jp.tbl reports "...?" as ぃぃぃぇ): 0 runs.
-- **Next (phase 8 done-when):** smoke passes; warp `--all` on the English build, contact sheets, visual-QA verdicts
-  for every sheet (`qa_gate.py check` exits 0; do the read-only pass yourself or via `codex exec`, no nested
-  workers); every graphics-text row English in a zoomed cold-boot shot (save/load confirm boxes G2/G3 are still
-  Japanese graphics: redraw them); choice/centred boxes pass `inkbox.py` (check the restored leading space in the
-  Yes/No boxes); `textcover.py` exits 0. Confirm on a long dialogue the extra `{page}` wrap.py adds in a box run.
-  b024 is an older duplicate script (alternate field/cutscene lines); check in phase 8 whether the game reads it.
+  - Phase 8 so far (2026-11-15): **G2/G3 done**: the SAVE/LOAD message boxes are BG1 tilemaps (not OBJ), now
+    English via `tools/gfx_save.py` (dialogue font, appended + repointed by `build.py`; `tests/test_gfx_save.py`;
+    details in `docs/re/graphics.md`). **Text coverage tooling**: `build.py` writes `build/strings.tsv`;
+    `tools/lua/msgview.lua` + `tools/msgview.py` show any string through script 39's scene-table slot (one cold boot,
+    ~5 s, textcover probe on); `tools/qa_tour.py` runs msgs (all strings) + tour (`warp.py --all`) + story (cutscenes
+    0-38 clicked through, `--keep --sheet`) into `work/qa/en/`, then `textcover.py`. `warp.py --all` now passes
+    `--probe/--var/--keep/--sheet`. `tools/lua/rompages.lua`: ROM pages read per frame (finds BIOS LZ sources).
+- **Next (phase 8 done-when), in order:**
+  1. Msgs run (`qa_tour.py --skip tour,story`, log `work/qa/en_msgs.log`) results: see the line below once done;
+     re-run with `tools/msgview.py --resume` if it was cut off. Strings that fail to show in the script-39 window
+     (insert-only `status: data` ids, item help without `{box}`) get a scene or a reasoned line in
+     `docs/text_unshown.tsv`.
+  2. **G1 title logo**: the katakana ゴーストトラップ overlays the lower half of the GHOST TRAP letters (BG1 8bpp,
+     tiles LZ `0x7D8C68` ptr 0x20628, map LZ `0x7D8A10` ptr 0x20630, rows 10-12). Per D5 replace it: redraw the
+     letter bottoms (serif blue letters, white/red outline) in the tiles under it, keep everything else; check with
+     `sheet.py --zoom 4` on a cold-boot title shot.
+  3. Candidate G4 signs (`0x53D49C`, `0x53DA80`, `0x53DD04`) and the 44 cutscene stills: look in the story sheets.
+  4. Rebuild `build/`, then `qa_tour.py --skip msgs` (tour + story), `qa_gate.py init work/qa/en/manifest.tsv
+     work/qa/en --build build/ghost_trap_en.gba --glob "*sheet*.png"`, todo chunks, verdicts (read-only pass yourself
+     or `codex exec`; no nested workers), `qa_gate.py check` exit 0.
+  5. `inkbox.py` on the Yes/No boxes 10F05C/10F06C (field) and the save/load Yes/No; the review's Minor 1 says the
+     restored leading space is 4 px where the JP had 8 px.
+  6. `textcover.py work/qa/en build/strings.tsv --waive docs/text_unshown.tsv` exit 0. Confirm on a long dialogue
+     the extra `{page}` wrap.py adds; b024 (older duplicate script): does the game read it (coverage answers it).
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).
