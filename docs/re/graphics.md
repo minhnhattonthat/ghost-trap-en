@@ -11,6 +11,10 @@ the commands below), and a static sweep of every LZ77 block (`tools/gfxsweep.py`
 |---|---|---|---|---|
 | G1 | Title logo: katakana ゴーストトラップ under the English GHOST TRAP logo | BG1, 8bpp (BG1CNT 0x1789: char 0x8000, map 0xB800) | LZ77 `0x7D8C68` (173 tiles matched by `vramfind.py --fmt gba8`, dump `ppu_002100` from route `1500 -;6 start;700 -`; rendered: GHOST TRAP + katakana line). BG0 = castle backdrop, LZ77 `0x7D6694` (no text) | verified tiles; map + palette source not traced yet. Keep the English logo, replace the katakana line with English or drop it (D5: the English logo is official). |
 
+| G2+G3 | **Done (phase 8):** SAVE GAME / LOAD GAME message boxes. Not OBJ: BG1 (char 0x4000, map 0x9000, palette row 6), each message a static LZ77 32x32 tilemap over a 16x16-glyph tile set. Save: tiles G3 `0x7DD4EC` (ptr 0x212BC), maps 0x7DDA90/0x7DDC2C/0x7DDD74/0x7DDED0 (saving+wait, saved, failed, overwrite+Yes/No). Load: tiles G2 `0x7DC6A8` (ptr 0x22A34), maps 0x7DCD88/0x7DCF28/0x7DD100/0x7DD248/0x7DD38C (load+Yes/No, resume floor/Entrance Hall, loaded, no data, failed) | BG1 4bpp | `tools/gfx_save.py` typesets the English with the dialogue font (same fill 1 / outline F style), dedupes tiles, `build.py` appends the LZ blocks after the font and moves the 11 pointers. BG1 chars 0x4000-0x7FFF are free on both screens (512 tiles max) | English in game (`work/gfx/en`, compared with JP at f1620: the top-row shimmer and the plaque over the choices are the game's own) |
+
+Old notes on G2/G3 from the sweep (superseded by the row above):
+
 | G2 | **Seen** (warp `save_confirm`, `load_confirm`): SAVE GAME box このデータに上書きします。よろしいですか？ + はい/いいえ buttons, LOAD GAME confirm box. Save / load messages (fragments read: 上書き, 書き, 失敗, セーブ-like kana): outlined 16 px lettering | OBJ, 4bpp, 1D | LZ77 `0x7DC6A8` (0x1600 bytes) | sweep, high confidence; screen not shot yet (CONTINUE / save). Glyph tile order inside a letter is not plain 2x2 or 4x2/8x2 OBJ order: work it out from an OAM dump on the screen. |
 | G3 | Same style, second message set (読み込み/セーブ variants?) | OBJ, 4bpp | LZ77 `0x7DD4EC` (0x1200) | sweep, high confidence; screen not shot yet |
 

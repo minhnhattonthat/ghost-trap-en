@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import check_rom  # noqa: E402
 import font  # noqa: E402
 import gbacomp  # noqa: E402
+import gfx_save  # noqa: E402
 import marker  # noqa: E402
 import script  # noqa: E402
 import textblock  # noqa: E402
@@ -52,8 +53,9 @@ RELOC = 0x800000      # English builds: script block, then the font, past the or
 ROM_MAX = 0x1000000   # EEPROM save: stay at or below 16 MiB
 
 
-def build(orig, texts=None, lang="en"):
+def build(orig, texts=None, lang="en", layout=None):
     """Return (rom bytes, write log lines). texts: {string offset: text} overrides (script/ via script.texts).
+    layout: a dict to fill with {original string offset: ROM offset in this build} (build/strings.tsv).
     No overrides: the identity build (== the dump). Any override: the English layout (docs/re/text.md
     "English layout"): script block at RELOC without the dead runs, old block blanked (header kept), the font with
     the English glyphs (tools/font.py) LZ-packed after it and both font pointers moved, English advances in the
@@ -75,12 +77,21 @@ def build(orig, texts=None, lang="en"):
             w.write(p, struct.pack("<I", textblock.GBA + at), "font-ptr")
         w.write(font.WIDTHS, font.width_table(orig), "widths")
         end = at + len(lz)
+        for ptrs, raw in gfx_save.writes(orig):  # graphics text G2/G3: new LZ blocks after the font, repointed
+            end += -end % 4
+            blk = gbacomp.lz77_compress(raw)
+            w.write(end, blk, "gfx")
+            for p in ptrs:
+                w.write(p, struct.pack("<I", textblock.GBA + end), "gfx-ptr")
+            end += len(blk)
         if end % 0x10000:
             w.write(end, b"\xff" * (-end % 0x10000), "pad")
         if len(w.rom) > ROM_MAX:
             raise SystemExit(f"ROM is {len(w.rom):#x} bytes, over the 16 MiB EEPROM limit")
     for slot, target in textblock.slots(orig):
         w.write(slot, struct.pack("<I", textblock.GBA + moved[target]), "ptr")
+    if layout is not None:
+        layout.update(moved)
     return bytes(w.rom), w.log
 
 
@@ -109,11 +120,16 @@ def main(argv=None):
     for q in a.qa:
         sid, _, text = q.partition("=")
         over[int(sid, 16)] = text
-    rom, log = build(orig, over, a.lang)
+    layout = {}
+    rom, log = build(orig, over, a.lang, layout)
     print(f"{len(over)} strings from script/ ({a.lang}{', marker' if a.marker else ''}"
           f"{f', {len(a.qa)} --qa' if a.qa else ''})")
     a.out.parent.mkdir(parents=True, exist_ok=True)
     a.out.write_bytes(rom)
+    # textcover.py input: id = original offset (script/ ids), address = where this build's game reads it
+    ids = sorted(int(e["id"], 16) for e in entries)
+    (a.out.parent / "strings.tsv").write_text(
+        "".join(f"{i:X}\t{textblock.GBA + layout[i]:X}\n" for i in ids), encoding="utf-8", newline="\n")
     wlog = a.out.parent / "writes.log"
     wlog.write_text("\n".join(log) + "\n", encoding="utf-8")
     ranges = [ln.split("#")[0].strip() for ln in (ROOT / "tools" / "allowed_ranges.txt").read_text().splitlines()]

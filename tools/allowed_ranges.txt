@@ -4,4 +4,15 @@
 1FB88-1FB8B   # font LZ pointer 1 (English builds)
 267D0-267D3   # font LZ pointer 2 (English builds)
 3BBD0-3BF27   # glyph width table (English advances, tools/font.py)
+212BC-212BF   # save-screen message tiles pointer (G3, tools/gfx_save.py)
+22008-2200B   # save-screen message map pointers
+22030-22033
+22058-2205B
+22080-22083
+22A34-22A37   # load-screen message tiles pointer (G2)
+230B0-230B3   # load-screen message map pointers
+230D8-230DB
+23100-23103
+23128-2312B
+23150-23153
 800000-FFFFFF # English builds: relocated script block + font

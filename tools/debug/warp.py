@@ -160,10 +160,12 @@ def main():
             text = (out_root / n / "log.txt").read_text(encoding="utf-8", errors="replace")
             results[n] = (n, 0, re.search(r"^SCENE_OK .*$", text, re.M).group(0) + " (earlier run)")
         if names and names[0] == "save_write":
-            results["save_write"] = run_scene("save_write", a.rom, out_root, a.state, a.frames, False, False)
+            results["save_write"] = run_scene("save_write", a.rom, out_root, a.state, a.frames, False, False,
+                                              probes=a.probe, pvars=a.var)
             names = names[1:]
-        with cf.ThreadPoolExecutor(a.jobs) as ex:
-            futs = {ex.submit(run_scene, n, a.rom, out_root, a.state, a.frames, False, False): n for n in names}
+        with cf.ThreadPoolExecutor(a.jobs) as ex:  # --keep/--sheet/--probe/--var apply to every scene
+            futs = {ex.submit(run_scene, n, a.rom, out_root, a.state, a.frames, a.keep, a.sheet,
+                              probes=a.probe, pvars=a.var): n for n in names}
             for i, f in enumerate(cf.as_completed(futs), 1):
                 s, code, msg = f.result()
                 results[s] = (s, code, msg)
