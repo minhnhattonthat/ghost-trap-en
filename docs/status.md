@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release done 2026-11-16: `tools/release.py` exit 0, `release/v1.0/Ghost_Trap_EN_v1.0.zip` built and
+- **Phase:** 9. Release done 2026-11-16 (re-run `--force` later that day: RELEASE OK, same sha1, no open issues): `tools/release.py` exit 0, `release/v1.0/Ghost_Trap_EN_v1.0.zip` built and
   verified (BPS re-applied to the clean dump). Publishing (`gh release create`, repo visibility) is the owner's call.
   **Release build: `build/ghost_trap_en.gba` sha1 `ab915aca7f25d5d43c20d9b522a768942b8476a9`, CRC32 `B7704AE0`**,
   frozen with its `strings.tsv` in `work/qa/roms/ab915aca/`; the QA gate's `manifest.tsv.build` records it. Tour/story
