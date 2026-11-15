@@ -1,0 +1,1216 @@
+[
+ {
+  "id": "1028C4",
+  "slots": [
+   "417B4",
+   "417DC",
+   "41804"
+  ],
+  "jp": "{box:01}きかいに見えるが{br}ハリボテだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1028DC",
+  "slots": [
+   "417B8",
+   "417E0",
+   "41808"
+  ],
+  "jp": "{box:01}きかいに見えるが{br}ハリボテだ。{page}{box:00}{name:02}ジョージ{br}「中に何か{br} 入ってたりして」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102910",
+  "slots": [
+   "41814",
+   "41830",
+   "4184C"
+  ],
+  "jp": "{box:01}バルブが2つ{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ヒーターの{br} スチーム用かな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102940",
+  "slots": [
+   "41818",
+   "41834",
+   "41850"
+  ],
+  "jp": "{box:01}かべにヒーターが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「こわれてる{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「さむくないから{br} べつにいいけど」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10298C",
+  "slots": [
+   "4181C",
+   "41838",
+   "41854"
+  ],
+  "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ゴーストもでんき{br} 使うのか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1029BC",
+  "slots": [
+   "41820",
+   "4183C",
+   "41858"
+  ],
+  "jp": "{box:01}ダンボールの{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1029D0",
+  "slots": [
+   "41824",
+   "41840",
+   "4185C"
+  ],
+  "jp": "{box:01}ダンボールの{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1029E4",
+  "slots": [
+   "41828",
+   "41844",
+   "41860"
+  ],
+  "jp": "{box:01}たなにゴミが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「あさる気に{br} ならないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102A10",
+  "slots": [
+   "41868",
+   "41884",
+   "418A0"
+  ],
+  "jp": "{box:01}かべにヒーターが{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「とりはずすと{br} かくしとびらが…{page}{box:00}{name:02}ジョージ{br}「……{br} はずれないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102A5C",
+  "slots": [
+   "4186C",
+   "41888",
+   "418A4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「バルブがあるけど{br} さわりたくないな。{page}{box:00}{name:02}ジョージ{br}「スチーム用だと{br} やけどしそうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102A9C",
+  "slots": [
+   "41870",
+   "4188C",
+   "418A8"
+  ],
+  "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ゴーストもでんき{br} 使うのか？{page}{box:00}{name:02}ジョージ{br}「なまいきな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102ADC",
+  "slots": [
+   "41874",
+   "41890",
+   "418AC"
+  ],
+  "jp": "{box:01}からっぽの{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102AEC",
+  "slots": [
+   "41878",
+   "41894",
+   "418B0"
+  ],
+  "jp": "{box:01}からっぽの{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102AFC",
+  "slots": [
+   "4187C",
+   "41898",
+   "418B4"
+  ],
+  "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102B10",
+  "slots": [
+   "418BC",
+   "418D0",
+   "418E4",
+   "418F8",
+   "4190C",
+   "41920"
+  ],
+  "jp": "{box:01}たなには小物が{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102B28",
+  "slots": [
+   "418C0",
+   "418D4",
+   "418E8"
+  ],
+  "jp": "{box:01}何かのそうさ{br}パネルがある。{page}{box:00}{name:02}ジョージ{br}「よこのきかいの{br} スイッチか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102B58",
+  "slots": [
+   "418C4",
+   "418CC",
+   "418D8",
+   "418E0",
+   "418EC",
+   "418F4"
+  ],
+  "jp": "{box:01}えたいの知れない{br}きかいがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102B70",
+  "slots": [
+   "418C8",
+   "418DC",
+   "418F0"
+  ],
+  "jp": "{box:01}えたいの知れない{br}きかいがある。{page}{box:01}こわれていて{br}うごかないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102B98",
+  "slots": [
+   "418FC",
+   "41910",
+   "41924"
+  ],
+  "jp": "{box:01}何かのそうさ{br}パネルがある。{page}{box:00}{name:02}ジョージ{br}「館のじばくボタン{br} だったらおすぞ。{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけた後でな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102BE8",
+  "slots": [
+   "41900",
+   "41908",
+   "41914",
+   "4191C",
+   "41928",
+   "41930"
+  ],
+  "jp": "{box:01}よくわからない{br}きかいがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102BFC",
+  "slots": [
+   "41904",
+   "41918",
+   "4192C"
+  ],
+  "jp": "{box:01}よくわからない{br}きかいがある。{page}{box:00}{name:02}ジョージ{br}「科学者として{br} きょうみはあるが、{page}{box:00}{name:02}ジョージ{br}「今はアリシアを{br} さがす方が先だ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102C50",
+  "slots": [
+   "41934",
+   "4194C",
+   "41964"
+  ],
+  "jp": "{box:01}パイプと{br}メーターがある。{page}{box:00}{name:02}ジョージ{br}「めもりはゼロで{br} 止まってるな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102C80",
+  "slots": [
+   "41938",
+   "41950",
+   "41968"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よこのきかいの{br} スイッチみたいだ。{page}{box:00}{name:02}ジョージ{br}「いじってもなにも{br} おきないけど」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102CBC",
+  "slots": [
+   "4193C",
+   "41944",
+   "41954",
+   "4195C",
+   "4196C",
+   "41974",
+   "41984",
+   "4198C",
+   "4199C",
+   "419A4",
+   "419B4",
+   "419BC"
+  ],
+  "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102CD0",
+  "slots": [
+   "41940",
+   "41958",
+   "41970"
+  ],
+  "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「なんに使うのか{br} まるでわからん」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102D04",
+  "slots": [
+   "4197C",
+   "41994",
+   "419AC"
+  ],
+  "jp": "{box:01}パイプと{br}メーターがある。{page}{box:00}{name:02}ジョージ{br}「メーターは{br} うごいてないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102D30",
+  "slots": [
+   "41980",
+   "41998",
+   "419B0"
+  ],
+  "jp": "{box:01}そうさパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「いじってるヒマは{br} ないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102D5C",
+  "slots": [
+   "41988",
+   "419A0",
+   "419B8"
+  ],
+  "jp": "{box:01}フシギなきかいが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「調べてるヒマは{br} ないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102D8C",
+  "slots": [
+   "419C4",
+   "419CC",
+   "419F8",
+   "41A00",
+   "41A2C",
+   "41A34"
+  ],
+  "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102DA0",
+  "slots": [
+   "419C8",
+   "419FC",
+   "41A30"
+  ],
+  "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{box:00}{name:02}ジョージ{br}「これはしぜんに{br} くずれたみたいだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102E04",
+  "slots": [
+   "419D0",
+   "41A04",
+   "41A38"
+  ],
+  "jp": "{box:01}かべにポンプが{br}うめこんである。{page}{box:00}{name:02}ジョージ{br}「どこから何を{br} すいあげるんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102E38",
+  "slots": [
+   "419D4",
+   "41A08",
+   "41A3C",
+   "41A70",
+   "41AA4",
+   "41AD8"
+  ],
+  "jp": "{box:01}ポンプかんけいの{br}バルブだろう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102E50",
+  "slots": [
+   "419D8",
+   "41A0C",
+   "41A40",
+   "41A74",
+   "41AA8",
+   "41ADC"
+  ],
+  "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102E64",
+  "slots": [
+   "419DC",
+   "41A10",
+   "41A44",
+   "41A78",
+   "41AAC",
+   "41AE0"
+  ],
+  "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102E78",
+  "slots": [
+   "419E0",
+   "41A14",
+   "41A48"
+  ],
+  "jp": "{box:01}パイプとバルブが{br}ある。{page}{box:00}{name:02}ジョージ{br}「かたくしまってて{br} 回せないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102EA8",
+  "slots": [
+   "419E4",
+   "41A18",
+   "41A4C"
+  ],
+  "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「じかはつでんきは{br} どこだろうな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102ED8",
+  "slots": [
+   "419E8",
+   "41A1C",
+   "41A50"
+  ],
+  "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102DD4",
+  "slots": [
+   "419EC",
+   "41A20",
+   "41A54"
+  ],
+  "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102DEC",
+  "slots": [
+   "419F0",
+   "41A24",
+   "41A58"
+  ],
+  "jp": "{box:01}たなにあるのは{br}ガラクタばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102EF0",
+  "slots": [
+   "41A60",
+   "41A68",
+   "41A94",
+   "41A9C",
+   "41AC8",
+   "41AD0"
+  ],
+  "jp": "{box:01}かべが大きく{br}くずれおちている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102F08",
+  "slots": [
+   "41A64",
+   "41A98",
+   "41ACC"
+  ],
+  "jp": "{box:01}かべが大きく{br}くずれおちている。{page}{box:00}{name:02}ジョージ{br}「ジャマだぞ{br} まったく！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102F4C",
+  "slots": [
+   "41A6C",
+   "41AA0",
+   "41AD4"
+  ],
+  "jp": "{box:01}かべにポンプが{br}うめこんである。{page}{box:00}{name:02}ジョージ{br}「ポンプなんか気に{br} してどうなる！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102F80",
+  "slots": [
+   "41A7C",
+   "41AB0",
+   "41AE4"
+  ],
+  "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「こんなの回しても{br} いみはないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102FB0",
+  "slots": [
+   "41A80",
+   "41AB4",
+   "41AE8"
+  ],
+  "jp": "{box:01}はいでんパネルが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ヘタにいじらない{br} 方がいい。{page}{box:00}{name:02}ジョージ{br}「今でんきが{br} きえたらこまるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102FF8",
+  "slots": [
+   "41A84",
+   "41A88",
+   "41AB8",
+   "41ABC",
+   "41AEC",
+   "41AF0"
+  ],
+  "jp": "{box:01}ハコにガラクタが{br}入れられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "102F38",
+  "slots": [
+   "41A8C",
+   "41AC0",
+   "41AF4"
+  ],
+  "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103010",
+  "slots": [
+   "41AFC",
+   "41B5C"
+  ],
+  "jp": "{box:01}きかいがうなりを{br}あげている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103024",
+  "slots": [
+   "41B00",
+   "41B60"
+  ],
+  "jp": "{box:01}何かのきかいが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10138C",
+  "slots": [
+   "41B04",
+   "41B64"
+  ],
+  "jp": "{box:01}はいでんばん{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103038",
+  "slots": [
+   "41B08",
+   "41B68"
+  ],
+  "jp": "{box:01}からばこが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10139C",
+  "slots": [
+   "41B0C",
+   "41B6C"
+  ],
+  "jp": "{box:01}何かコントロール{br}しているようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10304C",
+  "slots": [
+   "41B10",
+   "41B70"
+  ],
+  "jp": "{box:01}てつクズの入った{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103060",
+  "slots": [
+   "41B14",
+   "41B74"
+  ],
+  "jp": "{box:01}たなの中には{br}ガラクタしかない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1013B8",
+  "slots": [
+   "41B1C",
+   "41B7C"
+  ],
+  "jp": "{box:01}きかいがしんどう{br}している。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1013CC",
+  "slots": [
+   "41B20",
+   "41B80"
+  ],
+  "jp": "{box:01}ハコがたの{br}きかいがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101414",
+  "slots": [
+   "41B24",
+   "41B84"
+  ],
+  "jp": "{box:01}スイッチパネルの{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101428",
+  "slots": [
+   "41B28",
+   "41B88"
+  ],
+  "jp": "{box:01}カラのハコが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10143C",
+  "slots": [
+   "41B2C",
+   "41B8C"
+  ],
+  "jp": "{box:01}コントロール{br}パネルだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1014E0",
+  "slots": [
+   "41B30",
+   "41B90"
+  ],
+  "jp": "{box:01}クズてつの入った{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101BB8",
+  "slots": [
+   "41B34",
+   "41B94"
+  ],
+  "jp": "{box:01}たなにはゴミすら{br}置かれていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101BD0",
+  "slots": [
+   "41B3C",
+   "41B9C"
+  ],
+  "jp": "{box:01}きかいのケースが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101BE8",
+  "slots": [
+   "41B40",
+   "41BA0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ジャマだなあ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101C00",
+  "slots": [
+   "41B44",
+   "41BA4"
+  ],
+  "jp": "{box:01}スイッチパネルが{br}ある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101C14",
+  "slots": [
+   "41B48",
+   "41BA8"
+  ],
+  "jp": "{box:01}カラのハコが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101C28",
+  "slots": [
+   "41B4C",
+   "41BAC"
+  ],
+  "jp": "{box:01}館のでんきの{br}ブレイカーかも。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101C40",
+  "slots": [
+   "41B50",
+   "41BB0"
+  ],
+  "jp": "{box:01}おもいハコが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「おもくて一人じゃ{br} うごかせないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101CD4",
+  "slots": [
+   "41B54",
+   "41BB4"
+  ],
+  "jp": "{box:01}たなには何も{br}なかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1031A4",
+  "slots": [
+   "41BBC",
+   "41BE0"
+  ],
+  "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1031B8",
+  "slots": [
+   "41BC0",
+   "41BE4"
+  ],
+  "jp": "{box:01}ガラクタの入った{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1014F4",
+  "slots": [
+   "41BC8",
+   "41BEC"
+  ],
+  "jp": "{box:01}たなはからっぽ{br}だった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10152C",
+  "slots": [
+   "41BCC",
+   "41BF0"
+  ],
+  "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101540",
+  "slots": [
+   "41BD4",
+   "41BF8"
+  ],
+  "jp": "{box:01}何も置かれて{br}いなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101554",
+  "slots": [
+   "41BD8",
+   "41BFC"
+  ],
+  "jp": "{box:01}ハコに入った{br}ふようひんだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103430",
+  "slots": [
+   "41C04",
+   "41C38",
+   "41C6C"
+  ],
+  "jp": "{box:01}たなに小物が{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103444",
+  "slots": [
+   "41C08",
+   "41C0C",
+   "41C3C",
+   "41C40",
+   "41C70",
+   "41C74"
+  ],
+  "jp": "{box:01}ダンボールばこの{br}中はからっぽだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10348C",
+  "slots": [
+   "41C10",
+   "41C44",
+   "41C78"
+  ],
+  "jp": "{box:01}ヒューズ式の{br}はいでんパネルだ。{page}{box:00}{name:02}ジョージ{br}「とんだら{br} なおせないぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1034BC",
+  "slots": [
+   "41C14",
+   "41C48",
+   "41C7C"
+  ],
+  "jp": "{box:01}あかいバルブが{br}2つある。{page}{box:00}{name:02}ジョージ{br}「回してみたいけど{br} やめとこう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1034EC",
+  "slots": [
+   "41C18",
+   "41C4C",
+   "41C80"
+  ],
+  "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103500",
+  "slots": [
+   "41C1C",
+   "41C50",
+   "41C84"
+  ],
+  "jp": "{box:01}ドアのよこに{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103514",
+  "slots": [
+   "41C20",
+   "41C54",
+   "41C88"
+  ],
+  "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「よこのきかいに{br} つながってるな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103544",
+  "slots": [
+   "41C24",
+   "41C58",
+   "41C8C"
+  ],
+  "jp": "{box:01}きかいがかべに{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「ポンプか何か{br} みたいだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103574",
+  "slots": [
+   "41C28",
+   "41C30",
+   "41C5C",
+   "41C64",
+   "41C90",
+   "41C98"
+  ],
+  "jp": "{box:01}かべのはへんが{br}ちらばっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10345C",
+  "slots": [
+   "41C2C",
+   "41C60",
+   "41C94"
+  ],
+  "jp": "{box:01}まるいあなが{br}あいている。{page}{box:00}{name:02}ジョージ{br}「きかいでほった{br} みたいなあなだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103588",
+  "slots": [
+   "41CA0",
+   "41CD4",
+   "41D08"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタしか{br} ないみたいだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1035A4",
+  "slots": [
+   "41CA4",
+   "41CD8",
+   "41D0C"
+  ],
+  "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1035EC",
+  "slots": [
+   "41CA8",
+   "41CDC",
+   "41D10"
+  ],
+  "jp": "{box:01}ダンボールばこが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103604",
+  "slots": [
+   "41CAC",
+   "41CE0",
+   "41D14"
+  ],
+  "jp": "{box:01}ヒューズ式の{br}はいでんパネルだ。{page}{box:00}{name:02}ジョージ{br}「たのむから{br} とばないでくれよ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103638",
+  "slots": [
+   "41CB0",
+   "41CE4",
+   "41D18"
+  ],
+  "jp": "{box:01}さびついた{br}バルブがある。{page}{box:00}{name:02}ジョージ{br}「回したくても{br} 回せないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103668",
+  "slots": [
+   "41CB4",
+   "41CB8",
+   "41CE8",
+   "41CEC",
+   "41D1C",
+   "41D20"
+  ],
+  "jp": "{box:01}ハコの中は{br}ゴミだけのようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10367C",
+  "slots": [
+   "41CBC",
+   "41CF0",
+   "41D24"
+  ],
+  "jp": "{box:01}バルブが2つ{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1036B0",
+  "slots": [
+   "41CC0",
+   "41CF4",
+   "41D28"
+  ],
+  "jp": "{box:01}きかいがかべに{br}うめこまれている。{page}{box:00}{name:02}ジョージ{br}「調べるより{br} アリシアが先だ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1036E4",
+  "slots": [
+   "41CC4",
+   "41CCC",
+   "41CF8",
+   "41D00",
+   "41D2C",
+   "41D34"
+  ],
+  "jp": "{box:01}かべがまるく{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1035BC",
+  "slots": [
+   "41CC8",
+   "41CFC",
+   "41D30"
+  ],
+  "jp": "{box:01}かべがまるく{br}くずれている。{page}{box:00}{name:02}ジョージ{br}「おくには何も{br} なさそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1036F8",
+  "slots": [
+   "41D3C",
+   "41D84"
+  ],
+  "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10370C",
+  "slots": [
+   "41D40",
+   "41D88"
+  ],
+  "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1018A4",
+  "slots": [
+   "41D44",
+   "41D8C"
+  ],
+  "jp": "{box:01}スイッチパネルが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ヘタにさわると、{br} やばそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103720",
+  "slots": [
+   "41D48",
+   "41D90"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ジャマなハコ{br} だなあ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10373C",
+  "slots": [
+   "41D4C",
+   "41D94"
+  ],
+  "jp": "{box:01}かべに大きな{br}あながあいている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1018D8",
+  "slots": [
+   "41D54",
+   "41D9C"
+  ],
+  "jp": "{box:01}たなはからっぽ{br}だった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1018E8",
+  "slots": [
+   "41D58",
+   "41DA0"
+  ],
+  "jp": "{box:01}ふようひんが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

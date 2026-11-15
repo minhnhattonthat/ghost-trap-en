@@ -1,0 +1,283 @@
+[
+ {
+  "id": "11DB88",
+  "slots": [
+   "3C064"
+  ],
+  "jp": " {clr}{box:00}{name:02}ジョージ{br}「クリアおめでとう！{br} おつかれさん！」{clr}{box:00}{name:03}アリシア{br}「このゲームどうだった？{br} たのしんでくれたかな？」{page}{box:00}{name:02}ジョージ{br}「かくしアイテムの{br} 『クリスタル』とかを{page}{box:00}{name:02}ジョージ{br}「手に入れたなら、{br} スゴイんじゃないかな？{page}{box:00}{name:02}ジョージ{br}「げんかんホールでBOOKを{br} 使って、{page}{box:00}{name:02}ジョージ{br}「前にもどらないと{br} 手に入らないんだ」{page}{box:00}{name:03}アリシア{br}「アイテムセットが{br} いやらしいわねえ・・・」{clr} {clr}{box:00}{name:02}ジョージ{br}「クリスタルはBOOK4の{br} FLOOR2とFLOOR5しか出ない・・{page}{box:00}{name:02}ジョージ{br}「たながいっぱいある、{br} きいろいL字つうろだ」{clr}{box:00}{name:03}アリシア{br}「クリスタルはクリティカルが{br} スゴイのよねー」{clr}{box:00}{name:02}ジョージ{br}「シャレかよ！いくら幼なじみ{br} でも、言ってはいけな・・・」{page}{box:00}{name:03}アリシア{br}「がんばってさがしてね！」{page}{box:00}{name:02}ジョージ{br}「・・・それじゃ、また{br} あそんでくれよな！」{clr}{box:00}{name:04}カロル{br}「ああ・・・{br} 永遠のやすらぎが・・・」{clr} {clr}{box:00}{name:03}アリシア{br}「・・・ちょっと、カロルさん、{br} どーしちゃったわけ？」{clr}{box:00}{name:02}ジョージ{br}「あ、ああ・・・そっか、{br} ねてたんだっけ・・・{page}{box:00}{name:02}ジョージ{br}「ま、ちょっとな・・・{br} いろいろあって・・・」{clr}{box:00}{name:04}カロル{br}「・・・しずかにしろーー！」{clr}{box:00}{name:04}カロル{br}「そんなわけで、{br} クリアボーナスとして{page}{box:00}{name:04}カロル{br}「これからタイムアタック{br} モードに入る！{page}{box:00}{name:04}カロル{br}「全フロアクリアまでの{br} 時間をきそうモードだ！{clr}{box:00}{name:06}アルビノ{br}「・・・やれやれ、{br} またもどされたワイ」{page}{box:00}{name:06}アルビノ{br}「・・・なんと！しかも{br} セーブできんとな！？{page}{box:00}{name:04}カロル{br}「・・・まだ何も言ってないが、{br} そのとおりだ！{page}{box:00}{name:04}カロル{br}「しかもげんかんにも{br} もどれないぞ！{page}{box:00}{name:06}アルビノ{br}「アイテムボックスが{br} 使えないのもつらいのう・・・」{page}{box:00}{name:04}カロル{br}「ちなみにかいはつスタッフ{br} のきろくは4時間だ！{clr}{box:00}{name:04}カロル{br}「がんばってさいごまで{br} クリアしてくれ！{page}{box:00}{name:04}カロル{br}「はーはははは・・・」{clr} {clr}{box:00}{name:06}シンファ{br}「・・・また、よびもどされて{br} しまいました・・・{page}{box:00}{name:06}シンファ{br}「こ、これは・・・タイム{br} アタックモード・・・{clr}{box:00}{name:06}シンファ{br}「ああ・・・なんてことを！{br} ・・・カロル・・・」{clr}{box:00}{name:06}死のつかい{br}「では、いってみよう！{br} ゲームスタート！」{clr} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11E1DC",
+  "slots": [
+   "3C068"
+  ],
+  "jp": " {clr}{box:00}{name:02}ジョージ{br}「ハァ・・・{br} たいへんだったなー」{page}{box:00}{name:03}アリシア{br}「そうねぇ・・・けっこう{br} 時間かかるもんね・・・」{clr}{box:00}{name:02}ジョージ{br}「しまった！」{page}{box:00}{name:03}アリシア{br}「な、なに？ジョージ{br} どうしたの？」{clr} {clr}{box:00}{name:02}ジョージ{br}「とじまりをわすれた！{clr}{box:00}{name:02}ジョージ{br}「あ！このガラスも{br} みがいとかなきゃ！」{clr}{box:00}{name:03}アリシア{br}「・・・ハァ・・・{clr}{box:00}{name:03}アリシア{br}「・・・ダメだこりゃ」{clr}{box:00}{name:02}ジョージ{br}「・・・ま、クリアおめでとう！{br} 長い間おつかれさん！{clr}{box:00}{name:03}アリシア{br}「で、タイムはどうだった？{br} たのしんでくれたかな？」{page}{box:00}{name:02}ジョージ{br}「さいこうのぼうぐアイテム{br} 『エーテルアーマー』なんかを{page}{box:00}{name:02}ジョージ{br}「手に入れたなら、{br} スゴイんじゃないかな？{page}{box:00}{name:03}アリシア{br}「COMBINEでしか{br} つくれないのよねー」{page}{box:00}{name:02}ジョージ{br}「『Nユニット』がひつよう{br} なんだけど、{page}{box:00}{name:02}ジョージ{br}「NユニットはBOOK8の{br} FLOOR3とFLOOR7にある、{page}{box:00}{name:02}ジョージ{br}「レールでうごく部屋に{br} かくされてるぜ！{page}{box:00}{name:02}ジョージ{br}「でも、BOOKを使って{br} 前にもどらないと・・・{page}{box:00}{name:02}ジョージ{br}「って、おい！タイムアタック{br} じゃ見つからないよな・・・」{clr}{box:00}{name:03}アリシア{br}「・・・{clr}{box:00}{name:03}アリシア{br}「ダメだこりゃ・・・」{page}{box:00}{name:03}アリシア{br}「・・・みんなも{br} がんばってさがしてみてね！」{clr} {clr}{box:00}{name:04}カロル{br}「・・・トホホ・・・{br} またしっぱいだ・・・{clr}{box:00}{name:06}シンファ{br}「カロル・・・」{clr}{box:00}{name:04}カロル{br}「ああ！シンファ！{br} わたしもキミの元へ・・・」{page}{box:00}{name:06}シンファ{br}「・・・{clr}{box:00}{name:06}シンファ{br}「・・・やっぱりそんな{br} りゆうだったんですね・・・」{clr}{box:00}{name:04}カロル{br}「そうだとも！わたしは{br} いぜんからキミが・・・{page}{box:00}{name:04}カロル{br}「だから、ジョージと{br} アリシアがうらやましい！{page}{box:00}{name:04}カロル{br}「だ、だから、わたしと{br} シンファも・・・！」{page}{box:00}{name:06}シンファ{br}「・・・きもちわるい！」{clr} {clr} {clr}{box:00}{name:04}カロル{br}「い、いかないでくれ・・・{br} シンファ・・・{page}{box:00}{name:04}カロル{br}「シンファ！シンファ！{br} 私の・・・」{clr}{box:00}{name:06}アルビノ{br}「・・・{page}{box:00}{name:06}アルビノ{br}「ダメだこりゃ・・・」{clr} {clr}{box:00}{name:06}死のつかい{br}「タイムアタックモードを{br} プレイしてくれて、{page}{box:00}{name:06}死のつかい{br}「ほんとうにありがとう{br} ございました。{page}{box:00}{name:06}死のつかい{br}「またのおこしを{br} お待ちしています。{page}{box:00}{name:06}死のつかい{br}「それでは、また・・・{br} おあいしましょう・・・」{clr} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11E004",
+  "slots": [
+   "3C06C",
+   "3C070"
+  ],
+  "jp": "◎_2002_ARTOON{br}Published_under_license_by{br}Eidos_Interactive_KK．．{br}Artoon_and_Ghost_Trap{br}are_trademarks_of{br}Artoon_Co．，_Ltd．_Eidos，_Eidos{br}Interactive_and{br}the_Eidos_logo_are_trademarks_of{br}the_Eidos_group_of_companies．{br}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10392C",
+  "slots": [
+   "3C074"
+  ],
+  "jp": "{box:01}{name:0A}を{br}{name:15}コ入手した。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103940",
+  "slots": [
+   "3C078"
+  ],
+  "jp": "{box:01}カギがかかって{br}いるようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103954",
+  "slots": [
+   "3C07C"
+  ],
+  "jp": "{box:01}ここでは{br}使えない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103964",
+  "slots": [
+   "3C080"
+  ],
+  "jp": "{box:01}{name:0A} {br}を使った。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103974",
+  "slots": [
+   "3C084"
+  ],
+  "jp": "{box:01}{name:0A} {br}を見つけた。{page}{box:01}このアイテムは{br}もうもてない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103998",
+  "slots": [
+   "3C088"
+  ],
+  "jp": "{box:01}{name:0A} {br}を見つけた。{page}{box:01}何かをすてないと{br}もちきれない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1039BC",
+  "slots": [
+   "3C08C"
+  ],
+  "jp": "{box:01}何も置かれて{br}いない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1039D0",
+  "slots": [
+   "3C090"
+  ],
+  "jp": "{box:01}ちょうぞうが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1039E4",
+  "slots": [
+   "3C094"
+  ],
+  "jp": "{box:01}びじゅつひんと{br}はちうえだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1039F8",
+  "slots": [
+   "3C098"
+  ],
+  "jp": "{box:01}りっぱな{br}あぶらえだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103A08",
+  "slots": [
+   "3C09C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？{page}{box:00}{name:02}ジョージ{br}「さっきと部屋の{br} ふんいきが違う。」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103A3C",
+  "slots": [
+   "3C0A0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「やっぱりさっきと{br} 違う！{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ？{br} この館は！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103A74",
+  "slots": [
+   "3C0A4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンが当たった？{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜん違う。{page}{box:00}{name:02}ジョージ{br}「この本が何かの{br} カギだったんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103AD0",
+  "slots": [
+   "3C0A8"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}『おろかな…{page}{box:00}{name:05}？？？？{br}『これよりすすめば{br} きさまらにこそ…{page}{box:00}{name:05}？？？？{br}『大いなる…{br} わざわいが…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103B1C",
+  "slots": [
+   "3C0AC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「大いなる…{br} わざわい？？？{page}{box:00}{name:02}ジョージ{br}「何のことだ…？？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103B50",
+  "slots": [
+   "3C0B0"
+  ],
+  "jp": "{box:01}ニサンの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「な…なんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103B78",
+  "slots": [
+   "3C0B4"
+  ],
+  "jp": "{box:01}アイヤルの書が{br}光っている{page}{box:00}{name:02}ジョージ{br}「またか！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103BA0",
+  "slots": [
+   "3C0B8"
+  ],
+  "jp": "{box:01}シマヌの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「またかよ！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103BC4",
+  "slots": [
+   "3C0BC"
+  ],
+  "jp": "{box:01}ドゥウズの書が{br}光っている！{page}{box:00}{name:02}ジョージ{br}「次は何だ？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103BEC",
+  "slots": [
+   "3C0C0"
+  ],
+  "jp": "{box:01}アブの書が{br}光っている{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103C00",
+  "slots": [
+   "3C0C4"
+  ],
+  "jp": "{box:01}ウルルの書が{br}光っている{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103C14",
+  "slots": [
+   "3C0C8"
+  ],
+  "jp": "{box:01}テシュリトゥの書が{br}光っている{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103C2C",
+  "slots": [
+   "3C0CC"
+  ],
+  "jp": "{box:01}アラフシャムの書が{br}光っている！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103C44",
+  "slots": [
+   "3C0D0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「魔道書が光ったら{br} 文字が出てきたな…{page}{box:00}{name:02}ジョージ{br}「いったい{br} どうなってんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103C88",
+  "slots": [
+   "3C0D4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「どうやら、先に{br} すすんで行くと、{page}{box:00}{name:02}ジョージ{br}「魔道書に文字が{br} 出てくるみたいだ。{page}{box:00}{name:02}ジョージ{br}「9冊目に近づいて{br} いるからかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

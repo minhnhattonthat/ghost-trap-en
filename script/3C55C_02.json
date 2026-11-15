@@ -1,0 +1,1068 @@
+[
+ {
+  "id": "118B9C",
+  "slots": [
+   "3CCEC"
+  ],
+  "jp": "{box:01}ドアはかたく{br}とざされている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118BB0",
+  "slots": [
+   "3CCF0"
+  ],
+  "jp": "{box:01}入り口のかざりの{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118BC4",
+  "slots": [
+   "3CCF4"
+  ],
+  "jp": "{box:01}このしゅうへんの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118B24",
+  "slots": [
+   "3CCF8"
+  ],
+  "jp": "{box:01}心がなごむ{br}ふうけいの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118BDC",
+  "slots": [
+   "3CD04",
+   "3CDF4"
+  ],
+  "jp": "{box:01}どこかのふうけいを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118BF4",
+  "slots": [
+   "3CD08",
+   "3CDF8"
+  ],
+  "jp": "{box:01}床に絵が{br}おちている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C1C",
+  "slots": [
+   "3CD0C",
+   "3CDFC"
+  ],
+  "jp": "{box:01}あおくぬられた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C30",
+  "slots": [
+   "3CD10",
+   "3CE00"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C44",
+  "slots": [
+   "3CD14",
+   "3CE04"
+  ],
+  "jp": "{box:01}まっさおな絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C5C",
+  "slots": [
+   "3CD18",
+   "3CE08"
+  ],
+  "jp": "{box:01}わかい女の{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C70",
+  "slots": [
+   "3CD1C",
+   "3CE0C"
+  ],
+  "jp": "{box:01}うえきばちが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C84",
+  "slots": [
+   "3CD20",
+   "3CE10"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もどっても{br} イミがないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118CA0",
+  "slots": [
+   "3CD24",
+   "3CE14"
+  ],
+  "jp": "{box:01}そうしょくひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118CB8",
+  "slots": [
+   "3CD28",
+   "3CE18"
+  ],
+  "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118C08",
+  "slots": [
+   "3CD2C",
+   "3CE1C"
+  ],
+  "jp": "{box:01}ふうけいの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118CCC",
+  "slots": [
+   "3CD34",
+   "3CE24"
+  ],
+  "jp": "{box:01}けしきの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118CDC",
+  "slots": [
+   "3CD38",
+   "3CE28"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}おちている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D04",
+  "slots": [
+   "3CD3C",
+   "3CE2C"
+  ],
+  "jp": "{box:01}うみのように{br}あおい絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D18",
+  "slots": [
+   "3CD40",
+   "3CE30"
+  ],
+  "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D28",
+  "slots": [
+   "3CD44",
+   "3CE34"
+  ],
+  "jp": "{box:01}あおくぬられた絵{br}がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D3C",
+  "slots": [
+   "3CD48",
+   "3CE38"
+  ],
+  "jp": "{box:01}女の人の{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D50",
+  "slots": [
+   "3CD4C",
+   "3CE3C"
+  ],
+  "jp": "{box:01}うえきのみどりは{br}しなびている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D64",
+  "slots": [
+   "3CD50",
+   "3CE40"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「前にすすむしか{br} 道はないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D84",
+  "slots": [
+   "3CD54",
+   "3CE44"
+  ],
+  "jp": "{box:01}うえきが{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118D94",
+  "slots": [
+   "3CD58",
+   "3CE48"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118CF0",
+  "slots": [
+   "3CD5C",
+   "3CE4C"
+  ],
+  "jp": "{box:01}ふうけいの絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118DA8",
+  "slots": [
+   "3CD64",
+   "3CE54"
+  ],
+  "jp": "{box:01}けしきをえがいた{br}ふうけいの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118DC0",
+  "slots": [
+   "3CD68",
+   "3CE58"
+  ],
+  "jp": "{box:01}ほうり出された{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118DE8",
+  "slots": [
+   "3CD6C",
+   "3CE5C"
+  ],
+  "jp": "{box:01}あおい色が{br}目立つ絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118DFC",
+  "slots": [
+   "3CD70",
+   "3CE60"
+  ],
+  "jp": "{box:01}大きなあぶら絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E14",
+  "slots": [
+   "3CD74",
+   "3CE64"
+  ],
+  "jp": "{box:01}ベースカラーが{br}あおのあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E2C",
+  "slots": [
+   "3CD78",
+   "3CE68"
+  ],
+  "jp": "{box:01}女のしょうぞうが{br}がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E40",
+  "slots": [
+   "3CD7C",
+   "3CE6C"
+  ],
+  "jp": "{box:01}つちがかわいた{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E54",
+  "slots": [
+   "3CD80",
+   "3CE70"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「先にすすむしか{br} 手はないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E74",
+  "slots": [
+   "3CD84",
+   "3CE74"
+  ],
+  "jp": "{box:01}何も生えていない{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118E8C",
+  "slots": [
+   "3CD88",
+   "3CE78"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}ふうけいの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118DD4",
+  "slots": [
+   "3CD8C",
+   "3CE7C"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118EA4",
+  "slots": [
+   "3CD94",
+   "3CE84"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118EB8",
+  "slots": [
+   "3CD98",
+   "3CE88"
+  ],
+  "jp": "{box:01}なげ出された{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118EE0",
+  "slots": [
+   "3CD9C",
+   "3CE8C"
+  ],
+  "jp": "{box:01}ブルーをメインに{br}したあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118EF8",
+  "slots": [
+   "3CDA0",
+   "3CE90"
+  ],
+  "jp": "{box:01}きょだいな絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F0C",
+  "slots": [
+   "3CDA4",
+   "3CE94"
+  ],
+  "jp": "{box:01}うみのように{br}あおいあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F24",
+  "slots": [
+   "3CDA8",
+   "3CE98"
+  ],
+  "jp": "{box:01}わかくてきれいな{br}女の絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F38",
+  "slots": [
+   "3CDAC",
+   "3CE9C"
+  ],
+  "jp": "{box:01}かれかかった{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F4C",
+  "slots": [
+   "3CDB0",
+   "3CEA0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「どうせ、後ろには{br} もどれないしな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F70",
+  "slots": [
+   "3CDB4",
+   "3CEA4"
+  ],
+  "jp": "{box:01}うえきばちには{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F84",
+  "slots": [
+   "3CDB8",
+   "3CEA8"
+  ],
+  "jp": "{box:01}けしきをとらえた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118ECC",
+  "slots": [
+   "3CDBC",
+   "3CEAC"
+  ],
+  "jp": "{box:01}館のまわりの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118F98",
+  "slots": [
+   "3CDC4",
+   "3CEB4"
+  ],
+  "jp": "{box:01}館のまわりの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118FAC",
+  "slots": [
+   "3CDC8",
+   "3CEB8"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118FD8",
+  "slots": [
+   "3CDCC",
+   "3CEBC"
+  ],
+  "jp": "{box:01}あおいあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118FE8",
+  "slots": [
+   "3CDD0",
+   "3CEC0"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}大きな絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119000",
+  "slots": [
+   "3CDD4",
+   "3CEC4"
+  ],
+  "jp": "{box:01}ブルーの色が{br}目立つ絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119018",
+  "slots": [
+   "3CDD8",
+   "3CEC8"
+  ],
+  "jp": "{box:01}絵の女は{br}わらっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11902C",
+  "slots": [
+   "3CDDC",
+   "3CECC"
+  ],
+  "jp": "{box:01}うえきばちには{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119040",
+  "slots": [
+   "3CDE0",
+   "3CED0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もどっても出口は{br} 見つからないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119064",
+  "slots": [
+   "3CDE4",
+   "3CED4"
+  ],
+  "jp": "{box:01}入り口のかざり{br}のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119078",
+  "slots": [
+   "3CDE8",
+   "3CED8"
+  ],
+  "jp": "{box:01}このしゅうへんの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "118FC4",
+  "slots": [
+   "3CDEC",
+   "3CEDC"
+  ],
+  "jp": "{box:01}心がなごむ{br}ふうけいの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119090",
+  "slots": [
+   "3CEE4"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1190A4",
+  "slots": [
+   "3CEE8"
+  ],
+  "jp": "{box:01}なげ出された{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119100",
+  "slots": [
+   "3CEEC"
+  ],
+  "jp": "{box:01}ブルーをメインに{br}したあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119118",
+  "slots": [
+   "3CEF0"
+  ],
+  "jp": "{box:01}きょだいな絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11912C",
+  "slots": [
+   "3CEF4"
+  ],
+  "jp": "{box:01}うみのように{br}あおいあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119144",
+  "slots": [
+   "3CEF8"
+  ],
+  "jp": "{box:01}わかくてきれいな{br}女の絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119158",
+  "slots": [
+   "3CEFC"
+  ],
+  "jp": "{box:01}かれかかった{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11916C",
+  "slots": [
+   "3CF00"
+  ],
+  "jp": "{box:01}げんかんホールに{br}つながるドア…{page}{box:00}{name:02}ジョージ{br}「シロートはここで{br} にげだすけど…{page}{box:00}{name:02}ジョージ{br}「プロは前に{br} すすむもんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1191BC",
+  "slots": [
+   "3CF04"
+  ],
+  "jp": "{box:01}うえきばちには{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1191D0",
+  "slots": [
+   "3CF08"
+  ],
+  "jp": "{box:01}けしきをとらえた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1190B8",
+  "slots": [
+   "3CF0C"
+  ],
+  "jp": "{box:01}館のまわりの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1190CC",
+  "slots": [
+   "3CF14"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？{page}{box:00}{name:02}ジョージ{br}「さっきと部屋の{br} ふんいきがちがう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1191E4",
+  "slots": [
+   "3CF18"
+  ],
+  "jp": "{box:01}けしきの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1191F4",
+  "slots": [
+   "3CF1C"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}おちている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119278",
+  "slots": [
+   "3CF20"
+  ],
+  "jp": "{box:01}うみのように{br}あおい絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11928C",
+  "slots": [
+   "3CF24"
+  ],
+  "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11929C",
+  "slots": [
+   "3CF28"
+  ],
+  "jp": "{box:01}あおくぬられた絵{br}がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1192B0",
+  "slots": [
+   "3CF2C"
+  ],
+  "jp": "{box:01}女の人の{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1192C4",
+  "slots": [
+   "3CF30"
+  ],
+  "jp": "{box:01}うえきのみどりは{br}しなびている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1192D8",
+  "slots": [
+   "3CF34"
+  ],
+  "jp": "{box:01}げんかんホールに{br}つながるドア…{page}{box:00}{name:02}ジョージ{br}「こんなヘンテコな{br} 所だし…{page}{box:00}{name:02}ジョージ{br}「本当にげんかんへ{br} もどれるのか？」{page}{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「やっぱりな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119350",
+  "slots": [
+   "3CF38"
+  ],
+  "jp": "{box:01}うえきが{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119360",
+  "slots": [
+   "3CF3C"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119208",
+  "slots": [
+   "3CF40"
+  ],
+  "jp": "{box:01}ふうけいの絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11921C",
+  "slots": [
+   "3CF48"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンが当たった？{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜんちがう。{page}{box:00}{name:02}ジョージ{br}「この本が何かの{br} カギだったんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119374",
+  "slots": [
+   "3CF4C"
+  ],
+  "jp": "{box:01}館のまわりの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119388",
+  "slots": [
+   "3CF50"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1193B4",
+  "slots": [
+   "3CF54"
+  ],
+  "jp": "{box:01}あおいあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1193C4",
+  "slots": [
+   "3CF58"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}大きな絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1193DC",
+  "slots": [
+   "3CF5C"
+  ],
+  "jp": "{box:01}ブルーの色が{br}目立つ絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1193F4",
+  "slots": [
+   "3CF60"
+  ],
+  "jp": "{box:01}絵の女は{br}わらっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119408",
+  "slots": [
+   "3CF64"
+  ],
+  "jp": "{box:01}うえきばちには{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11941C",
+  "slots": [
+   "3CF68"
+  ],
+  "jp": "{box:01}ドアはかたく{br}とざされている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119430",
+  "slots": [
+   "3CF6C"
+  ],
+  "jp": "{box:01}入り口のかざり{br}のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119444",
+  "slots": [
+   "3CF70"
+  ],
+  "jp": "{box:01}このしゅうへんの{br}けしきだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1193A0",
+  "slots": [
+   "3CF74"
+  ],
+  "jp": "{box:01}心がなごむ{br}ふうけいの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11945C",
+  "slots": [
+   "3CF80",
+   "3D080",
+   "3D180"
+  ],
+  "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119470",
+  "slots": [
+   "3CF84",
+   "3D084",
+   "3D184"
+  ],
+  "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1194F0",
+  "slots": [
+   "3CF88",
+   "3D088",
+   "3D188"
+  ],
+  "jp": "{box:01}大きなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119504",
+  "slots": [
+   "3CF8C",
+   "3D08C",
+   "3D18C"
+  ],
+  "jp": "{box:01}大きなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119518",
+  "slots": [
+   "3CF90",
+   "3D090",
+   "3D190"
+  ],
+  "jp": "{box:01}うまいのかどうか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119530",
+  "slots": [
+   "3CF94",
+   "3D194"
+  ],
+  "jp": "{box:01}みどりでぬられた{br}絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

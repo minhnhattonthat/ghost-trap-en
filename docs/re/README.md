@@ -12,5 +12,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 
 | File | Covers | State |
 |---|---|---|
-| [text.md](text.md) | encoding, font, control codes, pointer region, text block, free-space candidates | verified; ~20 kanji readings and the FB speaker ids guessed |
+| [text.md](text.md) | encoding, font, control codes, pointer region, text block, free-space candidates | verified (kanji, dead runs: phase 4); the FB speaker ids guessed |
 | [graphics.md](graphics.md) | graphics-text survey (tour + LZ77 sweep) | title logo traced; mid-game screens wait for the phase-2 debug tool |

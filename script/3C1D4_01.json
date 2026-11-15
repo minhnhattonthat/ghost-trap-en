@@ -1,0 +1,942 @@
+[
+ {
+  "id": "1119FC",
+  "slots": [
+   "3C308"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「ここから誰も{br} 出さないように{page}{box:00}{name:04}カロル{br}「ゴーストたちが{br} 館をまもっている…{page}{box:00}{name:04}カロル{br}「…とにかく本を{br} 9冊集めましょう{page}{box:00}{name:04}カロル{br}「アリシアさんも{br} きっとそれで…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111A7C",
+  "slots": [
+   "3C30C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「いつまでここに{br} いるんだろう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111A9C",
+  "slots": [
+   "3C310"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何もない…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111AB0",
+  "slots": [
+   "3C314"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何もない…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111AC4",
+  "slots": [
+   "3C31C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけだして、{page}{box:00}{name:02}ジョージ{br}「ぜったいここから{br} だっしゅつするぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110E98",
+  "slots": [
+   "3C32C"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「すみません、{br} ジョージさん…{page}{box:00}{name:04}カロル{br}「本当なら私が{br} やるべき事なのに…{page}{box:00}{name:04}カロル{br}「むしのいい{br} おねがいですが、{page}{box:00}{name:04}カロル{br}「私のむかしの{br} 仲間たちを…{page}{box:00}{name:04}カロル{br}「アリギエリさんを{br} すくってください！{page}{box:00}{name:04}カロル{br}「そして{br} アリシアさんを…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110F50",
+  "slots": [
+   "3C330"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あさまでに{br} アリシアを…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110F6C",
+  "slots": [
+   "3C334"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「本当に{br} ガラクタだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110F88",
+  "slots": [
+   "3C338"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「本当に{br} そだいゴミだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110FA4",
+  "slots": [
+   "3C33C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…あれ？{br} あかないぞ？」{page}{box:00}{name:04}カロル{br}「ジョージさん！{br} あれを！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110FD8",
+  "slots": [
+   "3C340"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「本はそろったし、{br} げんかんよりも、{page}{box:00}{name:02}ジョージ{br}「早く先に{br} すすもう！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110390",
+  "slots": [
+   "3C348",
+   "3C364",
+   "3C380",
+   "3C39C",
+   "3C3B8",
+   "3C3D4",
+   "3C3F0",
+   "3C40C",
+   "3C428",
+   "3C444",
+   "3C460"
+  ],
+  "jp": "{box:01}手すりは古く{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「なんか下に{br} おっこちそうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1103C0",
+  "slots": [
+   "3C34C",
+   "3C368",
+   "3C384",
+   "3C3A0",
+   "3C3BC",
+   "3C3D8",
+   "3C3F4",
+   "3C410",
+   "3C42C",
+   "3C448",
+   "3C464"
+  ],
+  "jp": "{box:01}手すりは古く{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「近づかないで{br} おこう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1103F0",
+  "slots": [
+   "3C350",
+   "3C36C",
+   "3C388",
+   "3C3A4",
+   "3C3C0",
+   "3C3DC",
+   "3C3F8",
+   "3C414",
+   "3C430",
+   "3C44C",
+   "3C468"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん古い{br} 床だな…{page}{box:00}{name:02}ジョージ{br}「目の前の床は{br} くずれそうだ…{page}{box:00}{name:02}ジョージ{br}「行かないように{br} しよう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110444",
+  "slots": [
+   "3C354"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はまだ{br}あかるいようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11046C",
+  "slots": [
+   "3C358"
+  ],
+  "jp": "{box:01}この窓も{br}あかないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110480",
+  "slots": [
+   "3C35C"
+  ],
+  "jp": "{box:01}このドアは{br}あかないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110494",
+  "slots": [
+   "3C370"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}もうゆうがたに{br}なっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1104BC",
+  "slots": [
+   "3C374"
+  ],
+  "jp": "{box:01}たたいてみたが{br}びくともしない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1104D0",
+  "slots": [
+   "3C378"
+  ],
+  "jp": "{box:01}まったく{br}あかないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110548",
+  "slots": [
+   "3C38C"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}ゆうやけも{br}おわりに近い。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110570",
+  "slots": [
+   "3C390"
+  ],
+  "jp": "{box:01}窓ガラスも{br}われそうにない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110584",
+  "slots": [
+   "3C394"
+  ],
+  "jp": "{box:01}あかないドアだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110590",
+  "slots": [
+   "3C3A8"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はしだいに{br}くらくなっていく。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1105BC",
+  "slots": [
+   "3C3AC"
+  ],
+  "jp": "{box:01}この窓から{br}出れそうにない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1105D0",
+  "slots": [
+   "3C3B0"
+  ],
+  "jp": "{box:01}何度調べても{br}あきそうにない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1105E8",
+  "slots": [
+   "3C3C4"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はもう、{br}まっくらだ…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110610",
+  "slots": [
+   "3C3C8"
+  ],
+  "jp": "{box:01}何度調べても{br}あかない窓だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110628",
+  "slots": [
+   "3C3CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あかないなぁ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110640",
+  "slots": [
+   "3C3E0"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}遠くでふくろうの{br}なきごえがきこえる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110670",
+  "slots": [
+   "3C3E4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この窓も{br} あかないなあ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11068C",
+  "slots": [
+   "3C3E8"
+  ],
+  "jp": "{box:01}館の中につうじる{br}ドアのようだ。{page}{box:00}{name:02}ジョージ{br}「あかないなぁ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1106B8",
+  "slots": [
+   "3C3FC"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}もう、真夜中に{br}近い時間だ…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1106E8",
+  "slots": [
+   "3C400"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「まっくらで何も{br} 見えないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110708",
+  "slots": [
+   "3C404"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「びくともしないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110720",
+  "slots": [
+   "3C418"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}白く、キリが{br}たちこめてきた…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11074C",
+  "slots": [
+   "3C41C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「くらくて何も{br} 見えないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110768",
+  "slots": [
+   "3C420"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…やっぱり{br} …あかないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110784",
+  "slots": [
+   "3C434"
+  ],
+  "jp": "{box:01}外にはだれも{br}いない…。{page}{box:01}アリシアが{br}しんぱいだ…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1107A8",
+  "slots": [
+   "3C438"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリシア…{br} 待ってろよ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1107C8",
+  "slots": [
+   "3C43C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「カギが無いと{br} だめなのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1107E8",
+  "slots": [
+   "3C450"
+  ],
+  "jp": "{box:01}カロルさんが{br}たたいていた窓。{page}{box:01}外はまっくらで{br}何も見えない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110814",
+  "slots": [
+   "3C454"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリシアは今、{br} どうしてるかな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110838",
+  "slots": [
+   "3C458"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「フシギな力で{br} 封印されてる？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1104E4",
+  "slots": [
+   "3C46C"
+  ],
+  "jp": "{box:01}窓を見ている{br}ばあいじゃない！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1104FC",
+  "slots": [
+   "3C470"
+  ],
+  "jp": "{box:01}窓よりもドアを{br}調べよう！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110510",
+  "slots": [
+   "3C474"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「9冊目をそうび{br} しないとダメか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110534",
+  "slots": [
+   "3C478"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あっ！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BABC",
+  "slots": [
+   "3C47C"
+  ],
+  "jp": "{box:01}何かをえがいた{br}絵のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BAD0",
+  "slots": [
+   "3C480"
+  ],
+  "jp": "{box:01}どこかのけしきの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB0C",
+  "slots": [
+   "3C484"
+  ],
+  "jp": "{box:01}タワーをえがいた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB24",
+  "slots": [
+   "3C488"
+  ],
+  "jp": "{box:01}こどもとははの{br}絵のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB38",
+  "slots": [
+   "3C48C"
+  ],
+  "jp": "{box:01}ざつにイスが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB4C",
+  "slots": [
+   "3C490"
+  ],
+  "jp": "{box:01}イスがよこに{br}なっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB60",
+  "slots": [
+   "3C494"
+  ],
+  "jp": "{box:01}イスがちらばって{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1210A8",
+  "slots": [
+   "3C498"
+  ],
+  "jp": "{box:01}ドアのむこうから{br}声がきこえてくる。{page}{box:00}{name:02}ジョージ{br}「この声はアリシア…{br} そしてカロルさん…{page}{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだな！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！{page}{box:00}{name:02}ジョージ{br}「こんなヘンな館で、{br} もう一度ここに…{page}{box:00}{name:02}ジョージ{br}「来れるほしょうは{br} ないもんな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB74",
+  "slots": [
+   "3C49C"
+  ],
+  "jp": "{box:01}部屋のはしに{br}イスがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB88",
+  "slots": [
+   "3C4A0"
+  ],
+  "jp": "{box:01}へやのすみで{br}たおれたイスだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BAE4",
+  "slots": [
+   "3C4A4"
+  ],
+  "jp": "{box:01}何かをえがいた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BAF8",
+  "slots": [
+   "3C4A8"
+  ],
+  "jp": "{box:01}つぼや、やさいの{br}絵のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121064",
+  "slots": [
+   "3C4AC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「むこうで何か、{br} 光ってるな…{page}{box:00}{name:02}ジョージ{br}「本…みたいだけど…{br} チェックしてみるか」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BB9C",
+  "slots": [
+   "3C4B4"
+  ],
+  "jp": "{box:01}何の絵かは{br}わからない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BBB0",
+  "slots": [
+   "3C4B8"
+  ],
+  "jp": "{box:01}どこのけしきの{br}絵だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BBEC",
+  "slots": [
+   "3C4BC"
+  ],
+  "jp": "{box:01}そらにそびえる{br}タワーの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC04",
+  "slots": [
+   "3C4C0"
+  ],
+  "jp": "{box:01}つくえにめぼしい{br}モノはない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC18",
+  "slots": [
+   "3C4C4"
+  ],
+  "jp": "{box:01}誰がすわる{br}イスなのだろう？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC2C",
+  "slots": [
+   "3C4C8"
+  ],
+  "jp": "{box:01}イスが床に{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC40",
+  "slots": [
+   "3C4CC"
+  ],
+  "jp": "{box:01}イスがざつぜんと{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121180",
+  "slots": [
+   "3C4D0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これはげんかんへ{br} つながるドアだ！{page}{box:00}{name:02}ジョージ{br}「けど、もどる前に{br} あそこにある…{page}{box:00}{name:02}ジョージ{br}「光ってる本を{br} チェックしないと！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC54",
+  "slots": [
+   "3C4D4"
+  ],
+  "jp": "{box:01}すみっこにイスが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC6C",
+  "slots": [
+   "3C4D8"
+  ],
+  "jp": "{box:01}イスが床に{br}たおされている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BBC4",
+  "slots": [
+   "3C4DC"
+  ],
+  "jp": "{box:01}ふきつな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BBD8",
+  "slots": [
+   "3C4E0"
+  ],
+  "jp": "{box:01}しょくたくの絵{br}のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC80",
+  "slots": [
+   "3C4EC"
+  ],
+  "jp": "{box:01}きみのわるい{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BC94",
+  "slots": [
+   "3C4F0"
+  ],
+  "jp": "{box:01}人のかおにも{br}見える絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BCD4",
+  "slots": [
+   "3C4F4"
+  ],
+  "jp": "{box:01}ふうけいを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BCE8",
+  "slots": [
+   "3C4F8"
+  ],
+  "jp": "{box:01}おやこの絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BCFC",
+  "slots": [
+   "3C4FC"
+  ],
+  "jp": "{box:01}つくえとイスが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD10",
+  "slots": [
+   "3C500"
+  ],
+  "jp": "{box:01}床にたおれた{br}イスがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD24",
+  "slots": [
+   "3C504"
+  ],
+  "jp": "{box:01}古びたイスが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1211DC",
+  "slots": [
+   "3C508"
+  ],
+  "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BCA8",
+  "slots": [
+   "3C514"
+  ],
+  "jp": "{box:01}あやしい絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BCBC",
+  "slots": [
+   "3C518"
+  ],
+  "jp": "{box:01}テーブルの上を{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD38",
+  "slots": [
+   "3C524"
+  ],
+  "jp": "{box:01}フシギな絵が{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD4C",
+  "slots": [
+   "3C528"
+  ],
+  "jp": "{box:01}何かの生き物の{br}絵に見える。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD64",
+  "slots": [
+   "3C52C"
+  ],
+  "jp": "{box:01}どこかのタワーを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD7C",
+  "slots": [
+   "3C530"
+  ],
+  "jp": "{box:01}めぼしい物は{br}とくにない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BD90",
+  "slots": [
+   "3C534"
+  ],
+  "jp": "{box:01}ワインのびんが{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BDA8",
+  "slots": [
+   "3C538"
+  ],
+  "jp": "{box:01}こわれたイスが{br}よこになっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BDC0",
+  "slots": [
+   "3C53C"
+  ],
+  "jp": "{box:01}イスとつくえが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121230",
+  "slots": [
+   "3C540"
+  ],
+  "jp": "{box:01}げんかんホールへ{br}つながるドア{page}{box:00}{name:02}ジョージ{br}「まずは魔道書を{br} チェックしないと…{page}{box:00}{name:02}ジョージ{br}「もどるのは、{br} それからだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

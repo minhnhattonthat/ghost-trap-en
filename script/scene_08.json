@@ -1,0 +1,209 @@
+[
+ {
+  "id": "101CE8",
+  "slots": [
+   "3C0D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「きいてない！？{br} こいつらには、{page}{box:00}{name:02}ジョージ{br}「オレのこうげきが{br} きかないのか！？{page}{box:00}{name:02}ジョージ{br}「なんてこった…{br} ……いや、まてよ{page}{box:00}{name:02}ジョージ{br}「やつらをおさえる{br} 何かがあるはずだ！{page}{box:00}{name:02}ジョージ{br}「やっかいだけど、{br} 調べるしかない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126394",
+  "slots": [
+   "3C0DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは！魔法の{br} もんしょう！？{page}{box:00}{name:02}ジョージ{br}「じゃあここで{br} 儀式が…？」{page}{box:00}{name:05}？？？？{br}『違うな』{page}{box:00}{name:02}ジョージ{br}「！？{br} 誰だ！」{page}{box:00}{name:05}？？？？{br}『うぬこそ{br} 何者よ…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12640C",
+  "slots": [
+   "3C0E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:05}？？？？{br}『何をどこまで{br} 知っておる？{page}{box:00}{name:05}？？？？{br}『何ゆえ、{br} 魔道書を集める？』{page}{box:00}{name:02}ジョージ{br}「あ…お…{br} オ、オレたちは…」{page}{box:00}{name:05}？？？？{br}『…まあよい{page}{box:00}{name:05}？？？？{br}『見のがすわけには{br} ゆかぬからな…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1264A4",
+  "slots": [
+   "3C0E4"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}『おろかしや！{br} おろかしや！{page}{box:00}{name:05}？？？？{br}『われらの過ちを{br} ときはなつのか？{page}{box:00}{name:05}？？？？{br}『生と死のはざまを{br} のりこえる事など{page}{box:00}{name:05}？？？？{br}『人に過ぎぬ者には{br} ゆるされぬ！{page}{box:00}{name:05}？？？？{br}『むりにこえようと{br} したばかりに…{page}{box:00}{name:05}？？？？{br}『われらは…{br} この様な…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126554",
+  "slots": [
+   "3C0E8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「生と死のはざまを{br} のりこえる？{page}{box:00}{name:02}ジョージ{br}「何の話だったんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103390",
+  "slots": [
+   "3C0EC"
+  ],
+  "jp": "{box:01}ドアにカギあなが{br}見当たらない！{page}{box:01}このドアは何かで{br}ロックされている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12658C",
+  "slots": [
+   "3C0F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…今までの{br} もんしょうと…{page}{box:00}{name:02}ジョージ{br}「ちょっと違う…{br} …そうか！！{page}{box:00}{name:02}ジョージ{br}「ここで儀式を{br} やったんだ！」{page}{box:00}{name:05}？？？？{br}『…そのとおり』{page}{box:00}{name:02}ジョージ{br}「だれだ！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12660C",
+  "slots": [
+   "3C0F4"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}『ゴーストでもない{br} ただの人間が…{page}{box:00}{name:05}？？？？{br}『こんな所まで{br} やって来るとは…{page}{box:00}{name:05}？？？？{br}『いやはや、{br} おそれいったぞ…』{page}{box:00}{name:02}ジョージ{br}「…んじゃあ、{br} ごほうびとして…」{page}{box:00}{name:05}？？？？{br}『まぁ、そう{br} あわてるでない{page}{box:00}{name:05}？？？？{br}『人間よ。今少し{br} たしかめようぞ！』{page}{box:00}{name:02}ジョージ{br}「くそう！{br} アリシアをかえせ！{page}{box:00}{name:02}ジョージ{br}「そして、オレたちを{br} 館から出せ！！」{page}{box:00}{name:05}？？？？{br}『このたたかいを{br} わるく思うな…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126718",
+  "slots": [
+   "3C0F8"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}『いや、おみごと！{br} たいしたもんじゃ！』{page}{box:00}{name:02}ジョージ{br}「アリギエリ！？{br} …じゃ、ないな…{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}『このさい、名前は{br} どうでもよかろう』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126790",
+  "slots": [
+   "3C0FC",
+   "3C104",
+   "3C108",
+   "3C10C",
+   "3C110"
+  ],
+  "jp": "{box:01}ドアはナゾの力で{br} とざされている。{page}{box:00}{name:02}ジョージ{br}「うわ！あかない！{br} とじこめられた？」{page}{box:01}ドアに文字が{br}うかびあがる。{page}{box:01}『全てをほろぼせ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12712C",
+  "slots": [
+   "3C100"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんだ？あの{br} ゴーストは？」{page}{box:00}{name:05}？？？？{br}『立ち去れ！{br} 立ち去れ！{page}{box:00}{name:05}？？？？{br}『これより先へは{br} 行かせぬぞ！』{page}{box:00}{name:02}ジョージ{br}「？！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103CEC",
+  "slots": [
+   "3C114"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！！出た！！{br} ゴーストだ！{page}{box:00}{name:02}ジョージ{br}「フワフワただよう{br} ゴーストなんか、{page}{box:00}{name:02}ジョージ{br}「サプレッサーで{br} こうげきだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103D44",
+  "slots": [
+   "3C118"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ヤ、ヤバイ！{br} このゴーストは、{page}{box:00}{name:02}ジョージ{br}「うごきまわる{br} タイプなのか！！{page}{box:00}{name:02}ジョージ{br}「くやしいけれど、{br} サプレッサーは{page}{box:00}{name:02}ジョージ{br}「うごかれると、{br} ねらえない！{page}{box:00}{name:02}ジョージ{br}「ざんねんだが、{br} にげるしかないな…{page}{box:00}{name:02}ジョージ{br}「でも、ゴーストに{br} つかまると…{page}{box:00}{name:02}ジョージ{br}「みうごきが{br} とれなくなって、{page}{box:00}{name:02}ジョージ{br}「HPをうばわれて{br} しまう！{page}{box:00}{name:02}ジョージ{br}「やつをかわして、{br} 先に行くしかない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103E40",
+  "slots": [
+   "3C11C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よし、ゴースト{br} センサーは…{page}{box:00}{name:02}ジョージ{br}「だいじょうぶだ！{br} …ちなみに{page}{box:00}{name:02}ジョージ{br}「これはオレが{br} つくったもので、{page}{box:00}{name:02}ジョージ{br}「ゴーストとの{br} きょりによって{page}{box:00}{name:02}ジョージ{br}「音とはんのうが{br} 早く、大きくなる。{page}{box:00}{name:02}ジョージ{br}「しかも！{br} ゴーストの数で{page}{box:00}{name:02}ジョージ{br}「はんのうの色が{br} かわるスグレ物だ。{page}{box:00}{name:02}ジョージ{br}「…ま、アリシアは{br} このはつめいを{page}{box:00}{name:02}ジョージ{br}「バカにしてる{br} けどな…{page}{box:00}{name:02}ジョージ{br}「とにかくいろいろ{br} 調べてみよう。{page}{box:00}{name:02}ジョージ{br}「何か手がかりが{br} あるかもな。{page}{box:00}{name:02}ジョージ{br}「調べる時には、{br} Aボタンだ。{page}{box:00}{name:02}ジョージ{br}「アイテムもそれで{br} ひろえるし、{page}{box:00}{name:02}ジョージ{br}「ドアもそれで{br} あけられる…{page}{box:00}{name:02}ジョージ{br}「カギがかかって{br} なければだけど…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103FE8",
+  "slots": [
+   "3C120"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} 場所は、{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで{page}{box:00}{name:02}ジョージ{br}「かくにんできる。{br} さらに、{page}{box:00}{name:02}ジョージ{br}「オレがむいている{br} ほうこうは、{page}{box:00}{name:02}ジョージ{br}「がめんみぎの{br} コンパスに出る…{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！{page}{box:00}{name:02}ジョージ{br}「何でアリシアは…{br} ぶつぶつ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1040B0",
+  "slots": [
+   "3C124",
+   "3C128",
+   "3C12C",
+   "3C130"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あと、ゴーストを{br} たいじするぶきも{page}{box:00}{name:02}ジョージ{br}「オレさまの{br} はつめいだぜ！{page}{box:00}{name:02}ジョージ{br}「その名も{br} サプレッサー！{page}{box:00}{name:02}ジョージ{br}「あんまり遠くに{br} とどかないし…{page}{box:00}{name:02}ジョージ{br}「うごきまわるやつ{br} にはよわいけど…{page}{box:00}{name:02}ジョージ{br}「だいじょうぶ！{br} もんだいないさ！{page}{box:00}{name:02}ジョージ{br}「…ひとりごとは{br} やめとこう…{page}{box:00}{name:02}ジョージ{br}「とにかく出口を{br} さがさないとな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C558",
+  "slots": [
+   "3C134"
+  ],
+  "jp": "{box:01}ドアに手を{br}のばした時、{page}{box:01}アリシアに{br}よびとめられた。{page}{box:00}{name:03}アリシア{br}「ジョージ！あの{br} ヘンテコなメカ{page}{box:00}{name:03}アリシア{br}「サプレッサーを{br} わすれてるわよ！{page}{box:00}{name:03}アリシア{br}「何ももたないよか{br} マシじゃない？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104194",
+  "slots": [
+   "3C138"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「うわっ！出た！{br} ゴーストだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1041B4",
+  "slots": [
+   "3C13C"
+  ],
+  "jp": "{box:01}床にナイフが{br}ささっている。{page}{box:01}ゴーストセンサー{br}とはんのうして、{page}{box:01}ナイフがあやしく{br}光りだした！{page}{box:00}{name:02}ジョージ{br}「あのナイフは{br} 何だろう？{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} で光ってるぞ…{page}{box:00}{name:02}ジョージ{br}「さわらない方が{br} いいかな…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104248",
+  "slots": [
+   "3C140"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…？{br} どうしたんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！今なら{br} 近づいて…{page}{box:00}{name:02}ジョージ{br}「サプレッサーで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「よし！ゴーストに{br} もっと近づいて、{page}{box:00}{name:02}ジョージ{br}「みぎうえの{br} アイコンが{page}{box:00}{name:02}ジョージ{br}「サプレッサーに{br} 変わったら、{page}{box:00}{name:02}ジョージ{br}「Aボタンで{br} こうげきだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

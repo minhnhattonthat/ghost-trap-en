@@ -1,0 +1,1047 @@
+[
+ {
+  "id": "10BDD4",
+  "slots": [
+   "3C55C"
+  ],
+  "jp": "{box:01}りっぱながくに{br}おさまった絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BDEC",
+  "slots": [
+   "3C560"
+  ],
+  "jp": "{box:01}ゴーストのかお{br}にも見える絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF1C",
+  "slots": [
+   "3C564"
+  ],
+  "jp": "{box:01}どこかのたてもの{br}のあぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF34",
+  "slots": [
+   "3C568"
+  ],
+  "jp": "{box:01}つくえの上に絵が{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF4C",
+  "slots": [
+   "3C56C"
+  ],
+  "jp": "{box:01}使えそうな物は{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF60",
+  "slots": [
+   "3C570"
+  ],
+  "jp": "{box:01}よこだおしに{br}なったイスだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF74",
+  "slots": [
+   "3C574"
+  ],
+  "jp": "{box:01}おしゃべりをする{br}場所らしい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BF8C",
+  "slots": [
+   "3C578"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「待ってください！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BFA4",
+  "slots": [
+   "3C57C"
+  ],
+  "jp": "{box:01}へやのかたすみに{br}イスがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BFB8",
+  "slots": [
+   "3C580"
+  ],
+  "jp": "{box:01}たおれたイスが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BE04",
+  "slots": [
+   "3C584"
+  ],
+  "jp": "{box:01}きみょうな{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BE18",
+  "slots": [
+   "3C588"
+  ],
+  "jp": "{box:01}しょくたくの上を{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10BE30",
+  "slots": [
+   "3C590"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゴースト！？{br} ここにもか！？」{page}{box:00}{name:05}？？？？{br}「その本にふれては{br} なりません。{page}{box:00}{name:05}？？？？{br}「このまま{br} 立ち去って下さい」{page}{box:00}{name:02}ジョージ{br}「オレたちだって{br} そうしたいさ。{page}{box:00}{name:02}ジョージ{br}「でも、この館に{br} とじこめられて…{page}{box:00}{name:02}ジョージ{br}「この本だけが{br} たよりなんだよ！{page}{box:00}{name:02}ジョージ{br}「そもそもこの館は{br} なんなんだ！？」{page}{box:00}{name:05}？？？？{br}「全ては私たちの{br} 過ちなのです…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111B00",
+  "slots": [
+   "3C594",
+   "3C5BC",
+   "3C5E4",
+   "3C60C",
+   "3C634",
+   "3C65C",
+   "3C684"
+  ],
+  "jp": "{box:01}シートが{br}かけられている。{page}{box:00}{name:02}ジョージ{br}「この下に{br} なにが…？{page}{box:00}{name:02}ジョージ{br}「…いや、{br} やめとこう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111B44",
+  "slots": [
+   "3C598",
+   "3C5C0",
+   "3C5E8",
+   "3C610",
+   "3C638",
+   "3C660",
+   "3C688"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ずいぶん{br} 小さな絵だな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111B60",
+  "slots": [
+   "3C59C",
+   "3C5C4",
+   "3C5EC",
+   "3C614",
+   "3C63C",
+   "3C664",
+   "3C68C"
+  ],
+  "jp": "{box:01}こまごました物が{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ガラクタにしか{br} 見えないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111B94",
+  "slots": [
+   "3C5A0",
+   "3C5C8",
+   "3C5F0",
+   "3C618",
+   "3C640",
+   "3C668",
+   "3C690"
+  ],
+  "jp": "{box:01}つくりかけのぞうが{br}いくつかある。{page}{box:00}{name:02}ジョージ{br}「これはちょっと{br} こわいな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111BC4",
+  "slots": [
+   "3C5A4",
+   "3C5CC",
+   "3C5F4",
+   "3C61C",
+   "3C644",
+   "3C66C",
+   "3C694"
+  ],
+  "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「ぜんぶ黒くぬり{br} つぶされてるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111BF8",
+  "slots": [
+   "3C5A8",
+   "3C5D0",
+   "3C5F8",
+   "3C620",
+   "3C648",
+   "3C670",
+   "3C698"
+  ],
+  "jp": "{box:01}黒くぬられた{br}キャンバスがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111C10",
+  "slots": [
+   "3C5AC",
+   "3C5D4",
+   "3C5FC",
+   "3C624",
+   "3C64C",
+   "3C674",
+   "3C69C"
+  ],
+  "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「クモのす{br} だらけだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111C3C",
+  "slots": [
+   "3C5B0",
+   "3C5D8",
+   "3C600",
+   "3C628",
+   "3C650",
+   "3C678",
+   "3C6A0"
+  ],
+  "jp": "{box:01}おかしな形の{br}つぼがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111C50",
+  "slots": [
+   "3C5B4",
+   "3C5DC",
+   "3C604",
+   "3C62C",
+   "3C654",
+   "3C67C",
+   "3C6A4"
+  ],
+  "jp": "{box:01}たなはほとんど{br}からっぽだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111C64",
+  "slots": [
+   "3C6AC",
+   "3C6D4",
+   "3C6FC"
+  ],
+  "jp": "{box:01}シートが{br}かけられている。{page}{box:00}{name:02}ジョージ{br}「この下に{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「…いたら{br} こわいな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111CA8",
+  "slots": [
+   "3C6B0",
+   "3C6D8",
+   "3C700"
+  ],
+  "jp": "{box:01}小さな{br}ふうけいがだ。{page}{box:00}{name:02}ジョージ{br}「へいわそうで{br} ムカつくぜ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111CD4",
+  "slots": [
+   "3C6B4",
+   "3C6DC",
+   "3C704"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな{br} ガラクタ…{page}{box:00}{name:02}ジョージ{br}「かまってるヒマは{br} ないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111D08",
+  "slots": [
+   "3C6B8",
+   "3C6E0",
+   "3C708"
+  ],
+  "jp": "{box:01}つくりかけのぞうが{br}いくつかある。{page}{box:00}{name:02}ジョージ{br}「これはちょっと{br} こわいな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111D38",
+  "slots": [
+   "3C6BC",
+   "3C6E4",
+   "3C70C"
+  ],
+  "jp": "{box:01}黒くぬられた{br}キャンバスがある。{page}{box:00}{name:02}ジョージ{br}「なにがかいて{br} あったんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111D6C",
+  "slots": [
+   "3C6C0",
+   "3C6E8",
+   "3C710"
+  ],
+  "jp": "{box:01}黒いキャンバスが{br}立てかけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111D84",
+  "slots": [
+   "3C6C4",
+   "3C6EC",
+   "3C714"
+  ],
+  "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{box:00}{name:02}ジョージ{br}「このおくに{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「いるわけ{br} ないよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111DCC",
+  "slots": [
+   "3C6C8",
+   "3C6F0",
+   "3C718"
+  ],
+  "jp": "{box:01}ずいぶんふかい{br}つぼがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111DE0",
+  "slots": [
+   "3C6CC",
+   "3C6F4",
+   "3C71C"
+  ],
+  "jp": "{box:01}ほとんどカラの{br}たながある。{page}{box:00}{name:02}ジョージ{br}「たなをずらすと{br} かくしとびらが！{page}{box:00}{name:02}ジョージ{br}「…なさそう{br} だな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111E28",
+  "slots": [
+   "3C724",
+   "3C748",
+   "3C76C",
+   "3C790",
+   "3C7B4",
+   "3C7D8",
+   "3C7FC"
+  ],
+  "jp": "{box:01}できそこないの{br}ぞうなどがある。{page}{box:00}{name:02}ジョージ{br}「しんぞうに{br} わるいな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111E58",
+  "slots": [
+   "3C728",
+   "3C74C",
+   "3C770",
+   "3C794",
+   "3C7B8",
+   "3C7DC",
+   "3C800"
+  ],
+  "jp": "{box:01}大きめのたなが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「ほとんど{br} からっぽだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111E84",
+  "slots": [
+   "3C72C",
+   "3C750",
+   "3C774",
+   "3C798",
+   "3C7BC",
+   "3C7E0",
+   "3C804"
+  ],
+  "jp": "{box:01}せの高いつぼが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111E98",
+  "slots": [
+   "3C730",
+   "3C754",
+   "3C778",
+   "3C79C",
+   "3C7C0",
+   "3C7E4",
+   "3C808"
+  ],
+  "jp": "{box:01}キャンバスが{br}おしこめてある。{page}{box:00}{name:02}ジョージ{br}「ひっぱり出して{br} 見てみよう…{page}{box:00}{name:02}ジョージ{br}「なんて気には{br} ならないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111EE4",
+  "slots": [
+   "3C734",
+   "3C758",
+   "3C77C",
+   "3C7A0",
+   "3C7C4",
+   "3C7E8",
+   "3C80C"
+  ],
+  "jp": "{box:01}絵がむぞうさに{br}ならべてある。{page}{box:00}{name:02}ジョージ{br}「くらくてよく{br} 見えないぞ。{page}{box:00}{name:02}ジョージ{br}「…別に{br} 見たくもないけど」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111F30",
+  "slots": [
+   "3C738",
+   "3C75C",
+   "3C780",
+   "3C7A4",
+   "3C7C8",
+   "3C7EC",
+   "3C810"
+  ],
+  "jp": "{box:01}キャンバスが{br}立てかけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111F48",
+  "slots": [
+   "3C73C",
+   "3C760",
+   "3C784",
+   "3C7A8",
+   "3C7CC",
+   "3C7F0",
+   "3C814"
+  ],
+  "jp": "{box:01}何かにぬのが{br}かぶさっている。{page}{box:00}{name:02}ジョージ{br}「なんでかくして{br} あるんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111F78",
+  "slots": [
+   "3C740",
+   "3C764",
+   "3C788",
+   "3C7AC",
+   "3C7D0",
+   "3C7F4",
+   "3C818"
+  ],
+  "jp": "{box:01}こまかいモノが{br}たくさんある。{page}{box:00}{name:02}ジョージ{br}「ゴミだな{br} これは…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111FA4",
+  "slots": [
+   "3C744",
+   "3C768",
+   "3C78C",
+   "3C7B0",
+   "3C7D4",
+   "3C7F8",
+   "3C81C"
+  ],
+  "jp": "{box:01}小さな絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111FB8",
+  "slots": [
+   "3C820",
+   "3C844",
+   "3C868"
+  ],
+  "jp": "{box:01}できそこないの{br}ぞうなどがある。{page}{box:00}{name:02}ジョージ{br}「アリシアがロウ{br} 人形にされて…{page}{box:00}{name:02}ジョージ{br}「…たりする{br} わけはないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112008",
+  "slots": [
+   "3C824",
+   "3C848",
+   "3C86C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このたなのウラが{br} あやしい！{page}{box:00}{name:02}ジョージ{br}「…と思ったけど{br} 何もないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112044",
+  "slots": [
+   "3C828",
+   "3C84C",
+   "3C870"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このつぼに{br} 人間は…{page}{box:00}{name:02}ジョージ{br}「…入らない{br} よなぁ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112078",
+  "slots": [
+   "3C82C",
+   "3C850",
+   "3C874"
+  ],
+  "jp": "{box:01}キャンバスが{br}おしこめてある。{page}{box:00}{name:02}ジョージ{br}「ここに人を{br} かくすのは…{page}{box:00}{name:02}ジョージ{br}「ぜったいに{br} ムリだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1120C0",
+  "slots": [
+   "3C830",
+   "3C854",
+   "3C878"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「今は絵なんか{br} どうでもいいぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1120E0",
+  "slots": [
+   "3C834",
+   "3C858",
+   "3C87C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見てる時じゃ{br} ないだろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112100",
+  "slots": [
+   "3C838",
+   "3C85C",
+   "3C880"
+  ],
+  "jp": "{box:01}何かにぬのが{br}かぶさっている。{page}{box:00}{name:02}ジョージ{br}「ぬのの上は{br} ホコリだらけだ。{page}{box:00}{name:02}ジョージ{br}「うごかした{br} あとがない。{page}{box:00}{name:02}ジョージ{br}「つまりアリシアは{br} ここにはいない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112168",
+  "slots": [
+   "3C83C",
+   "3C860",
+   "3C884"
+  ],
+  "jp": "{box:01}こまかいモノが{br}たくさんある。{page}{box:00}{name:02}ジョージ{br}「ジャマだぞ{br} これ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112194",
+  "slots": [
+   "3C840",
+   "3C864",
+   "3C888"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリシアが{br} 好きそうな絵だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120A68",
+  "slots": [
+   "3C88C",
+   "3C894",
+   "3C8E4",
+   "3C8EC"
+  ],
+  "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120A78",
+  "slots": [
+   "3C890",
+   "3C8A0",
+   "3C8A8",
+   "3C8C0",
+   "3C8E8",
+   "3C8F8",
+   "3C900",
+   "3C918"
+  ],
+  "jp": "{box:01}高そうな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120A8C",
+  "slots": [
+   "3C898",
+   "3C8C8",
+   "3C8D0",
+   "3C8D8",
+   "3C8E0",
+   "3C8F0",
+   "3C920",
+   "3C928",
+   "3C930",
+   "3C938"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ぶきみな{br} あぶら絵だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120AA8",
+  "slots": [
+   "3C89C",
+   "3C8C4",
+   "3C8CC",
+   "3C8D4",
+   "3C8DC",
+   "3C8F4",
+   "3C91C",
+   "3C924",
+   "3C92C",
+   "3C934"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見てるヒマは{br} 無いな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120AC8",
+  "slots": [
+   "3C8A4",
+   "3C8AC",
+   "3C8FC",
+   "3C904"
+  ],
+  "jp": "{box:01}かなり古い{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120ADC",
+  "slots": [
+   "3C8B0",
+   "3C8B8",
+   "3C908",
+   "3C910"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「高そうな{br} あぶら絵だな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120AF8",
+  "slots": [
+   "3C8B4",
+   "3C8BC",
+   "3C90C",
+   "3C914"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「古ぼけた{br} あぶら絵だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1208BC",
+  "slots": [
+   "3C93C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「かべが{br} くずれてるぞ。{page}{box:00}{name:02}ジョージ{br}「何が{br} あったんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1208F0",
+  "slots": [
+   "3C940",
+   "3C950",
+   "3C9A0"
+  ],
+  "jp": "{box:01}とくに目をひく{br}モノはない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120904",
+  "slots": [
+   "3C944",
+   "3C954",
+   "3C964",
+   "3C974",
+   "3C984",
+   "3C994",
+   "3C9A4"
+  ],
+  "jp": "{box:01}カラのカゴが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120918",
+  "slots": [
+   "3C948",
+   "3C958",
+   "3C968",
+   "3C978",
+   "3C988",
+   "3C998",
+   "3C9A8",
+   "3C9C8"
+  ],
+  "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120954",
+  "slots": [
+   "3C94C",
+   "3C95C",
+   "3C96C",
+   "3C97C",
+   "3C98C",
+   "3C99C"
+  ],
+  "jp": "{box:01}かべが少し{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120968",
+  "slots": [
+   "3C960",
+   "3C970",
+   "3C980",
+   "3C990",
+   "3C9D0"
+  ],
+  "jp": "{box:01}こまかい物が{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12097C",
+  "slots": [
+   "3C9AC",
+   "3C9BC",
+   "3C9CC"
+  ],
+  "jp": "{box:01}かべが少し{br}こわれている。{page}{box:00}{name:02}ジョージ{br}「この中に{br} アリシアを…{page}{box:00}{name:02}ジョージ{br}「ぬりこめたりは{br} しないよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1209C4",
+  "slots": [
+   "3C9B0",
+   "3C9C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな所に{br} 何があるんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1209E4",
+  "slots": [
+   "3C9B4",
+   "3C9C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このハコに{br} アリシアは…{page}{box:00}{name:02}ジョージ{br}「…入らないよな{br} …やっぱり」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120A1C",
+  "slots": [
+   "3C9B8"
+  ],
+  "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「さがしものが{br} 見つかる薬は…{page}{box:00}{name:02}ジョージ{br}「…あるか{br} そんなもん！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12092C",
+  "slots": [
+   "3C9D4"
+  ],
+  "jp": "{box:01}ボロボロの{br}ハコがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120940",
+  "slots": [
+   "3C9D8"
+  ],
+  "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100004",
+  "slots": [
+   "3C9DC"
+  ],
+  "jp": "{box:01}かべが少し{br}こわれている。{page}{box:00}{name:02}ジョージ{br}「でかいネズミが{br} くいやぶった…{page}{box:00}{name:02}ジョージ{br}「…まさかな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100044",
+  "slots": [
+   "3C9E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「薬ビンがいろいろ{br} あるな。{page}{box:00}{name:02}ジョージ{br}「でも薬はオレの{br} せんもんがいだぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100080",
+  "slots": [
+   "3C9E4",
+   "3C9F4",
+   "3CA04",
+   "3CA14",
+   "3CA24",
+   "3CA34",
+   "3CA44"
+  ],
+  "jp": "{box:01}ダンボールばこが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100098",
+  "slots": [
+   "3C9E8",
+   "3C9F8",
+   "3CA08",
+   "3CA18",
+   "3CA28",
+   "3CA38",
+   "3CA48"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここにはゴミしか{br} なさそうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100114",
+  "slots": [
+   "3C9EC",
+   "3C9FC",
+   "3CA0C",
+   "3CA1C",
+   "3CA2C",
+   "3CA3C"
+  ],
+  "jp": "{box:01}かべが少し{br}こわれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100128",
+  "slots": [
+   "3C9F0",
+   "3CA00",
+   "3CA10",
+   "3CA20",
+   "3CA30",
+   "3CA40"
+  ],
+  "jp": "{box:01}薬のビンが{br}いろいろある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10013C",
+  "slots": [
+   "3CA4C",
+   "3CA5C"
+  ],
+  "jp": "{box:01}かべが少し{br}こわれている。{page}{box:00}{name:02}ジョージ{br}「このおくに{br} ひみつのつうろ！{page}{box:00}{name:02}ジョージ{br}「…はないみたい{br} だな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100184",
+  "slots": [
+   "3CA50",
+   "3CA60"
+  ],
+  "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「マジでニトロが{br} ほしいぞ。{page}{box:00}{name:02}ジョージ{br}「アリシアさえ{br} 見つかったら…{page}{box:00}{name:02}ジョージ{br}「こんな館{br} ふっとばしてやる」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1001EC",
+  "slots": [
+   "3CA54",
+   "3CA64"
+  ],
+  "jp": "{box:01}かるそうなハコが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100200",
+  "slots": [
+   "3CA58",
+   "3CA68"
+  ],
+  "jp": "{box:01}ごちゃごちゃと{br}物がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1000B4",
+  "slots": [
+   "3CA6C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「かべどころじゃ{br} ない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1000D0",
+  "slots": [
+   "3CA70"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ナゾの薬だ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1000E4",
+  "slots": [
+   "3CA74"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ナゾのハコだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

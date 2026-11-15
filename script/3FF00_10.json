@@ -1,0 +1,673 @@
+[
+ {
+  "id": "123848",
+  "slots": [
+   "41298",
+   "412B4"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「読ませてもらうよ…」{page}{box:01}『エリクシールは{br} HP完全かいふく{page}{box:01}『Nリキッドと{br} アタノールつぼで』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1239B4",
+  "slots": [
+   "412BC"
+  ],
+  "jp": "{box:01}ふようひんが{br}つまれている。{page}{box:00}{name:02}ジョージ{br}「使えそうな物は{br} ないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1239E4",
+  "slots": [
+   "412C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「むこうぎしに{br} ドアが見える！{page}{box:00}{name:02}ジョージ{br}「真ん中のいたが、{br} かいてんすれば、{page}{box:00}{name:02}ジョージ{br}「はしになって、{br} わたれそうだな…{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} あれをうごかす{page}{box:00}{name:02}ジョージ{br}「何かがあるハズだ！{br} …さがしてみよう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123A78",
+  "slots": [
+   "412C4"
+  ],
+  "jp": "{box:01}生ぐさいハコが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「あんまりさわり{br} たくないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123AA8",
+  "slots": [
+   "412C8"
+  ],
+  "jp": "{box:01}部屋の真ん中に{br}ほりがある。{page}{box:00}{name:02}ジョージ{br}「真ん中にある{br} あのいたは…？{page}{box:00}{name:02}ジョージ{br}「近よって、{br} 調べてみるか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123AF8",
+  "slots": [
+   "412D0"
+  ],
+  "jp": "{box:01}きたないハコが{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123B0C",
+  "slots": [
+   "412D4"
+  ],
+  "jp": "{box:01}クロゼットの前に{br}何かのたるがある。{page}{box:01}たるがジャマで{br}あけられない。{page}{box:00}{name:02}ジョージ{br}「何か入ってても、{br} この部屋だから…{page}{box:00}{name:02}ジョージ{br}「くさってるか、{br} やなニオイだろう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123B78",
+  "slots": [
+   "412D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「およがずにすんで、{br} よかった…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123B98",
+  "slots": [
+   "412DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あやしい水が{br} よどんでいる…{page}{box:00}{name:02}ジョージ{br}「早くわたって{br} しまおう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123BD0",
+  "slots": [
+   "412E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「はしがかかって{br} いるぞ！{page}{box:00}{name:02}ジョージ{br}「あのスイッチが{br} そうだったのか」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123C08",
+  "slots": [
+   "412E4"
+  ],
+  "jp": "{box:01}くちかけたたるや{br}ハシゴがある。{page}{box:00}{name:02}ジョージ{br}「使えそうな物は{br} なさそうだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123C3C",
+  "slots": [
+   "412E8"
+  ],
+  "jp": "{box:01}しっけでくさった{br}木のハコがある。{page}{box:00}{name:02}ジョージ{br}「ひどいニオイだ…{br} 調べたくないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123C74",
+  "slots": [
+   "412F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「はぐるまが{br} ギッシリだ…{page}{box:00}{name:02}ジョージ{br}「このかべは{br} きかいじかけで{page}{box:00}{name:02}ジョージ{br}「うごくんじゃ{br} ないかな？{page}{box:00}{name:02}ジョージ{br}「館のどこかに{br} これをうごかす{page}{box:00}{name:02}ジョージ{br}「しかけが{br} あるハズだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123CF4",
+  "slots": [
+   "412F4"
+  ],
+  "jp": "{box:01}きんぞくのはこが{br}床に置かれている。{page}{box:01}はこの上には{br}ノートがあった。{page}{box:00}{name:02}ジョージ{br}「すまないが、{br} 読ませてもらうよ」{page}{box:01}『カロルは儀式の{br} さいちゅうに{page}{box:01}『にげだすのでは{br} ないだろうか？{page}{box:01}『あのおびえ方は{br} ただごとではない。{page}{box:01}『メンバーが一人{br} いなくなるだけで、{page}{box:01}『たいへんなことに…{br}   シンファ』{page}{box:00}{name:02}ジョージ{br}「カロルさんのこと{br} が書かれている…{page}{box:00}{name:02}ジョージ{br}「このシンファって、{br} …ゴースト？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123DF0",
+  "slots": [
+   "412F8"
+  ],
+  "jp": "{box:01}何かのポンプ{br}みたいだ。{page}{box:01}使えそうな物は{br}なにもない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123E18",
+  "slots": [
+   "412FC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なぜドアがあんな{br} 場所にあるんだ？{page}{box:00}{name:02}ジョージ{br}「何かヒミツでも{br} あるのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124064",
+  "slots": [
+   "41304"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「かべのはぐるまが{br} うごいたおかげで{page}{box:00}{name:02}ジョージ{br}「ドアに入れる{br} ようになったぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1240A0",
+  "slots": [
+   "41308"
+  ],
+  "jp": "{box:01}きかいのケースが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「へたにさわると{br} 大変だぜ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1240D4",
+  "slots": [
+   "4130C"
+  ],
+  "jp": "{box:01}へんてつもない{br}ポンプらしい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F920",
+  "slots": [
+   "41314"
+  ],
+  "jp": "{box:01}あやしいきかいが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F938",
+  "slots": [
+   "41318"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「スイッチは{br} 見当たらないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F958",
+  "slots": [
+   "4131C"
+  ],
+  "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これがスイッチ{br} なのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F988",
+  "slots": [
+   "41320"
+  ],
+  "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「うごかせないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F9B8",
+  "slots": [
+   "41324"
+  ],
+  "jp": "{box:01}つくえが床に{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F9CC",
+  "slots": [
+   "41328"
+  ],
+  "jp": "{box:01}つくえには{br}何ものっていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F9E0",
+  "slots": [
+   "4132C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こっちがわには{br} 何もないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FA00",
+  "slots": [
+   "41330"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「スイッチなんか{br} ついてないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FA1C",
+  "slots": [
+   "41334"
+  ],
+  "jp": "{box:01}きかいはしずかに{br}うごきつづける。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FA34",
+  "slots": [
+   "41338"
+  ],
+  "jp": "{box:01}きかいが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「あやしいきかいが{br} ならんでるな…{page}{box:00}{name:02}ジョージ{br}「あの、あつい{br} ようがんの部屋に{page}{box:00}{name:02}ジョージ{br}「はしをかける{br} きかいなのかも…？{page}{box:00}{name:02}ジョージ{br}「とにかくきかいを{br} 調べてみよう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122650",
+  "slots": [
+   "41340"
+  ],
+  "jp": "{box:01}あやしいきかいが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122664",
+  "slots": [
+   "41344"
+  ],
+  "jp": "{box:01}ジョージは{br}きかいを調べた。{page}{box:00}{name:02}ジョージ{br}「スイッチとかは{br} ないみたいだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122694",
+  "slots": [
+   "41348"
+  ],
+  "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これであの部屋が{br} うごくのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1226C8",
+  "slots": [
+   "4134C"
+  ],
+  "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「レバーはもう{br} うごかせないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1226FC",
+  "slots": [
+   "41350"
+  ],
+  "jp": "{box:01}つくえが床に{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122710",
+  "slots": [
+   "41354"
+  ],
+  "jp": "{box:01}つくえの上に{br}ラクガキがあった。{page}{box:01}『いちばんつよい{br} ゴーストのワナは、{page}{box:01}『赤のランプだ』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12275C",
+  "slots": [
+   "41358"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「そくめんには{br} 何もないや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12277C",
+  "slots": [
+   "4135C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これにはボタンも{br} ついてないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12279C",
+  "slots": [
+   "41360"
+  ],
+  "jp": "{box:01}きかいはうなりを{br}立てている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1227B0",
+  "slots": [
+   "41364"
+  ],
+  "jp": "{box:01}あやしいきかいが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「このきかいで、{br} レール部屋を{page}{box:00}{name:02}ジョージ{br}「うごかしていたん{br} じゃないか？」{page}{box:00}{name:02}ジョージ{br}「きかいをチェック{br} してみるか」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123E54",
+  "slots": [
+   "4136C"
+  ],
+  "jp": "{box:01}ナゾのきかいが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123E68",
+  "slots": [
+   "41370"
+  ],
+  "jp": "{box:01}ジョージは{br}きかいを調べた。{page}{box:00}{name:02}ジョージ{br}「何のきかいだ？{br} スイッチすらない…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123E9C",
+  "slots": [
+   "41374"
+  ],
+  "jp": "{box:01}ジョージは{br}レバーをたおした。{page}{box:00}{name:02}ジョージ{br}「これでかべが{br} かいてんするのか？{page}{box:00}{name:02}ジョージ{br}「ぎゃくに回って{br} たらイヤだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123EEC",
+  "slots": [
+   "41378"
+  ],
+  "jp": "{box:01}スイッチレバーは{br}ロックされている。{page}{box:00}{name:02}ジョージ{br}「もうレバーは{br} うごかせないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123F24",
+  "slots": [
+   "4137C"
+  ],
+  "jp": "{box:01}よこになった{br}つくえがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123F38",
+  "slots": [
+   "41380"
+  ],
+  "jp": "{box:01}つくえの上に{br}ラクガキがあった。{page}{box:01}『そうびでオススメ{br} なのは…{page}{box:01}『聖者の石！これは{br} エリクシールに…』{page}{box:01}その先はかすれて{br}読めなかった。{page}{box:00}{name:02}ジョージ{br}「ううむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123FA4",
+  "slots": [
+   "41384"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「きかいのよこには{br} 何にもないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123FC4",
+  "slots": [
+   "41388"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「メーターとか{br} ボタンがないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123FE4",
+  "slots": [
+   "4138C"
+  ],
+  "jp": "{box:01}きかいはこまかく{br}しんどうしている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123FFC",
+  "slots": [
+   "41390"
+  ],
+  "jp": "{box:01}ナゾのきかいが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「もしかして、{br} さっきの部屋、{page}{box:00}{name:02}ジョージ{br}「これでかべを{br} 回してたのかな？{page}{box:00}{name:02}ジョージ{br}「とりあえず{br} 調べてみよう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE34",
+  "slots": [
+   "41398"
+  ],
+  "jp": "{box:01}つぼが高く{br}かかげられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE48",
+  "slots": [
+   "4139C"
+  ],
+  "jp": "{box:01}だいざには{br}何ものっていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE5C",
+  "slots": [
+   "413A0"
+  ],
+  "jp": "{box:01}びじゅつひんを{br}のせるだいざだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE70",
+  "slots": [
+   "413A4"
+  ],
+  "jp": "{box:01}ちょうこくが{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE84",
+  "slots": [
+   "413A8"
+  ],
+  "jp": "{box:01}小さい絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FE98",
+  "slots": [
+   "413AC"
+  ],
+  "jp": "{box:01}大きい絵に{br}メモがあった。{page}{box:01}『1   2{br}   3 』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FEBC",
+  "slots": [
+   "413B0"
+  ],
+  "jp": "{box:01}床にスイッチが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ふむとONになる{br} みたいだけど…{page}{box:00}{name:02}ジョージ{br}「どのじゅんばんで{br} ふめばいいのかな？{page}{box:00}{name:02}ジョージ{br}「とりあえず{br} やってみよう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FF24",
+  "slots": [
+   "413B4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これじゃあ{br} なかったのか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10FF40",
+  "slots": [
+   "413B8"
+  ],
+  "jp": "{box:01}床のスイッチが{br}ONになった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123418",
+  "slots": [
+   "413C0"
+  ],
+  "jp": "{box:01}スタンドライトが{br}かかげられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123430",
+  "slots": [
+   "413C4"
+  ],
+  "jp": "{box:01}だいざの上には{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123444",
+  "slots": [
+   "413C8"
+  ],
+  "jp": "{box:01}せの高い{br}だいざがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123458",
+  "slots": [
+   "413CC"
+  ],
+  "jp": "{box:01}だいざが床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12346C",
+  "slots": [
+   "413D0"
+  ],
+  "jp": "{box:01}小さい絵が{br}かざってある。{page}{box:01}絵のよこに{br}ラクガキがある。{page}{box:01}『じごくのクチには{br} ふみつけるべし{page}{box:01}『さすればクチも{br} とじるだろう』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1234CC",
+  "slots": [
+   "413D4"
+  ],
+  "jp": "{box:01}大きい絵には{br}メモがあった。{page}{box:01}『 ？   ？{br}   1 』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1234F4",
+  "slots": [
+   "413D8"
+  ],
+  "jp": "{box:01}床にスイッチが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「じゅんばんに{br} ふむスイッチだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123524",
+  "slots": [
+   "413DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「おっと、これじゃ{br} ダメなのか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123544",
+  "slots": [
+   "413E0"
+  ],
+  "jp": "{box:01}床のスイッチが{br}ONになった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

@@ -1,0 +1,1021 @@
+[
+ {
+  "id": "114840",
+  "slots": [
+   "3F144"
+  ],
+  "jp": "{box:01}たるの中は{br}カラッポのようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114858",
+  "slots": [
+   "3F148"
+  ],
+  "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11486C",
+  "slots": [
+   "3F14C",
+   "3F16C"
+  ],
+  "jp": "{box:01}木ばこなどが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114880",
+  "slots": [
+   "3F150",
+   "3F170"
+  ],
+  "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114894",
+  "slots": [
+   "3F154",
+   "3F174"
+  ],
+  "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1148A4",
+  "slots": [
+   "3F158",
+   "3F178"
+  ],
+  "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1148CC",
+  "slots": [
+   "3F164"
+  ],
+  "jp": "{box:01}何が入っていた{br}たるだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1148E4",
+  "slots": [
+   "3F168"
+  ],
+  "jp": "{box:01}たるからワインの{br}ニオイがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1148FC",
+  "slots": [
+   "3F184"
+  ],
+  "jp": "{box:01}このたるはもう{br}使われない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114914",
+  "slots": [
+   "3F188"
+  ],
+  "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11492C",
+  "slots": [
+   "3F18C",
+   "3F1AC"
+  ],
+  "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114940",
+  "slots": [
+   "3F190",
+   "3F1B0"
+  ],
+  "jp": "{box:01}これはガラクタの{br}やまのようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114958",
+  "slots": [
+   "3F194",
+   "3F1B4"
+  ],
+  "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11496C",
+  "slots": [
+   "3F198",
+   "3F1B8"
+  ],
+  "jp": "{box:01}物置のとびらは{br}ひらかなかった。{page}{box:01}あきらめた方が{br}よさそうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114994",
+  "slots": [
+   "3F1A4"
+  ],
+  "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1149A8",
+  "slots": [
+   "3F1A8"
+  ],
+  "jp": "{box:01}あながあいた{br}たるだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1145FC",
+  "slots": [
+   "3F1C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114618",
+  "slots": [
+   "3F1C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「たるからカビが{br} 生えている…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114638",
+  "slots": [
+   "3F1CC"
+  ],
+  "jp": "{box:01}館のいらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114650",
+  "slots": [
+   "3F1D0"
+  ],
+  "jp": "{box:01}古びたガラクタ{br}ばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114664",
+  "slots": [
+   "3F1D4"
+  ],
+  "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11467C",
+  "slots": [
+   "3F1D8"
+  ],
+  "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A64",
+  "slots": [
+   "3F1E4"
+  ],
+  "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A7C",
+  "slots": [
+   "3F1E8",
+   "3F208"
+  ],
+  "jp": "{box:01}木ばこなどの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A90",
+  "slots": [
+   "3F1EC",
+   "3F20C"
+  ],
+  "jp": "{box:01}こわれたガラクタ{br}ばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114AA4",
+  "slots": [
+   "3F1F0",
+   "3F210"
+  ],
+  "jp": "{box:01}ガラクタいがいに{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114AB8",
+  "slots": [
+   "3F1F4",
+   "3F214",
+   "3F294"
+  ],
+  "jp": "{box:01}何かをほかん{br}しているようだ。{page}{box:01}ひどいニオイが{br}立ちこめている。{page}{box:01}あけないほうが{br}よさそうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114AF4",
+  "slots": [
+   "3F1F8"
+  ],
+  "jp": "{box:01}たるがつまれて{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B08",
+  "slots": [
+   "3F1FC",
+   "3F21C",
+   "3F23C",
+   "3F25C",
+   "3F27C",
+   "3F29C",
+   "3F2BC",
+   "3F2DC",
+   "3F2FC"
+  ],
+  "jp": "{box:01}カラの木ばこしか{br}ないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B20",
+  "slots": [
+   "3F200",
+   "3F220",
+   "3F240",
+   "3F260",
+   "3F280",
+   "3F2A0",
+   "3F2C0",
+   "3F2E0",
+   "3F300"
+  ],
+  "jp": "{box:01}たなに木ばこが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B38",
+  "slots": [
+   "3F204"
+  ],
+  "jp": "{box:01}大きなたるが{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B4C",
+  "slots": [
+   "3F218"
+  ],
+  "jp": "{box:01}大きなたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B60",
+  "slots": [
+   "3F224"
+  ],
+  "jp": "{box:01}たるの中は{br}ワインだろう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B74",
+  "slots": [
+   "3F228",
+   "3F248"
+  ],
+  "jp": "{box:01}コケむした{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B88",
+  "slots": [
+   "3F22C",
+   "3F24C"
+  ],
+  "jp": "{box:01}ボロボロの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114B9C",
+  "slots": [
+   "3F230",
+   "3F250"
+  ],
+  "jp": "{box:01}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114BA8",
+  "slots": [
+   "3F234",
+   "3F254"
+  ],
+  "jp": "{box:01}とびらの中は{br}物置だ。{page}{box:01}物置の中は{br}カラッポだった…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114BD4",
+  "slots": [
+   "3F238"
+  ],
+  "jp": "{box:01}カビが生えた{br}たるだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114BE4",
+  "slots": [
+   "3F244"
+  ],
+  "jp": "{box:01}ずいぶんと古い{br}たるがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114BF8",
+  "slots": [
+   "3F258"
+  ],
+  "jp": "{box:01}ボロボロのたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C10",
+  "slots": [
+   "3F264"
+  ],
+  "jp": "{box:01}たるの中は{br}カラッポのようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C28",
+  "slots": [
+   "3F268",
+   "3F288"
+  ],
+  "jp": "{box:01}木ばこなどが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C3C",
+  "slots": [
+   "3F26C",
+   "3F28C"
+  ],
+  "jp": "{box:01}こわれた物が{br}つんである。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C50",
+  "slots": [
+   "3F270",
+   "3F290"
+  ],
+  "jp": "{box:01}いらないモノ{br}ばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C60",
+  "slots": [
+   "3F274"
+  ],
+  "jp": "{box:01}クローゼットが{br}ついている。{page}{box:01}しかし、中には{br}何も無かった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C88",
+  "slots": [
+   "3F278"
+  ],
+  "jp": "{box:01}たるには何も{br}入っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114C9C",
+  "slots": [
+   "3F284"
+  ],
+  "jp": "{box:01}何が入っていた{br}たるだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114CB4",
+  "slots": [
+   "3F298"
+  ],
+  "jp": "{box:01}たるからワインの{br}ニオイがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114CCC",
+  "slots": [
+   "3F2A4"
+  ],
+  "jp": "{box:01}このたるはもう{br}使われない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114CE4",
+  "slots": [
+   "3F2A8",
+   "3F2C8"
+  ],
+  "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114CF8",
+  "slots": [
+   "3F2AC",
+   "3F2CC"
+  ],
+  "jp": "{box:01}これはガラクタの{br}やまのようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114D10",
+  "slots": [
+   "3F2B0",
+   "3F2D0"
+  ],
+  "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114D24",
+  "slots": [
+   "3F2B4",
+   "3F2D4"
+  ],
+  "jp": "{box:01}物置のとびらは{br}ひらかなかった。{page}{box:01}あきらめた方が{br}よさそうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114D4C",
+  "slots": [
+   "3F2B8"
+  ],
+  "jp": "{box:01}このたるには{br}何も入っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114D64",
+  "slots": [
+   "3F2C4"
+  ],
+  "jp": "{box:01}こわれたたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114D78",
+  "slots": [
+   "3F2D8"
+  ],
+  "jp": "{box:01}あながあいた{br}たるだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1149B8",
+  "slots": [
+   "3F2E4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ねんきの入った{br} たるだなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1149D4",
+  "slots": [
+   "3F2E8"
+  ],
+  "jp": "{box:01}館のいらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1149EC",
+  "slots": [
+   "3F2EC"
+  ],
+  "jp": "{box:01}古びたガラクタ{br}ばかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A00",
+  "slots": [
+   "3F2F0"
+  ],
+  "jp": "{box:01}ガラクタしか{br}置かれていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A18",
+  "slots": [
+   "3F2F4"
+  ],
+  "jp": "{box:01}かべには{br}クロゼットがある。{page}{box:01}しかし使える物は{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "114A44",
+  "slots": [
+   "3F2F8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「たるからカビが{br} 生えている…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1161F0",
+  "slots": [
+   "3F304"
+  ],
+  "jp": "{box:01}ビデオデッキ{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「これはまだ{br} 使えそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116220",
+  "slots": [
+   "3F308",
+   "3F330",
+   "3F358",
+   "3F380",
+   "3F3A8",
+   "3F3D0",
+   "3F3F8",
+   "3F420"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビデオテープを{br} 見てみよう…」{page}{box:00}{name:02}ジョージ{br}「…おっ！{br} テレビが写った！」{page}{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1162E8",
+  "slots": [
+   "3F30C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このだんろから{br} 出られないかな？{page}{box:00}{name:02}ジョージ{br}「…ダメだ。{page}{box:00}{name:02}ジョージ{br}「えんとつが{br} ふさがれてる…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116334",
+  "slots": [
+   "3F310"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「テレビは{br} 生きてるけど…{page}{box:00}{name:02}ジョージ{br}「アンテナがダメ{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「ビデオなら{br} 写りそうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116384",
+  "slots": [
+   "3F314"
+  ],
+  "jp": "{box:01}ビデオのえいぞう{br}がながれている。{page}{box:00}{name:02}ジョージ{br}「これは…テープを{br} 見つけた部屋だ…」{page}{box:01}人が本だなの所で{br}何かやっている。{page}{box:00}{name:02}ジョージ{br}「…？本だなで{br} 何やってんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！本だなに{br} しかけがあるんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116414",
+  "slots": [
+   "3F318"
+  ],
+  "jp": "{box:01}がくぶちだけが{br}かかっている。{page}{box:00}{name:02}ジョージ{br}「絵は{br} どうしたんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116440",
+  "slots": [
+   "3F31C",
+   "3F344",
+   "3F36C",
+   "3F394",
+   "3F3BC",
+   "3F3E4",
+   "3F40C",
+   "3F434"
+  ],
+  "jp": "{box:01}せの低いたなが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116454",
+  "slots": [
+   "3F320",
+   "3F348",
+   "3F370",
+   "3F398",
+   "3F3C0",
+   "3F3E8",
+   "3F410",
+   "3F438"
+  ],
+  "jp": "{box:01}大きなたなが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116468",
+  "slots": [
+   "3F324",
+   "3F34C",
+   "3F374",
+   "3F39C",
+   "3F3C4",
+   "3F3EC",
+   "3F414",
+   "3F43C"
+  ],
+  "jp": "{box:01}かざりけの多い{br}本だながある。{page}{box:01}オカルトの本が{br}入っている。{page}{box:00}{name:02}ジョージ{br}「お！めずらしく{br} 英語の本だ！{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『やさしい魔道書{br} こども用{page}{box:01}『魔道書はグリモア{br} とよばれます』{page}{box:00}{name:02}ジョージ{br}「知ってるコト{br} ばっかりだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11650C",
+  "slots": [
+   "3F32C"
+  ],
+  "jp": "{box:01}ビデオデッキが{br}ある。{page}{box:00}{name:02}ジョージ{br}「ここにいたヤツも{br} ビデオ見てたんだ。{page}{box:00}{name:02}ジョージ{br}「…なんか{br} ホッとするな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116554",
+  "slots": [
+   "3F334"
+  ],
+  "jp": "{box:01}だんろがある。{page}{box:00}{name:02}ジョージ{br}「えんとつが{br} ふさがってる。{page}{box:00}{name:02}ジョージ{br}「だんろとしては{br} 使えないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116594",
+  "slots": [
+   "3F338"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}なぜか何も{br}写らない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1165B0",
+  "slots": [
+   "3F33C"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}なぜか何も{br}写らない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1165CC",
+  "slots": [
+   "3F340",
+   "3F368",
+   "3F390",
+   "3F3B8"
+  ],
+  "jp": "{box:01}がくぶちだけ{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1165E0",
+  "slots": [
+   "3F354"
+  ],
+  "jp": "{box:01}ビデオデッキが{br}ある。{page}{box:00}{name:02}ジョージ{br}「やっぱり日本の{br} ヤツだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11660C",
+  "slots": [
+   "3F35C",
+   "3F384",
+   "3F3AC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「使えない{br} だんろだ。{page}{box:00}{name:02}ジョージ{br}「えんとつを{br} ふさいである」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116640",
+  "slots": [
+   "3F360",
+   "3F388",
+   "3F3B0",
+   "3F3D8",
+   "3F400",
+   "3F428"
+  ],
+  "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116658",
+  "slots": [
+   "3F364",
+   "3F38C",
+   "3F3B4",
+   "3F3DC",
+   "3F404",
+   "3F42C"
+  ],
+  "jp": "{box:01}何も写らない{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116670",
+  "slots": [
+   "3F37C",
+   "3F3A4"
+  ],
+  "jp": "{box:01}日本せいの{br}ビデオデッキだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116684",
+  "slots": [
+   "3F3CC",
+   "3F3F4",
+   "3F41C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビデオなんか{br} ほっとこう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1166A0",
+  "slots": [
+   "3F3D4",
+   "3F3FC",
+   "3F424"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「えんとつが外に{br} つうじていても…{page}{box:00}{name:02}ジョージ{br}「今にげるわけ{br} にはいかない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116730",
+  "slots": [
+   "3F3E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵に手がかりでも{br} 書いてあるんなら、{page}{box:00}{name:02}ジョージ{br}「いくらでも{br} 見るけど…{page}{box:00}{name:02}ジョージ{br}「イミないから{br} 早く行こう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1167A8",
+  "slots": [
+   "3F408",
+   "3F430"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵なんか見てる{br} ヒマはないぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100F9C",
+  "slots": [
+   "3F444"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このビデオは{br} こわれてるな…」{page}{box:00}{name:02}ジョージ{br}「使えるパーツも{br} なさそうだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100FD8",
+  "slots": [
+   "3F448"
+  ],
+  "jp": "{box:01}やけ残った{br}メモがある。{page}{box:01}『ナイフに霊水で{br} きよめたナイフに{page}{box:01}『きよめたナイフに{br} 黒いランプ。{page}{box:01}『さらにそれを{br} 白のランプに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101040",
+  "slots": [
+   "3F44C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんにも{br} 写らないな…{page}{box:00}{name:02}ジョージ{br}「完全にダメに{br} なってるな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "101078",
+  "slots": [
+   "3F450"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「部屋がくらくて{br} 絵が見づらいな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C3C0",
+  "slots": [
+   "3F454"
+  ],
+  "jp": "{box:01}たなにメモが{br}残されている。{page}{box:00}{name:02}ジョージ{br}「見のがす所{br} だったよ」{page}{box:01}『魔道書ぜんぱんを{br} グリモアとよぶ』{page}{box:00}{name:02}ジョージ{br}「なんだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C418",
+  "slots": [
+   "3F458"
+  ],
+  "jp": "{box:01}たなには何も{br}残っていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C490",
+  "slots": [
+   "3F45C"
+  ],
+  "jp": "{box:01}魔道書がびっしり{br}つまった本だなだ。{page}{box:00}{name:02}ジョージ{br}「たなに1冊ぶんの{br} すきまがあるな…{page}{box:00}{name:02}ジョージ{br}「誰かが本を{br} かりたまま…{page}{box:00}{name:02}ジョージ{br}「元にもどして{br} ないのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C500",
+  "slots": [
+   "3F460"
+  ],
+  "jp": "{box:01}ジョージが本を{br}おさめると、{page}{box:01}どこかでカギの{br}あく音がした。{page}{box:00}{name:02}ジョージ{br}「これで全部、{br} もどったかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

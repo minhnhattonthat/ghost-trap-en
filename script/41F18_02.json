@@ -1,0 +1,352 @@
+[
+ {
+  "id": "105AA8",
+  "slots": [
+   "42300"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「だめだ…{br} あかないな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「みっつの口に{br} キフ…ね…」{page}{box:00}{name:02}ジョージ{br}「ぜんぶのあなに{br} きふワインか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105B18",
+  "slots": [
+   "42304"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？」{page}{box:00}{name:02}ジョージ{br}「魔法のもんしょう{br} みたいだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105B4C",
+  "slots": [
+   "42308"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:00}{name:02}ジョージ{br}「うつるのか？{br} これ・・・」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105B74",
+  "slots": [
+   "4230C"
+  ],
+  "jp": "{box:01}ビデオデッキがある。{page}{box:00}{name:02}ジョージ{br}「まだつかえそうだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105B98",
+  "slots": [
+   "42310"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「お・・・うつった！{page}{box:00}{name:02}ジョージ{br}「これは・・・テープを{br} 見つけたへやだ・・・」{page}{box:01}ビデオにうつった{br}人物は{page}{box:01}本だなの{br}はしのところで{page}{box:01}なにかごそごそ{br}している{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・{br} なにやってんだ？{page}{box:00}{name:02}ジョージ{br}「・・・そうか！{br} 本だなにしかけが！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105C3C",
+  "slots": [
+   "42314"
+  ],
+  "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}一冊手にとって{br}ひらいてみた。{page}{box:00}{name:02}ジョージ{br}「これは・・・{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな・・・」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105CA4",
+  "slots": [
+   "42318"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「んー・・・{br} たしかこのへんに・・・{page}{box:00}{name:02}ジョージ{br}「・・・あった！」{page}{box:01}本のおくになにかの{br}スイッチがあった。{page}{box:01}おしてみると{br}とおくから{page}{box:01}ちいさな音が{br}きこえた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105D0C",
+  "slots": [
+   "4231C"
+  ],
+  "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}一冊手にとって{br}ひらいてみた。{page}{box:00}{name:02}ジョージ{br}「これはイタリア語・・{br} いや、ラテン語か？{page}{box:00}{name:02}ジョージ{br}「・・・読めないことに{br} かわりはないけどな。{page}{box:00}{name:02}ジョージ{br}「でもあちこちに{br} のってる図形は・・{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルトの{br} かんけいだろうな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105DC0",
+  "slots": [
+   "42320"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここにもしかけが{br} あるんじゃないか？{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・{br} おっ、やっぱり！」{page}{box:00}{name:02}ジョージ{br}「これでよし・・・と」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105E14",
+  "slots": [
+   "42324"
+  ],
+  "jp": "{box:01}むずかしそうな本が{br}たくさんならんでいる{page}{box:01}はしの方の一冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは・・・日記？{page}{box:00}{name:02}ジョージ{br}「・・・おおっと、{br} 英語じゃないか！{page}{box:00}{name:02}ジョージ{br}「わるいけど{br} 読ませてもらうよ・・{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・・」{page}{box:01}「ついに儀式の日が{br} 決まった。{page}{box:01}「アリギエリさまの{br} 魔法システムに{page}{box:01}「われらと書の魔力が{br} あわされば、{page}{box:01}「儀式はかならず{br} 成功する！{page}{box:01}「アトラハシスの{br} 長年の目的が、{page}{box:01}「はたされる時が{br} 来たのだ！」{page}{box:00}{name:02}ジョージ{br}「・・・・・・{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わからないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじか・・・」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105F84",
+  "slots": [
+   "42328"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「さて、もしかすると{br} ここにも・・・・・{page}{box:00}{name:02}ジョージ{br}「・・・・・・・・・{br} やっぱりな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105FC4",
+  "slots": [
+   "4232C"
+  ],
+  "jp": "{box:01}だれかの日記がある。{page}{box:01}「ついに儀式の日が{br} 決まった。{page}{box:01}「アリギエリさまの{br} 魔法システムに{page}{box:01}「われらと書の魔力が{br} あわされば、{page}{box:01}「儀式はかならず{br} 成功する！{page}{box:01}「アトラハシスの{br} 長年の目的が、{page}{box:01}「はたされる時が{br} 来たのだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106060",
+  "slots": [
+   "42330"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「立ちされ！{br} 立ちされ！{page}{box:00}{name:05}？？？？{br}「これより先へは{br} 行かせぬぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106098",
+  "slots": [
+   "42334"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「おろかな・・・{page}{box:00}{name:05}？？？？{br}「すすめば{br} きさまらにこそ・・・{page}{box:00}{name:05}？？？？{br}「おおいなる・・・{br} わざわいが・・・」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1060E4",
+  "slots": [
+   "42338"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「おおいなる…{br} わざわい？？？」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106110",
+  "slots": [
+   "4233C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは・・・{br} どこかのカギ？」{page}{box:01}エサギラのカギ{br}を手にいれた！{page}{box:00}{name:02}ジョージ{br}「ん？ この下のは・・{br} 書きかけの手紙？{page}{box:00}{name:02}ジョージ{br}「・・・英語だな。{br} 読んでみるか」{page}{box:01}・・・・・{page}{box:01}「私はおそろしい{page}{box:01}「たしかにだんな様も{br} ほかのかたがたも{page}{box:01}「すばらしい力を{br} おもちだが・・・{page}{box:01}「本当に手に入るの{br} だろうか？{page}{box:01}「永遠の命、などと{br} いうものが・・・」{page}{box:00}{name:02}ジョージ{br}「・・・・・・{br} 永遠の命！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106214",
+  "slots": [
+   "42340"
+  ],
+  "jp": "{box:01}下になにか{br}書いてある。{page}{box:01}「3次元はまやかし{page}{box:01}「2次元こそが{br} まことのすがた{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10624C",
+  "slots": [
+   "42344"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このカオ、写真で{br} 見たことがある。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんだ。{page}{box:00}{name:02}ジョージ{br}「・・・もしかしたら{br} あの儀式・・・{page}{box:00}{name:02}ジョージ{br}「ここでやったんじゃ{br} ないのか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1062C0",
+  "slots": [
+   "42348"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは！魔法の{br} もんしょう！？」{page}{box:00}{name:02}ジョージ{br}「じゃあここで{br} 儀式が…？」{page}{box:00}{name:05}？？？？{br}「違うな」{page}{box:00}{name:02}ジョージ{br}「！？{br} 誰だ！」{page}{box:00}{name:05}？？？？{br}「うぬこそ{br} なにものよ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106338",
+  "slots": [
+   "4234C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:05}？？？？{br}「何をどこまで{br} 知っておる？」{page}{box:00}{name:05}？？？？{br}「何ゆえ、{br} 魔道書を集める？」{page}{box:00}{name:02}ジョージ{br}「あ…お…{br} オ、オレは…」{page}{box:00}{name:05}？？？？{br}「…まあよい」{page}{box:00}{name:05}？？？？{br}「見のがすわけには{br} ゆかぬからな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1063D0",
+  "slots": [
+   "42350"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「おろかしや！{br} おろかしや！」{page}{box:00}{name:05}？？？？{br}「われらの過ちを{br} ときはなつのか？」{page}{box:00}{name:05}？？？？{br}「生と死のはざまを{br} のりこえる事など」{page}{box:00}{name:05}？？？？{br}「人に過ぎぬ者には{br} ゆるされぬ！」{page}{box:00}{name:05}？？？？{br}「むりにこえようと{br} したばかりに…」{page}{box:00}{name:05}？？？？{br}「われらは…{br} この様な…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106484",
+  "slots": [
+   "42354"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「生と死のはざま？{br} のりこえる？」{page}{box:00}{name:02}ジョージ{br}「なんのはなしだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1064B8",
+  "slots": [
+   "42358"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「待って下さい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1065E0",
+  "slots": [
+   "4235C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…今までの{br} もんしょうと…」{page}{box:00}{name:02}ジョージ{br}「ちょっとちがう…{br} …そうか！！」{page}{box:00}{name:02}ジョージ{br}「ここで儀式を{br} やったんだ！」{page}{box:00}{name:05}？？？？{br}「…そのとおり」{page}{box:00}{name:02}ジョージ{br}「誰だ！？」{page}{box:00}{name:05}？？？？{br}「ゴーストでもない{br} ただの人間が…」{page}{box:00}{name:05}？？？？{br}「こんな所まで{br} やって来るとは…」{page}{box:00}{name:05}？？？？{br}「いやはや、{br} おそれいったぞ」{page}{box:00}{name:02}ジョージ{br}「…んじゃあ{br} ごほうびとして…」{page}{box:00}{name:05}？？？？{br}「まぁ、そう{br} あわてるでない」{page}{box:00}{name:05}？？？？{br}「人間よ。今少し、{br} たしかめようぞ！」{page}{box:00}{name:02}ジョージ{br}「アリシアかえして{br} 館から出させろ！」{page}{box:00}{name:05}？？？？{br}「このたたかいを{br} わるく思うな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1065C0",
+  "slots": [
+   "42360"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「いや、おみごと！{br} たいしたもんじゃ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106750",
+  "slots": [
+   "42364"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリギエリ！？{br} …じゃないな。」{page}{box:00}{name:02}ジョージ{br}「何者だ？あんた」{page}{box:00}{name:05}？？？？{br}「このさい、名前は{br} どうでもよかろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1067A8",
+  "slots": [
+   "42368"
+  ],
+  "jp": "{box:01}ニサンの書が{br}光っている！{page}{box:02}ジョージ{br}「な…なんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1067D0",
+  "slots": [
+   "4236C"
+  ],
+  "jp": "{box:01}アイヤルの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「またか！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1067F8",
+  "slots": [
+   "42370"
+  ],
+  "jp": "{box:01}シマヌの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「またかよ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10681C",
+  "slots": [
+   "42374"
+  ],
+  "jp": "{box:01}ドゥウズの書{br}が光っている！{page}{box:00}{name:02}ジョージ{br}「次は何だ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106844",
+  "slots": [
+   "42378"
+  ],
+  "jp": "{box:01}アブの書{br}が光っている！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106858",
+  "slots": [
+   "4237C"
+  ],
+  "jp": "{box:01}ウルルの書{br}が光っている！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106870",
+  "slots": [
+   "42380"
+  ],
+  "jp": "{box:01}テシュリトゥの書{br}が光っている！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "106888",
+  "slots": [
+   "42384"
+  ],
+  "jp": "{box:01}アラフシャムの書{br}が光っている！{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1068A0",
+  "slots": [
+   "42388"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここは…？」{page}{box:00}{name:02}ジョージ{br}「いったい{br} どうなってんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

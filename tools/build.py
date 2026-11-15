@@ -2,8 +2,9 @@
 
     python -X utf8 tools/build.py [--out build/ghost_trap_en.gba]
 
-Steps: check the dump against rom.sha1; unpack the script block (tools/textblock.py); repack it (phase 3: no edits,
-so the output is byte-identical to the dump: tests/test_identity.py); rewrite the text pointers; log every write to
+Steps: check the dump against rom.sha1; unpack the script block (tools/textblock.py); repack it with every non-empty
+`en` from script/ (tools/script.py; none yet, so the output is byte-identical to the dump: tests/test_identity.py);
+rewrite the text pointers; log every write to
 build/writes.log and run romdiff.py over it with tools/allowed_ranges.txt. Exit 1 if any step fails."""
 import argparse
 import hashlib
@@ -15,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import check_rom  # noqa: E402
+import script  # noqa: E402
 import textblock  # noqa: E402
 from tbl import Table  # noqa: E402
 
@@ -37,12 +39,18 @@ class Writer:
         self.log.append(f"{off:X} {old.hex()} {bytes(data).hex()} {who}")
 
 
-def build(orig, texts=None):
-    """Return (rom bytes, write log lines). texts: {string offset: text} overrides (none in phase 3)."""
-    tbl = Table.load(ROOT / "tbl" / "jp.tbl")
+def table(lang):
+    """Encoder for `lang`: tbl/<lang>.tbl once it exists, else tbl/jp.tbl (its A-Z/a-z cells encode plain ASCII)."""
+    p = ROOT / "tbl" / f"{lang}.tbl"
+    return Table.load(p if p.exists() else ROOT / "tbl" / "jp.tbl")
+
+
+def build(orig, texts=None, lang="en"):
+    """Return (rom bytes, write log lines). texts: {string offset: text} overrides (script/ via script.texts)."""
+    jp = Table.load(ROOT / "tbl" / "jp.tbl")
     w = Writer(orig)
-    segs = textblock.unpack(orig, tbl)
-    block, moved = textblock.pack(segs, tbl, texts)
+    segs = textblock.unpack(orig, jp)
+    block, moved = textblock.pack(segs, jp, texts, enc=table(lang))
     span = textblock.TEXT_HI - textblock.TEXT_LO
     if len(block) > span:
         raise SystemExit(f"script block is {len(block)} bytes, {len(block) - span} over its {span}-byte home")
@@ -55,10 +63,13 @@ def build(orig, texts=None):
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--out", type=Path, default=OUT)
+    ap.add_argument("--lang", default="en", help="script/ field to insert (default en)")
     a = ap.parse_args(argv)
     check_rom.check()
     orig = ROM.read_bytes()
-    rom, log = build(orig)
+    over = script.texts(script.load(), a.lang)
+    rom, log = build(orig, over, a.lang)
+    print(f"{len(over)} strings from script/ ({a.lang})")
     a.out.parent.mkdir(parents=True, exist_ok=True)
     a.out.write_bytes(rom)
     wlog = a.out.parent / "writes.log"

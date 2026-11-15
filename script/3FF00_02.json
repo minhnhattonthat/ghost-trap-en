@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "11317C",
+  "slots": [
+   "4025C",
+   "402BC"
+  ],
+  "jp": "{box:01}床にはけしきの{br}あぶら絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113194",
+  "slots": [
+   "40260",
+   "402C0"
+  ],
+  "jp": "{box:01}何かのあぶら絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F4C",
+  "slots": [
+   "402C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「オブジェを見てる{br} ヒマなんかない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F6C",
+  "slots": [
+   "402CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「はちうえを見てる{br} ヒマないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F8C",
+  "slots": [
+   "402D0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見るより{br} 先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112FAC",
+  "slots": [
+   "402D4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見る前に{br} いそがないと！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112FCC",
+  "slots": [
+   "402D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵をながめてる{br} ヒマはないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1131AC",
+  "slots": [
+   "402E0"
+  ],
+  "jp": "{box:01}石こうでできた{br}ちょうこくがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1131C4",
+  "slots": [
+   "402E4"
+  ],
+  "jp": "{box:01}かれたはちうえと{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1131D8",
+  "slots": [
+   "402E8"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1131EC",
+  "slots": [
+   "402EC"
+  ],
+  "jp": "{box:01}むぞうさに絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113204",
+  "slots": [
+   "402F0"
+  ],
+  "jp": "{box:01}フシギな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1132B8",
+  "slots": [
+   "402F8",
+   "40358"
+  ],
+  "jp": "{box:01}白いちょうこくが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1132D0",
+  "slots": [
+   "402FC",
+   "4035C"
+  ],
+  "jp": "{box:01}びじゅつひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1132E4",
+  "slots": [
+   "40300",
+   "40360"
+  ],
+  "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1132F4",
+  "slots": [
+   "40304",
+   "40364"
+  ],
+  "jp": "{box:01}あぶら絵が床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11330C",
+  "slots": [
+   "40308",
+   "40368"
+  ],
+  "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113320",
+  "slots": [
+   "40310",
+   "40370"
+  ],
+  "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113338",
+  "slots": [
+   "40314",
+   "40374"
+  ],
+  "jp": "{box:01}そうしょくひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113350",
+  "slots": [
+   "40318",
+   "40378"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113368",
+  "slots": [
+   "4031C",
+   "4037C"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113380",
+  "slots": [
+   "40320",
+   "40380"
+  ],
+  "jp": "{box:01}何かの絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113394",
+  "slots": [
+   "40328",
+   "40388"
+  ],
+  "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1133AC",
+  "slots": [
+   "4032C",
+   "4038C"
+  ],
+  "jp": "{box:01}そうしょくが床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1133C4",
+  "slots": [
+   "40330",
+   "40390"
+  ],
+  "jp": "{box:01}かなり古い{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1133D8",
+  "slots": [
+   "40334",
+   "40394"
+  ],
+  "jp": "{box:01}床にはきたない{br}絵が置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1133F0",
+  "slots": [
+   "40338",
+   "40398"
+  ],
+  "jp": "{box:01}きみょうな絵が{br}かけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113404",
+  "slots": [
+   "40340",
+   "403A0"
+  ],
+  "jp": "{box:01}白い石こうの{br}オブジェだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113418",
+  "slots": [
+   "40344",
+   "403A4"
+  ],
+  "jp": "{box:01}はちうえと絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113430",
+  "slots": [
+   "40348",
+   "403A8"
+  ],
+  "jp": "{box:01}何かのあぶら絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113448",
+  "slots": [
+   "4034C",
+   "403AC"
+  ],
+  "jp": "{box:01}床にはけしきの{br}あぶら絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113460",
+  "slots": [
+   "40350",
+   "403B0"
+  ],
+  "jp": "{box:01}なかなかみごとな{br}あぶら絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113218",
+  "slots": [
+   "403B8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「オブジェを見てる{br} ヒマなんかない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113238",
+  "slots": [
+   "403BC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「はちうえを見てる{br} ヒマないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113258",
+  "slots": [
+   "403C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵をながめてる{br} ヒマはないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113278",
+  "slots": [
+   "403C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見る前に{br} いそがないと！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113298",
+  "slots": [
+   "403C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見るより{br} 先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1128B8",
+  "slots": [
+   "403D4"
+  ],
+  "jp": "{box:01}女の人のぞうが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1128D0",
+  "slots": [
+   "403D8"
+  ],
+  "jp": "{box:01}つちだけ入った{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1128E4",
+  "slots": [
+   "403DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これはきっと{br} 天国の絵だろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112904",
+  "slots": [
+   "403E0"
+  ],
+  "jp": "{box:01}うまいのかどうか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11298C",
+  "slots": [
+   "403EC"
+  ],
+  "jp": "{box:01}わかい女の人の{br}ぞうがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1129A0",
+  "slots": [
+   "403F0"
+  ],
+  "jp": "{box:01}うえきばちがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1129B0",
+  "slots": [
+   "403F4"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「科学的じゃ{br} ないなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1129E0",
+  "slots": [
+   "403F8"
+  ],
+  "jp": "{box:01}何をかいたのか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1129F8",
+  "slots": [
+   "40404"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「だれのぞう{br} なんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112A14",
+  "slots": [
+   "40408"
+  ],
+  "jp": "{box:01}うえきばちのつちは{br}かわききっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112A2C",
+  "slots": [
+   "4040C"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「きれいすぎて{br} うさんくさいよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112A60",
+  "slots": [
+   "40410"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな絵なら{br} オレでもかけるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112A80",
+  "slots": [
+   "4041C"
+  ],
+  "jp": "{box:01}きれいな女の人の{br}ちょうぞうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112A98",
+  "slots": [
+   "40420"
+  ],
+  "jp": "{box:01}われそうな{br}うえきばちがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112AAC",
+  "slots": [
+   "40424"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「モチーフは{br} ミルトンかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112AE0",
+  "slots": [
+   "40428"
+  ],
+  "jp": "{box:01}きみょうな絵が{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112AF8",
+  "slots": [
+   "40434"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「きれいな{br} ちょうぞうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B14",
+  "slots": [
+   "40438"
+  ],
+  "jp": "{box:01}つちが入った{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B28",
+  "slots": [
+   "4043C"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「リアリティが{br} ないなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B58",
+  "slots": [
+   "40440"
+  ],
+  "jp": "{box:01}どう見ても{br}ナゾの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B6C",
+  "slots": [
+   "4044C"
+  ],
+  "jp": "{box:01}よくできた{br}ちょうぞうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B80",
+  "slots": [
+   "40450"
+  ],
+  "jp": "{box:01}うえきばちが{br}なげすててある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112B94",
+  "slots": [
+   "40454"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「この館には{br} にあわないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112BC4",
+  "slots": [
+   "40458"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ちゅうしょうが{br} …らしい」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112BE0",
+  "slots": [
+   "40464"
+  ],
+  "jp": "{box:01}うすよごれた{br}ぞうがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112BF4",
+  "slots": [
+   "40468"
+  ],
+  "jp": "{box:01}今にもわれそうな{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112C0C",
+  "slots": [
+   "4046C"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「ここにいるのが{br} ケルビムかな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112C40",
+  "slots": [
+   "40470"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ラクガキにしか{br} 見えない絵だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112C60",
+  "slots": [
+   "4047C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このちょうぞう{br} アリシアに…{page}{box:00}{name:02}ジョージ{br}「……{br} にてないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112C94",
+  "slots": [
+   "40480"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このうえきばち{br} からアリシアが！{page}{box:00}{name:02}ジョージ{br}「…出て来るわけ{br} ないだろ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112CD0",
+  "slots": [
+   "40484"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな絵、今は{br} 見たくないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112CF0",
+  "slots": [
+   "40488"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵なんか見てる{br} ばあいじゃない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112D10",
+  "slots": [
+   "40494"
+  ],
+  "jp": "{box:01}ちょうぞうが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「ぞうを回すと{br} かくしとびらが！{page}{box:00}{name:02}ジョージ{br}「……{br} でてこないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112D58",
+  "slots": [
+   "40498"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ただの{br} うえきばちだ。{page}{box:00}{name:02}ジョージ{br}「アリシアとは{br} かんけいない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112D8C",
+  "slots": [
+   "4049C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あかるくて{br} ハラの立つ絵だ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112DAC",
+  "slots": [
+   "404A0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11291C",
+  "slots": [
+   "404AC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112938",
+  "slots": [
+   "404B0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112954",
+  "slots": [
+   "404B4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112970",
+  "slots": [
+   "404B8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113478",
+  "slots": [
+   "404C4"
+  ],
+  "jp": "{box:01}誰かのぞうが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11348C",
+  "slots": [
+   "404C8"
+  ],
+  "jp": "{box:01}からっぽの{br}うえきばちだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1134A0",
+  "slots": [
+   "404CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これはたぶん{br} じごくの絵だな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1134C0",
+  "slots": [
+   "404D0"
+  ],
+  "jp": "{box:01}きれいだけど{br}何かヘンな絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113548",
+  "slots": [
+   "404DC"
+  ],
+  "jp": "{box:01}きずだらけの{br}ぞうがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11355C",
+  "slots": [
+   "404E0"
+  ],
+  "jp": "{box:01}フチのかけた{br}うえきばちがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113570",
+  "slots": [
+   "404E4"
+  ],
+  "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「いったい誰が{br} かいたんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1135A4",
+  "slots": [
+   "404E8"
+  ],
+  "jp": "{box:01}ちゅうしょうがが{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1135B8",
+  "slots": [
+   "404F4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「誰のぞう{br} なんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1135D4",
+  "slots": [
+   "404F8"
+  ],
+  "jp": "{box:01}ヒビの入った{br}うえきばちがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1135EC",
+  "slots": [
+   "404FC"
+  ],
+  "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「きもちわるく{br} なってくるな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11361C",
+  "slots": [
+   "40500"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ちゅうしょうがは{br} よくわからん」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11363C",
+  "slots": [
+   "4050C"
+  ],
+  "jp": "{box:01}少しかけた{br}ちょうぞうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113650",
+  "slots": [
+   "40510"
+  ],
+  "jp": "{box:01}われそうな{br}うえきばちがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113664",
+  "slots": [
+   "40514"
+  ],
+  "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「モチーフは{br} ダンテかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113694",
+  "slots": [
+   "40518"
+  ],
+  "jp": "{box:01}おかしな絵が{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1136A8",
+  "slots": [
+   "40524"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このぞうも{br} ブキミだよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1136C4",
+  "slots": [
+   "40528"
+  ],
+  "jp": "{box:01}うえきばちは{br}からっぽだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1136D8",
+  "slots": [
+   "4052C"
+  ],
+  "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「こんなリアルに{br} かくなよなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11370C",
+  "slots": [
+   "40530"
+  ],
+  "jp": "{box:01}とてもきれいで{br}フシギな絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113720",
+  "slots": [
+   "4053C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アリギエリさんの{br} ちょうぞうかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113744",
+  "slots": [
+   "40540"
+  ],
+  "jp": "{box:01}うえきばちが{br}ほうりだしてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113758",
+  "slots": [
+   "40544"
+  ],
+  "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「このばめんは{br} コキュートスか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

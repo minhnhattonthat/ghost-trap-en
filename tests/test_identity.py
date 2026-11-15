@@ -51,6 +51,10 @@ class TestIdentity(unittest.TestCase):
         segs = textblock.unpack(self.orig, tbl)
         cur = textblock.TEXT_LO
         for kind, off, val in segs:
+            if kind == "str":
+                pad = -cur % 4
+                self.assertEqual(self.orig[cur:cur + pad], bytes(pad))  # implicit alignment padding is zeros
+                cur += pad
             self.assertEqual(off, cur)
             cur += len(val) if kind == "raw" else len(tbl.encode(val))
         self.assertEqual(cur, textblock.TEXT_HI)
@@ -69,8 +73,10 @@ class TestIdentity(unittest.TestCase):
         old = dict((o, v) for k, o, v in segs if k == "str")[first]
         texts = {first: "あ" + old}
         block, moved = textblock.pack(segs, tbl, texts)
-        self.assertEqual(len(block), textblock.TEXT_HI - textblock.TEXT_LO + 1)
+        span = textblock.TEXT_HI - textblock.TEXT_LO
+        self.assertTrue(span < len(block) <= span + 4)  # one byte more, re-aligned to 4
         for target in {t for _, t in textblock.slots(self.orig)}:
+            self.assertEqual(moved[target] % 4, 0)
             got = tbl.decode(block, moved[target] - textblock.TEXT_LO, maxlen=0x8000)[0]
             self.assertEqual(got, texts.get(target, tbl.decode(self.orig, target, maxlen=0x8000)[0]))
 

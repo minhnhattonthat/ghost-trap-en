@@ -1,0 +1,1165 @@
+[
+ {
+  "id": "103894",
+  "slots": [
+   "3E174"
+  ],
+  "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『しっぷ薬を{br} つくるには、{page}{box:01}『ぬり薬とほうたい{br} がひつようだ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1038D0",
+  "slots": [
+   "3E178"
+  ],
+  "jp": "{box:01}ナイフでほられた{br}文字があった。{page}{box:01}『タリスマンという{br} ゴーストぶきは、{page}{box:01}『BOOK1のハコ{br} が出る部屋に…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "103918",
+  "slots": [
+   "3E17C",
+   "3E230"
+  ],
+  "jp": "{box:01}何も入って{br}いなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112444",
+  "slots": [
+   "3E188",
+   "3E23C"
+  ],
+  "jp": "{box:01}バネが出ていて{br}すわれない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120694",
+  "slots": [
+   "3E18C"
+  ],
+  "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{box:00}{name:02}ジョージ{br}「？？？{br} なんだろう？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1206D4",
+  "slots": [
+   "3E190",
+   "3E244"
+  ],
+  "jp": "{box:01}小さなつくえが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112458",
+  "slots": [
+   "3E194",
+   "3E248"
+  ],
+  "jp": "{box:01}よごれただんろの{br}えんとつから、{page}{box:01}ゴーストのこえが{br}きこえた…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1206EC",
+  "slots": [
+   "3E198",
+   "3E24C"
+  ],
+  "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120700",
+  "slots": [
+   "3E19C",
+   "3E250"
+  ],
+  "jp": "{box:01}ひきだしを{br}あけると、{page}{box:01}人のツメが{br}残されていた。{page}{box:00}{name:02}ジョージ{br}「うわっ！{br} なんだコレ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12073C",
+  "slots": [
+   "3E1A0",
+   "3E254"
+  ],
+  "jp": "{box:01}めぼしいモノは{br}なかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120750",
+  "slots": [
+   "3E1AC",
+   "3E260"
+  ],
+  "jp": "{box:01}ホコリのかぶった{br}ソファがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120768",
+  "slots": [
+   "3E1B0",
+   "3E264"
+  ],
+  "jp": "{box:01}チェストは{br}からっぽだった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120E90",
+  "slots": [
+   "3E1B4",
+   "3E268"
+  ],
+  "jp": "{box:01}つくえには何も{br}のっていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120EA4",
+  "slots": [
+   "3E1B8",
+   "3E26C"
+  ],
+  "jp": "{box:01}かみのけやツメを{br}もやしたニオイだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120EBC",
+  "slots": [
+   "3E1BC",
+   "3E270"
+  ],
+  "jp": "{box:01}なにも入って{br}いなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120ED0",
+  "slots": [
+   "3E1C0",
+   "3E274"
+  ],
+  "jp": "{box:01}ひきだしの中に{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120EE8",
+  "slots": [
+   "3E1C4",
+   "3E278"
+  ],
+  "jp": "{box:01}『きさまの命も{br} これまでだ』{page}{box:01}と、書かれた{br}紙きれがあった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120F10",
+  "slots": [
+   "3E1D4"
+  ],
+  "jp": "{box:01}チェストにメモが{br}残されていた。{page}{box:01}『気つけなんこうは{br} のみ薬とぬり薬』{page}{box:00}{name:02}ジョージ{br}「薬のしょほう{br} せんだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120F58",
+  "slots": [
+   "3E1F8"
+  ],
+  "jp": "{box:01}『おまえの命は{br} あとわずか』{page}{box:01}そう、書かれた{br}紙きれがあった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120F84",
+  "slots": [
+   "3E220"
+  ],
+  "jp": "{box:01}つくえにこどもの{br}ラクガキがある。{page}{box:01}『ジョージは{br} もうだめだ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120FAC",
+  "slots": [
+   "3E228"
+  ],
+  "jp": "{box:01}たなにメモが{br}残っている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120FD8",
+  "slots": [
+   "3E22C"
+  ],
+  "jp": "{box:01}ナイフでほられた{br}文字があった。{page}{box:01}『クリスタルという{br} ゴーストぶきは、{page}{box:01}『BOOK5の{br} きいろいつうろに…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121020",
+  "slots": [
+   "3E240"
+  ],
+  "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『アタノールつぼに{br} Nリキッド』{page}{box:00}{name:02}ジョージ{br}「何かのレシピ{br} だな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112480",
+  "slots": [
+   "3E284"
+  ],
+  "jp": "{box:01}からっぽの{br}ひきだしだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112490",
+  "slots": [
+   "3E288"
+  ],
+  "jp": "{box:01}きょうぞうが{br}のっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1124A4",
+  "slots": [
+   "3E28C",
+   "3E2AC",
+   "3E2CC",
+   "3E2EC",
+   "3E30C",
+   "3E32C",
+   "3E34C",
+   "3E36C",
+   "3E38C",
+   "3E3AC"
+  ],
+  "jp": "{box:01}たなには{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1124B4",
+  "slots": [
+   "3E290",
+   "3E2B0",
+   "3E2D0",
+   "3E2F0",
+   "3E310",
+   "3E330",
+   "3E350",
+   "3E370",
+   "3E390",
+   "3E3B0"
+  ],
+  "jp": "{box:01}たなの中に{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1124C8",
+  "slots": [
+   "3E294",
+   "3E2D4"
+  ],
+  "jp": "{box:01}りっぱなだんろだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1124D8",
+  "slots": [
+   "3E298"
+  ],
+  "jp": "{box:01}小さなテーブルが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1124F0",
+  "slots": [
+   "3E29C",
+   "3E2FC"
+  ],
+  "jp": "{box:01}こわれてばねが{br}とび出ている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112504",
+  "slots": [
+   "3E2A0",
+   "3E2C0",
+   "3E2E0",
+   "3E300",
+   "3E320",
+   "3E340",
+   "3E360",
+   "3E380",
+   "3E3A0",
+   "3E3C0"
+  ],
+  "jp": "{box:01}中はからっぽ{br}のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112588",
+  "slots": [
+   "3E2A4"
+  ],
+  "jp": "{box:01}ひきだしには{br}何もなかった…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1125A0",
+  "slots": [
+   "3E2A8"
+  ],
+  "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1125B4",
+  "slots": [
+   "3E2B4"
+  ],
+  "jp": "{box:01}りっぱなだんろが{br}ある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1125C4",
+  "slots": [
+   "3E2B8"
+  ],
+  "jp": "{box:01}かぐがホコリを{br}かぶっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1125D8",
+  "slots": [
+   "3E2BC"
+  ],
+  "jp": "{box:01}こわれたソファが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1125F0",
+  "slots": [
+   "3E2C4"
+  ],
+  "jp": "{box:01}ひきだしの中は{br}からっぽだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112604",
+  "slots": [
+   "3E2C8"
+  ],
+  "jp": "{box:01}ちょうこくが{br}のっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112618",
+  "slots": [
+   "3E2D8"
+  ],
+  "jp": "{box:01}小さなつくえが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11262C",
+  "slots": [
+   "3E2DC"
+  ],
+  "jp": "{box:01}ホコリをすった{br}ソファだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112640",
+  "slots": [
+   "3E2E4"
+  ],
+  "jp": "{box:01}ひきだしには{br}何も入ってない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112658",
+  "slots": [
+   "3E2E8"
+  ],
+  "jp": "{box:01}石こうのぞうが{br}のっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11266C",
+  "slots": [
+   "3E2F4"
+  ],
+  "jp": "{box:01}よごれているが、{br}りっぱなだんろだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112684",
+  "slots": [
+   "3E2F8"
+  ],
+  "jp": "{box:01}ボロボロの小さい{br}テーブルだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11269C",
+  "slots": [
+   "3E304"
+  ],
+  "jp": "{box:01}ひきだしはカラだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1126AC",
+  "slots": [
+   "3E308"
+  ],
+  "jp": "{box:01}白いオブジェが{br}のっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1126C0",
+  "slots": [
+   "3E314"
+  ],
+  "jp": "{box:01}大きなだんろが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1126D8",
+  "slots": [
+   "3E318"
+  ],
+  "jp": "{box:01}小さいテーブルは{br}ボロボロだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1126F0",
+  "slots": [
+   "3E31C"
+  ],
+  "jp": "{box:01}ボロボロの{br}ソファだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112704",
+  "slots": [
+   "3E324"
+  ],
+  "jp": "{box:01}ひきだしにゴミが{br}ギッシリだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112718",
+  "slots": [
+   "3E328"
+  ],
+  "jp": "{box:01}白い石こうの{br}オブジェがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112730",
+  "slots": [
+   "3E334"
+  ],
+  "jp": "{box:01}つめたくなった{br}だんろだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112744",
+  "slots": [
+   "3E338"
+  ],
+  "jp": "{box:01}つくえには{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112758",
+  "slots": [
+   "3E33C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よごれたソファに{br} 用はないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112778",
+  "slots": [
+   "3E344"
+  ],
+  "jp": "{box:01}ひきだしは{br}あきそうにない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11278C",
+  "slots": [
+   "3E348"
+  ],
+  "jp": "{box:01}白いちょうこくが{br}のっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1127A0",
+  "slots": [
+   "3E354"
+  ],
+  "jp": "{box:01}よごれただんろが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1127B8",
+  "slots": [
+   "3E358"
+  ],
+  "jp": "{box:01}ボロボロのかぐが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1127D0",
+  "slots": [
+   "3E35C"
+  ],
+  "jp": "{box:01}かなり古い{br}ソファだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1127E0",
+  "slots": [
+   "3E364"
+  ],
+  "jp": "{box:01}ひきだしの中は{br}ゴミくずだらけだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1127F8",
+  "slots": [
+   "3E368"
+  ],
+  "jp": "{box:01}人のかおの{br}ちょうこくだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11280C",
+  "slots": [
+   "3E374"
+  ],
+  "jp": "{box:01}だんろには何の{br}手がかりもない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112824",
+  "slots": [
+   "3E378"
+  ],
+  "jp": "{box:01}使う者のいない{br}つくえだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112838",
+  "slots": [
+   "3E37C"
+  ],
+  "jp": "{box:01}すわる者もいない{br}古いソファだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112850",
+  "slots": [
+   "3E384"
+  ],
+  "jp": "{box:01}からっぽの{br}ひきだしだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112860",
+  "slots": [
+   "3E388"
+  ],
+  "jp": "{box:01}人のかおの{br}オブジェだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112874",
+  "slots": [
+   "3E394"
+  ],
+  "jp": "{box:01}使う者のいない{br}だんろだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112888",
+  "slots": [
+   "3E398"
+  ],
+  "jp": "{box:01}小さなつくえに{br}むかう者はいない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1128A0",
+  "slots": [
+   "3E39C"
+  ],
+  "jp": "{box:01}わたが出ている{br}古いソファだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112518",
+  "slots": [
+   "3E3A4"
+  ],
+  "jp": "{box:01}ゴミのつまった{br}ひきだしだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11252C",
+  "slots": [
+   "3E3A8"
+  ],
+  "jp": "{box:01}ちょうこくの{br}オブジェだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112540",
+  "slots": [
+   "3E3B4"
+  ],
+  "jp": "{box:01}だんろを使う人は{br}もういない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112558",
+  "slots": [
+   "3E3B8"
+  ],
+  "jp": "{box:01}つくえを使う人は{br}もういない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112570",
+  "slots": [
+   "3E3BC"
+  ],
+  "jp": "{box:01}ソファを使う人は{br}もういない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1003DC",
+  "slots": [
+   "3E3C4"
+  ],
+  "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1003F0",
+  "slots": [
+   "3E3C8",
+   "3E3E4",
+   "3E400",
+   "3E41C",
+   "3E438",
+   "3E454",
+   "3E470",
+   "3E48C",
+   "3E4A8",
+   "3E4C4",
+   "3E4E0"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100408",
+  "slots": [
+   "3E3CC",
+   "3E3E8",
+   "3E404",
+   "3E420",
+   "3E43C",
+   "3E458",
+   "3E474",
+   "3E490",
+   "3E4AC",
+   "3E4C8",
+   "3E4E4"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100420",
+  "slots": [
+   "3E3D0",
+   "3E3EC",
+   "3E408",
+   "3E424",
+   "3E440",
+   "3E45C",
+   "3E478",
+   "3E494",
+   "3E4B0",
+   "3E4CC",
+   "3E4E8"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100438",
+  "slots": [
+   "3E3D4",
+   "3E3F0",
+   "3E40C",
+   "3E428",
+   "3E444",
+   "3E460",
+   "3E47C",
+   "3E498",
+   "3E4B4",
+   "3E4D0",
+   "3E4EC"
+  ],
+  "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100450",
+  "slots": [
+   "3E3D8",
+   "3E3F4",
+   "3E410",
+   "3E42C",
+   "3E448",
+   "3E464",
+   "3E480",
+   "3E49C",
+   "3E4B8",
+   "3E4D4",
+   "3E4F0"
+  ],
+  "jp": "{box:01}たなの中は{br}ホコリまみれだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100464",
+  "slots": [
+   "3E3DC",
+   "3E3F8",
+   "3E414",
+   "3E430",
+   "3E44C",
+   "3E468",
+   "3E484",
+   "3E4A0",
+   "3E4BC",
+   "3E4D8",
+   "3E4F4"
+  ],
+  "jp": "{box:01}ガラクタしか{br}見当たらない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10047C",
+  "slots": [
+   "3E3E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何かがぶつかって{br} くずれたのか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1004BC",
+  "slots": [
+   "3E3FC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1004DC",
+  "slots": [
+   "3E418"
+  ],
+  "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1004F0",
+  "slots": [
+   "3E434"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「はでにこわれて{br} いるなぁ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10050C",
+  "slots": [
+   "3E450"
+  ],
+  "jp": "{box:01}かべの中には{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100520",
+  "slots": [
+   "3E46C"
+  ],
+  "jp": "{box:01}こわれた所が{br}かおに見える…{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100538",
+  "slots": [
+   "3E488"
+  ],
+  "jp": "{box:01}こわれた所には{br}何もなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100550",
+  "slots": [
+   "3E4A4"
+  ],
+  "jp": "{box:01}かべのもろい所が{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100568",
+  "slots": [
+   "3E4C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここには{br} 何も無いな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10049C",
+  "slots": [
+   "3E4DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「そうじがたいへん{br} そうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100584",
+  "slots": [
+   "3E4F8",
+   "3E514",
+   "3E530",
+   "3E54C",
+   "3E568",
+   "3E584",
+   "3E5A0",
+   "3E5BC",
+   "3E5D8",
+   "3E5F4",
+   "3E610"
+  ],
+  "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10059C",
+  "slots": [
+   "3E4FC",
+   "3E518",
+   "3E534",
+   "3E550",
+   "3E56C",
+   "3E588",
+   "3E5A4",
+   "3E5C0",
+   "3E5DC",
+   "3E5F8",
+   "3E614"
+  ],
+  "jp": "{box:01}たなの中は{br}ホコリまみれだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1005B0",
+  "slots": [
+   "3E500",
+   "3E51C",
+   "3E538",
+   "3E554",
+   "3E570",
+   "3E58C",
+   "3E5A8",
+   "3E5C4",
+   "3E5E0",
+   "3E5FC",
+   "3E618"
+  ],
+  "jp": "{box:01}ガラクタしか{br}見当たらない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1005C8",
+  "slots": [
+   "3E504",
+   "3E520",
+   "3E53C",
+   "3E558",
+   "3E574",
+   "3E590",
+   "3E5AC",
+   "3E5C8",
+   "3E5E4",
+   "3E600",
+   "3E61C"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1005E0",
+  "slots": [
+   "3E508",
+   "3E524",
+   "3E540",
+   "3E55C",
+   "3E578",
+   "3E594",
+   "3E5B0",
+   "3E5CC",
+   "3E5E8",
+   "3E604",
+   "3E620"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1005F8",
+  "slots": [
+   "3E50C",
+   "3E528",
+   "3E544",
+   "3E560",
+   "3E57C",
+   "3E598",
+   "3E5B4",
+   "3E5D0",
+   "3E5EC",
+   "3E608",
+   "3E624"
+  ],
+  "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100610",
+  "slots": [
+   "3E510"
+  ],
+  "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100624",
+  "slots": [
+   "3E52C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何かがぶつかって{br} くずれたのか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "100664",
+  "slots": [
+   "3E548"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "1109AC",
+  "slots": [
+   "3C1C4"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「ジョージさん！{br} 館の中で{page}{box:00}{name:04}カロル{br}「ゴーストに{br} であったら、{page}{box:00}{name:04}カロル{br}「まよわずに{br} にげてください。{page}{box:00}{name:04}カロル{br}「ゴーストに{br} つかまって、{page}{box:00}{name:04}カロル{br}「ひょういされて{br} しまうと、{page}{box:00}{name:04}カロル{br}「みうごきが{br} とれなくなって、{page}{box:00}{name:04}カロル{br}「HPをうばわれて{br} しまいますよ…。{page}{box:00}{name:04}カロル{br}「もし、ゴーストに{br} ひょういされたら、{page}{box:00}{name:04}カロル{br}「じゅうじボタンで{br} ふりほどけば、{page}{box:00}{name:04}カロル{br}「ひょういが早く{br} とけますよ。{page}{box:00}{name:04}カロル{br}「気をつけて{br} くださいね…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110AE0",
+  "slots": [
+   "3C1C8"
+  ],
+  "jp": "{box:01}りっぱだが、{br}古い時計だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110AF4",
+  "slots": [
+   "3C1CC"
+  ],
+  "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110B08",
+  "slots": [
+   "3C1D0"
+  ],
+  "jp": "{box:01}そだいゴミか{br}何かだろう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

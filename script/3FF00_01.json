@@ -1,0 +1,850 @@
+[
+ {
+  "id": "11618C",
+  "slots": [
+   "40000"
+  ],
+  "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1161D8",
+  "slots": [
+   "40004"
+  ],
+  "jp": "{box:01}イスなどがザツに{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116064",
+  "slots": [
+   "40008"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116080",
+  "slots": [
+   "4000C"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}こわれている{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125420",
+  "slots": [
+   "40010"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきが{br} 置かれてるな…{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125458",
+  "slots": [
+   "40014"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「本物は{br} はじめてだ！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125574",
+  "slots": [
+   "40018"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「くそっ！{br} ガラスの窓なのに{page}{box:00}{name:02}ジョージ{br}「ビクともしないし、{br} われないなんて！{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ！{br} この館は！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1255CC",
+  "slots": [
+   "4001C",
+   "4004C",
+   "4007C",
+   "400AC",
+   "400DC",
+   "4010C",
+   "4013C",
+   "4016C",
+   "4019C",
+   "401CC"
+  ],
+  "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1255E4",
+  "slots": [
+   "40020",
+   "40050",
+   "40080",
+   "400B0",
+   "400E0",
+   "40110",
+   "40140",
+   "40170",
+   "401A0",
+   "401D0"
+  ],
+  "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1255FC",
+  "slots": [
+   "40024",
+   "40054",
+   "40084",
+   "400B4",
+   "400E4",
+   "40114",
+   "40144",
+   "40174",
+   "401A4",
+   "401D4"
+  ],
+  "jp": "{box:01}ガラクタがあって、{br}歩きづらい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125614",
+  "slots": [
+   "40028"
+  ],
+  "jp": "{box:01}ぼろぼろになった{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12562C",
+  "slots": [
+   "4002C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{page}{box:00}{name:02}ジョージ{br}「アリシアに{br} かてないんだよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125660",
+  "slots": [
+   "40030"
+  ],
+  "jp": "{box:01}かなりくたびれた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125678",
+  "slots": [
+   "40034"
+  ],
+  "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:01}めぼしいモノは{br}ないようだ{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1254AC",
+  "slots": [
+   "4003C",
+   "4006C",
+   "4009C",
+   "400CC",
+   "400FC",
+   "4012C",
+   "4015C",
+   "4018C",
+   "401BC",
+   "401EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、{page}{box:00}{name:02}ジョージ{br}「スタートボタンで{br} ひょうじされる、{page}{box:00}{name:02}ジョージ{br}「ミニマップで{br} かくにんできる。{page}{box:00}{name:02}ジョージ{br}「オレがむいている{br} ほうこうは、{page}{box:00}{name:02}ジョージ{br}「がめんみぎの{br} コンパスに出る…{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104D4C",
+  "slots": [
+   "40040",
+   "40070"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「アンティークな{br} ちくおんきだ」{page}{box:00}{name:02}ジョージ{br}「レコードは{br} ないみたいだ。」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104D84",
+  "slots": [
+   "40044",
+   "40074"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ジュークボックス{br} がある！{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} よかったのにな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104DC0",
+  "slots": [
+   "40048",
+   "40078"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビクともしない{br} ガラス窓だ。{page}{box:00}{name:02}ジョージ{br}「こわすのは{br} あきらめよう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104DF8",
+  "slots": [
+   "40058",
+   "40088"
+  ],
+  "jp": "{box:01}かなり古い{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104E0C",
+  "slots": [
+   "4005C",
+   "4008C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104E2C",
+  "slots": [
+   "40060",
+   "40090"
+  ],
+  "jp": "{box:01}ボロボロの{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104E40",
+  "slots": [
+   "40064"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ゴーストの{br} こうげきは2つ{page}{box:01}『とりついて{br} うごけなくなる{page}{box:01}『ひょういこうげき{br} もうひとつは{page}{box:01}『ぶつりてきな{br} こうげきである』{page}{box:00}{name:02}ジョージ{br}「なるほど…{br} 2つのこうげきか」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1256D0",
+  "slots": [
+   "40094"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『じゅうじボタンで{br} ふりほどくか、{page}{box:01}『エルダーのえだを{br} そうびすべし』{page}{box:00}{name:02}ジョージ{br}「ふむふむ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104EC0",
+  "slots": [
+   "400A0",
+   "400D0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「古い{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「…こわれている{br} みたいだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104EF4",
+  "slots": [
+   "400A4",
+   "400D4"
+  ],
+  "jp": "{box:01}ジュークボックス{br}が置かれている{page}{box:00}{name:02}ジョージ{br}「こわれてる{br} みたいだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104F24",
+  "slots": [
+   "400A8",
+   "400D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なぜかあかないし{br} こわせない窓…{page}{box:00}{name:02}ジョージ{br}「調べても、{br} いみがないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104F60",
+  "slots": [
+   "400B8",
+   "400E8"
+  ],
+  "jp": "{box:01}かなりよごれた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104F74",
+  "slots": [
+   "400BC",
+   "400EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あそんでいる{br} ヒマはないな…{page}{box:00}{name:02}ジョージ{br}「ビリヤードより{br} 出口だよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104FB0",
+  "slots": [
+   "400C0",
+   "400F0"
+  ],
+  "jp": "{box:01}くちかけた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125738",
+  "slots": [
+   "400C4"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモ書きがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『エルダーのえだ{br} よりも{page}{box:01}『ザツなおまもりが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1257A0",
+  "slots": [
+   "400F4"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモを見つけた。{page}{box:01}『エルダーのえだは{br} きよめたナイフで{page}{box:01}『けずることで、{br} ザツなおまもりに』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104FC4",
+  "slots": [
+   "40100",
+   "40130"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ちくおんきに{br} 用はないな…{page}{box:00}{name:02}ジョージ{br}「そもそも{br} こわれてるしね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104FFC",
+  "slots": [
+   "40104",
+   "40134"
+  ],
+  "jp": "{box:01}ジュークボックス{br}が置かれている{page}{box:00}{name:02}ジョージ{br}「こわれてるんじゃ{br} しょうがないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105030",
+  "slots": [
+   "40108",
+   "40138"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あかないし、{br} こわれない…{page}{box:00}{name:02}ジョージ{br}「フシギな窓だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105060",
+  "slots": [
+   "40118",
+   "40148"
+  ],
+  "jp": "{box:01}ビリヤードだいは{br}ボロボロだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105078",
+  "slots": [
+   "4011C",
+   "4014C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これであそんで{br} いた人も、{page}{box:00}{name:02}ジョージ{br}「今はゴーストに{br} なってるのか…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1050B4",
+  "slots": [
+   "40120",
+   "40150"
+  ],
+  "jp": "{box:01}ビリヤードだいが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1257F4",
+  "slots": [
+   "40124"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:01}『ひょういじかんを{br} みじかくするには{page}{box:01}『ザツなおまもり{br} よりも…{page}{box:01}『アミュレットが{br} こうかてきである』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125858",
+  "slots": [
+   "40154"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ、{page}{box:01}『アミュレットが{br} 生まれるだろう』{page}{box:00}{name:02}ジョージ{br}「へえ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1050CC",
+  "slots": [
+   "40160",
+   "40190"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1050E8",
+  "slots": [
+   "40164",
+   "40194"
+  ],
+  "jp": "{box:01}ジュークボックス{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「こわれてるんじゃ{br} しかたないよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10511C",
+  "slots": [
+   "40168",
+   "40198"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あかないし{br} こわれない窓…{page}{box:00}{name:02}ジョージ{br}「これもオカルトの{br} チカラなのか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105158",
+  "slots": [
+   "40178",
+   "401A8"
+  ],
+  "jp": "{box:01}こわれかけた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10516C",
+  "slots": [
+   "4017C",
+   "401AC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…アリシア…{br} 待ってろよ！{page}{box:00}{name:02}ジョージ{br}「かならずたすけて、{br} またビリヤードで{page}{box:00}{name:02}ジョージ{br}「しょうぶしてやる！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1051C0",
+  "slots": [
+   "40180",
+   "401B0"
+  ],
+  "jp": "{box:01}ホコリのつもった{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1258B0",
+  "slots": [
+   "40184"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「わるいが読ませて{br} もらうよ…」{page}{box:01}『ひょういぼうぐの{br} アミュレットから{page}{box:01}『心のおまもりが{br} つくれるだろう』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "125920",
+  "slots": [
+   "401B4"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがのっている。{page}{box:00}{name:02}ジョージ{br}「おっと、見のがす{br} ところだったな」{page}{box:01}『アミュレットに{br} 赤の石を入れろ。{page}{box:01}『心のおまもりが{br} できるであろう』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104C88",
+  "slots": [
+   "401C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こわれた{br} ちくおんきだ{page}{box:00}{name:02}ジョージ{br}「先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104CB4",
+  "slots": [
+   "401C4"
+  ],
+  "jp": "{box:01}ジュークボックス{br}が置かれている。{page}{box:00}{name:02}ジョージ{br}「こわれている物に{br} 用は無いな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104CE8",
+  "slots": [
+   "401C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「窓を見ている{br} ヒマはないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104D08",
+  "slots": [
+   "401D8"
+  ],
+  "jp": "{box:01}古びた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104D1C",
+  "slots": [
+   "401DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「待ってろよ{br} アリシア！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104D38",
+  "slots": [
+   "401E0"
+  ],
+  "jp": "{box:01}くたびれた{br}ビリヤードだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1256A0",
+  "slots": [
+   "401E4"
+  ],
+  "jp": "{box:01}テーブルの上には{br}メモがあった。{page}{box:01}『先をいそげ』{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112EE0",
+  "slots": [
+   "401F0"
+  ],
+  "jp": "{box:01}石こうでできた{br}ちょうこくがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112EF8",
+  "slots": [
+   "401F4"
+  ],
+  "jp": "{box:01}かれたはちうえと{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F0C",
+  "slots": [
+   "401F8"
+  ],
+  "jp": "{box:01}フシギな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F20",
+  "slots": [
+   "401FC"
+  ],
+  "jp": "{box:01}むぞうさに絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112F38",
+  "slots": [
+   "40200"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "112FEC",
+  "slots": [
+   "40208",
+   "40268"
+  ],
+  "jp": "{box:01}白いちょうこくが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113004",
+  "slots": [
+   "4020C",
+   "4026C"
+  ],
+  "jp": "{box:01}びじゅつひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113018",
+  "slots": [
+   "40210",
+   "40270"
+  ],
+  "jp": "{box:01}あぶら絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11302C",
+  "slots": [
+   "40214",
+   "40274"
+  ],
+  "jp": "{box:01}あぶら絵が床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113044",
+  "slots": [
+   "40218",
+   "40278"
+  ],
+  "jp": "{box:01}古びた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113054",
+  "slots": [
+   "40220",
+   "40280"
+  ],
+  "jp": "{box:01}白いオブジェが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11306C",
+  "slots": [
+   "40224",
+   "40284"
+  ],
+  "jp": "{box:01}そうしょくひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113084",
+  "slots": [
+   "40228",
+   "40288"
+  ],
+  "jp": "{box:01}何かの絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113098",
+  "slots": [
+   "4022C",
+   "4028C"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1130B0",
+  "slots": [
+   "40230",
+   "40290"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1130C8",
+  "slots": [
+   "40238",
+   "40298"
+  ],
+  "jp": "{box:01}石こうのぞうが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1130E0",
+  "slots": [
+   "4023C",
+   "4029C"
+  ],
+  "jp": "{box:01}そうしょくが床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1130F8",
+  "slots": [
+   "40240",
+   "402A0"
+  ],
+  "jp": "{box:01}きみょうな絵が{br}かけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11310C",
+  "slots": [
+   "40244",
+   "402A4"
+  ],
+  "jp": "{box:01}床にはきたない{br}絵が置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113124",
+  "slots": [
+   "40248",
+   "402A8"
+  ],
+  "jp": "{box:01}かなり古い{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113138",
+  "slots": [
+   "40250",
+   "402B0"
+  ],
+  "jp": "{box:01}白い石こうの{br}オブジェだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11314C",
+  "slots": [
+   "40254",
+   "402B4"
+  ],
+  "jp": "{box:01}はちうえと絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "113164",
+  "slots": [
+   "40258",
+   "402B8"
+  ],
+  "jp": "{box:01}なかなかみごとな{br}あぶら絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

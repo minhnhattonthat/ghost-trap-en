@@ -1,0 +1,532 @@
+[
+ {
+  "id": "10C564",
+  "slots": [
+   "3FF00"
+  ],
+  "jp": "{box:01}床のもんしょうと{br}同じ絵みたいだ。{page}{box:01}魔法のもんしょう{br}のように見える。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C594",
+  "slots": [
+   "3FF04"
+  ],
+  "jp": "{box:01}しょくだいの{br}あかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C5A4",
+  "slots": [
+   "3FF08"
+  ],
+  "jp": "{box:01}ろうそくの光が{br}ゆらめいている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C5BC",
+  "slots": [
+   "3FF0C"
+  ],
+  "jp": "{box:01}ろうそくの火が{br}もえている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C5D0",
+  "slots": [
+   "3FF10"
+  ],
+  "jp": "{box:01}キャンドルが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C5E4",
+  "slots": [
+   "3FF18"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは！魔法の{br} もんしょう！？{page}{box:00}{name:02}ジョージ{br}「じゃあここで{br} 儀式が…？」{page}{box:00}{name:05}？？？？{br}『違うな』{page}{box:00}{name:02}ジョージ{br}「！？{br} 誰だ！」{page}{box:00}{name:05}？？？？{br}『うぬこそ{br} 何者よ…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C65C",
+  "slots": [
+   "3FF1C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:05}？？？？{br}『何をどこまで{br} 知っておる？{page}{box:00}{name:05}？？？？{br}『何ゆえ、{br} 魔道書を集める？』{page}{box:00}{name:02}ジョージ{br}「あ…お…{br} オ、オレたちは…」{page}{box:00}{name:05}？？？？{br}『…まあよい{page}{box:00}{name:05}？？？？{br}『見のがすわけには{br} ゆかぬからな…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C6F4",
+  "slots": [
+   "3FF20"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}『おろかしや！{br}おろかしや！{page}{box:00}{name:05}？？？？{br}『われらの過ちを{br}ときはなつのか？{page}{box:00}{name:05}？？？？{br}『生と死のはざまを{br}のりこえる事など{page}{box:00}{name:05}？？？？{br}『人に過ぎぬ者には{br}ゆるされぬ！{page}{box:00}{name:05}？？？？{br}『むりにこえようと{br}したばかりに…{page}{box:00}{name:05}？？？？{br}『われらは…{br}この様な…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C79C",
+  "slots": [
+   "3FF24"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「生と死のはざまを{br}のりこえる？{page}{box:00}{name:02}ジョージ{br}「何の話だ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C7CC",
+  "slots": [
+   "3FF28",
+   "3FF50"
+  ],
+  "jp": "{box:01}魔法のもんしょう{br}がかざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C7E4",
+  "slots": [
+   "3FF2C",
+   "3FF54"
+  ],
+  "jp": "{box:01}ろうそくの火が{br}ゆらめいている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C7FC",
+  "slots": [
+   "3FF30",
+   "3FF58"
+  ],
+  "jp": "{box:01}キャンドルから{br}光がこぼれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C814",
+  "slots": [
+   "3FF34",
+   "3FF5C"
+  ],
+  "jp": "{box:01}しょくだいに火が{br}ついている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C828",
+  "slots": [
+   "3FF38",
+   "3FF60"
+  ],
+  "jp": "{box:01}あかりがまわりを{br}てらしている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C83C",
+  "slots": [
+   "3FF3C",
+   "3FF64"
+  ],
+  "jp": "{box:01}絵は、オカルトの{br}シンボルらしい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C858",
+  "slots": [
+   "3FF40",
+   "3FF68"
+  ],
+  "jp": "{box:01}キャンドルの{br}あかりだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C86C",
+  "slots": [
+   "3FF44",
+   "3FF6C"
+  ],
+  "jp": "{box:01}しょくだいの{br}火がまぶしい。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C880",
+  "slots": [
+   "3FF48",
+   "3FF70"
+  ],
+  "jp": "{box:01}あかりが部屋を{br}てらしている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C898",
+  "slots": [
+   "3FF4C",
+   "3FF74"
+  ],
+  "jp": "{box:01}ろうそくが{br}ともっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115748",
+  "slots": [
+   "3FF78"
+  ],
+  "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これは…{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1157A8",
+  "slots": [
+   "3FF7C"
+  ],
+  "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「どこかのカギが{br} 外れたみたいだ！{page}{box:00}{name:02}ジョージ{br}「さっきビデオで{br} 見たとおりだな！{page}{box:00}{name:02}ジョージ{br}「しかし、本だなの{br} うちがわに…{page}{box:00}{name:02}ジョージ{br}「かくしスイッチが{br} あるなんてな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1158EC",
+  "slots": [
+   "3FF80"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「物入れにしちゃ{br} りっぱすぎるな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11590C",
+  "slots": [
+   "3FF84"
+  ],
+  "jp": "{box:01}絵がななめに{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115920",
+  "slots": [
+   "3FF88"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115984",
+  "slots": [
+   "3FF8C"
+  ],
+  "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11599C",
+  "slots": [
+   "3FF90"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1159B8",
+  "slots": [
+   "3FF94"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1159F0",
+  "slots": [
+   "3FF98"
+  ],
+  "jp": "{box:01}おもそうな{br}ベッドだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115A00",
+  "slots": [
+   "3FF9C"
+  ],
+  "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115838",
+  "slots": [
+   "3FFA0"
+  ],
+  "jp": "{box:01}イスなどがザツに{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115850",
+  "slots": [
+   "3FFA4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{box:00}{name:02}ジョージ{br}「…後から館に{br} 入った人のために{page}{box:00}{name:02}ジョージ{br}「メモでも残して{br} おこうかな…」{page}{box:01}『天才ジョージ{br} ここにあり！』{page}{box:00}{name:02}ジョージ{br}「よし！バッチリだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1158D0",
+  "slots": [
+   "3FFA8"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}こわれている{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115A4C",
+  "slots": [
+   "3FFB0"
+  ],
+  "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「ビンゴ！やっぱり{br} ここにもあった！{page}{box:00}{name:02}ジョージ{br}「どこかのカギが{br} 外れたみたいだ{page}{box:00}{name:02}ジョージ{br}「やっぱりここにも{br} しかけがあったな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115AC0",
+  "slots": [
+   "3FFB4"
+  ],
+  "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これはイタリア語…{br} いや、ラテン語か？{page}{box:00}{name:02}ジョージ{br}「…読めない事に{br} かわりはないな…」{page}{box:00}{name:02}ジョージ{br}「でもあちこちに{br} のってる図形は…{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルト{br} かんけいだろうな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115BA8",
+  "slots": [
+   "3FFB8"
+  ],
+  "jp": "{box:01}絵がななめに{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115BBC",
+  "slots": [
+   "3FFBC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115C20",
+  "slots": [
+   "3FFC0"
+  ],
+  "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115C38",
+  "slots": [
+   "3FFC4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115C54",
+  "slots": [
+   "3FFC8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115C8C",
+  "slots": [
+   "3FFCC"
+  ],
+  "jp": "{box:01}おもそうな{br}ベッドだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115C9C",
+  "slots": [
+   "3FFD0"
+  ],
+  "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115CE8",
+  "slots": [
+   "3FFD4"
+  ],
+  "jp": "{box:01}イスなどがザツに{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115B70",
+  "slots": [
+   "3FFD8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115B8C",
+  "slots": [
+   "3FFDC"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}こわれている{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115D00",
+  "slots": [
+   "3FFE0"
+  ],
+  "jp": "{box:01}スイッチをおすと{br}遠くから音がした。{page}{box:00}{name:02}ジョージ{br}「やっぱり天才は{br} 読みを外さないぜ！{page}{box:00}{name:02}ジョージ{br}「これでどこかの{br} カギがあいたな…{page}{box:00}{name:02}ジョージ{br}「…しかしスゴイ{br} 本の数だな…{page}{box:01}本だなには多くの{br}オカルト本がある。{page}{box:01}はしの方の1冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは…日記か？{br} おお！英語だ！{page}{box:00}{name:02}ジョージ{br}「わるいけど、{br} 読ませてもらうよ…」{page}{box:01}『ついに儀式の日が{br} 決まった。{page}{box:01}『アリギエリ様の{br} 魔法システムに{page}{box:01}『われらと魔道書が{br} あわされば、{page}{box:01}『儀式はかならず{br} 成功する！{page}{box:01}『アトラハシスの{br} 長年の目的が、{page}{box:01}『はたされる時が{br} 来たのだ！』{page}{box:00}{name:02}ジョージ{br}「アトラハシス…？{br} 長年の目的？{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わかんないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじか…{page}{box:00}{name:02}ジョージ{br}「やっぱりオカルト{br} かんけいだろうな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115EE8",
+  "slots": [
+   "3FFE4"
+  ],
+  "jp": "{box:01}むずかしそうな本{br}が置かれている。{page}{box:01}はしの方の1冊に{br}目が止まった。{page}{box:00}{name:02}ジョージ{br}「これは…日記か？{br} おお！英語だ！{page}{box:00}{name:02}ジョージ{br}「わるいけど、{br} 読ませてもらうよ…」{page}{box:01}『ついに儀式の日が{br} 決まった。{page}{box:01}『アリギエリ様の{br} 魔法システムに{page}{box:01}『われらと魔道書が{br} あわされば、{page}{box:01}『儀式はかならず{br} 成功する！{page}{box:01}『アトラハシスの{br} 長年の目的が、{page}{box:01}『はたされる時が{br} 来たのだ！』{page}{box:00}{name:02}ジョージ{br}「アトラハシス…？{br} 長年の目的…ねえ…{page}{box:00}{name:02}ジョージ{br}「読めてもイミが{br} わかんないんじゃ、{page}{box:00}{name:02}ジョージ{br}「読めないのと{br} おんなじだよな…{page}{box:00}{name:02}ジョージ{br}「これもオカルト{br} かんけいだろうな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11609C",
+  "slots": [
+   "3FFE8"
+  ],
+  "jp": "{box:01}絵がななめに{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1160B0",
+  "slots": [
+   "3FFEC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116114",
+  "slots": [
+   "3FFF0"
+  ],
+  "jp": "{box:01}シンプルな{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116128",
+  "slots": [
+   "3FFF4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116144",
+  "slots": [
+   "3FFF8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなにおいは{br} しないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11617C",
+  "slots": [
+   "3FFFC"
+  ],
+  "jp": "{box:01}おもそうな{br}ベッドだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

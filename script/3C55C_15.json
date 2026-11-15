@@ -1,0 +1,912 @@
+[
+ {
+  "id": "116EA0",
+  "slots": [
+   "3F8C0",
+   "3F8E0"
+  ],
+  "jp": "{box:01}ゴーストが休む{br}ベッドかも…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116EB8",
+  "slots": [
+   "3F8C4",
+   "3F8E4"
+  ],
+  "jp": "{box:01}どこかのふうけいを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116ED0",
+  "slots": [
+   "3F8C8"
+  ],
+  "jp": "{box:01}こっとうひん{br}クラスのテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116EE8",
+  "slots": [
+   "3F8D0"
+  ],
+  "jp": "{box:01}はくぶつかんに{br}ありそうなテレビ。{page}{box:00}{name:02}ジョージ{br}「ブラウンかんが{br} まるい上に…{page}{box:00}{name:02}ジョージ{br}「リモコンなしで、{br} チャンネルは{page}{box:00}{name:02}ジョージ{br}「回すタイプの{br} モノクロ式！{page}{box:00}{name:02}ジョージ{br}「これでとびらが{br} ついてればなあ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116F78",
+  "slots": [
+   "3F8D4",
+   "3F8F4",
+   "3F914"
+  ],
+  "jp": "{box:01}時計のネジを{br}まく人もいない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116F90",
+  "slots": [
+   "3F8E8"
+  ],
+  "jp": "{box:01}アンティークな{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116FA8",
+  "slots": [
+   "3F8F0"
+  ],
+  "jp": "{box:01}20年いじょう{br}前のテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116FC0",
+  "slots": [
+   "3F8FC",
+   "3F91C"
+  ],
+  "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116FD4",
+  "slots": [
+   "3F900",
+   "3F920"
+  ],
+  "jp": "{box:01}誰がここで{br}ねていたのだろう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116FE8",
+  "slots": [
+   "3F904",
+   "3F924"
+  ],
+  "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116FFC",
+  "slots": [
+   "3F908"
+  ],
+  "jp": "{box:01}ブラウンかんが{br}まるいテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117014",
+  "slots": [
+   "3F910"
+  ],
+  "jp": "{box:01}置き物みたいな{br}レトロなテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116C90",
+  "slots": [
+   "3F928"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「すごく古い{br} テレビだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116CB0",
+  "slots": [
+   "3F930"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「テレビを見てる{br} ヒマなんか無いぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116CD4",
+  "slots": [
+   "3F934"
+  ],
+  "jp": "{box:01}かべには時計が{br}かけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116CE8",
+  "slots": [
+   "3F93C"
+  ],
+  "jp": "{box:01}だれかの私物が{br}ちらばっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D00",
+  "slots": [
+   "3F940"
+  ],
+  "jp": "{box:01}かなりよごれた{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D14",
+  "slots": [
+   "3F944"
+  ],
+  "jp": "{box:01}ぶきみなけしきを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1170CC",
+  "slots": [
+   "3F948",
+   "3F968"
+  ],
+  "jp": "{box:01}ふうけいの絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1170E0",
+  "slots": [
+   "3F94C",
+   "3F96C"
+  ],
+  "jp": "{box:01}ホコリがつもった{br}ベッドだ。{page}{box:01}ここではねむり{br}たくない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117104",
+  "slots": [
+   "3F950"
+  ],
+  "jp": "{box:01}テレビが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117118",
+  "slots": [
+   "3F954",
+   "3F974"
+  ],
+  "jp": "{box:01}人が住んでいた{br}けはいがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117130",
+  "slots": [
+   "3F958"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「今時めずらしい{br} モノクロテレビか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117154",
+  "slots": [
+   "3F95C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何にも{br} 写らないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117170",
+  "slots": [
+   "3F960",
+   "3F980",
+   "3F9A0",
+   "3F9C0",
+   "3F9E0",
+   "3FA00",
+   "3FA20"
+  ],
+  "jp": "{box:01}ひきだしは{br}ひらかない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117180",
+  "slots": [
+   "3F964",
+   "3F984",
+   "3F9A4"
+  ],
+  "jp": "{box:01}かべの時計は{br}止まったままだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117198",
+  "slots": [
+   "3F970"
+  ],
+  "jp": "{box:01}古いタイプの{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1171AC",
+  "slots": [
+   "3F978"
+  ],
+  "jp": "{box:01}ねんだいモノの{br}テレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1171C0",
+  "slots": [
+   "3F97C",
+   "3F9BC",
+   "3F9FC"
+  ],
+  "jp": "{box:01}何も写らない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1171D0",
+  "slots": [
+   "3F988",
+   "3F9A8"
+  ],
+  "jp": "{box:01}どこかのふうけい{br}をえがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1171E8",
+  "slots": [
+   "3F98C",
+   "3F9AC"
+  ],
+  "jp": "{box:01}ゴーストが休む{br}ベッドかも…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117200",
+  "slots": [
+   "3F990"
+  ],
+  "jp": "{box:01}かなり古い{br}テレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117214",
+  "slots": [
+   "3F994",
+   "3F9B4"
+  ],
+  "jp": "{box:01}ひろえる物は{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117228",
+  "slots": [
+   "3F998"
+  ],
+  "jp": "{box:01}リモコンがない{br}タイプのテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117240",
+  "slots": [
+   "3F99C",
+   "3F9DC",
+   "3FA1C"
+  ],
+  "jp": "{box:01}テレビは何も{br}うつさなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117258",
+  "slots": [
+   "3F9B0"
+  ],
+  "jp": "{box:01}はくぶつかんに{br}ありそうなテレビ。{page}{box:00}{name:02}ジョージ{br}「ちゃんと{br} 写るのかな？{page}{box:00}{name:02}ジョージ{br}「あの世とつうしん{br} できたりして…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1172A8",
+  "slots": [
+   "3F9B8"
+  ],
+  "jp": "{box:01}こっとうひん{br}クラスのテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1172C0",
+  "slots": [
+   "3F9C4",
+   "3F9E4",
+   "3FA04"
+  ],
+  "jp": "{box:01}時計のネジを{br}まく人もいない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1172D8",
+  "slots": [
+   "3F9C8",
+   "3F9E8"
+  ],
+  "jp": "{box:01}けしきをえがいた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1172EC",
+  "slots": [
+   "3F9CC",
+   "3F9EC"
+  ],
+  "jp": "{box:01}誰がここで{br}ねていたのだろう。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117300",
+  "slots": [
+   "3F9D0"
+  ],
+  "jp": "{box:01}20年いじょう{br}前のテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117318",
+  "slots": [
+   "3F9D4",
+   "3F9F4"
+  ],
+  "jp": "{box:01}めぼしいモノは{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11732C",
+  "slots": [
+   "3F9D8"
+  ],
+  "jp": "{box:01}アンティークな{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117344",
+  "slots": [
+   "3F9F0"
+  ],
+  "jp": "{box:01}置き物のように{br}レトロなテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117360",
+  "slots": [
+   "3F9F8"
+  ],
+  "jp": "{box:01}ブラウンかんが{br}まるいテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117030",
+  "slots": [
+   "3FA08"
+  ],
+  "jp": "{box:01}ぶきみなけしきを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117048",
+  "slots": [
+   "3FA0C"
+  ],
+  "jp": "{box:01}かなりよごれた{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11705C",
+  "slots": [
+   "3FA10"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「テレビを見てる{br} ヒマなんか無いぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117080",
+  "slots": [
+   "3FA14"
+  ],
+  "jp": "{box:01}だれかの私物が{br}ちらばっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117098",
+  "slots": [
+   "3FA18"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「すごく古い{br} テレビだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1170B8",
+  "slots": [
+   "3FA24"
+  ],
+  "jp": "{box:01}かべには時計が{br}かけてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C448",
+  "slots": [
+   "3FA28"
+  ],
+  "jp": "{box:01}老人の男の{br}絵がかけてある。{page}{box:00}{name:02}ジョージ{br}「このカオ、写真で{br} 見たことがある！{page}{box:00}{name:02}ジョージ{br}「アリギエリさんだ。{page}{box:00}{name:02}ジョージ{br}「…もしかしたら{br} 不老不死の儀式…{page}{box:00}{name:02}ジョージ{br}「ここでやったんじゃ{br} ないのか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C4D4",
+  "slots": [
+   "3FA2C"
+  ],
+  "jp": "{box:01}時計にメモが{br}はられている。{page}{box:01}『3次元は{br} まやかし』{page}{box:01}『2次元こそが{br} まことのすがた。{page}{box:01}『館のしゅじんに{br} 鏡をしめせ』{page}{box:00}{name:02}ジョージ{br}「館のしゅじんって{br} アリギエリさんか…」{page}{box:00}{name:02}ジョージ{br}「アリギエリさんに{br} 鏡…か」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C3B4",
+  "slots": [
+   "3FA30",
+   "3FA40"
+  ],
+  "jp": "{box:01}老人の男の{br}絵がかけてある。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C3E0",
+  "slots": [
+   "3FA34",
+   "3FA3C",
+   "3FA44",
+   "3FA4C"
+  ],
+  "jp": "{box:01}時計にメモが{br}はられている。{page}{box:01}『3次元は{br} まやかし{page}{box:01}『2次元こそが{br} まことのすがた』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C41C",
+  "slots": [
+   "3FA38",
+   "3FA48"
+  ],
+  "jp": "{box:01}アリギエリさんの{br}絵がかけてある。{page}{box:01}絵の男は{br}わらっている…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C338",
+  "slots": [
+   "3FA50"
+  ],
+  "jp": "{box:01}死のつかいの{br}絵がかけてある。{page}{box:01}死のつかいは{br}わらっている…。{page}{box:00}{name:02}ジョージ{br}「…どことなく、{br} かなしそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10C380",
+  "slots": [
+   "3FA54"
+  ],
+  "jp": "{box:01}時計にメモが{br}はられている。{page}{box:00}{name:02}ジョージ{br}「そんなことより{br} いそがないとな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117378",
+  "slots": [
+   "3FA58"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「どう見ても{br} ゴミばこだ。{page}{box:00}{name:02}ジョージ{br}「手がかりは{br} ほしいけど…{page}{box:00}{name:02}ジョージ{br}「これをあさるのは{br} 気がすすまないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1173CC",
+  "slots": [
+   "3FA5C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…{br} ジュークボックス？{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117614",
+  "slots": [
+   "3FA60"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117634",
+  "slots": [
+   "3FA64"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117658",
+  "slots": [
+   "3FA68"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117678",
+  "slots": [
+   "3FA6C",
+   "3FAAC",
+   "3FAEC",
+   "3FB2C",
+   "3FB6C",
+   "3FBAC"
+  ],
+  "jp": "{box:01}まるいテーブルが{br}ある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11768C",
+  "slots": [
+   "3FA70",
+   "3FAB0",
+   "3FAF0",
+   "3FB30",
+   "3FB70",
+   "3FBB0"
+  ],
+  "jp": "{box:01}いわゆるえんたく{br}と、いうヤツだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1176A4",
+  "slots": [
+   "3FA74",
+   "3FAB4",
+   "3FAF4",
+   "3FB34",
+   "3FB74",
+   "3FBB4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「まるいテーブルだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1176BC",
+  "slots": [
+   "3FA78",
+   "3FAB8",
+   "3FAF8",
+   "3FB38",
+   "3FB78",
+   "3FBB8"
+  ],
+  "jp": "{box:01}シンプルな{br}イスがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1176D0",
+  "slots": [
+   "3FA7C",
+   "3FABC",
+   "3FAFC",
+   "3FB3C",
+   "3FB7C",
+   "3FBBC"
+  ],
+  "jp": "{box:01}ルームランプが{br}たおれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117408",
+  "slots": [
+   "3FA80"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117440",
+  "slots": [
+   "3FA84"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「天才のずのうを{br} もってすれば、{page}{box:00}{name:02}ジョージ{br}「カンタンなはず{br} なんだが…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} かった事がない…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1174D0",
+  "slots": [
+   "3FA88"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117508",
+  "slots": [
+   "3FA8C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「天才のずのうを{br} もってすれば、{page}{box:00}{name:02}ジョージ{br}「カンタンなはず{br} なんだが…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} かった事がない…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117598",
+  "slots": [
+   "3FA90",
+   "3FAD0",
+   "3FB10",
+   "3FB50",
+   "3FB90",
+   "3FBD0"
+  ],
+  "jp": "{box:01}イスが{br}ころがっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1175A8",
+  "slots": [
+   "3FA94",
+   "3FB54",
+   "3FB94",
+   "3FBD4"
+  ],
+  "jp": "{box:01}ちくおんきが{br}なげだされている。{page}{box:00}{name:02}ジョージ{br}「アンティークは{br} よくわからないな。{page}{box:00}{name:02}ジョージ{br}「エジソンも{br} スキじゃないし…{page}{box:00}{name:02}ジョージ{br}「それよかやっぱ{br} テスラだよな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1176E8",
+  "slots": [
+   "3FA98",
+   "3FAD8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「どう見ても{br} ゴミばこだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117704",
+  "slots": [
+   "3FA9C"
+  ],
+  "jp": "{box:01}ジュークボックスが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「使えるのか{br} これ…？」{page}{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117904",
+  "slots": [
+   "3FAA0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117924",
+  "slots": [
+   "3FAA4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「レコードがあれば{br} いいんだけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117948",
+  "slots": [
+   "3FAA8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このレコードは{br} いいかんじだな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117754",
+  "slots": [
+   "3FAC0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11778C",
+  "slots": [
+   "3FAC4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} やられっぱなしだ。{page}{box:00}{name:02}ジョージ{br}「天才のオレが{br} かてないなんて…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "117804",
+  "slots": [
+   "3FAC8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードか…{br} あれ？{page}{box:00}{name:02}ジョージ{br}「9ばんボールが{br} 足りないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11783C",
+  "slots": [
+   "3FACC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ビリヤードには{br} いい思い出ないな…{page}{box:00}{name:02}ジョージ{br}「なぜかアリシアに{br} やられっぱなしだ。{page}{box:00}{name:02}ジョージ{br}「天才のオレが{br} かてないなんて…{page}{box:00}{name:02}ジョージ{br}「…先をいそごう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1178B4",
+  "slots": [
+   "3FAD4",
+   "3FB14"
+  ],
+  "jp": "{box:01}ちくおんきが{br}なげ出されている。{page}{box:00}{name:02}ジョージ{br}「もってかえって{br} うりとばしたら、{page}{box:00}{name:02}ジョージ{br}「研究しきんの{br} 足しになるかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "119544",
+  "slots": [
+   "3CF98",
+   "3D098"
+  ],
+  "jp": "{box:01}この館の絵{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119558",
+  "slots": [
+   "3CF9C",
+   "3D09C",
+   "3D19C"
+  ],
+  "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11956C",
+  "slots": [
+   "3CFA0",
+   "3D0A0",
+   "3D1A0"
+  ],
+  "jp": "{box:01}床に絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119580",
+  "slots": [
+   "3CFA4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これはきっと{br} 天国の絵だろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119484",
+  "slots": [
+   "3CFA8",
+   "3D0A8",
+   "3D1A8"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119498",
+  "slots": [
+   "3CFAC",
+   "3D0AC",
+   "3D1AC"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1194AC",
+  "slots": [
+   "3CFB0",
+   "3D0B0",
+   "3D1B0"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1194C0",
+  "slots": [
+   "3CFB4"
+  ],
+  "jp": "{box:01}ドアにはカギが{br}かかっている。{page}{box:00}{name:02}ジョージ{br}「ま、もどる気も{br} ないけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119744",
+  "slots": [
+   "3CFC0",
+   "3D0C0"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119758",
+  "slots": [
+   "3CFC4",
+   "3D0C4"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1197DC",
+  "slots": [
+   "3CFC8",
+   "3D0C8"
+  ],
+  "jp": "{box:01}きょだいな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1197EC",
+  "slots": [
+   "3CFCC",
+   "3D0CC"
+  ],
+  "jp": "{box:01}きょだいな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1197FC",
+  "slots": [
+   "3CFD0",
+   "3D0D0"
+  ],
+  "jp": "{box:01}どこかのふうけい{br}をえがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119814",
+  "slots": [
+   "3CFD4"
+  ],
+  "jp": "{box:01}何をかいたのか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11982C",
+  "slots": [
+   "3CFD8",
+   "3D0D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんの絵だ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119840",
+  "slots": [
+   "3CFDC",
+   "3D0DC"
+  ],
+  "jp": "{box:01}ごうかなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119854",
+  "slots": [
+   "3CFE0",
+   "3D0E0"
+  ],
+  "jp": "{box:01}床にあぶら絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11986C",
+  "slots": [
+   "3CFE4"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「科学的じゃ{br} ないなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11976C",
+  "slots": [
+   "3CFE8",
+   "3D0E8"
+  ],
+  "jp": "{box:01}大きなあぶら絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119784",
+  "slots": [
+   "3CFEC",
+   "3D0EC"
+  ],
+  "jp": "{box:01}館のいらない物が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11979C",
+  "slots": [
+   "3CFF0",
+   "3D0F0"
+  ],
+  "jp": "{box:01}館のいらない物が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1197B4",
+  "slots": [
+   "3CFF4"
+  ],
+  "jp": "{box:01}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「前にすすむしか{br} ないよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11989C",
+  "slots": [
+   "3D000",
+   "3D100"
+  ],
+  "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1198B0",
+  "slots": [
+   "3D004",
+   "3D104"
+  ],
+  "jp": "{box:01}いらない物が{br}つまれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119960",
+  "slots": [
+   "3D008",
+   "3D108"
+  ],
+  "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119974",
+  "slots": [
+   "3D00C",
+   "3D10C"
+  ],
+  "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119988",
+  "slots": [
+   "3D010",
+   "3D110"
+  ],
+  "jp": "{box:01}どこかのけしきを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1199A0",
+  "slots": [
+   "3D014",
+   "3D114"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな絵なら{br} オレでもかけるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1199C0",
+  "slots": [
+   "3D018"
+  ],
+  "jp": "{box:01}このやしきの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1199D4",
+  "slots": [
+   "3D01C",
+   "3D11C"
+  ],
+  "jp": "{box:01}ゴージャスな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1199E8",
+  "slots": [
+   "3D020",
+   "3D120"
+  ],
+  "jp": "{box:01}床に置かれた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1199FC",
+  "slots": [
+   "3D024"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「キレイすぎて{br} うさんくさいよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1198C4",
+  "slots": [
+   "3D028",
+   "3D128"
+  ],
+  "jp": "{box:01}大きなあぶら絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1198DC",
+  "slots": [
+   "3D02C",
+   "3D12C"
+  ],
+  "jp": "{box:01}いろんな物が{br}置かれている。{page}{box:01}めぼしい物は{br}ないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119904",
+  "slots": [
+   "3D030",
+   "3D130"
+  ],
+  "jp": "{box:01}いろんな物が{br}置かれている。{page}{box:01}めぼしい物は{br}ないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11992C",
+  "slots": [
+   "3D034"
+  ],
+  "jp": "{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「天才は後ろを{br} 見ないんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A30",
+  "slots": [
+   "3D040",
+   "3D140"
+  ],
+  "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A44",
+  "slots": [
+   "3D044",
+   "3D144"
+  ],
+  "jp": "{box:01}ふようひんが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119AC0",
+  "slots": [
+   "3D048",
+   "3D148"
+  ],
+  "jp": "{box:01}古びたツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119AD4",
+  "slots": [
+   "3D04C",
+   "3D14C"
+  ],
+  "jp": "{box:01}古びたツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119AE8",
+  "slots": [
+   "3D050",
+   "3D150"
+  ],
+  "jp": "{box:01}どこかの場所{br}をえがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B00",
+  "slots": [
+   "3D054",
+   "3D154"
+  ],
+  "jp": "{box:01}きみょうな絵が{br}かけられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B18",
+  "slots": [
+   "3D058"
+  ],
+  "jp": "{box:01}この館の絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B28",
+  "slots": [
+   "3D05C",
+   "3D15C"
+  ],
+  "jp": "{box:01}大きくてりっぱな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B3C",
+  "slots": [
+   "3D060",
+   "3D160"
+  ],
+  "jp": "{box:01}あぶら絵が床に{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B54",
+  "slots": [
+   "3D064"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「モチーフは{br} ミルトンかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A58",
+  "slots": [
+   "3D068",
+   "3D168"
+  ],
+  "jp": "{box:01}きょだいな{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A6C",
+  "slots": [
+   "3D06C",
+   "3D16C"
+  ],
+  "jp": "{box:01}めぼしい物は{br}ないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A80",
+  "slots": [
+   "3D070",
+   "3D170"
+  ],
+  "jp": "{box:01}めぼしい物は{br}ないようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119A94",
+  "slots": [
+   "3D074"
+  ],
+  "jp": "{box:01}ドアは{br}びくともしない。{page}{box:00}{name:02}ジョージ{br}「ムダなことは{br} やめとこう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119BB0",
+  "slots": [
+   "3D094"
+  ],
+  "jp": "{box:01}どうみても{br}ナゾの絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119BC4",
+  "slots": [
+   "3D0A4"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「リアリティが{br} ないなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119B88",
+  "slots": [
+   "3D0B4"
+  ],
+  "jp": "{box:01}ドアは{br}びくともしない…{page}{box:00}{name:02}ジョージ{br}「いつもの{br} ことだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119C28",
+  "slots": [
+   "3D0D4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「どうでも{br} いいや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119C40",
+  "slots": [
+   "3D0E4"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「この館には{br} にあわないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119BF4",
+  "slots": [
+   "3D0F4"
+  ],
+  "jp": "{box:01}ノブが回るだけで{br}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「だからすすむしか{br} ないんだってば」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119CA0",
+  "slots": [
+   "3D118"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ラクガキにしか{br} 見えない絵だ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119CC0",
+  "slots": [
+   "3D124"
+  ],
+  "jp": "{box:01}天国の絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「ここにいるのが{br} ケルビムかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119C70",
+  "slots": [
+   "3D134"
+  ],
+  "jp": "{box:01}ドアがひらく{br}ようすはない。{page}{box:00}{name:02}ジョージ{br}「いいから出口を{br} さがそう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119D38",
+  "slots": [
+   "3D158"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵なんか見てる{br} ばあいじゃない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119D58",
+  "slots": [
+   "3D164"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんな絵いまは{br} 見たくないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119CF4",
+  "slots": [
+   "3D174"
+  ],
+  "jp": "{box:01}ドアはひらかない。{page}{box:00}{name:02}ジョージ{br}「もどって{br} どうするんだ？」{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} さがさなきゃ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119D98",
+  "slots": [
+   "3D198"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見るような{br} キブンじゃない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119DB8",
+  "slots": [
+   "3D1A4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あかるくて{br} ハラの立つ絵だ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119D78",
+  "slots": [
+   "3D1B4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「後ろを見てる{br} ヒマはないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1195A0",
+  "slots": [
+   "3D1C0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタに{br} 用はない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1195BC",
+  "slots": [
+   "3D1C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタに{br} 用はない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119668",
+  "slots": [
+   "3D1C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ツボなんか{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119684",
+  "slots": [
+   "3D1CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ツボなんか{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1196A0",
+  "slots": [
+   "3D1D0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ふうけいの絵は{br} 今はいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1196C0",
+  "slots": [
+   "3D1D4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「先をいそごう！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1196D8",
+  "slots": [
+   "3D1D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「つまらないモノ{br} かくな！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1196F4",
+  "slots": [
+   "3D1DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「先にすすもう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11970C",
+  "slots": [
+   "3D1E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「出口を{br} さがそう！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119728",
+  "slots": [
+   "3D1E4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こんなモノ{br} どうでもいい！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1195D8",
+  "slots": [
+   "3D1E8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「大きな絵に{br} きょうみは無い」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1195F8",
+  "slots": [
+   "3D1EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「めぼしい物は{br} ないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119614",
+  "slots": [
+   "3D1F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「めぼしい物は{br} ないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119630",
+  "slots": [
+   "3D1F4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「オレは{br} もどらないぞ！{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけるまでは！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119DD8",
+  "slots": [
+   "3D200"
+  ],
+  "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119DEC",
+  "slots": [
+   "3D204"
+  ],
+  "jp": "{box:01}館のガラクタ{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119EA0",
+  "slots": [
+   "3D208"
+  ],
+  "jp": "{box:01}大きなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119EB4",
+  "slots": [
+   "3D20C"
+  ],
+  "jp": "{box:01}大きなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119EC8",
+  "slots": [
+   "3D210"
+  ],
+  "jp": "{box:01}うまいのかどうか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119EE0",
+  "slots": [
+   "3D214"
+  ],
+  "jp": "{box:01}みどりでぬられた{br}絵がある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119EF4",
+  "slots": [
+   "3D218"
+  ],
+  "jp": "{box:01}この館の絵{br}だろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119F08",
+  "slots": [
+   "3D21C"
+  ],
+  "jp": "{box:01}りっぱなツボが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119F1C",
+  "slots": [
+   "3D220"
+  ],
+  "jp": "{box:01}床に絵が{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119F30",
+  "slots": [
+   "3D224"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これはきっと{br} 天国の絵だろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119E00",
+  "slots": [
+   "3D228"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119E14",
+  "slots": [
+   "3D22C"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119E28",
+  "slots": [
+   "3D230"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119E3C",
+  "slots": [
+   "3D234"
+  ],
+  "jp": "{box:01}ドアにはカギが{br}かかっている。{page}{box:00}{name:02}ジョージ{br}「ま、もどる気も{br} ないけどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119E6C",
+  "slots": [
+   "3D23C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？」{page}{box:00}{name:02}ジョージ{br}「さっきと部屋の{br} ふんいきがちがう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119F50",
+  "slots": [
+   "3D240",
+   "3D280"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "119F64",
+  "slots": [
+   "3D244",
+   "3D284"
+  ],
+  "jp": "{box:01}ツボなどの{br}ガラクタがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11A044",
+  "slots": [
+   "3D248",
+   "3D288"
+  ],
+  "jp": "{box:01}きょだいな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11A054",
+  "slots": [
+   "3D24C",
+   "3D28C"
+  ],
+  "jp": "{box:01}きょだいな{br}ツボがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11A064",
+  "slots": [
+   "3D250",
+   "3D290"
+  ],
+  "jp": "{box:01}どこかのふうけい{br}をえがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11A07C",
+  "slots": [
+   "3D254",
+   "3D294"
+  ],
+  "jp": "{box:01}何をかいたのか{br}わからない絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

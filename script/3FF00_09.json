@@ -1,0 +1,518 @@
+[
+ {
+  "id": "122CB8",
+  "slots": [
+   "4118C"
+  ],
+  "jp": "{box:01}大きな絵が{br}かかっている。{page}{box:01}すきまにメモは{br}見あたらない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122CE0",
+  "slots": [
+   "41190"
+  ],
+  "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「部屋のかべ全部が{br} レールにのって、{page}{box:00}{name:02}ジョージ{br}「うごくしかけとは{br} 大がかりだよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122D4C",
+  "slots": [
+   "41194"
+  ],
+  "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「かべがうごいて、{br} さっきのぞうが{page}{box:00}{name:02}ジョージ{br}「部屋のすみに{br} いどうしたんだな」{page}{box:00}{name:02}ジョージ{br}「これでドアが{br} 使えるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122DB4",
+  "slots": [
+   "41198"
+  ],
+  "jp": "{box:01}かべの絵を見て{br}わらっている。{page}{box:00}{name:02}ジョージ{br}「思いすごしかも{br} しれないけど…{page}{box:00}{name:02}ジョージ{br}「絵はどうぞうの{br} おかあさんか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122B88",
+  "slots": [
+   "4119C"
+  ],
+  "jp": "{box:01}部屋のまんなかに{br}ガラクタがある。{page}{box:01}使えそうな物は{br}何もない。{page}{box:00}{name:02}ジョージ{br}「このガラクタ…{br} かべがうごいて{page}{box:00}{name:02}ジョージ{br}「ジャマな場所に{br} 来ちまったな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122E04",
+  "slots": [
+   "411A4",
+   "411D4"
+  ],
+  "jp": "{box:01}小さい絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122E18",
+  "slots": [
+   "411A8",
+   "411D8"
+  ],
+  "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122E7C",
+  "slots": [
+   "411AC",
+   "411DC"
+  ],
+  "jp": "{box:01}床にレールが{br}しかれている。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんは{br} こんなしかけを{page}{box:00}{name:02}ジョージ{br}「何のために使って{br} いたんだろう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122ED0",
+  "slots": [
+   "411B0",
+   "411E0"
+  ],
+  "jp": "{box:01}いろんな人の絵が{br}かざってある。{page}{box:00}{name:02}ジョージ{br}「この中に{br} ゴーストで{page}{box:00}{name:02}ジョージ{br}「見かけた人も{br} いるみたいだな…{page}{box:00}{name:02}ジョージ{br}「この人たちは{br} やっぱり、{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーなんだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122F54",
+  "slots": [
+   "411B4",
+   "411E4"
+  ],
+  "jp": "{box:01}かべにラクガキが{br}あった。{page}{box:00}{name:02}ジョージ{br}「どれどれ…」{page}{box:01}『ゴーストからの{br} ひょうい時間を{page}{box:01}『みじかくするには{br} エルダーのえだ、{page}{box:01}『ザツなおまもり、{br} アミュレット』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122FBC",
+  "slots": [
+   "411B8",
+   "411E8"
+  ],
+  "jp": "{box:01}ななめになった{br}あぶら絵だ。{page}{box:01}かべとのすきまに{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？」{page}{box:01}『ぼうぐにもなる{br} いやくひんは{page}{box:01}『ほうたい、{br} しっぷ薬、{page}{box:01}『気つけなんこう{br} である』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12302C",
+  "slots": [
+   "411BC",
+   "411EC"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1230F8",
+  "slots": [
+   "411C0",
+   "411F0"
+  ],
+  "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「この部屋は{br} ゆうえんちの{page}{box:00}{name:02}ジョージ{br}「アトラクション{br} みたいだよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12315C",
+  "slots": [
+   "411C4",
+   "411F4"
+  ],
+  "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「この手の物に{br} くわしくないから{page}{box:00}{name:02}ジョージ{br}「あんまりよく{br} わかんないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1231AC",
+  "slots": [
+   "411C8",
+   "411F8"
+  ],
+  "jp": "{box:01}かべを見つめる{br}女のこのぞうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "122E2C",
+  "slots": [
+   "411CC",
+   "411FC"
+  ],
+  "jp": "{box:01}ガラクタが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「物はたくさん{br} 置かれているけど、{page}{box:00}{name:02}ジョージ{br}「使える物が{br} 何もないなんて…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B028",
+  "slots": [
+   "41204"
+  ],
+  "jp": "{box:01}小さい絵が{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B12C",
+  "slots": [
+   "41208"
+  ],
+  "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B190",
+  "slots": [
+   "4120C"
+  ],
+  "jp": "{box:01}床にレールが{br}しかれている。{page}{box:00}{name:02}ジョージ{br}「アリギエリさんは{br} こんなしかけを{page}{box:00}{name:02}ジョージ{br}「何のために使って{br} いたんだろう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B1E4",
+  "slots": [
+   "41210"
+  ],
+  "jp": "{box:01}いろんな人の絵が{br}かざってある。{page}{box:00}{name:02}ジョージ{br}「この中に{br} ゴーストで{page}{box:00}{name:02}ジョージ{br}「見かけた人も{br} いるみたいだな…{page}{box:00}{name:02}ジョージ{br}「この人たちは{br} やっぱり、{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーなんだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B268",
+  "slots": [
+   "41214"
+  ],
+  "jp": "{box:01}かべにラクガキが{br}あった。{page}{box:00}{name:02}ジョージ{br}「どれどれ…」{page}{box:01}『部屋のガラクタを{br} さがすべし』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B30C",
+  "slots": [
+   "41218"
+  ],
+  "jp": "{box:01}ななめになった{br}あぶら絵だ。{page}{box:01}かべとのすきまに{br}メモがあった。{page}{box:00}{name:02}ジョージ{br}「なんだろ…？」{page}{box:01}『ぼうぐにもなる{br} いやくひんは{page}{box:01}『ほうたい、{br} しっぷ薬、{page}{box:01}『気つけなんこう{br} である』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B37C",
+  "slots": [
+   "4121C"
+  ],
+  "jp": "{box:01}大きな絵が{br}かざってある。{page}{box:01}かべとのすきまに{br}書き置きがあった。{page}{box:00}{name:02}ジョージ{br}「すまないけど、{br} 読ませてもらうよ…」{page}{box:01}『アリギエリさんや、{br} 仲間のメンバーを{page}{box:01}『うらぎることに{br} なってしまうが、{page}{box:01}『わたしは儀式から{br} にげだすだろう。{page}{box:01}『カロル』{page}{box:00}{name:02}ジョージ{br}「！カロルさんの{br} 書き置きだ…」{page}{box:00}{name:02}ジョージ{br}「…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B448",
+  "slots": [
+   "41220"
+  ],
+  "jp": "{box:01}床にレールが{br}しかれている。{page}{box:01}レールとかべに{br}すきまがある。{page}{box:00}{name:02}ジョージ{br}「この部屋は{br} ゆうえんちの{page}{box:00}{name:02}ジョージ{br}「アトラクション{br} みたいだよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B4AC",
+  "slots": [
+   "41224"
+  ],
+  "jp": "{box:01}部屋のすみに{br}どうぞうがある。{page}{box:00}{name:02}ジョージ{br}「この手の物に{br} くわしくないから{page}{box:00}{name:02}ジョージ{br}「あんまりよく{br} わかんないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B4FC",
+  "slots": [
+   "41228"
+  ],
+  "jp": "{box:01}かべを見つめる{br}女のこのぞうだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B140",
+  "slots": [
+   "4122C"
+  ],
+  "jp": "{box:01}ガラクタが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「物はたくさん{br} 置かれているけど、{page}{box:00}{name:02}ジョージ{br}「使える物が{br} 何もないなんて…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12329C",
+  "slots": [
+   "41234"
+  ],
+  "jp": "{box:01}ドアはかたく{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「カギあなが{br} 見当たらない！」{page}{box:01}ドアに文字が{br}うかんでいる。{page}{box:01}『全てをほろぼせ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1232EC",
+  "slots": [
+   "41238"
+  ],
+  "jp": "{box:01}じゆうのめがみを{br}えがいた絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123304",
+  "slots": [
+   "4123C"
+  ],
+  "jp": "{box:01}あぶら絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123318",
+  "slots": [
+   "41240"
+  ],
+  "jp": "{box:01}みどりの絵が{br}かざられている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12332C",
+  "slots": [
+   "41244"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵をながめてる{br} ヒマなんてない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12334C",
+  "slots": [
+   "41248"
+  ],
+  "jp": "{box:01}女の人の{br}あぶら絵だ。{page}{box:00}{name:02}ジョージ{br}「アリシア！{br} 無事でいてくれよ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123380",
+  "slots": [
+   "4124C"
+  ],
+  "jp": "{box:01}古ぼけた{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123394",
+  "slots": [
+   "41250"
+  ],
+  "jp": "{box:01}女の人の{br}しょうぞうがだ。{page}{box:00}{name:02}ジョージ{br}「この人はもしや、{br} あのゴーストか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1233C8",
+  "slots": [
+   "41254"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「あぶら絵を{br} ぼんやりながめて、{page}{box:00}{name:02}ジョージ{br}「あぶらをうってる{br} ヒマはないぞ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123404",
+  "slots": [
+   "41258"
+  ],
+  "jp": "{box:01}すごいがくぶちの{br}あぶら絵だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12688C",
+  "slots": [
+   "4125C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゆっくりながめる{br} ヒマはないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123558",
+  "slots": [
+   "41264"
+  ],
+  "jp": "{box:01}小さなテーブルが{br}置いてある。{page}{box:00}{name:02}ジョージ{br}「しゃれたスタンド{br} しかないようだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12358C",
+  "slots": [
+   "41268"
+  ],
+  "jp": "{box:01}ならくへつづく{br}おとしあなだ。{page}{box:00}{name:02}ジョージ{br}「うわ！{br} そこが見えない…{page}{box:00}{name:02}ジョージ{br}「おっこちたら{br} じごく行きだ！{page}{box:00}{name:02}ジョージ{br}「あぶないから{br} むちゃできないし…{page}{box:00}{name:02}ジョージ{br}「あなを物で{br} ふさげないし…{page}{box:00}{name:02}ジョージ{br}「どこかにしかけが{br} あるに違いない」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12362C",
+  "slots": [
+   "4126C"
+  ],
+  "jp": "{box:01}からっぽの{br}キャビネットだ。{page}{box:01}その中に書き置き{br}を見つけた。{page}{box:00}{name:02}ジョージ{br}「なんだろう…？」{page}{box:01}『Nリキッドを{br} それぞれのつぼに{page}{box:01}『夜あけのランプ、{br} エリクシール』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123698",
+  "slots": [
+   "41270"
+  ],
+  "jp": "{box:01}しゃれた絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1236AC",
+  "slots": [
+   "41274"
+  ],
+  "jp": "{box:01}かべ時計は{br}うごいていない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1236C0",
+  "slots": [
+   "41278"
+  ],
+  "jp": "{box:01}使えそうな物は{br}とくになかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1236D8",
+  "slots": [
+   "4127C"
+  ],
+  "jp": "{box:01}テーブルの上に{br}メモがある。{page}{box:01}『じごくのクチには{br} ふみつけるべし{page}{box:01}『さすればクチも{br} とじるだろう』{page}{box:00}{name:02}ジョージ{br}「何のことだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "123728",
+  "slots": [
+   "41284",
+   "412A0"
+  ],
+  "jp": "{box:01}小さなテーブルが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「ライトしか{br} のってないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12375C",
+  "slots": [
+   "41288",
+   "412A4"
+  ],
+  "jp": "{box:01}キャビネットが{br}置かれている。{page}{box:01}中にメモが{br}残っていた。{page}{box:01}『夜あけのランプは{br} 全体ダメージ{page}{box:01}『Nリキッドと{br} ガラスのつぼで』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1237C4",
+  "slots": [
+   "4128C",
+   "412A8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ふんいきのある{br} あぶら絵だな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1237E4",
+  "slots": [
+   "41290",
+   "412AC"
+  ],
+  "jp": "{box:01}こわれてしまった{br}ハト時計のようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1237FC",
+  "slots": [
+   "41294",
+   "412B0"
+  ],
+  "jp": "{box:01}テーブルのシミが{br}文字に見える。{page}{box:01}『おまえももうすぐ{br} ゴーストに…』{page}{box:00}{name:02}ジョージ{br}「いかん、つかれて{br} 来たのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "id": "110B1C",
+  "slots": [
+   "3C1D8"
+  ],
+  "jp": "{box:01}やしきのげんかん{br}ドアがある。{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{br} びくともしない！{page}{box:00}{name:02}ジョージ{br}「ここからは外に{br} 出られないな…{page}{box:00}{name:02}ジョージ{br}「館の中に入って{br} 出口をさがそう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110B8C",
+  "slots": [
+   "3C1E4"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「ゴーストなんて{br} 気のせいよ！{page}{box:00}{name:03}アリシア{br}「気のせいに{br} きまってるけど…{page}{box:00}{name:03}アリシア{br}「とにかくゴースト{br} をかわして、{page}{box:00}{name:03}アリシア{br}「にげるのがきほん{br} だからね！そして…{page}{box:00}{name:03}アリシア{br}「まいごにだけは{br} ならないでね！{page}{box:00}{name:03}アリシア{br}「コンパスと{br} ミニマップで{page}{box:00}{name:03}アリシア{br}「チェックすれば{br} ヘイキよね？{page}{box:00}{name:03}アリシア{br}「気をつけてね{br} ジョージ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110C70",
+  "slots": [
+   "3C1E8"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「そうそう！{br} ジョージさん！{page}{box:00}{name:04}カロル{br}「いらない物どうし{br} くみあわせると{page}{box:00}{name:04}カロル{br}「別のアイテムに{br} 成る事もあります。{page}{box:00}{name:04}カロル{br}「スタートボタンの{br} コマンドにある、{page}{box:00}{name:04}カロル{br}「COMBINE{br} コマンドですよ。{page}{box:00}{name:04}カロル{br}「アイテムどうし、{br} がったいできます。{page}{box:00}{name:04}カロル{br}「たとえば、それで{br} ハーブどうしを{page}{box:00}{name:04}カロル{br}「くみあわせて{br} 薬にかえると、{page}{box:00}{name:04}カロル{br}「かいふく度あいも{br} 高まりますよ。{page}{box:00}{name:04}カロル{br}「ほかにも、{br} マッチやナイフ…{page}{box:00}{name:04}カロル{br}「いろいろためして{br} 見てください…。{page}{box:00}{name:04}カロル{br}「こんなアドバイス{br} でしか、{page}{box:00}{name:04}カロル{br}「おやくに立てなくて{br} すみません…{page}{box:00}{name:04}カロル{br}「いい年をして{br} なさけないですよ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110E14",
+  "slots": [
+   "3C1EC"
+  ],
+  "jp": "{box:01}時計は時を{br}きざんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110E28",
+  "slots": [
+   "3C1F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「じゃまなガラクタ{br} だなぁ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110E44",
+  "slots": [
+   "3C1F4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんだろう？{br} このゴミ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110E60",
+  "slots": [
+   "3C1FC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここから{br} 入ってきたのに…{page}{box:00}{name:02}ジョージ{br}「とじこめられる{br} なんて…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111010",
+  "slots": [
+   "3C208"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「もう何がなんだか{br} わからないけど、{page}{box:00}{name:03}アリシア{br}「ワナのセットは{br} 5つまでだし…{page}{box:00}{name:03}アリシア{br}「アイテムが無いと{br} ワナもつくれない…{page}{box:00}{name:03}アリシア{br}「ピンチになったら{br} にげるしかない…{page}{box:00}{name:03}アリシア{br}「とにかく{br} 気をつけてね…{page}{box:00}{name:03}アリシア{br}「…おねがいだから{br} …」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1110C8",
+  "slots": [
+   "3C20C"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「とびらの文字は{br} きっと…{page}{box:00}{name:04}カロル{br}「その本をもって入れば{br} 別の所に行ける、{page}{box:00}{name:04}カロル{br}「…というイミだと{br} 思うんです。{page}{box:00}{name:04}カロル{br}「スタートボタンの{br} コマンドにある、{page}{box:00}{name:04}カロル{br}「BOOKコマンド{br} を使って下さい。{page}{box:00}{name:04}カロル{br}「もっている本が{br} えらべますよ。{page}{box:00}{name:04}カロル{br}「たよりきりで{br} すみませんが…{page}{box:00}{name:04}カロル{br}「よろしく{br} おねがいします」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1111BC",
+  "slots": [
+   "3C210"
+  ],
+  "jp": "{box:01}ゆっくりと時を{br}きざんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1111D0",
+  "slots": [
+   "3C214"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「こいつのせいで、{br} 歩きにくいよ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1111F0",
+  "slots": [
+   "3C218"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタがじゃま{br} なんだよね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111210",
+  "slots": [
+   "3C220"
+  ],
+  "jp": "{box:01}館のげんかん{br}ドアがある。{page}{box:00}{name:02}ジョージ{br}「なぜあかないのか{br} それがナゾだよな…{page}{box:00}{name:02}ジョージ{br}「このやしきのせい{br} なんだろうな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111260",
+  "slots": [
+   "3C22C"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「ここにいると{br} あたしもだんだん…{page}{box:00}{name:03}アリシア{br}「ジョージみたいに{br} なっちゃいそう…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1112A0",
+  "slots": [
+   "3C230"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「くみかわる部屋や{br} ドアの文字も…{page}{box:00}{name:04}カロル{br}「ゴーストのせいと{br} いうよりは…{page}{box:00}{name:04}カロル{br}「オカルトがらみと{br} 考えられますね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111300",
+  "slots": [
+   "3C234"
+  ],
+  "jp": "{box:01}夜の時間に{br}なったようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111314",
+  "slots": [
+   "3C238"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんでこんな物が{br} あるんだろう」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111334",
+  "slots": [
+   "3C23C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何かないかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11134C",
+  "slots": [
+   "3C244"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「げんかんが{br} あかないのも…{page}{box:00}{name:02}ジョージ{br}「オカルトのちから{br} なんだろうな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111388",
+  "slots": [
+   "3C250"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「いい考えがないから{br} だまってるけど、{page}{box:00}{name:03}アリシア{br}「オカルトなんか{br} みとめてないからね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1113CC",
+  "slots": [
+   "3C254"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「ここだけの{br} 話ですが…{page}{box:00}{name:04}カロル{br}「アリシアさんって{br} ガンコですねぇ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111408",
+  "slots": [
+   "3C258"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この時計…{br} オカルトっぽいな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111428",
+  "slots": [
+   "3C25C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタの中に{br} 何かないかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111448",
+  "slots": [
+   "3C260"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゴミをあさっても{br} ゴミばっかだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111468",
+  "slots": [
+   "3C268"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ひらけゴマ！」{page}{box:01}とびらに何も{br}へんかはない。{page}{box:00}{name:02}ジョージ{br}「やっぱりな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1114A0",
+  "slots": [
+   "3C274"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「さっきはあんな事{br} 言ったけど…{page}{box:00}{name:03}アリシア{br}「ほんとにあたしが{br} まきこまれた…{page}{box:00}{name:03}アリシア{br}「なんて{br} 思ってないからさ。{page}{box:00}{name:03}アリシア{br}「早くここから{br} 出ようよ…ね？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111518",
+  "slots": [
+   "3C278"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「いったいどんな{br} 儀式をやれば、{page}{box:00}{name:04}カロル{br}「こんなことに{br} なるんでしょう？{page}{box:00}{name:04}カロル{br}「きょうみが{br} わきますよ…{page}{box:00}{name:04}カロル{br}「いや、もちろん早く{br} 出たいですけどね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111590",
+  "slots": [
+   "3C27C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんだかこわい{br} 時計だな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1115B0",
+  "slots": [
+   "3C280"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタしか{br} ない…か…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1115D0",
+  "slots": [
+   "3C284"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ゴミをあさるとは{br} オレもヒマだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1115F0",
+  "slots": [
+   "3C28C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このそばにドアを{br} ひらくスイッチが{page}{box:00}{name:02}ジョージ{br}「かくされてる…{page}{box:00}{name:02}ジョージ{br}「…わけ、ないよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111638",
+  "slots": [
+   "3C298"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「カロルさんが…{br} …ねぇ…{page}{box:00}{name:03}アリシア{br}「そりゃ、たしかに{br} あたしは…{page}{box:00}{name:03}アリシア{br}「信じなかったかも{br} しれないけどさ、{page}{box:00}{name:03}アリシア{br}「言ってくれたって{br} いいのに…{page}{box:00}{name:03}アリシア{br}「そう思わない？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1116C4",
+  "slots": [
+   "3C29C"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「今までだまって{br} いて、すみません。{page}{box:00}{name:04}カロル{br}「でもここから出たい{br} と思う気もちは…{page}{box:00}{name:04}カロル{br}「お二人と同じです。{page}{box:00}{name:04}カロル{br}「それだけは{br} 信じて下さい」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11173C",
+  "slots": [
+   "3C2A0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もう真夜中に{br} 近いなあ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11175C",
+  "slots": [
+   "3C2A4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「さがしても{br} ガラクタばっかだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11177C",
+  "slots": [
+   "3C2A8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「さがしても{br} ゴミばっかだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111798",
+  "slots": [
+   "3C2B0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「いまいましい{br} げんかんだな…{page}{box:00}{name:02}ジョージ{br}「いつになったら{br} ひらくんだ？{page}{box:00}{name:02}ジョージ{br}「それともやっぱり{br} ほかに出口が…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1117F0",
+  "slots": [
+   "3C2BC"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「なんでもないから{br} 早く行ってよ！{page}{box:00}{name:03}アリシア{br}「でもぜったい{br} もどってきてよね！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111830",
+  "slots": [
+   "3C2C0"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「やはり、私の{br} 仲間はもう…{page}{box:00}{name:04}カロル{br}「………{page}{box:00}{name:04}カロル{br}「私たちは…{br} 私たちはぜったいに、{page}{box:00}{name:04}カロル{br}「生きてここから{br} 出ましょうね！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1118A0",
+  "slots": [
+   "3C2C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「いつのじだいの{br} 物なのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1118C0",
+  "slots": [
+   "3C2C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガラクタばっか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1118D8",
+  "slots": [
+   "3C2CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「そだいゴミ{br} ばっかりだ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1118F4",
+  "slots": [
+   "3C2D4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここから早く{br} にげださないと…{page}{box:00}{name:02}ジョージ{br}「ここでじいさんに{br} なりたくないしな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111934",
+  "slots": [
+   "3C2E4"
+  ],
+  "jp": "{box:00}{name:04}カロル{br}「気をおとさないで{br} ください。{page}{box:00}{name:04}カロル{br}「アリシアさんは、{br} きっと生きてます。{page}{box:00}{name:04}カロル{br}「早くたすけに行って{br} あげてください」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "111994",
+  "slots": [
+   "3C2E8"
+  ],
+  "jp": "{box:01}時計はしずかに{br}時をきざむ…{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1119AC",
+  "slots": [
+   "3C2EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「……アリシア」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1119C4",
+  "slots": [
+   "3C2F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「……」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1119D8",
+  "slots": [
+   "3C2F8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…{page}{box:00}{name:02}ジョージ{br}「…アリシア…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

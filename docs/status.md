@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4. Extract (phase 3 identity build done 2026-11-15). Last build: 2026-11-15, identity,
-  sha1 `00efb5ed50127f91e2a2827926cf2d4491e4b1b3` (= the dump), smoke ok.
+- **Phase:** 5. Engine spike and marker build (phase 4 extract done 2026-11-15). Last build: 2026-11-15, from
+  `script/` with no `en` yet, sha1 `00efb5ed50127f91e2a2827926cf2d4491e4b1b3` (= the dump), smoke ok.
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -20,11 +20,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
     original LZ bytes for unchanged blocks). `tests/test_identity.py`: build == dump (sha1), block fully covered (3192
     strings), every pointer follows a grown string, overfull block refused, LZ77 roundtrip incl. the font.
     The script block has **no slack**: phase 7 must relocate it (free space past 0x800000, see `docs/re/text.md`).
-- **Next (phase 4 done-when):** pick the `script/` format (JSON per scene/table, `indent=1`, `ensure_ascii=False`;
-  id = string offset; record which slots/tables reach each string), write `tools/extract.py` (never clobbers `en`),
-  make `build.py` read `script/`, roundtrip test (every `jp` re-encodes to the original bytes) and coverage test
-  (block fully covered; decide the 9 unreferenced runs in `docs/re/text.md`: find readers or mark dead). Confirm the
-  guessed kanji readings in `tbl/jp.tbl` from zoomed glyph sheets (`tools/fontsheet.py`) against script lines.
+  - Phase 4 (2026-11-15): `script/<table>_<nn>.json` (51 files, 3192 strings, 5741 slots; fields in
+    `tools/script.py`), `tools/extract.py` (`--force` keeps en/status/notes, flags `recheck`; `--check`), `build.py`
+    reads `script/` (`--lang`, encoder `tbl/<lang>.tbl` else `jp.tbl`), `textblock.pack` re-aligns strings to 4.
+    `tests/test_extract.py`: every `jp` re-encodes to the original bytes, every slot listed once, block = header +
+    strings + padding + the 8 dead runs (`textblock.DEAD`, evidence in `docs/re/text.md`), build inserts and
+    repoints. Kanji all verified (`tools/kanjicheck.py`); fixed E0BA 木, E0BC 低. `warp.py --probe/--var` runs extra
+    Lua; `tools/lua/textreads.lua` logs script-block reads (staff-roll copy proven unread).
+- **Next (phase 5 done-when):** marker build (every string -> `[id]` + filler at full box width; a `build.py
+  --marker` mode), boot + tour it with the warp tool (scripts, chapters, field examine, menus), find non-text
+  strings (mark `"status": "data"` or similar in `script/`), decide FD vs FE. Engine spike: the engine already has a
+  VWF width table (`0x3BBD0`) and ASCII A-Z/a-z glyphs (8 px); needs English punctuation (ASCII `! ? ' , . -` are not
+  in the font; only fullwidth ！？、。) -> add glyphs to the font (LZ at `0x1271C8`, 432 cells, repack with
+  `gbacomp.lz77_compress`; relocate if larger) and their widths. Glyph torture line. Width gate: measure px and lines
+  per box variant (`{box:00}` name plate, `{box:01}` plain, staff roll, menus, item names) from zoomed shots. The
+  script block has no slack: relocate it past 0x800000 (or into `0xF9ABC` + end) before English grows it.
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).

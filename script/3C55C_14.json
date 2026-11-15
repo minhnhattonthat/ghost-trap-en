@@ -1,0 +1,1189 @@
+[
+ {
+  "id": "1152E4",
+  "slots": [
+   "3F468"
+  ],
+  "jp": "{box:01}むずかしそうな本{br}ばかりだ。{page}{box:01}一冊手にとって{br}ひらいてみた…。{page}{box:00}{name:02}ジョージ{br}「これは…{br} ギリシャ語か？{page}{box:00}{name:02}ジョージ{br}「オレには{br} 読めないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115344",
+  "slots": [
+   "3F46C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「物入れにしちゃ{br} りっぱすぎるな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1153C0",
+  "slots": [
+   "3F470",
+   "3F4A0",
+   "3F4D0",
+   "3F500",
+   "3F530"
+  ],
+  "jp": "{box:01}絵がななめに{br}かかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1153D4",
+  "slots": [
+   "3F474"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「外だ！{br} 外が見える！{page}{box:00}{name:02}ジョージ{br}「ちくしょう！{page}{box:00}{name:02}ジョージ{br}「げんかんの窓と{br} 同じだ！{page}{box:00}{name:02}ジョージ{br}「ガラスなのに{br} ヒビも入らない！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115438",
+  "slots": [
+   "3F478",
+   "3F4A8",
+   "3F4D8",
+   "3F508",
+   "3F538"
+  ],
+  "jp": "{box:01}シンプルに見える{br}ベッドがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115450",
+  "slots": [
+   "3F47C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もうちょっと{br} せいりしろよな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11546C",
+  "slots": [
+   "3F480"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ホコリはだいぶ{br} つもってるけど、{page}{box:00}{name:02}ジョージ{br}「ヘンなニオイは{br} しないな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1154A4",
+  "slots": [
+   "3F484",
+   "3F4B4",
+   "3F4E4",
+   "3F514",
+   "3F544"
+  ],
+  "jp": "{box:01}おもそうな{br}ベッドだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1154B4",
+  "slots": [
+   "3F488",
+   "3F4E8"
+  ],
+  "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{box:00}{name:02}ジョージ{br}「だいぶあせを{br} かいたけど…{page}{box:00}{name:02}ジョージ{br}「このタオルは{br} 使いたくないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115500",
+  "slots": [
+   "3F48C"
+  ],
+  "jp": "{box:01}イスなどがザツに{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115364",
+  "slots": [
+   "3F490"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この絵も{br} ななめだな」{page}{box:01}絵のわきに{br}メモがある。{page}{box:01}『天才ジョージ{br} ここにあり！』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1153A4",
+  "slots": [
+   "3F494"
+  ],
+  "jp": "{box:01}テレビがある。{page}{box:01}こわれている{br}ようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115518",
+  "slots": [
+   "3F498",
+   "3F4F8",
+   "3F528"
+  ],
+  "jp": "{box:01}とても大きな{br}本だながある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11552C",
+  "slots": [
+   "3F49C",
+   "3F4CC",
+   "3F4FC",
+   "3F52C",
+   "3F55C",
+   "3F58C",
+   "3F5BC"
+  ],
+  "jp": "{box:01}りっぱな{br}物入れがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1155B8",
+  "slots": [
+   "3F4A4"
+  ],
+  "jp": "{box:01}窓から外が{br}見える。{page}{box:00}{name:02}ジョージ{br}「どうにかして{br} われないかな」{page}{box:00}{name:02}ジョージ{br}「…やっぱり{br} ムリか…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115600",
+  "slots": [
+   "3F4AC",
+   "3F4BC",
+   "3F4DC",
+   "3F4EC",
+   "3F50C",
+   "3F51C",
+   "3F53C",
+   "3F54C",
+   "3F56C",
+   "3F57C",
+   "3F59C",
+   "3F5AC",
+   "3F5CC",
+   "3F5DC"
+  ],
+  "jp": "{box:01}いろんなモノで{br}ちらかっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115614",
+  "slots": [
+   "3F4B0",
+   "3F4E0",
+   "3F510",
+   "3F540"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ベッドを見てると{br} ねむくなるな。{page}{box:00}{name:02}ジョージ{br}「でもここでは{br} ねないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11564C",
+  "slots": [
+   "3F4B8",
+   "3F518",
+   "3F548"
+  ],
+  "jp": "{box:01}ベッドの上に{br}タオルがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115540",
+  "slots": [
+   "3F4C0",
+   "3F4F0",
+   "3F520",
+   "3F550"
+  ],
+  "jp": "{box:01}絵がななめに{br}かけてある。{page}{box:01}絵のわきに{br}メモがある。{page}{box:01}『天才ジョージ{br} ここにあり！{page}{box:01}『アリギエリの館で{br} くちはてる』{page}{box:00}{name:02}ジョージ{br}「な…なんだ！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1155A4",
+  "slots": [
+   "3F4C4",
+   "3F4F4",
+   "3F524",
+   "3F554",
+   "3F584",
+   "3F5B4",
+   "3F5E4"
+  ],
+  "jp": "{box:01}こわれたテレビが{br}ある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115660",
+  "slots": [
+   "3F4C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「オカルト本は{br} ないみたいだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115680",
+  "slots": [
+   "3F4D4",
+   "3F504",
+   "3F534"
+  ],
+  "jp": "{box:01}どうやっても{br}われない窓だ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115694",
+  "slots": [
+   "3F558",
+   "3F588",
+   "3F5B8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もう本なんか{br} どうだっていい」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1156B4",
+  "slots": [
+   "3F560",
+   "3F580",
+   "3F590",
+   "3F5B0",
+   "3F5C0",
+   "3F5E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「絵を見てる{br} よゆうはないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1156D4",
+  "slots": [
+   "3F564",
+   "3F594",
+   "3F5C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「外に出ることを{br} 考えるのは…{page}{box:00}{name:02}ジョージ{br}「アリシアを{br} たすけてからだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115710",
+  "slots": [
+   "3F568",
+   "3F570",
+   "3F574",
+   "3F578",
+   "3F598",
+   "3F5A0",
+   "3F5A4",
+   "3F5A8",
+   "3F5C8",
+   "3F5D0",
+   "3F5D4",
+   "3F5D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「休んでる{br} ヒマはない。{page}{box:00}{name:02}ジョージ{br}「ベッドに用は{br} ないってことだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115128",
+  "slots": [
+   "3F5E8",
+   "3F648"
+  ],
+  "jp": "{box:01}よごれた{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115138",
+  "slots": [
+   "3F5EC"
+  ],
+  "jp": "{box:01}にごった水が{br}たまっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11514C",
+  "slots": [
+   "3F5F0",
+   "3F620",
+   "3F650",
+   "3F680"
+  ],
+  "jp": "{box:01}ようやくバスタブの{br}そこが見える。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115164",
+  "slots": [
+   "3F5F4",
+   "3F654"
+  ],
+  "jp": "{box:01}シャワーがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115174",
+  "slots": [
+   "3F5F8",
+   "3F658"
+  ],
+  "jp": "{box:01}パイプがつまって{br}いるようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115188",
+  "slots": [
+   "3F5FC",
+   "3F65C"
+  ],
+  "jp": "{box:01}かなりきたない{br}トイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11519C",
+  "slots": [
+   "3F600",
+   "3F660"
+  ],
+  "jp": "{box:01}バスタブが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1151B0",
+  "slots": [
+   "3F604",
+   "3F664"
+  ],
+  "jp": "{box:01}よごれた水が{br}よどんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1151C4",
+  "slots": [
+   "3F608",
+   "3F638",
+   "3F668",
+   "3F698"
+  ],
+  "jp": "{box:01}水のよどみが{br}おさまった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1151D8",
+  "slots": [
+   "3F60C",
+   "3F66C"
+  ],
+  "jp": "{box:01}シャワーがせっち{br}されている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1151EC",
+  "slots": [
+   "3F610",
+   "3F670"
+  ],
+  "jp": "{box:01}はい水こうが{br}つまっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115200",
+  "slots": [
+   "3F614",
+   "3F674"
+  ],
+  "jp": "{box:01}トイレから何か{br}出てきそうだ…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115218",
+  "slots": [
+   "3F618",
+   "3F678"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11522C",
+  "slots": [
+   "3F61C",
+   "3F67C"
+  ],
+  "jp": "{box:01}たまった水から{br}ニオイがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115240",
+  "slots": [
+   "3F624",
+   "3F684"
+  ],
+  "jp": "{box:01}パイプがさびた{br}シャワーがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115258",
+  "slots": [
+   "3F628",
+   "3F688"
+  ],
+  "jp": "{box:01}かみのけが{br}つまっている…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11526C",
+  "slots": [
+   "3F62C",
+   "3F68C"
+  ],
+  "jp": "{box:01}くさいトイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11527C",
+  "slots": [
+   "3F630",
+   "3F690"
+  ],
+  "jp": "{box:01}人のアカがついた{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "115290",
+  "slots": [
+   "3F634",
+   "3F64C",
+   "3F694"
+  ],
+  "jp": "{box:01}よごれが水に{br}ういている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1152A4",
+  "slots": [
+   "3F63C",
+   "3F69C"
+  ],
+  "jp": "{box:01}よごれている{br}シャワーだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1152B8",
+  "slots": [
+   "3F640",
+   "3F6A0"
+  ],
+  "jp": "{box:01}石けんのカスが{br}こびりついている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1152D0",
+  "slots": [
+   "3F644",
+   "3F6A4"
+  ],
+  "jp": "{box:01}ハナがまがり{br}そうなトイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1167C8",
+  "slots": [
+   "3F6A8",
+   "3F708"
+  ],
+  "jp": "{box:01}かなりきたない{br}トイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1167DC",
+  "slots": [
+   "3F6AC",
+   "3F70C"
+  ],
+  "jp": "{box:01}パイプがつまって{br}いるようだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1167F0",
+  "slots": [
+   "3F6B0",
+   "3F710"
+  ],
+  "jp": "{box:01}シャワーがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116800",
+  "slots": [
+   "3F6B4",
+   "3F714",
+   "3F72C",
+   "3F744",
+   "3F75C"
+  ],
+  "jp": "{box:01}にごった水が{br}たまっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116814",
+  "slots": [
+   "3F6B8",
+   "3F6E8",
+   "3F718",
+   "3F748"
+  ],
+  "jp": "{box:01}ようやくバスタブ{br}のそこが見える。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11682C",
+  "slots": [
+   "3F6BC",
+   "3F71C"
+  ],
+  "jp": "{box:01}よごれた{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11683C",
+  "slots": [
+   "3F6C0",
+   "3F720"
+  ],
+  "jp": "{box:01}トイレから何か{br}出てきそうだ…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116854",
+  "slots": [
+   "3F6C4",
+   "3F724"
+  ],
+  "jp": "{box:01}はい水こうが{br}つまっている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116868",
+  "slots": [
+   "3F6C8",
+   "3F728"
+  ],
+  "jp": "{box:01}シャワーがせっち{br}されている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11687C",
+  "slots": [
+   "3F6CC"
+  ],
+  "jp": "{box:01}よごれた水が{br}よどんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116890",
+  "slots": [
+   "3F6D0",
+   "3F700",
+   "3F730",
+   "3F760"
+  ],
+  "jp": "{box:01}水のよどみが{br}おさまった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1168A4",
+  "slots": [
+   "3F6D4",
+   "3F734"
+  ],
+  "jp": "{box:01}バスタブが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1168B8",
+  "slots": [
+   "3F6D8",
+   "3F738"
+  ],
+  "jp": "{box:01}くさいトイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1168C8",
+  "slots": [
+   "3F6DC",
+   "3F73C"
+  ],
+  "jp": "{box:01}かみのけが{br}つまっている…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1168DC",
+  "slots": [
+   "3F6E0",
+   "3F740"
+  ],
+  "jp": "{box:01}パイプがさびた{br}シャワーがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1168F4",
+  "slots": [
+   "3F6E4"
+  ],
+  "jp": "{box:01}たまった水から{br}ニオイがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116908",
+  "slots": [
+   "3F6EC",
+   "3F74C"
+  ],
+  "jp": "{box:01}ホコリをかぶった{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11691C",
+  "slots": [
+   "3F6F0",
+   "3F750"
+  ],
+  "jp": "{box:01}ハナがまがり{br}そうなトイレだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116930",
+  "slots": [
+   "3F6F4",
+   "3F754"
+  ],
+  "jp": "{box:01}石けんのカスが{br}こびりついている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116948",
+  "slots": [
+   "3F6F8",
+   "3F758"
+  ],
+  "jp": "{box:01}よごれている{br}シャワーだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11695C",
+  "slots": [
+   "3F6FC"
+  ],
+  "jp": "{box:01}よごれが水に{br}ういている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116970",
+  "slots": [
+   "3F704",
+   "3F764"
+  ],
+  "jp": "{box:01}人のアカがついた{br}バスタブだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116984",
+  "slots": [
+   "3F768"
+  ],
+  "jp": "{box:01}レンジがある。{page}{box:00}{name:02}ジョージ{br}「場違いな気も{br} するけど…{page}{box:00}{name:02}ジョージ{br}「数年前まで人が{br} 住んでたんだから、{page}{box:00}{name:02}ジョージ{br}「あっても別に{br} おかしくないか」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1169EC",
+  "slots": [
+   "3F76C",
+   "3F78C",
+   "3F7AC",
+   "3F7CC",
+   "3F7EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「この時計…{br} 止まってるぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116A0C",
+  "slots": [
+   "3F770"
+  ],
+  "jp": "{box:01}ガスコンロが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「火はつかない{br} みたいだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116A3C",
+  "slots": [
+   "3F774",
+   "3F778",
+   "3F794",
+   "3F798",
+   "3F7B4",
+   "3F7B8",
+   "3F7D4",
+   "3F7D8",
+   "3F7F4",
+   "3F7F8",
+   "3F814",
+   "3F818",
+   "3F834",
+   "3F838",
+   "3F854",
+   "3F858"
+  ],
+  "jp": "{box:01}ちょうり道具が{br}いろいろある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116A54",
+  "slots": [
+   "3F77C",
+   "3F780"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…{br} オーブンかな？{page}{box:00}{name:02}ジョージ{br}「チキンがまるごと{br} 入りそうだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116A8C",
+  "slots": [
+   "3F784",
+   "3F7A4",
+   "3F7C4",
+   "3F7E4",
+   "3F804"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ここは{br} ちゅうぼうだな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116AA8",
+  "slots": [
+   "3F788",
+   "3F7A8",
+   "3F7C8",
+   "3F7E8",
+   "3F808",
+   "3F828",
+   "3F848"
+  ],
+  "jp": "{box:01}でんしレンジが{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116AC0",
+  "slots": [
+   "3F790"
+  ],
+  "jp": "{box:01}ガスコンロが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ガスが来てない{br} みたいだな。{page}{box:00}{name:02}ジョージ{br}「ガスばくはつで{br} 出口をつくる手は、{page}{box:00}{name:02}ジョージ{br}「ざんねんながら{br} 使えないらしい」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116B2C",
+  "slots": [
+   "3F79C",
+   "3F7A0",
+   "3F7BC",
+   "3F7C0",
+   "3F7DC",
+   "3F7E0",
+   "3F7FC",
+   "3F800",
+   "3F83C",
+   "3F840",
+   "3F85C",
+   "3F860"
+  ],
+  "jp": "{box:01}大きなオーブンが{br}ある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116B40",
+  "slots": [
+   "3F7B0",
+   "3F7D0",
+   "3F7F0"
+  ],
+  "jp": "{box:01}ガスコンロが{br}ならんでいる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116B54",
+  "slots": [
+   "3F80C",
+   "3F82C",
+   "3F84C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「止まった時計に{br} 用はないぞ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116B74",
+  "slots": [
+   "3F810"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ガスさえ{br} 来てれば…{page}{box:00}{name:02}ジョージ{br}「この館まるごと{br} ふっとばすのに！{page}{box:00}{name:02}ジョージ{br}「…アリシアを{br} たすけてからな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116BC8",
+  "slots": [
+   "3F81C",
+   "3F820"
+  ],
+  "jp": "{box:01}大きなオーブンが{br}ある。{page}{box:00}{name:02}ジョージ{br}「この中に{br} アリシアが…{page}{box:00}{name:02}ジョージ{br}「…いるわけ{br} ないって…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116C10",
+  "slots": [
+   "3F824",
+   "3F844",
+   "3F864"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ちゅうぼうに{br} 来たりして…{page}{box:00}{name:02}ジョージ{br}「オレは何が{br} したいんだ？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116C48",
+  "slots": [
+   "3F830",
+   "3F850"
+  ],
+  "jp": "{box:01}ガスコンロが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ガスは{br} 来てないけどな。{page}{box:00}{name:02}ジョージ{br}「ざんねんな事に{br} …」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D2C",
+  "slots": [
+   "3F868"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「今時めずらしい{br} モノクロテレビか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D50",
+  "slots": [
+   "3F86C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「何にも{br} 写らないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D6C",
+  "slots": [
+   "3F870"
+  ],
+  "jp": "{box:01}テレビが置かれて{br}いる。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D80",
+  "slots": [
+   "3F874",
+   "3F894",
+   "3F8B4"
+  ],
+  "jp": "{box:01}かべの時計は{br}止まったままだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116D98",
+  "slots": [
+   "3F878",
+   "3F898",
+   "3F8B8",
+   "3F8D8",
+   "3F8F8",
+   "3F918",
+   "3F938"
+  ],
+  "jp": "{box:01}ひきだしは{br}ひらかない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116DA8",
+  "slots": [
+   "3F87C",
+   "3F89C"
+  ],
+  "jp": "{box:01}人が住んでいた{br}けはいがする。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116DC0",
+  "slots": [
+   "3F880",
+   "3F8A0"
+  ],
+  "jp": "{box:01}ホコリがつもった{br}ベッドだ。{page}{box:01}ここではねむり{br}たくない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116DE4",
+  "slots": [
+   "3F884",
+   "3F8A4"
+  ],
+  "jp": "{box:01}ふうけいの絵が{br}かざってある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116DF8",
+  "slots": [
+   "3F888"
+  ],
+  "jp": "{box:01}ねんだいモノの{br}テレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E0C",
+  "slots": [
+   "3F88C",
+   "3F8CC",
+   "3F90C"
+  ],
+  "jp": "{box:01}チャンネルを回す{br}タイプのテレビだ。{page}{box:01}何も写らない…。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E34",
+  "slots": [
+   "3F890"
+  ],
+  "jp": "{box:01}古いタイプの{br}テレビがある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E48",
+  "slots": [
+   "3F8A8"
+  ],
+  "jp": "{box:01}リモコンがない{br}タイプのテレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E60",
+  "slots": [
+   "3F8AC",
+   "3F8EC",
+   "3F92C"
+  ],
+  "jp": "{box:01}テレビは何も{br}写さなかった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E78",
+  "slots": [
+   "3F8B0"
+  ],
+  "jp": "{box:01}かなり古い{br}テレビだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "116E8C",
+  "slots": [
+   "3F8BC",
+   "3F8DC"
+  ],
+  "jp": "{box:01}ひろえる物は{br}何もない。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

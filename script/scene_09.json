@@ -1,0 +1,323 @@
+[
+ {
+  "id": "104308",
+  "slots": [
+   "3C144"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よし！ゴーストを{br} やっつけたぞ！{page}{box:00}{name:02}ジョージ{br}「…それにしても{br} あのナイフには、{page}{box:00}{name:02}ジョージ{br}「ゴーストを止めて{br} うごけなくする、{page}{box:00}{name:02}ジョージ{br}「バインドのうりょく{br} があるのか？{page}{box:00}{name:02}ジョージ{br}「どうやらナイフの{br} フシギなチカラと{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} があわさって…{page}{box:00}{name:02}ジョージ{br}「ワナになった{br} みたいだけど…{page}{box:00}{name:02}ジョージ{br}「もう一つのワナを{br} しらべてみるか…{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104418",
+  "slots": [
+   "3C148"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このひろった{br} ナイフを…{page}{box:00}{name:02}ジョージ{br}「床へ同じように{br} ならべてみるか…{page}{box:00}{name:02}ジョージ{br}「Bボタンでナイフ{br} を使えば…{page}{box:00}{name:02}ジョージ{br}「たぶん、同じ{br} ワナができるハズ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10448C",
+  "slots": [
+   "3C14C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「やっぱりセンサー{br} とはんのうして、{page}{box:00}{name:02}ジョージ{br}「ワナになる{br} みたいだ！{page}{box:00}{name:02}ジョージ{br}「よし！センサーを{br} かいぞうしよう。{page}{box:00}{name:02}ジョージ{br}「少しだけパワーを{br} ワナにむけて…{page}{box:00}{name:02}ジョージ{br}「ワナが残る{br} ようにしよう。{page}{box:00}{name:02}ジョージ{br}「…でも、マトモな{br} 道具が無いから、{page}{box:00}{name:02}ジョージ{br}「ワナは5つまでが{br} げんかいだな…{page}{box:00}{name:02}ジョージ{br}「それにパワーも{br} 小さいから、{page}{box:00}{name:02}ジョージ{br}「遠くに行くと{br} ワナがきえるな…{page}{box:00}{name:02}ジョージ{br}「…でも、まぁ、{br} なんとかなるさ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1045B4",
+  "slots": [
+   "3C150"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「もたもたしてると{br} ヤバイぜ！{page}{box:00}{name:02}ジョージ{br}「みぎうえの{br} アイコンが{page}{box:00}{name:02}ジョージ{br}「そうびのぶきに{br} かわったら、{page}{box:00}{name:02}ジョージ{br}「Aボタンで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「オレが手本を{br} みせてやる！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10463C",
+  "slots": [
+   "3C154"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「マッチか…{br} このままじゃ、{box:00}{name:02}ジョージ{br}「何のやくにも{br} 立たないけれど、{page}{box:00}{name:02}ジョージ{br}「ナイフとマッチを{br} COMBINEすれば、{page}{box:00}{name:02}ジョージ{br}「マインのワナが{br} できるかも！{page}{box:00}{name:02}ジョージ{br}「ほかにも何かある{br} かもしれないし…{page}{box:00}{name:02}ジョージ{br}「アイテム入手で、{br} COMBINEを{page}{box:00}{name:02}ジョージ{br}「いろいろためして{br} みないとな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10470C",
+  "slots": [
+   "3C158"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「うかつにすすむと{br} あぶないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストが出ても{br} 何もできないし…{page}{box:00}{name:02}ジョージ{br}「まずは床のワナを{br} しらべておこう{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104788",
+  "slots": [
+   "3C15C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「うかつにすすむと{br} あぶないな…{page}{box:00}{name:02}ジョージ{br}「ゴーストが出ても{br} 何もできないし…{page}{box:00}{name:02}ジョージ{br}「ナイフでワナを{br} つくってみよう{page}{box:00}{name:02}ジョージ{br}「Bボタンでナイフ{br} を使えば…{page}{box:00}{name:02}ジョージ{br}「たぶん、おなじ{br} ワナができるハズ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10481C",
+  "slots": [
+   "3C160"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかっているな…{page}{box:00}{name:02}ジョージ{br}「どこかにカギが{br} あるはずだ…{page}{box:00}{name:02}ジョージ{br}「まわりの物を{br} チェックしよう。{page}{box:00}{name:02}ジョージ{br}「気になる物の{br} 前でAボタンだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104890",
+  "slots": [
+   "3C164"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「ドアにカギが{br} かかってるな…{page}{box:00}{name:02}ジョージ{br}「さっきのカギを{br} 使ってみるか…{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} USEコマンド、{page}{box:00}{name:02}ジョージ{br}「アイテムをえらび、{br} Aボタンだったな」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104908",
+  "slots": [
+   "3C168"
+  ],
+  "jp": "{box:01}ゴーストの口が{br}きみょうにゆがむ。{page}{box:01}しゃがれたこえが{br}あたりにひびく…{page}{box:00}{name:05}？？？？{br}『…わ…れ…わ…{br} グ…レ…ゴリ…』{page}{box:00}{name:02}ジョージ{br}「…グレゴリ？{br} 何のことだ？」{page}{box:00}{name:05}？？？？{br}『手…出す…{br} やめ……ろ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "104994",
+  "slots": [
+   "3C16C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「きえた…。でも、{br} 今のゴーストは、{page}{box:00}{name:02}ジョージ{br}「何かを言いたそう{br} だったな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1049D4",
+  "slots": [
+   "3C170"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？{page}{box:00}{name:02}ジョージ{br}「魔法のもんしょう{br} みたいだな…{page}{box:00}{name:02}ジョージ{br}「でも、日づけや{br} 文字がない上に{page}{box:00}{name:02}ジョージ{br}「使った人のサイン{br} すらないから、{page}{box:00}{name:02}ジョージ{br}「本物じゃなくて、{br} ただのシンボルか？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1268AC",
+  "slots": [
+   "3C174"
+  ],
+  "jp": "{box:01}ドアにカギが{br}かかる音がした。{page}{box:00}{name:02}ジョージ{br}「くっ！一人でに{br} ドアにカギが…？{page}{box:00}{name:02}ジョージ{br}「…まてよ、{br} あそこにあるのは{page}{box:00}{name:02}ジョージ{br}「カンオケか？{br} …となると、{page}{box:00}{name:02}ジョージ{br}「あとは魔道書を{br} じゅんばんに{page}{box:00}{name:02}ジョージ{br}「床のもんしょうの{br} マルにおけば、{page}{box:00}{name:02}ジョージ{br}「あのカンオケの{br} 中にいるヤツ…{page}{box:00}{name:02}ジョージ{br}「アリギエリ…いや、{br} 死のつかいが{page}{box:00}{name:02}ジョージ{br}「完全に封印{br} されるんだな！{page}{box:00}{name:02}ジョージ{br}「よーし、どうせ{br} 出られないんだし{page}{box:00}{name:02}ジョージ{br}「さっさと{br} 封印してしまおう！{page}{box:00}{name:02}ジョージ{br}「…どうやら、{br} あのひとだまが、{page}{box:00}{name:02}ジョージ{br}「本をおく場所と{br} じゅんばんを{page}{box:00}{name:02}ジョージ{br}「しめしている{br} みたいだな…{page}{box:00}{name:02}ジョージ{br}「…まってろよ！{br} アリシア…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126A54",
+  "slots": [
+   "3C178"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんだ、{br} 今のは…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126A70",
+  "slots": [
+   "3C17C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！？{page}{box:00}{name:02}ジョージ{br}「…くそっ、{br} 何だってんだ！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126A9C",
+  "slots": [
+   "3C180"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「うわっ！？{page}{box:00}{name:02}ジョージ{br}「なんかどんどん{br} ヤバくなってるぞ！{page}{box:00}{name:02}ジョージ{br}「この方法で、{br} 本当にいいのか？」{page}{box:00}{name:05}？？？？{br}「それでいいんです。{br} ジョージさん」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B08",
+  "slots": [
+   "3C184",
+   "3C188"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「！？」{page}{box:00}{name:04}カロル{br}「いいんですよ。{br} つづけて下さい」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B38",
+  "slots": [
+   "3C18C"
+  ],
+  "jp": "{box:01}ニサンの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B50",
+  "slots": [
+   "3C190"
+  ],
+  "jp": "{box:01}アイヤルの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B68",
+  "slots": [
+   "3C194"
+  ],
+  "jp": "{box:01}シマヌの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B7C",
+  "slots": [
+   "3C198"
+  ],
+  "jp": "{box:01}ドゥウズの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126B94",
+  "slots": [
+   "3C19C"
+  ],
+  "jp": "{box:01}アブの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126BA8",
+  "slots": [
+   "3C1A0"
+  ],
+  "jp": "{box:01}ウルルの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126BC0",
+  "slots": [
+   "3C1A4"
+  ],
+  "jp": "{box:01}テシュリトゥの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126BD8",
+  "slots": [
+   "3C1A8"
+  ],
+  "jp": "{box:01}アラフシャムの書を{br}床に置いた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126BF0",
+  "slots": [
+   "3C1AC"
+  ],
+  "jp": "{box:01}キスリムの書を{br}床に置いた。{page}{box:00}{name:02}ジョージ{br}「きえろ！！！{br} 死のつかい！！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126C24",
+  "slots": [
+   "3C1B0"
+  ],
+  "jp": "{box:01}{name:0A}{br}を床からひろった。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126C38",
+  "slots": [
+   "3C1B4"
+  ],
+  "jp": "{box:00}{name:06}シンファ{br}「まずは床に置いた{br} 全ての魔道書を…{page}{box:00}{name:06}シンファ{br}「ひろいあげて{br} ください」{page}{box:00}{name:02}ジョージ{br}「わかった！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126C88",
+  "slots": [
+   "3C1B8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これでよし！」{page}{box:00}{name:02}ジョージ{br}「あのゴーストの{br} いる場所に{page}{box:00}{name:02}ジョージ{br}「もう一度、全部の{br} 魔道書を置いて、{page}{box:00}{name:02}ジョージ{br}「死のつかいを{br} 封印するんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "110858",
+  "slots": [
+   "3C1BC",
+   "3C1E0",
+   "3C204",
+   "3C228",
+   "3C24C",
+   "3C270",
+   "3C294",
+   "3C2B8",
+   "3C2DC",
+   "3C300",
+   "3C324"
+  ],
+  "jp": "{box:01}ガラクタが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11086C",
+  "slots": [
+   "3C1C0"
+  ],
+  "jp": "{box:00}{name:03}アリシア{br}「そうさのきほんは{br} Aボタンよ！{page}{box:00}{name:03}アリシア{br}「ドアをあけたり、{br} 物をひろったり、{page}{box:00}{name:03}アリシア{br}「何かを調べる{br} のもAボタン！{page}{box:00}{name:03}アリシア{br}「それから、{br} スタートボタンで、{page}{box:00}{name:03}アリシア{br}「アイテムじゅんび{br} ができたり、{page}{box:00}{name:03}アリシア{br}「ミニマップなどの{br} じょうほうを{page}{box:00}{name:03}アリシア{br}「見ることが{br} できるからね。{page}{box:00}{name:03}アリシア{br}「げんかんわきに{br} ハコがあるから、{page}{box:00}{name:03}アリシア{br}「にもつが多くて{br} じゃまな時は、{page}{box:00}{name:03}アリシア{br}「そこに入れると{br} いいかもね。{page}{box:00}{name:03}アリシア{br}「気をつけてね！{br} ジョージ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

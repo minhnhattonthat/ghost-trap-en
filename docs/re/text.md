@@ -15,10 +15,11 @@ Dump: `rom.sha1` (AGVJ, 8 MiB). Tools: `tbl/jp.tbl`, `tools/textlog.lua` (in `to
   · `8F-CF` katakana ァ…メ · `D0-D9` 0-9 · `DA-DF` モャヤュユョ · `E000-E007` ヨラリルレロワン · `E008` … · `E009` ＃
   · `E00A-E0BF` 182 kanji · `E0C0-E0C9` （）”＋，．’◎™： · `E0CA/E0CB` blank 4 px (narrow space, staff roll).
   No ヮヰヱヲヴ glyphs.
-- **Kanji (E00A-E0BF): partly guessed.** E014-E0B3 are sorted by on'yomi in gojuon order (永 英 遠 … 霊 話), which
-  backs the reading; E00A-E013 and E0B4-E0BF are later additions in no order. Fixed from script context: 古 (古い), 印
-  (封印), 因 (原因), 科 (科学), 礼 (礼を言わせて), 残 (何も残っていない). Never seen in any string (reading unconfirmed): E017 塩, E085 団,
-  E0BA 未, E0BC 催. Phase 4: read zoomed glyph sheets against script lines and confirm the rest.
+- **Kanji (E00A-E0BF): verified** (phase 4). E014-E0B3 are sorted by on'yomi in gojuon order (永 英 遠 … 霊 話);
+  E00A-E013 and E0B4-E0BF are later additions in no order. All 182 checked twice: glyph beside the table character
+  (`tools/kanjicheck.py OUT.png --from E00A --to E0BF`, 4 pages), and up to 3 script contexts per code. Fixed then:
+  E0BA 木 (was 未: 木のハコ, カラの木ばこ), E0BC 低 (was 催: せの低いたな). Unused by any string, read off the glyph
+  only: E054 識, E077 相, E085 団, E090 内, E0A8 幽, E0AA 容. No duplicate values in `tbl/jp.tbl`.
 - Text is horizontal, 16x16 glyphs, with a per-glyph width table (VWF already in the engine).
 
 ## Font (verified)
@@ -60,9 +61,17 @@ Dump: `rom.sha1` (AGVJ, 8 MiB). Tools: `tbl/jp.tbl`, `tools/textlog.lua` (in `to
 
 - Script block: ROM `0x100000-0x1271C8` (starts with ASCII `AGBD` at 0x100000; first string 0x100004; last string ends
   0x1271C5; the font LZ block follows at 0x1271C8). 149,866 bytes are reached from the tables.
-- Unreferenced gaps with text (5,713 bytes, 9 runs): `0x1064CE` (242), `0x106A8C` (120, referenced from `0x423A0`),
-  `0x10EE11`, `0x1166DA`, `0x116786`, `0x11AAB0`, `0x11E67A` (4074, mostly zeros), `0x120B12` (894), `0x12230C`.
-  Phase 4: find their readers (literal pools in code) or mark them dead.
+- Every string starts 4-aligned; the 0-3 bytes after each are zero padding (`textblock.pack` re-aligns).
+- **Dead runs (verified unreferenced, kept byte for byte, not extracted):** `0x1064CE` (242), `0x10EE11` (123),
+  `0x1166DA` (86), `0x116786` (34), `0x11AAB0` (32), `0x11E67A` (4074), `0x120B12` (894), `0x12230C` (108); listed
+  in `textblock.DEAD`. (`0x106A8C`, once on this list, is the lone slot at `0x423A0` and is extracted.) Evidence:
+  no u32 anywhere in the ROM points at any string start inside them (one hit, `0x4C5824`, is inside graphics data);
+  the renderer reads text only through the pointer tables; 6 of the 8 runs are older copies of referenced strings
+  (field-examine lines, inventory-box prompts); `0x11E67A` is a second staff roll, and a ROM-read probe over the
+  whole credits (`warp.py credits --keep --frames 15000 --probe tools/lua/textreads.lua`) reads `0x11C5D8-0x11DB87`
+  (the referenced roll, start to end) and nothing in it. Phase 8 text coverage is the backstop.
+- **Repo text format:** `script/<table>_<nn>.json` (`tools/script.py` documents the fields; `tools/extract.py` writes
+  it, `--check` compares, never clobbers `en`). 3192 strings, 5741 slots, 51 files.
 - Longest string: 0x11C5D8 (5551 bytes), the staff roll (scene table entry 78), mostly space padding.
 - Script is loaded into an EWRAM buffer at `0x0201E000` (2-byte header `00 0F` + string) before drawing.
 - Other candidates (not text, noted so nobody re-checks): `0x2B8EA`, `0x394EB`, `0x4247C`, `0x42560` are code
@@ -74,6 +83,7 @@ Dump: `rom.sha1` (AGVJ, 8 MiB). Tools: `tbl/jp.tbl`, `tools/textlog.lua` (in `to
 - `0x7E8B85-0x800000`: ~95 KB of 0x00/0xFF at the ROM end.
 - Past 8 MiB: the ROM can grow to 16 MiB (EEPROM save; keep it at or below 16 MiB, IPS/BPS).
 - Relocating the whole script past 0x800000 needs only the table region above repointed (no in-code pointers found).
+  The dead runs (~5.6 KB) can be dropped when it moves.
 - The block itself has no slack: the last string ends 0x1271C5 and the font LZ block starts 0x1271C8 (verified by
   `tests/test_identity.py`, which repacks it with `tools/textblock.py`). Any growth needs relocation.
 

@@ -65,7 +65,7 @@ def write_areas_tsv(rom):
             f.write("%02X\t%d\n" % (a, n))
 
 
-def run_scene(scene, rom, out_root, state, frames, keep, sheet, timeout=240):
+def run_scene(scene, rom, out_root, state, frames, keep, sheet, timeout=240, probes=(), pvars=()):
     out = out_root / scene
     if out.exists():
         shutil.rmtree(out)
@@ -80,6 +80,10 @@ def run_scene(scene, rom, out_root, state, frames, keep, sheet, timeout=240):
            "--sav", str(sav), "--frames", str(frames), "--timeout", str(timeout),
            "--script", posix(DEBUG / "scenes.lua"), "--script", posix(DEBUG / "warp.lua"),
            "--var", "SCENE='%s'" % scene]
+    for p in probes:
+        cmd += ["--script", posix(Path(p).resolve())]
+    for v in pvars:
+        cmd += ["--var", v]
     if state:
         st = ROOT / "work" / "states" / ("%s.mss" % scene)
         st.parent.mkdir(parents=True, exist_ok=True)
@@ -118,6 +122,8 @@ def main():
     ap.add_argument("--only", help="with --all: regex on scene names")
     ap.add_argument("--jobs", type=int, default=3)
     ap.add_argument("--resume", action="store_true", help="with --all: skip scenes that already have a proof")
+    ap.add_argument("--probe", action="append", default=[], help="extra Lua probe run after warp.lua (repeatable)")
+    ap.add_argument("--var", action="append", default=[], help="NAME=value for the probes (repeatable)")
     a = ap.parse_args()
     rom_bytes = ORIG.read_bytes()
     out_root = Path(a.out)
@@ -194,7 +200,8 @@ def main():
 
     if not a.scene:
         ap.error("give a SCENE, --list or --all")
-    s, code, msg = run_scene(a.scene, a.rom, out_root, a.state, a.frames, a.keep, a.sheet)
+    s, code, msg = run_scene(a.scene, a.rom, out_root, a.state, a.frames, a.keep, a.sheet, probes=a.probe,
+                             pvars=a.var)
     print(("ok " if code == 0 else "FAIL ") + msg)
     print("shot: %s" % (out_root / a.scene / "scene.png"))
     return 0 if code == 0 else 1

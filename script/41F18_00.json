@@ -1,0 +1,1068 @@
+[
+ {
+  "id": "10EFD4",
+  "slots": [
+   "41F18"
+  ],
+  "jp": "えらんだアイテムを{br}使います。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EFE8",
+  "slots": [
+   "41F1C"
+  ],
+  "jp": "アイテムを{br}すてます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EFF8",
+  "slots": [
+   "41F20"
+  ],
+  "jp": "えらんだアイテムを{br}そうびします。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F00C",
+  "slots": [
+   "41F24"
+  ],
+  "jp": "魔道書を{br}えらびます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F01C",
+  "slots": [
+   "41F28"
+  ],
+  "jp": "2つのアイテムを{br}ごうせいします。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F030",
+  "slots": [
+   "41F2C"
+  ],
+  "jp": "使うアイテムを{br}えらびます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F044",
+  "slots": [
+   "41F30"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F04C",
+  "slots": [
+   "41F34"
+  ],
+  "jp": "ここでは{br}使えない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF34",
+  "slots": [
+   "41F38"
+  ],
+  "jp": "すてるアイテムを{br}えらびます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF48",
+  "slots": [
+   "41F3C"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF50",
+  "slots": [
+   "41F40"
+  ],
+  "jp": "これをすてますか？{br} {br} {name:07}はい  {name:01}いいえ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF6C",
+  "slots": [
+   "41F44"
+  ],
+  "jp": "このアイテムは{br}すてられない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF80",
+  "slots": [
+   "41F48"
+  ],
+  "jp": "どのそうびを{br}へんこうする？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF90",
+  "slots": [
+   "41F4C"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF98",
+  "slots": [
+   "41F50"
+  ],
+  "jp": "どのアイテムを{br}そうびする？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EFA8",
+  "slots": [
+   "41F54"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EFB0",
+  "slots": [
+   "41F58"
+  ],
+  "jp": "そうびを{br}はずします。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EFC0",
+  "slots": [
+   "41F5C"
+  ],
+  "jp": "このアイテムは{br}そうびできない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12077C",
+  "slots": [
+   "41F60"
+  ],
+  "jp": "じゅうじボタンで{br}魔道書きりかえ。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120794",
+  "slots": [
+   "41F64"
+  ],
+  "jp": "魔道書を{br}もちません。{br}BOOK＃00へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1207B0",
+  "slots": [
+   "41F68"
+  ],
+  "jp": "ニサンの書{br}魔道書{br}BOOK＃01へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1207CC",
+  "slots": [
+   "41F6C"
+  ],
+  "jp": "アイヤルの書{br}魔道書{br}BOOK＃02へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1207E8",
+  "slots": [
+   "41F70"
+  ],
+  "jp": "シマヌの書{br}魔道書{br}BOOK＃03へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120804",
+  "slots": [
+   "41F74"
+  ],
+  "jp": "ドゥウズの書{br}魔道書{br}BOOK＃04へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120820",
+  "slots": [
+   "41F78"
+  ],
+  "jp": "アブの書{br}魔道書{br}BOOK＃05へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120838",
+  "slots": [
+   "41F7C"
+  ],
+  "jp": "ウルルの書{br}魔道書{br}BOOK＃06へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120854",
+  "slots": [
+   "41F80"
+  ],
+  "jp": "テシュリトゥの書{br}魔道書{br}BOOK＃07へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120874",
+  "slots": [
+   "41F84"
+  ],
+  "jp": "アラフシャムの書{br}魔道書{br}BOOK＃08へ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "120894",
+  "slots": [
+   "41F88"
+  ],
+  "jp": "キスリムの書{br}魔道書{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1208AC",
+  "slots": [
+   "41F8C"
+  ],
+  "jp": "ほんを{br}もっていない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EE8C",
+  "slots": [
+   "41F90"
+  ],
+  "jp": "どれをごうせい{br}しますか？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EE9C",
+  "slots": [
+   "41F94"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EEA4",
+  "slots": [
+   "41F98"
+  ],
+  "jp": "どれとごうせい{br}しますか？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EEB4",
+  "slots": [
+   "41F9C"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EEBC",
+  "slots": [
+   "41FA0"
+  ],
+  "jp": "このくみあわせ{br}では、ごうせい{br}できなかった。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EED8",
+  "slots": [
+   "41FA4"
+  ],
+  "jp": "くみあわせた{br}アイテムを{br}もちきれない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EEF0",
+  "slots": [
+   "41FA8"
+  ],
+  "jp": "{name:0A} {br}ができた。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EEFC",
+  "slots": [
+   "41FAC"
+  ],
+  "jp": "{name:0A} {br}をつくりますか？{br} {name:01}はい  {name:07}いいえ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EF18",
+  "slots": [
+   "41FB0"
+  ],
+  "jp": "さらにつくりますか？{br} {br} {name:01}はい  {name:07}いいえ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10ED54",
+  "slots": [
+   "41FB4"
+  ],
+  "jp": "アイテム入れかえ。{br}えらんだアイテムを{br}入れかえます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10ED74",
+  "slots": [
+   "41FB8"
+  ],
+  "jp": "どれをハコに{br}入れますか？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10ED84",
+  "slots": [
+   "41FBC"
+  ],
+  "jp": "この場所に{br}えらんだアイテムを{br}置きます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EDA0",
+  "slots": [
+   "41FC0"
+  ],
+  "jp": "{name:0B} {page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EDA8",
+  "slots": [
+   "41FC4"
+  ],
+  "jp": "こうかんアイテムを{br}せんたくして{br}ください。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EDC0",
+  "slots": [
+   "41FC8"
+  ],
+  "jp": "入れかえ{br}できませんでした。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EDD4",
+  "slots": [
+   "41FCC"
+  ],
+  "jp": "同じアイテムを{br}1つにまとめ{br}ました。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EDEC",
+  "slots": [
+   "41FD0"
+  ],
+  "jp": "しょじアイテムを{br}ハコに入れます。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10EE00",
+  "slots": [
+   "41FD4"
+  ],
+  "jp": "アイテムをこうかん{br}しました。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F05C",
+  "slots": [
+   "41FD8"
+  ],
+  "jp": " {name:01}はい  {name:07}いいえ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F06C",
+  "slots": [
+   "41FDC"
+  ],
+  "jp": " {name:07}はい  {name:01}いいえ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C544",
+  "slots": [
+   "41FE0"
+  ],
+  "jp": "はずしたそうびを{br}もちきれない。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B03C",
+  "slots": [
+   "41FE4"
+  ],
+  "jp": "ためしにワナを{br}つくるまでは、{br}もっておこう。{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126D30",
+  "slots": [
+   "41FE8",
+   "4200C",
+   "42010",
+   "42014",
+   "42018",
+   "4201C",
+   "42020",
+   "42024",
+   "42028",
+   "4202C",
+   "42030",
+   "42034",
+   "42038",
+   "42074",
+   "42078",
+   "4207C",
+   "42080",
+   "42084",
+   "42088",
+   "4208C",
+   "42090",
+   "42094",
+   "42098",
+   "4209C",
+   "420A0",
+   "420A4",
+   "420A8",
+   "420AC",
+   "420B0",
+   "420B4",
+   "420B8",
+   "420BC",
+   "420C0",
+   "420C4",
+   "420C8",
+   "420CC",
+   "420D0",
+   "420D4",
+   "420D8",
+   "420DC",
+   "420E0",
+   "420E4",
+   "420E8",
+   "420EC",
+   "420F0",
+   "420F4",
+   "420F8",
+   "420FC",
+   "42100",
+   "42104",
+   "42108",
+   "4210C",
+   "42110",
+   "42114",
+   "42118",
+   "4211C",
+   "42120",
+   "42124",
+   "42128",
+   "4212C",
+   "42130",
+   "42134",
+   "42138",
+   "4213C",
+   "42140",
+   "42144",
+   "42148"
+  ],
+  "jp": "こうげき力 8{br}クリティカル 低{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126D48",
+  "slots": [
+   "41FEC"
+  ],
+  "jp": "こうげき力 24{br}クリティカル 低{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126D60",
+  "slots": [
+   "41FF0"
+  ],
+  "jp": "こうげき力 40{br}クリティカル 低{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126D78",
+  "slots": [
+   "41FF4"
+  ],
+  "jp": "こうげき力 64{br}クリティカル 低{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126D90",
+  "slots": [
+   "41FF8"
+  ],
+  "jp": "こうげき力 10{br}クリティカル 中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126DA8",
+  "slots": [
+   "41FFC"
+  ],
+  "jp": "こうげき力 16{br}クリティカル 中{br}ぼうぎょ力 アップ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126DCC",
+  "slots": [
+   "42000"
+  ],
+  "jp": "こうげき力 32{br}クリティカル 中{br}対ひょうい アップ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126DF0",
+  "slots": [
+   "42004"
+  ],
+  "jp": "こうげき力 50{br}クリティカル 中{br}？？？？？ アップ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E14",
+  "slots": [
+   "42008"
+  ],
+  "jp": "こうげき力 30{br}クリティカル 高{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E2C",
+  "slots": [
+   "4203C"
+  ],
+  "jp": "ぼうぎょ力 6{br}対ひょうい 4{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E40",
+  "slots": [
+   "42040"
+  ],
+  "jp": "ぼうぎょ力 10{br}対ひょうい 8{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E54",
+  "slots": [
+   "42044"
+  ],
+  "jp": "ぼうぎょ力 14{br}対ひょうい 16{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E6C",
+  "slots": [
+   "42048"
+  ],
+  "jp": "ぼうぎょ力 20{br}対ひょうい 16{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E84",
+  "slots": [
+   "4204C"
+  ],
+  "jp": "ぼうぎょ力 0{br}対ひょうい 10{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126E98",
+  "slots": [
+   "42050"
+  ],
+  "jp": "ぼうぎょ力 0{br}対ひょうい 15{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126EAC",
+  "slots": [
+   "42054"
+  ],
+  "jp": "ぼうぎょ力 0{br}対ひょうい 20{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126EC0",
+  "slots": [
+   "42058"
+  ],
+  "jp": "ぼうぎょ力 2{br}対ひょうい 0{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126ED4",
+  "slots": [
+   "4205C"
+  ],
+  "jp": "ぼうぎょ力 4{br}対ひょうい 0{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126EE8",
+  "slots": [
+   "42060"
+  ],
+  "jp": "ぼうぎょ力 4{br}対ひょうい 0{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126EFC",
+  "slots": [
+   "42064"
+  ],
+  "jp": "ぼうぎょ力 6{br}対ひょうい 0{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126F10",
+  "slots": [
+   "42068"
+  ],
+  "jp": "ぼうぎょ力 0{br}対ひょうい 8{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126F24",
+  "slots": [
+   "4206C"
+  ],
+  "jp": "ぼうぎょ力 8{br}対ひょうい 25{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "126F38",
+  "slots": [
+   "42070"
+  ],
+  "jp": "ぼうぎょ力 10{br}対ひょうい 20{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F07C",
+  "slots": [
+   "4214C"
+  ],
+  "jp": "Gサプレッサー{br}対ゴースト用メカ{br}ダメージ小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F098",
+  "slots": [
+   "42150"
+  ],
+  "jp": "Gキャンセラー{br}対ゴースト用メカ{br}ダメージ中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F0B8",
+  "slots": [
+   "42154"
+  ],
+  "jp": "Gデストラクター{br}対ゴースト用メカ{br}ダメージ大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F0D8",
+  "slots": [
+   "42158"
+  ],
+  "jp": "エーテルブレード{br}対ゴースト用メカ{br}ダメージとく大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F0F8",
+  "slots": [
+   "4215C"
+  ],
+  "jp": "タリスマン{br}対ゴースト用道具{br}ダメージ小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F118",
+  "slots": [
+   "42160"
+  ],
+  "jp": "黒のタリスマン{br}対ゴースト用道具{br}ダメージ小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F138",
+  "slots": [
+   "42164"
+  ],
+  "jp": "白のタリスマン{br}対ゴースト用道具{br}ダメージ中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F158",
+  "slots": [
+   "42168"
+  ],
+  "jp": "赤のタリスマン{br}対ゴースト用道具{br}ダメージ大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F178",
+  "slots": [
+   "4216C"
+  ],
+  "jp": "クリスタル{br}対ゴースト用道具{br}たまに大ダメージ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F198",
+  "slots": [
+   "42170"
+  ],
+  "jp": "さびたナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F1B4",
+  "slots": [
+   "42174"
+  ],
+  "jp": "ナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F1D0",
+  "slots": [
+   "42178"
+  ],
+  "jp": "きよめたナイフ{br}対ゴースト用ワナ{br}せまくやや長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F1F0",
+  "slots": [
+   "4217C"
+  ],
+  "jp": "パワートラップ{br}対ゴースト用ワナ{br}ややひろくやや長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F214",
+  "slots": [
+   "42180"
+  ],
+  "jp": "ハイキャプチャー{br}対ゴースト用ワナ{br}ややひろく長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F234",
+  "slots": [
+   "42184"
+  ],
+  "jp": "黒のランプ{br}対ゴースト用ワナ{br}ひろくみじかい{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F254",
+  "slots": [
+   "42188"
+  ],
+  "jp": "白のランプ{br}対ゴースト用ワナ{br}ひろくやや長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F274",
+  "slots": [
+   "4218C"
+  ],
+  "jp": "赤のランプ{br}対ゴースト用ワナ{br}ひろく長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F294",
+  "slots": [
+   "42190"
+  ],
+  "jp": "なぞのもんしょう{br}対ゴースト用ワナ{br}めちゃめちゃ長い{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F2B4",
+  "slots": [
+   "42194"
+  ],
+  "jp": "ゴーストマイン{br}対ゴースト用ワナ{br}ダメージ小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F2D4",
+  "slots": [
+   "42198"
+  ],
+  "jp": "グレートマイン{br}対ゴースト用ワナ{br}ダメージ中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F2F4",
+  "slots": [
+   "4219C"
+  ],
+  "jp": "バニシングマイン{br}対ゴースト用ワナ{br}ダメージ大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F314",
+  "slots": [
+   "421A0"
+  ],
+  "jp": "Eガード{br}まよけのメカ{br}ぼうぎょ小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F328",
+  "slots": [
+   "421A4"
+  ],
+  "jp": "Eプロテクター{br}まよけのメカ{br}ぼうぎょ中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F340",
+  "slots": [
+   "421A8"
+  ],
+  "jp": "Eフィールド{br}まよけのメカ{br}ぼうぎょ大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F358",
+  "slots": [
+   "421AC"
+  ],
+  "jp": "エーテルアーマー{br}まよけのメカ{br}ぼうぎょとく大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

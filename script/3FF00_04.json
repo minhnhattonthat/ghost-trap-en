@@ -1,0 +1,541 @@
+[
+ {
+  "id": "11B084",
+  "slots": [
+   "4077C",
+   "407BC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「たくさんたるが{br} 置かれてるなあ」{page}{box:00}{name:02}ジョージ{br}「この館には{br} いったい何人が…{page}{box:00}{name:02}ジョージ{br}「くらして{br} いたんだろうな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B0DC",
+  "slots": [
+   "40780"
+  ],
+  "jp": "{box:01}たなに書きおきが{br}置かれていた。{page}{box:01}『トランスは{br} でんあつを上げる{page}{box:01}『それはベッドの{br} よこのたなに』{page}{box:00}{name:02}ジョージ{br}「ふむ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B2A4",
+  "slots": [
+   "40788",
+   "407C8"
+  ],
+  "jp": "{box:01}カビの生えた{br}ワインのたるだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B2BC",
+  "slots": [
+   "4078C",
+   "407CC"
+  ],
+  "jp": "{box:01}いくつもたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B2D0",
+  "slots": [
+   "40790"
+  ],
+  "jp": "{box:01}たなに古い{br}メモをみつけた。{page}{box:01}『タリスマンには{br} 石をはめこめ』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B514",
+  "slots": [
+   "40798",
+   "407D8"
+  ],
+  "jp": "{box:01}ねんきの入った{br}ワインのたるだ。{page}{box:00}{name:02}ジョージ{br}「…なかみは全部{br} ワインビネガー？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B550",
+  "slots": [
+   "4079C",
+   "407DC"
+  ],
+  "jp": "{box:01}ワインのたるが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「だいぶ古いから、{br} なかみがあっても{page}{box:00}{name:02}ジョージ{br}「全部ビネガーに{br} なってるよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B5A4",
+  "slots": [
+   "407A0"
+  ],
+  "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『ゴーストたいじの{br} クリスタルは、{page}{box:01}『きいろいつうろに{br} 置いてある』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121C08",
+  "slots": [
+   "407B0"
+  ],
+  "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『テスラコイルは{br} えいしゃきそばに』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121C48",
+  "slots": [
+   "407C0"
+  ],
+  "jp": "{box:01}たなには何も{br}のってなかった。{page}{box:00}{name:02}ジョージ{br}「アリシアの{br} 手がかりもなし…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121C7C",
+  "slots": [
+   "407D0"
+  ],
+  "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『Nユニットは{br} ナゾのパーツ{page}{box:01}『それを使えば{br} ぼうぐができる{page}{box:01}『フライパンの{br} 後に使う』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121B94",
+  "slots": [
+   "407E0"
+  ],
+  "jp": "{box:01}紙きれを{br}みつけた。{page}{box:00}{name:02}ジョージ{br}「あ、なんか{br} 書いてあるな…」{page}{box:01}『さいこうのぶきは{br} 聖者の石と。{page}{box:01}『聖者の石には{br} エリクシールが。{page}{box:01}『エリクシールには{br} Nリキッドが』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C114",
+  "slots": [
+   "407E8",
+   "40828"
+  ],
+  "jp": "{box:01}ワインの入った{br}たるだろうか？{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C12C",
+  "slots": [
+   "407EC",
+   "4082C"
+  ],
+  "jp": "{box:01}たるがたくさん{br}置いてある。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C140",
+  "slots": [
+   "407F0"
+  ],
+  "jp": "{box:01}たなに書きおきを{br}見つけた。{page}{box:01}『トランシーバーは{br} でんわの部屋に』{page}{box:00}{name:02}ジョージ{br}「なるほど…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C270",
+  "slots": [
+   "407F8",
+   "40838"
+  ],
+  "jp": "{box:01}こわれかけた{br}ワインのたるだ。{page}{box:01}しっけのせいで{br}カビが生えている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C29C",
+  "slots": [
+   "407FC",
+   "4083C"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「たくさんたるが{br} 置かれてるなあ」{page}{box:00}{name:02}ジョージ{br}「この館には{br} いったい何人が…{page}{box:00}{name:02}ジョージ{br}「くらして{br} いたんだろうな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C2F4",
+  "slots": [
+   "40800"
+  ],
+  "jp": "{box:01}たなに書きおきが{br}置かれていた。{page}{box:01}『タリスマンと{br} マグネトロンは{page}{box:01}『おなじ部屋に{br} かくされている』{page}{box:00}{name:02}ジョージ{br}「ふむ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C42C",
+  "slots": [
+   "40808",
+   "40848"
+  ],
+  "jp": "{box:01}カビの生えた{br}ワインのたるだ。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C444",
+  "slots": [
+   "4080C",
+   "4084C"
+  ],
+  "jp": "{box:01}いくつもたるが{br}置かれている。{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11C458",
+  "slots": [
+   "40810"
+  ],
+  "jp": "{box:01}たなに古い{br}メモをみつけた。{page}{box:01}『フライパンは{br} ようがんに』{page}{box:00}{name:02}ジョージ{br}「なるほどね」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11E0FC",
+  "slots": [
+   "40818",
+   "40858"
+  ],
+  "jp": "{box:01}ねんきの入った{br}ワインのたるだ。{page}{box:00}{name:02}ジョージ{br}「…なかみは全部{br} ワインビネガー？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11E138",
+  "slots": [
+   "4081C",
+   "4085C"
+  ],
+  "jp": "{box:01}ワインのたるが{br}置かれている。{page}{box:00}{name:02}ジョージ{br}「だいぶ古いから、{br} なかみがあっても{page}{box:00}{name:02}ジョージ{br}「全部ビネガーに{br} なってるよな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11E18C",
+  "slots": [
+   "40820"
+  ],
+  "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『クリスタルは{br} 2度に1度、{page}{box:01}『クリティカルな{br} こうげきになる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121D34",
+  "slots": [
+   "40830"
+  ],
+  "jp": "{box:01}たなに書きおきが{br}残っていた。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121D70",
+  "slots": [
+   "40840"
+  ],
+  "jp": "{box:01}たなには何も{br}のってなかった。{page}{box:00}{name:02}ジョージ{br}「アリシアの{br} 手がかりもなし…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121DA4",
+  "slots": [
+   "40850"
+  ],
+  "jp": "{box:01}書きおきを{br}はっけんした。{page}{box:00}{name:02}ジョージ{br}「どれどれ？」{page}{box:01}『アタノールつぼに{br} 石を入れよ』{page}{box:01}『ガラスのつぼと{br} 違うこうかが…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "121CDC",
+  "slots": [
+   "40860"
+  ],
+  "jp": "{box:01}紙きれを{br}みつけた。{page}{box:00}{name:02}ジョージ{br}「あ、なんか{br} 書いてあるな…」{page}{box:01}『Nリキッドには{br} くさいぬり薬と{page}{box:01}『まずいのみ薬が{br} ひつようだ』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12413C",
+  "slots": [
+   "40868",
+   "40898"
+  ],
+  "jp": "{box:01}手すりは古くて{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「あんまりそばには{br} 行きたくないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124174",
+  "slots": [
+   "4086C",
+   "4089C"
+  ],
+  "jp": "{box:01}手すりのむこうは{br}何もない。{page}{box:00}{name:02}ジョージ{br}「下には何が{br} あるんだろ…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1241A8",
+  "slots": [
+   "40870",
+   "408A0"
+  ],
+  "jp": "{box:01}手すりがある。{page}{box:00}{name:02}ジョージ{br}「くらくて下が{br} 見えないや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1241D4",
+  "slots": [
+   "40874",
+   "408A4"
+  ],
+  "jp": "{box:01}かべのとそうが{br}はがれている。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} かおに見えるな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124208",
+  "slots": [
+   "40878"
+  ],
+  "jp": "{box:01}かべがはがれて{br}いる。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ゴーストからの{br} こうげきから{page}{box:01}『みをまもるには、{br} フライパンや{page}{box:01}『なべのふた、{br} 心のおまもり{page}{box:01}『などがこうかてき』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124288",
+  "slots": [
+   "40880",
+   "408B0"
+  ],
+  "jp": "{box:01}古い手すりが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ここからおちたら{br} どうなるのかな？{page}{box:00}{name:02}ジョージ{br}「やっぱりゴースト{br} になるのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1242D8",
+  "slots": [
+   "40884",
+   "408B4"
+  ],
+  "jp": "{box:01}こわれそうな{br}手すりがある。{page}{box:00}{name:02}ジョージ{br}「そばによるだけで{br} こわれそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12430C",
+  "slots": [
+   "40888",
+   "408B8"
+  ],
+  "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124358",
+  "slots": [
+   "4088C"
+  ],
+  "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『フライパンや{br} なべのふたは{page}{box:01}『トランシーバーと{br} マグネトロンから{page}{box:01}『つくれるぼうぐに{br} くみあわせると{page}{box:01}『よりすぐれた{br} ぼうぐになる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1243E8",
+  "slots": [
+   "40890",
+   "408C0"
+  ],
+  "jp": "{box:01}かべがはがれて{br}レンガが見える。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} いやなカンジだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12441C",
+  "slots": [
+   "408A8"
+  ],
+  "jp": "{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ランプと{br} きよめたナイフで{page}{box:01}『ゴーストのワナが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1240E8",
+  "slots": [
+   "408BC"
+  ],
+  "jp": "{box:01}かべの一部に{br}ラクガキがある。{page}{box:01}『ガラスのつぼに{br} 赤い石を入れよ。{page}{box:01}『さいこうのワナが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「ふむ…』{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1244C4",
+  "slots": [
+   "408C8",
+   "408F8"
+  ],
+  "jp": "{box:01}手すりは古くて{br}ボロボロだ。{page}{box:00}{name:02}ジョージ{br}「あんまりそばには{br} 行きたくないな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1244FC",
+  "slots": [
+   "408CC",
+   "408FC"
+  ],
+  "jp": "{box:01}手すりのむこうは{br}何もない。{page}{box:00}{name:02}ジョージ{br}「下には何が{br} あるんだろ…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124530",
+  "slots": [
+   "408D0",
+   "40900"
+  ],
+  "jp": "{box:01}手すりがある。{page}{box:00}{name:02}ジョージ{br}「くらくて下が{br} 見えないや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "12455C",
+  "slots": [
+   "408D4",
+   "40904"
+  ],
+  "jp": "{box:01}かべのとそうが{br}はがれている。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} かおに見えるな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124590",
+  "slots": [
+   "408D8"
+  ],
+  "jp": "{box:01}かべがはがれて{br}いる。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ワナはゴーストの{br} 足を止める。{page}{box:01}『そのスキをぬって{br} にげるのもよし』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1245F4",
+  "slots": [
+   "408E0",
+   "40910"
+  ],
+  "jp": "{box:01}古い手すりが{br}ついている。{page}{box:00}{name:02}ジョージ{br}「ここからおちたら{br} どうなるのかな？{page}{box:00}{name:02}ジョージ{br}「やっぱりゴースト{br} になるのかな？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124644",
+  "slots": [
+   "408E4",
+   "40914"
+  ],
+  "jp": "{box:01}こわれそうな{br}手すりがある。{page}{box:00}{name:02}ジョージ{br}「そばによるだけで{br} こわれそうだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124678",
+  "slots": [
+   "408E8",
+   "40918"
+  ],
+  "jp": "{box:01}おざなりな手すり{br}がついている。{page}{box:00}{name:02}ジョージ{br}「むこうがわは{br} まっくらで、{page}{box:00}{name:02}ジョージ{br}「上も下も{br} よく見えないや…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1246C4",
+  "slots": [
+   "408EC"
+  ],
+  "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『ゴーストに{br} ひょういされたら{page}{box:01}『じゅうじボタンで{br} ふりほどけるが、{page}{box:01}『さらにひょういを{br} みじかくするには{page}{box:01}『アミュレットが{br} こうかてきだ』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124754",
+  "slots": [
+   "408F0",
+   "40920"
+  ],
+  "jp": "{box:01}かべがはがれて{br}レンガが見える。{page}{box:00}{name:02}ジョージ{br}「かべのシミが{br} いやなカンジだ」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "124788",
+  "slots": [
+   "40908"
+  ],
+  "jp": "{box:01}かべの一部に{br}ラクガキがあった。{page}{box:01}『エルダーのえだに{br} きよめたナイフで{page}{box:01}『ザツなおまもりが{br} できあがる』{page}{box:00}{name:02}ジョージ{br}「なるほどね…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]

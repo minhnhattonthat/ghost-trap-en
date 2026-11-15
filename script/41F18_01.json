@@ -1,0 +1,814 @@
+[
+ {
+  "id": "10F374",
+  "slots": [
+   "421B0"
+  ],
+  "jp": "エルダーのえだ{br}ひょうい時間を{br}少しへらす{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F390",
+  "slots": [
+   "421B4"
+  ],
+  "jp": "ザツなおまもり{br}ひょうい時間を{br}ややへらす{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F3AC",
+  "slots": [
+   "421B8"
+  ],
+  "jp": "アミュレット{br}ひょうい時間を{br}かなりへらす{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F3C8",
+  "slots": [
+   "421BC"
+  ],
+  "jp": "ほうたい{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F3DC",
+  "slots": [
+   "421C0"
+  ],
+  "jp": "しっぷ薬{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F3F4",
+  "slots": [
+   "421C4"
+  ],
+  "jp": "なべのふた{br}りょうりの道具{br}ぼうぐになる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F40C",
+  "slots": [
+   "421C8"
+  ],
+  "jp": "フライパン{br}りょうりの道具{br}ぼうぐになる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F428",
+  "slots": [
+   "421CC"
+  ],
+  "jp": "気つけなんこう{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F440",
+  "slots": [
+   "421D0"
+  ],
+  "jp": "心のおまもり{br}おまもり{br}ぼうぎょ大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F458",
+  "slots": [
+   "421D4"
+  ],
+  "jp": "聖者の石{br}ふしぎな石{br}そうびで元気に{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F474",
+  "slots": [
+   "421D8"
+  ],
+  "jp": "バーベイン{br}ハーブ{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F48C",
+  "slots": [
+   "421DC"
+  ],
+  "jp": "アンジェリカ{br}ハーブ{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F4A4",
+  "slots": [
+   "421E0"
+  ],
+  "jp": "ネクター{br}のみもの{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F4B8",
+  "slots": [
+   "421E4"
+  ],
+  "jp": "ぬり薬{br}いやくひん{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F4D0",
+  "slots": [
+   "421E8"
+  ],
+  "jp": "くさいぬり薬{br}いやくひん{br}HPかいふく中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F4E8",
+  "slots": [
+   "421EC"
+  ],
+  "jp": "のみ薬{br}いやくひん{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F500",
+  "slots": [
+   "421F0"
+  ],
+  "jp": "まずいのみ薬{br}いやくひん{br}HPかいふく中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F518",
+  "slots": [
+   "421F4"
+  ],
+  "jp": "Nリキッド{br}あやしいえきたい{br}HPかいふく大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F534",
+  "slots": [
+   "421F8"
+  ],
+  "jp": "霊水{br}きよめられた水{br}全体に小ダメージ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F550",
+  "slots": [
+   "421FC"
+  ],
+  "jp": "黒の霊薬{br}ワナの薬{br}全体バインド小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F56C",
+  "slots": [
+   "42200"
+  ],
+  "jp": "白の霊薬{br}ワナの薬{br}全体バインド中{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F588",
+  "slots": [
+   "42204"
+  ],
+  "jp": "赤の霊薬{br}ワナの薬{br}全体バインド大{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F5A4",
+  "slots": [
+   "42208"
+  ],
+  "jp": "エリクシール{br}すごくふしぎな薬{br}HP全かいふく{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F5C4",
+  "slots": [
+   "4220C"
+  ],
+  "jp": "きよめの塩{br}しょっぱい{br}全体に中ダメージ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F5E0",
+  "slots": [
+   "42210"
+  ],
+  "jp": "イオウのこな{br}おんせんのにおい{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F5FC",
+  "slots": [
+   "42214"
+  ],
+  "jp": "夜あけのランプ{br}ふしぎなランプ{br}全体に大ダメージ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F620",
+  "slots": [
+   "42218"
+  ],
+  "jp": "カモミール{br}ハーブ{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F638",
+  "slots": [
+   "4221C"
+  ],
+  "jp": "フラックス{br}ハーブ{br}HPかいふく小{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F650",
+  "slots": [
+   "42220"
+  ],
+  "jp": "トランシーバー{br}こわれている{br}ぼうぐのパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F66C",
+  "slots": [
+   "42224"
+  ],
+  "jp": "マグネトロン{br}レンジのぶひん{br}ぼうぐのパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F688",
+  "slots": [
+   "42228"
+  ],
+  "jp": "トランス{br}アンプのぶひん{br}ぶきのパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F6A0",
+  "slots": [
+   "4222C"
+  ],
+  "jp": "テスラコイル{br}変わったコイル{br}ぶきのパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F6BC",
+  "slots": [
+   "42230"
+  ],
+  "jp": "Nユニット{br}なぞのパーツ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F6D0",
+  "slots": [
+   "42234"
+  ],
+  "jp": "ガラスのつぼ{br}とうめいなつぼ{br}何かを入れる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F6EC",
+  "slots": [
+   "42238"
+  ],
+  "jp": "黒の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F704",
+  "slots": [
+   "4223C"
+  ],
+  "jp": "白の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F71C",
+  "slots": [
+   "42240"
+  ],
+  "jp": "赤の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F734",
+  "slots": [
+   "42244"
+  ],
+  "jp": "アタノールつぼ{br}変わったつぼ{br}何かを入れる{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F750",
+  "slots": [
+   "42248"
+  ],
+  "jp": "ヤスリ{br}ざらざらしている{br}何かをみがく{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F768",
+  "slots": [
+   "4224C"
+  ],
+  "jp": "マッチ{br}火事の元{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F780",
+  "slots": [
+   "42250"
+  ],
+  "jp": "オイル{br}何かのあぶら{br}ごうせいパーツ{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F798",
+  "slots": [
+   "42254"
+  ],
+  "jp": "9ばんボール{br}ビリヤードで使う{br}きいろのたま{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F7B4",
+  "slots": [
+   "42258"
+  ],
+  "jp": "ビデオテープ{br}ビデオデッキを{br}さがそう{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F7CC",
+  "slots": [
+   "4225C"
+  ],
+  "jp": "レコード{br}ジュークBOXへ{br}入れてみよう{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F7E4",
+  "slots": [
+   "42260"
+  ],
+  "jp": "鏡{br}よくうつる{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F7F4",
+  "slots": [
+   "42264"
+  ],
+  "jp": "きふワイン{br}すごくあまい{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F80C",
+  "slots": [
+   "42268"
+  ],
+  "jp": "オカルトの本{br}きみがわるい本{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F824",
+  "slots": [
+   "4226C"
+  ],
+  "jp": "いにしえの本{br}ぼろぼろな本{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F83C",
+  "slots": [
+   "42270"
+  ],
+  "jp": "オカルトずかん{br}あやしい本だ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F854",
+  "slots": [
+   "42274"
+  ],
+  "jp": "大じてん{br}ひゃっかじてん{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F868",
+  "slots": [
+   "42278"
+  ],
+  "jp": "しんちゅうのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F880",
+  "slots": [
+   "4227C"
+  ],
+  "jp": "てつのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F894",
+  "slots": [
+   "42280"
+  ],
+  "jp": "シルバーのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F8AC",
+  "slots": [
+   "42284"
+  ],
+  "jp": "ムラサキのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F8C4",
+  "slots": [
+   "42288"
+  ],
+  "jp": "ゴールドのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F8DC",
+  "slots": [
+   "4228C"
+  ],
+  "jp": "プラチナのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F8F4",
+  "slots": [
+   "42290"
+  ],
+  "jp": "あやしいカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10F908",
+  "slots": [
+   "42294"
+  ],
+  "jp": "せいどうのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1271B8",
+  "slots": [
+   "42298"
+  ],
+  "jp": "ニサンの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFA4",
+  "slots": [
+   "4229C"
+  ],
+  "jp": "アイヤルの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFB4",
+  "slots": [
+   "422A0"
+  ],
+  "jp": "シマヌの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFC0",
+  "slots": [
+   "422A4"
+  ],
+  "jp": "ドゥウズの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFD0",
+  "slots": [
+   "422A8"
+  ],
+  "jp": "アブの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFDC",
+  "slots": [
+   "422AC"
+  ],
+  "jp": "ウルルの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFEC",
+  "slots": [
+   "422B0"
+  ],
+  "jp": "テシュリトゥの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11AFFC",
+  "slots": [
+   "422B4"
+  ],
+  "jp": "アラフシャムの書{br} {br} {clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "11B00C",
+  "slots": [
+   "422B8",
+   "422BC",
+   "422C0"
+  ],
+  "jp": "ナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1051D8",
+  "slots": [
+   "422C4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よし、ゴースト{br} センサーは…」{page}{box:00}{name:02}ジョージ{br}「だいじょうぶだ！{br} …ちなみに」{page}{box:00}{name:02}ジョージ{br}「これはオレが{br} つくったもので、」{page}{box:00}{name:02}ジョージ{br}「ゴーストとの{br} きょりによって」{page}{box:00}{name:02}ジョージ{br}「音とはんのうが{br} 早く、大きくなる」{page}{box:00}{name:02}ジョージ{br}「しかも！{br} ゴーストの数で」{page}{box:00}{name:02}ジョージ{br}「はんのうの色が{br} かわるスグレ物だ」{page}{box:00}{name:02}ジョージ{br}「…ま、アリシアは{br} このはつめいを」{page}{box:00}{name:02}ジョージ{br}「バカにしてた{br} けどな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1052DC",
+  "slots": [
+   "422C8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「とにかくいろいろ{br} しらべてみよう。」{page}{box:00}{name:02}ジョージ{br}「なにかてがかりが{br} あるかもな。」{page}{box:00}{name:02}ジョージ{br}「ものに近づいて、{br} Aボタンだ。」{page}{box:00}{name:02}ジョージ{br}「アイテムもそれで{br} ひろえるし、」{page}{box:00}{name:02}ジョージ{br}「ドアもそれで{br} あけられる…」{page}{box:00}{name:02}ジョージ{br}「カギがかかって{br} なければだけど…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10538C",
+  "slots": [
+   "422CC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、」{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで」{page}{box:00}{name:02}ジョージ{br}「かくにんできて、{br} オレのむいている」{page}{box:00}{name:02}ジョージ{br}「ほうこうもみぎの{br} コンパスに出る…」{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！」{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105510",
+  "slots": [
+   "422D4"
+  ],
+  "jp": "{box:01}床にナイフが{br}ささっている。{page}{box:01}ゴーストセンサー{br}にはんのうし、{page}{box:01}ナイフがあやしく{br}光りだした！{page}{box:00}{name:02}ジョージ{br}「あのナイフは{br} なんだろう？{page}{box:00}{name:02}ジョージ{br}「オレのセンサーに{br} はんのうしてる…」{page}{box:00}{name:02}ジョージ{br}「さわらない方が{br} いいかな…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1055A4",
+  "slots": [
+   "422D8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「うわっ！出た！{br} ゴーストだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1055C4",
+  "slots": [
+   "422DC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「…？{br} どうしたんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！今なら{br} 近づいて…{page}{box:00}{name:02}ジョージ{br}「サプレッサーで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「よし！近づいて、{br} Aボタンだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105634",
+  "slots": [
+   "422E0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「よし！ゴーストを{br} やっつけたぞ！」{page}{box:00}{name:02}ジョージ{br}「…それにしても{br} あのナイフには、」{page}{box:00}{name:02}ジョージ{br}「ゴーストを止めて{br} うごけなくする、」{page}{box:00}{name:02}ジョージ{br}「バインドのうりょく{br} があるのか？」{page}{box:00}{name:02}ジョージ{br}「どうやらナイフの{br} ふしぎなチカラと」{page}{box:00}{name:02}ジョージ{br}「センサーのパワー{br} がはんのうして…」{page}{box:00}{name:02}ジョージ{br}「ワナになった{br} みたいだけど…」{page}{box:00}{name:02}ジョージ{br}「もう一つのワナを{br} しらべてみるか…」{page}{box:00}{name:02}ジョージ{br}「ワナに近づいて{br} Aボタンだな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "10574C",
+  "slots": [
+   "422E4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「このひろった{br} ナイフを…」{page}{box:00}{name:02}ジョージ{br}「床に同じように{br} ならべてみるか…」{page}{box:00}{name:02}ジョージ{br}「ナイフをせんたく{br} してAボタンで、」{page}{box:00}{name:02}ジョージ{br}「ナイフを使えば、{br} ワナができると…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1057C8",
+  "slots": [
+   "422E8"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「やっぱりセンサー{br} にはんのうして、」{page}{box:00}{name:02}ジョージ{br}「ワナになる{br} みたいだ！」{page}{box:00}{name:02}ジョージ{br}「よし！センサーを{br} かいぞうしよう。」{page}{box:00}{name:02}ジョージ{br}「少しだけパワーを{br} ワナにむけて…」{page}{box:00}{name:02}ジョージ{br}「ワナがのこる{br} ようにしよう。」{page}{box:00}{name:02}ジョージ{br}「…でも、マトモな{br} 道具が無いから、」{page}{box:00}{name:02}ジョージ{br}「5つまでが{br} げんどだな…」{page}{box:00}{name:02}ジョージ{br}「それにパワーも{br} 小さいから、」{page}{box:00}{name:02}ジョージ{br}「とおくに行くと{br} ワナがきえるな…」{page}{box:00}{name:02}ジョージ{br}「…でも、まぁ、{br} なんとかなるさ。」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1058F4",
+  "slots": [
+   "422EC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「これは…！？」{page}{box:00}{name:02}ジョージ{br}「さっきと部屋の{br} ふんいきがちがう。」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105928",
+  "slots": [
+   "422F0"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「やっぱりさっきと{br} ちがう！」{page}{box:00}{name:02}ジョージ{br}「どうなってるんだ？{br} この館は！？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105964",
+  "slots": [
+   "422F4"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「カロルさんの{br} カンがあたった？」{page}{box:00}{name:02}ジョージ{br}「さっきまでとは{br} ぜんぜんちがう。」{page}{box:00}{name:02}ジョージ{br}「この本がなにかの{br} カギだったんだ！」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "1059C0",
+  "slots": [
+   "422F8"
+  ],
+  "jp": "{box:00}{name:05}？？？？{br}「わ…れ…わ{br} グレ…ゴリ…」{page}{box:00}{name:02}ジョージ{br}「グレゴリ？{br} 何のことだ？」{page}{box:00}{name:02}ジョージ{br}「きえた……でも、{br} 今のゴーストは、」{page}{box:00}{name:02}ジョージ{br}「何かをいいたそう{br} だったな…」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ },
+ {
+  "id": "105A3C",
+  "slots": [
+   "422FC"
+  ],
+  "jp": "{box:00}{name:02}ジョージ{br}「なんだ…？{br} あかないぞ。」{page}{box:00}{name:02}ジョージ{br}「あ、何かドアに{br} かかれてるな…」{page}{box:01}「みっつの口に{br} あなたのキフを…」{page}{box:00}{name:02}ジョージ{br}「あなたのキフ？{br} きふ…？」{page}{end}",
+  "en": "",
+  "status": "todo",
+  "notes": ""
+ }
+]
