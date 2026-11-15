@@ -2,11 +2,12 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release done 2026-11-16 (re-run `--force` later that day: RELEASE OK, same sha1, no open issues): `tools/release.py` exit 0, `release/v1.0/Ghost_Trap_EN_v1.0.zip` built and
-  verified (BPS re-applied to the clean dump). Publishing (`gh release create`, repo visibility) is the owner's call.
-  **Release build: `build/ghost_trap_en.gba` sha1 `ab915aca7f25d5d43c20d9b522a768942b8476a9`, CRC32 `B7704AE0`**,
-  frozen with its `strings.tsv` in `work/qa/roms/ab915aca/`; the QA gate's `manifest.tsv.build` records it. Tour/story
-  ran on `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6`/`46c9659d`/`ab915aca` (each later build differs only in
+- **Phase:** 9. Release re-made 2026-11-16 on the field-box fix: `tools/release.py --force` RELEASE OK,
+  `release/v1.0/Ghost_Trap_EN_v1.0.zip` built and verified (BPS re-applied to the clean dump; patch sha1
+  `79891f40297477763a251aedc70790d4c25e0fe6`). QA gate waived for this build by the owner (D11).
+  **Release build: `build/ghost_trap_en.gba` sha1 `2f2b6ce8ea86b9b62510a20b238468ceff37fb5a`, CRC32 `A6DF99A3`**,
+  frozen with its `strings.tsv` in `work/qa/roms/2f2b6ce8/`. Tour/story
+  ran on `e067dd06`, pages on `3ee614ba`/`e520440d`/`667dd3c6`/`46c9659d`/`ab915aca`/`2f2b6ce8` (each later build differs only in
   reworded strings, each re-shown on its build); coverage is `tools/coverage.py` (union by id over runs with the final
   bytes).
 - **Done:**
@@ -153,10 +154,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Next (release in progress, owner asked to publish: D11, D12):** build frozen in `work/qa/roms/2f2b6ce8/`.
   The 60 hand-reworded pages were shot in the field box, all clean (`work/qa/width/reworded`). All 1,411 changed
   ids (`work/qa/en/changed_2f2b.txt`) re-shown in game (`work/qa/en/msgs_2f2b`, 0 failed), run added to
-  `tools/coverage_runs.tsv`: **coverage 3192/3192, 0 waived**. Remaining: `qa_gate.py waive work/qa/en/manifest.tsv
-  "<D11 reason>"` (Claude Code's auto-mode classifier refused to run the waiver itself: the owner runs it, or approves
-  it in the session), `release.py --force`, push, then repo description ("Ghost Trap", not the slug)/public/release
-  per D12. (`work/qa/roms/strings.tsv`, the en_text run's table,
+  `tools/coverage_runs.tsv`: **coverage 3192/3192, 0 waived**. Owner ran the D11 waiver; `release.py --force`
+  RELEASE OK. Remaining per D12, awaiting the owner's go: repo description ("English fan translation of Ghost Trap
+  (GBA)", not the slug), make public, `gh release create v1.0` with the zip. (`work/qa/roms/strings.tsv`, the en_text run's table,
   was overwritten by ruler builds and was restored with `tools/strings_tsv.py`; keep ad-hoc builds out of `roms/`.) Publishing only when the owner asks (`references/pipeline.md` §Publish; never run
   `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
