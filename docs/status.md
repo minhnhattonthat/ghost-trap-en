@@ -138,7 +138,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     gate 728/728 + story 11/11, coverage 3192/3192, jp_left 0, `release.py` RELEASE OK (patch 333144 bytes).
   - Re-verified 2026-11-16 (fresh session): `release.py --force` RELEASE OK again, same sha1 `ab915aca`, CRC32
     `B7704AE0`, `check.py` 62 tests OK; nothing changed. Again 2026-11-16 (third session): same result, no open
-    GitHub issues.
+    GitHub issues. Fourth dispatch 2026-11-16: build sha1 still `ab915aca`, `release/v1.0/` zip + bps present, no
+    open issues, main = origin; nothing to do. **The pipeline is at its end state: further phase-9 dispatches are
+    no-ops until the owner files a bug or asks to publish.**
 - **Next:** nothing in the pipeline. Publishing only when the owner asks (`references/pipeline.md` §Publish; never
   run `gh release create` or change visibility unasked). The playable image is `build/ghost_trap_en.gba`.
 - **Later, known work:** inventory warp (lead: watch writes when script 39 "を入手した" shows); FB speaker ids; FD vs
