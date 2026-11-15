@@ -94,8 +94,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     centred box (left-aligned like the JP), so inkbox doesn't apply. `tools/vqa_review.py` (codex exec verdicts per
     qa_gate chunk) written, not yet run.
 - **Runs stopped (2026-11-15, ~18:40, and again later that day):** Claude Code killed the background runs for low
-  system memory (2.2 GB free of 15.5; other repos' Mesen runs share the machine; not a tool fault). Msgs: ~2470/3192
-  strings have a proof shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume2.log`).
+  system memory (2.2 GB free of 15.5; other repos' Mesen runs share the machine; not a tool fault). Msgs: stopped a
+  third time (19:11, `--jobs 1`, 1.2 GB free with 5 Mesen processes from other repos): ~2800/3192 strings have a proof
+  shot, 0 failures so far (`--resume` continues; log `work/qa/en_msgs_resume3.log`). `qa_tour.py --resume` now
+  passes `--resume` to msgs/tour/story, so the tour continues from scene 233 instead of restarting.
   Save/load confirm boxes checked (step 5 first half): `work/qa/inkbox/{save,load}_confirm`, JP `work/qa/inkbox_jp`:
   left-aligned like the JP, same layer shimmer as the JP, so not centred boxes and inkbox doesn't apply. Tour: 233/533 scenes, 0 failures (`warp.py --all --resume --rom <frozen QA build> --out
   work/qa/en/tour --probe <skill>/scripts/lua/probes/textcover.lua ...` or re-run `qa_tour.py --skip msgs`); story
@@ -106,7 +108,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
      work/qa/en/msgs`. Then show the 5 changed Yes/No strings on the final build:
      `msgview.py --only "10EEFC|10EF18|10EF50|10F05C|10F06C" --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba
      --out work/qa/en/msgs_final` (or waive them citing `work/play/yesno3`).
-  2. Tour + story (`qa_tour.py --skip msgs --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
+  2. Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
      log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
   3. Coverage: `python -X utf8 tools/coverage.py --final work/qa/roms/e067dd06/ghost_trap_en.gba --run
      work/qa/en/msgs work/qa/roms/en_text_19914506.gba --run work/qa/en/tour work/qa/roms/e067dd06/ghost_trap_en.gba

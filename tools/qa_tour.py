@@ -1,6 +1,6 @@
 """qa_tour.py: the phase-8 tour of a build, every run logging text reads for textcover.py.
 
-    python -X utf8 tools/qa_tour.py [--rom build/ghost_trap_en.gba] [--out work/qa/en] [--skip msgs,tour,story]
+    python -X utf8 tools/qa_tour.py [--rom build/ghost_trap_en.gba] [--out work/qa/en] [--skip msgs,tour,story] [--resume]
 
 Steps (each its own output dir under --out, all with the textcover probe over this build's script block):
   msgs   tools/msgview.py: every string of build/strings.tsv through the message viewer -> msgs/
@@ -28,17 +28,19 @@ def main(argv=None):
     # its own dir: textcover.py reads every log.txt below it, and older runs (marker build) used other layouts
     ap.add_argument("--out", type=Path, default=ROOT / "work" / "qa" / "en")
     ap.add_argument("--skip", default="", help="comma list of steps to skip")
+    ap.add_argument("--resume", action="store_true", help="continue interrupted runs (skip proven ids/scenes)")
     a = ap.parse_args(argv)
     skip = set(filter(None, a.skip.split(",")))
+    res = ["--resume"] if a.resume else []
     rom = a.rom.read_bytes()
     lo = min(int(ln.split("\t")[1], 16) for ln in (a.rom.parent / "strings.tsv").read_text().split("\n") if ln)
     hi = struct.unpack_from("<I", rom, font.FONT_PTRS[0])[0] - 1
     cover = ["--probe", COVER, "--var", "RANGES='%X-%X'" % (lo, hi)]
     warp = PY + [str(ROOT / "tools" / "debug" / "warp.py"), "--rom", str(a.rom)]
     steps = [
-        ("msgs", PY + [str(ROOT / "tools" / "msgview.py"), "--rom", str(a.rom), "--out", str(a.out / "msgs")]),
-        ("tour", warp + ["--all", "--out", str(a.out / "tour")] + cover),
-        ("story", warp + ["--all", "--only", r"^script_0([0-2]\d|3[0-8])$", "--keep", "--sheet", "--frames", "15000",
+        ("msgs", PY + [str(ROOT / "tools" / "msgview.py"), "--rom", str(a.rom), "--out", str(a.out / "msgs")] + res),
+        ("tour", warp + ["--all", "--out", str(a.out / "tour")] + cover + res),
+        ("story", warp + ["--all"] + res + ["--only", r"^script_0([0-2]\d|3[0-8])$", "--keep", "--sheet", "--frames", "15000",
                           "--var", "MASH_EVERY=120", "--out", str(a.out / "story")] + cover),
     ]
     fails = []
