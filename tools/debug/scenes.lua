@@ -49,8 +49,13 @@ SCENES = {
 function SCENE_LOOKUP(name)
   if SCENES[name] then return SCENES[name] end
   local n = name:match("^script_(%d+)$")
-  -- cutscenes (0-38) fade in slowly: shoot 120 frames after the first glyph; field messages (39+) can close by then
-  if n then return { kind = "script", id = tonumber(n), hold = tonumber(n) >= 39 and 45 or 120 } end
+  -- cutscenes (0-38, and 107-108: a dialogue that types out from a black screen) fade in slowly: shoot 120 frames
+  -- after the first glyph; field messages (other 39+) can close by then
+  if n then
+    local id = tonumber(n)
+    local slow = id < 39 or id == 107 or id == 108
+    return { kind = "script", id = id, hold = slow and 120 or 45 }
+  end
   local a, r = name:match("^area_(%x%x)_r(%d+)$")
   if a then return { kind = "field", area = tonumber(a, 16), room = tonumber(r), hold = 90 } end
   local c, b = name:match("^chapter_(%d+)(b?)$")
