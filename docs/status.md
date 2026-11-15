@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress (b025-b027 merged, 28 batches to go). Last builds: 2026-11-15,
+- **Phase:** 6. Translate in progress (b001-b005 and b025-b031 merged, 19 batches to go: b006-b024). Last builds: 2026-11-15,
   `build/ghost_trap_en.gba` with b025 only, sha1 `0176c388…`, script_001 checked in-game; `build/marker.gba` (`build.py --marker`)
   sha1 `0f58afea14d823a0ac7f944525888ca85ec1876e`, 0x870000 bytes, smoke ok.
 - **Done:**
@@ -42,12 +42,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
     px widths), `tools/wrap.py` (wraps page bodies to 224 px x 2, packs pages on sentence breaks, balances lines,
     adds `{page}` + repeats the speaker prefix), `tests/test_batches.py` (lint of every shipped `en` gates commits),
     `docs/translator-brief.md` (the workflow; read it), `docs/synopsis.md`, glossary rulings + D8 (register, quotes).
-    31 batches split into `work/tl/b001-b031.tsv` (gitignored; ~95k JP chars without codes). **Merged: b025, b026,
-    b027** (25 cutscene strings, scripts 0-20ish). Pilot in-game: script_001 renders clean
-    (`work/qa/pilot/s1`).
-- **Next (phase 6 done-when):** translate b028-b031 (rest of the cutscenes, extend `docs/synopsis.md` as you go),
-  then b001-b024 (field text 3C55C/3FF00, items 41F18, menus) with `docs/translator-brief.md`; `batches.py check`
-  OK + merge per batch; commit after each few batches. Plugin translator/reviewer agent types are NOT available in
+    31 batches split into `work/tl/b001-b031.tsv` (gitignored; ~95k JP chars without codes). **Merged: b001-b005,
+    b025-b031** (all cutscenes through the ending and post-credits skits; `docs/synopsis.md` covers the whole
+    story). Pilot in-game: script_001 renders clean (`work/qa/pilot/s1`).
+  - `tools/prefill.py` (2026-11-15): field text repeats a lot (half of b003-b005 were repeats). Per batch:
+    `batches.py view bNNN > work/tl/bNNN.view.txt`, `prefill.py --todo bNNN > work/tl/bNNN.todo.txt` (only ids
+    with no translation yet, in-batch repeats dropped), translate those into `work/tl/bNNN.new` (same out.tsv
+    format), `prefill.py --assemble bNNN` (prefill + .new + in-batch repeats -> bNNN.out.tsv), `check`, `merge`.
+    Near-identical JP (違う/ちがう) is not matched: reuse the earlier English by hand.
+- **Next (phase 6 done-when):** translate b006-b024 (field text 3C55C/3FF00, items 41F18, menus) with
+  `docs/translator-brief.md` and the prefill flow above; `batches.py check` OK + merge per batch; commit after each
+  few batches. Plugin translator/reviewer agent types are NOT available in
   this harness (and the Orca brief forbids helpers): translate in the main thread, review yourself in a fresh
   read-only pass at the end (pairs file, Critical/Important fixed, Minors -> `docs/polish.md`). If `work/tl/` is
   missing (fresh clone), `batches.py split` regenerates batches for untranslated ids only. The extra `{page}` in a

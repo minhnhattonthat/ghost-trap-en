@@ -44,7 +44,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アルビノ | Albino | 80px | | |
 | 死のつかい | Reaper / messenger of death | 80px | name plate; in prose "messenger of death" | |
 | アトラハシス | Atrahasis | | | |
-| アンジェリカ | Angelica | | | |
+| アンジェリカ | Angelica | | an herb (item), not a person (10D1B0 note: can't combine with Chamomile) | |
 | グレゴリ | Gregori | | | |
 
 ## Places
@@ -87,4 +87,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | キスリム | Kislim | | | |
 
 ## Decisions from earlier batches
-- (none yet)
+- Shinfa (シンファ, @S) is the polite ghost who possesses Alicia at the climax; Albino (@B) is the old じゃ ghost;
+  Karol is the villain. ダメだこりゃ (post-credits running gag) -> "He's hopeless..." / "Hopeless...".
+- {box:01} field notes the player reads: each page opens with `"`, the last closes it.
+- Stock field lines: 絵が かざられている -> "A painting ... is on display."; ガラクタ -> junk; そだいゴミ -> bulky trash;
+  げんかんホール -> Entrance Hall; スタートボタン -> START Button; Aボタン -> A Button; じゅうじボタン -> +Control Pad.
