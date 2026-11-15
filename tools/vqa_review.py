@@ -2,7 +2,7 @@
 
     python -X utf8 tools/vqa_review.py work/qa/en/manifest.tsv work/qa/chunks/chunk_*.txt [--batch 6] [--jobs 2]
 
-For each chunk file (paths, one per line, from `qa_gate.py todo ... --out-dir`), sends the sheets to
+For each chunk file (`id<TAB>path` lines from `qa_gate.py todo ... --out-dir`, or bare paths), sends the sheets to
 `codex exec -s read-only` in batches of --batch images, with the judging rules of docs/visual-qa-brief.md, and
 writes work/qa/en/verdicts/<chunk>.tsv (`id<TAB>ok|issue<TAB>note`, ids from the manifest). The raw answers go to
 work/qa/en/verdicts/raw/<chunk>_<n>.txt. A sheet the reviewer skipped is retried once alone; still missing ->
@@ -56,8 +56,16 @@ def ask(ids_paths, raw):
 
 
 def review(chunk, ids, vdir, batch):
-    paths = [Path(p.strip()) for p in chunk.read_text(encoding="utf-8").splitlines() if p.strip()]
-    items = [(ids[str(p.resolve())], p) for p in paths]
+    items = []
+    for line in chunk.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        if "\t" in line:  # qa_gate.py todo writes `id<TAB>path`
+            i, p = line.split("\t", 1)
+            items.append((i.strip(), ROOT / p.strip()))
+        else:
+            p = Path(line.strip())
+            items.append((ids[str(p.resolve())], p))
     got = {}
     for n in range(0, len(items), batch):
         got.update(ask(items[n:n + batch], vdir / "raw" / f"{chunk.stem}_{n // batch}.txt"))

@@ -140,7 +140,7 @@ def split_long(text, width, nlines):
     return best[1] if best else [text]
 
 
-STUB = 8  # a page wrap.py adds must hold at least this many characters
+STUB = 10  # a page wrap.py adds must hold at least this many characters ("running." at 8 read as a stub)
 LAST_MIN = 6  # the last line of a multi-line page (an orphaned word reads as a layout bug)
 
 
@@ -149,11 +149,13 @@ def stubs(text):
     STUB characters: what a mid-clause page split looks like to the player."""
     bad, prev = [], None
     for body, _ in segments(text):
-        rest = prefix(body)[1].replace("{br}", " ")
-        plain = TOKEN.sub("", rest).strip()
-        if prev and plain and len(plain) < STUB and not re.search(r"[.!?\"')~]$", prev):
-            bad.append(f"stub page {plain!r} continues {prev[-30:]!r}")
-        prev = plain
+        # {clr} clears the box too (cutscene narration), so each cleared part is its own page on screen
+        for part in prefix(body)[1].split("{clr}"):
+            plain = TOKEN.sub("", part.replace("{br}", " ")).strip()
+            if prev and plain and len(plain) < STUB and not re.search(r"[.!?\"')~]$", prev):
+                bad.append(f"stub page {plain!r} continues {prev[-30:]!r}")
+            if plain:
+                prev = plain
     return bad
 
 

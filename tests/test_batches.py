@@ -51,6 +51,9 @@ class TestShippedEnglish(unittest.TestCase):
     def test_stub_lint(self):
         self.assertTrue(wrap.stubs("said a thing about{page}it.{page}{end}"))
         self.assertFalse(wrap.stubs("It was dark.{page}Ah!{page}{end}"))
+        # a {clr} clears the box like a page: a fragment before it is a stub too
+        self.assertTrue(wrap.stubs("she was already{page}running.{clr}I followed her.{end}"))
+        self.assertTrue(wrap.stubs("she was already{clr}running.{clr}I followed her.{end}"))
 
     def test_charset_is_the_table(self):
         self.assertNotIn("+", batches.ENCODABLE)
