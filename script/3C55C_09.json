@@ -5,8 +5,8 @@
    "3E174"
   ],
   "jp": "{box:01}たなにメモが{br}残っていた。{page}{box:01}『しっぷ薬を{br} つくるには、{page}{box:01}『ぬり薬とほうたい{br} がひつようだ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"To make a Poultice,{page}{box:01}\"you need Ointment{br}and a Bandage.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3E178"
   ],
   "jp": "{box:01}ナイフでほられた{br}文字があった。{page}{box:01}『タリスマンという{br} ゴーストぶきは、{page}{box:01}『BOOK1のハコ{br} が出る部屋に…』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Letters were{br}carved with a knife.{page}{box:01}\"The ghost weapon{br}called the Talisman{page}{box:01}\"is in the room where the{br}BOOK1 box appears...\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -26,8 +26,8 @@
    "3E230"
   ],
   "jp": "{box:01}何も入って{br}いなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -37,8 +37,8 @@
    "3E23C"
   ],
   "jp": "{box:01}バネが出ていて{br}すわれない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The springs stick{br}out; no sitting here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -47,8 +47,8 @@
    "3E18C"
   ],
   "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『ガラスのつぼに{br} 石を入れよ』{page}{box:00}{name:02}ジョージ{br}「？？？{br} なんだろう？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found some scribbling.{page}{box:01}\"Put a stone in the Glass Jar.\"{page}{box:00}{name:02}George{br}??? What could that mean?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -58,8 +58,8 @@
    "3E244"
   ],
   "jp": "{box:01}小さなつくえが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -69,8 +69,8 @@
    "3E248"
   ],
   "jp": "{box:01}よごれただんろの{br}えんとつから、{page}{box:01}ゴーストのこえが{br}きこえた…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}From the chimney of{br}the dirty fireplace,{page}{box:01}I heard a ghost's voice...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -80,8 +80,8 @@
    "3E24C"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -91,8 +91,8 @@
    "3E250"
   ],
   "jp": "{box:01}ひきだしを{br}あけると、{page}{box:01}人のツメが{br}残されていた。{page}{box:00}{name:02}ジョージ{br}「うわっ！{br} なんだコレ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}When I opened the drawer,{page}{box:01}there were human{br}fingernails inside.{page}{box:00}{name:02}George{br}Gah! What is this?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -102,8 +102,8 @@
    "3E254"
   ],
   "jp": "{box:01}めぼしいモノは{br}なかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -113,8 +113,8 @@
    "3E260"
   ],
   "jp": "{box:01}ホコリのかぶった{br}ソファがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dust-covered sofa.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -124,8 +124,8 @@
    "3E264"
   ],
   "jp": "{box:01}チェストは{br}からっぽだった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The chest was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "3E268"
   ],
   "jp": "{box:01}つくえには何も{br}のっていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing on the desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -146,8 +146,8 @@
    "3E26C"
   ],
   "jp": "{box:01}かみのけやツメを{br}もやしたニオイだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It smells like burnt{br}hair and nails.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -157,8 +157,8 @@
    "3E270"
   ],
   "jp": "{box:01}なにも入って{br}いなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing was inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -168,8 +168,8 @@
    "3E274"
   ],
   "jp": "{box:01}ひきだしの中に{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing in the drawer.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -179,8 +179,8 @@
    "3E278"
   ],
   "jp": "{box:01}『きさまの命も{br} これまでだ』{page}{box:01}と、書かれた{br}紙きれがあった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}\"Your life ends here.\"{page}{box:01}A scrap of paper said so.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -189,8 +189,8 @@
    "3E1D4"
   ],
   "jp": "{box:01}チェストにメモが{br}残されていた。{page}{box:01}『気つけなんこうは{br} のみ薬とぬり薬』{page}{box:00}{name:02}ジョージ{br}「薬のしょほう{br} せんだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Reviving Salve: a{br}Potion and Ointment.\"{page}{box:00}{name:02}George{br}Some kind of prescription.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -199,8 +199,8 @@
    "3E1F8"
   ],
   "jp": "{box:01}『おまえの命は{br} あとわずか』{page}{box:01}そう、書かれた{br}紙きれがあった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}\"You have little life left.\"{page}{box:01}That's what the{br}scrap of paper said.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -209,8 +209,8 @@
    "3E220"
   ],
   "jp": "{box:01}つくえにこどもの{br}ラクガキがある。{page}{box:01}『ジョージは{br} もうだめだ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A child's scribble is on the desk.{page}{box:01}\"George is done for.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -219,8 +219,8 @@
    "3E228"
   ],
   "jp": "{box:01}たなにメモが{br}残っている。{page}{box:01}『ザツなおまもりに{br} 黒の石をあわせよ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left on the shelf.{page}{box:01}\"Join a Black Stone{br}to the Cheap Charm.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -229,8 +229,8 @@
    "3E22C"
   ],
   "jp": "{box:01}ナイフでほられた{br}文字があった。{page}{box:01}『クリスタルという{br} ゴーストぶきは、{page}{box:01}『BOOK5の{br} きいろいつうろに…』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Letters were{br}carved with a knife.{page}{box:01}\"The ghost weapon{br}called the Crystal{page}{box:01}\"lies in BOOK5's{br}yellow passage...\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -239,8 +239,8 @@
    "3E240"
   ],
   "jp": "{box:01}ラクガキを{br}はっけんした。{page}{box:01}『アタノールつぼに{br} Nリキッド』{page}{box:00}{name:02}ジョージ{br}「何かのレシピ{br} だな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}I found some scribbling.{page}{box:01}\"N Liquid in the Athanor Jar.\"{page}{box:00}{name:02}George{br}Some kind of recipe...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -249,8 +249,8 @@
    "3E284"
   ],
   "jp": "{box:01}からっぽの{br}ひきだしだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty drawer.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -259,8 +259,8 @@
    "3E288"
   ],
   "jp": "{box:01}きょうぞうが{br}のっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A mirror stand sits on top.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -278,8 +278,8 @@
    "3E3AC"
   ],
   "jp": "{box:01}たなには{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -297,8 +297,8 @@
    "3E3B0"
   ],
   "jp": "{box:01}たなの中に{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing in the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -308,8 +308,8 @@
    "3E2D4"
   ],
   "jp": "{box:01}りっぱなだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A grand fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -318,8 +318,8 @@
    "3E298"
   ],
   "jp": "{box:01}小さなテーブルが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small table stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -329,8 +329,8 @@
    "3E2FC"
   ],
   "jp": "{box:01}こわれてばねが{br}とび出ている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's broken, springs{br}sticking out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -348,8 +348,8 @@
    "3E3C0"
   ],
   "jp": "{box:01}中はからっぽ{br}のようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks empty inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -358,8 +358,8 @@
    "3E2A4"
   ],
   "jp": "{box:01}ひきだしには{br}何もなかった…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}in the drawer...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -368,8 +368,8 @@
    "3E2A8"
   ],
   "jp": "{box:01}オブジェが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -378,8 +378,8 @@
    "3E2B4"
   ],
   "jp": "{box:01}りっぱなだんろが{br}ある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a grand fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -388,8 +388,8 @@
    "3E2B8"
   ],
   "jp": "{box:01}かぐがホコリを{br}かぶっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The furniture is{br}covered in dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -398,8 +398,8 @@
    "3E2BC"
   ],
   "jp": "{box:01}こわれたソファが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -408,8 +408,8 @@
    "3E2C4"
   ],
   "jp": "{box:01}ひきだしの中は{br}からっぽだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The drawer is empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -418,8 +418,8 @@
    "3E2C8"
   ],
   "jp": "{box:01}ちょうこくが{br}のっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture sits on top.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -428,8 +428,8 @@
    "3E2D8"
   ],
   "jp": "{box:01}小さなつくえが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small desk stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -438,8 +438,8 @@
    "3E2DC"
   ],
   "jp": "{box:01}ホコリをすった{br}ソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa that's{br}soaked up the dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -448,8 +448,8 @@
    "3E2E4"
   ],
   "jp": "{box:01}ひきだしには{br}何も入ってない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing's in the drawer.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -458,8 +458,8 @@
    "3E2E8"
   ],
   "jp": "{box:01}石こうのぞうが{br}のっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A plaster statue sits on top.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -468,8 +468,8 @@
    "3E2F4"
   ],
   "jp": "{box:01}よごれているが、{br}りっぱなだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's dirty, but it's{br}a fine fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -478,8 +478,8 @@
    "3E2F8"
   ],
   "jp": "{box:01}ボロボロの小さい{br}テーブルだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered little table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -488,8 +488,8 @@
    "3E304"
   ],
   "jp": "{box:01}ひきだしはカラだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The drawer's empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -498,8 +498,8 @@
    "3E308"
   ],
   "jp": "{box:01}白いオブジェが{br}のっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white ornament sits on top.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -508,8 +508,8 @@
    "3E314"
   ],
   "jp": "{box:01}大きなだんろが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A big fireplace stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -518,8 +518,8 @@
    "3E318"
   ],
   "jp": "{box:01}小さいテーブルは{br}ボロボロだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The little table is falling apart.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -528,8 +528,8 @@
    "3E31C"
   ],
   "jp": "{box:01}ボロボロの{br}ソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A battered sofa.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -538,8 +538,8 @@
    "3E324"
   ],
   "jp": "{box:01}ひきだしにゴミが{br}ギッシリだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The drawer is{br}crammed with trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -548,8 +548,8 @@
    "3E328"
   ],
   "jp": "{box:01}白い石こうの{br}オブジェがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a white{br}plaster ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -558,8 +558,8 @@
    "3E334"
   ],
   "jp": "{box:01}つめたくなった{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace gone cold.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -568,8 +568,8 @@
    "3E338"
   ],
   "jp": "{box:01}つくえには{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing on the desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
    "3E33C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よごれたソファに{br} 用はないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got no business{br}with a dirty sofa...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -588,8 +588,8 @@
    "3E344"
   ],
   "jp": "{box:01}ひきだしは{br}あきそうにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The drawer doesn't{br}look like it'll open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -598,8 +598,8 @@
    "3E348"
   ],
   "jp": "{box:01}白いちょうこくが{br}のっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A white sculpture sits on top.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -608,8 +608,8 @@
    "3E354"
   ],
   "jp": "{box:01}よごれただんろが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty fireplace stands here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -618,8 +618,8 @@
    "3E358"
   ],
   "jp": "{box:01}ボロボロのかぐが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Battered furniture sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -628,8 +628,8 @@
    "3E35C"
   ],
   "jp": "{box:01}かなり古い{br}ソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A really old sofa.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -638,8 +638,8 @@
    "3E364"
   ],
   "jp": "{box:01}ひきだしの中は{br}ゴミくずだらけだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The drawer is full of{br}scraps and trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -648,8 +648,8 @@
    "3E368"
   ],
   "jp": "{box:01}人のかおの{br}ちょうこくだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpture of a human face.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -658,8 +658,8 @@
    "3E374"
   ],
   "jp": "{box:01}だんろには何の{br}手がかりもない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No clues in the fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -668,8 +668,8 @@
    "3E378"
   ],
   "jp": "{box:01}使う者のいない{br}つくえだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A desk no one uses.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -678,8 +678,8 @@
    "3E37C"
   ],
   "jp": "{box:01}すわる者もいない{br}古いソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old sofa no one sits on.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -688,8 +688,8 @@
    "3E384"
   ],
   "jp": "{box:01}からっぽの{br}ひきだしだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An empty drawer.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -698,8 +698,8 @@
    "3E388"
   ],
   "jp": "{box:01}人のかおの{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An ornament shaped{br}like a human face.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -708,8 +708,8 @@
    "3E394"
   ],
   "jp": "{box:01}使う者のいない{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace no one uses.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -718,8 +718,8 @@
    "3E398"
   ],
   "jp": "{box:01}小さなつくえに{br}むかう者はいない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No one sits at the little desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -728,8 +728,8 @@
    "3E39C"
   ],
   "jp": "{box:01}わたが出ている{br}古いソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An old sofa with its{br}stuffing coming out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -738,8 +738,8 @@
    "3E3A4"
   ],
   "jp": "{box:01}ゴミのつまった{br}ひきだしだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A drawer stuffed with trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -748,8 +748,8 @@
    "3E3A8"
   ],
   "jp": "{box:01}ちょうこくの{br}オブジェだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sculpted ornament.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -758,8 +758,8 @@
    "3E3B4"
   ],
   "jp": "{box:01}だんろを使う人は{br}もういない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No one uses the{br}fireplace anymore...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -768,8 +768,8 @@
    "3E3B8"
   ],
   "jp": "{box:01}つくえを使う人は{br}もういない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No one uses the desk anymore...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -778,8 +778,8 @@
    "3E3BC"
   ],
   "jp": "{box:01}ソファを使う人は{br}もういない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No one uses the sofa anymore...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -788,8 +788,8 @@
    "3E3C4"
   ],
   "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is broken and crumbling.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -808,8 +808,8 @@
    "3E4E0"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -828,8 +828,8 @@
    "3E4E4"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -848,8 +848,8 @@
    "3E4E8"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -868,8 +868,8 @@
    "3E4EC"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -888,8 +888,8 @@
    "3E4F0"
   ],
   "jp": "{box:01}たなの中は{br}ホコリまみれだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf is full of dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -908,8 +908,8 @@
    "3E4F4"
   ],
   "jp": "{box:01}ガラクタしか{br}見当たらない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk in sight.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -918,8 +918,8 @@
    "3E3E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何かがぶつかって{br} くずれたのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Did something slam into{br}it and knock it down?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -928,8 +928,8 @@
    "3E3FC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Did a ghost knock this down?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -938,8 +938,8 @@
    "3E418"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -948,8 +948,8 @@
    "3E434"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はでにこわれて{br} いるなぁ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Wow, that's really smashed up...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -958,8 +958,8 @@
    "3E450"
   ],
   "jp": "{box:01}かべの中には{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing inside the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -968,8 +968,8 @@
    "3E46C"
   ],
   "jp": "{box:01}こわれた所が{br}かおに見える…{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The broken part{br}looks like a face...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -978,8 +978,8 @@
    "3E488"
   ],
   "jp": "{box:01}こわれた所には{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}in the broken part.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -988,8 +988,8 @@
    "3E4A4"
   ],
   "jp": "{box:01}かべのもろい所が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A weak spot in the{br}wall has crumbled.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -998,8 +998,8 @@
    "3E4C0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここには{br} 何も無いな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1008,8 +1008,8 @@
    "3E4DC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「そうじがたいへん{br} そうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Cleaning this up is{br}gonna be a pain...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1028,8 +1028,8 @@
    "3E610"
   ],
   "jp": "{box:01}たなには何も{br}置かれていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing has been{br}left on the shelf.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1048,8 +1048,8 @@
    "3E614"
   ],
   "jp": "{box:01}たなの中は{br}ホコリまみれだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf is full of dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1068,8 +1068,8 @@
    "3E618"
   ],
   "jp": "{box:01}ガラクタしか{br}見当たらない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing but junk in sight.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1088,8 +1088,8 @@
    "3E61C"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1108,8 +1108,8 @@
    "3E620"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1128,8 +1128,8 @@
    "3E624"
   ],
   "jp": "{box:01}ガラクタがみちを{br}ふさいでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Junk is blocking the way.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1138,8 +1138,8 @@
    "3E510"
   ],
   "jp": "{box:01}かべがこわれて{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall is broken and crumbling.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1148,8 +1148,8 @@
    "3E52C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「何かがぶつかって{br} くずれたのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Did something slam into{br}it and knock it down?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1158,8 +1158,8 @@
    "3E548"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのかな？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Did a ghost knock this down?{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

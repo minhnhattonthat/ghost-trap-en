@@ -5,8 +5,8 @@
    "3DF00"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「みどりの絵を{br} 見るヒマはない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to look at{br}green paintings.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3DF04"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ヘンな絵を見る{br} ヨユウはないぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I can't afford to gawk{br}at weird paintings!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3DF08"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「テーブルの絵も{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}the table painting!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3DF0C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「床の絵にかまう{br} ヒマはない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to bother with{br}paintings on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3DF10"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「床の絵にかまう{br} ヒマはない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to bother with{br}paintings on the floor.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3DF14"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「大きな絵も{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about{br}the big painting!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3DF18"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カラのツボには{br} きょうみがない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I'm not interested{br}in empty vases.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3DF1C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「カラのツボには{br} きょうみがない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I'm not interested{br}in empty vases.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "3DF20"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタなんか{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about junk!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "3DF24"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ガラクタなんか{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about junk!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "3DF30"
   ],
   "jp": "{box:01}よごれた絵が{br}かざってある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "3DF34"
   ],
   "jp": "{box:01}ホコリにまみれた{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting caked in dust.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "3E000"
   ],
   "jp": "{box:01}かべのしっくいが{br}はがれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The plaster is{br}peeling off the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "3DF40"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、」{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで」{page}{box:00}{name:02}ジョージ{br}「かくにんできて、{br} オレのむいている」{page}{box:00}{name:02}ジョージ{br}「ほうこうもみぎの{br} コンパスに出る…」{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！」{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}with the START Button,{page}{box:00}{name:02}George{br}and the compass on the right{br}shows which way I'm facing...{page}{box:00}{name:02}George{br}Brilliant invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "3DF44"
   ],
   "jp": "{box:01}えのぐのあおが{br}あせている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The blue paint has faded.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "3DF48"
   ],
   "jp": "{box:01}ホコリがひどくて{br}絵が見えない。{page}{box:01}絵のわきに{br}メモを見つけた。{page}{box:00}{name:02}ジョージ{br}「うん？{br} …なになに？{page}{box:01}『COMBINEを{br} かつようすべし』{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} コマンドのことか？{page}{box:00}{name:02}ジョージ{br}「だれがこんな所に？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's too dusty to{br}see the painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Huh? ...Let's see?{page}{box:01}\"Make good use of COMBINE.\"{page}{box:00}{name:02}George{br}The command on{br}the START Button?{page}{box:00}{name:02}George{br}Who'd leave this here?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "3DF58"
   ],
   "jp": "{box:01}えのぐのあかが{br}あせている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The red paint has faded.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "3DF5C"
   ],
   "jp": "{box:01}ホコリがつもって{br}絵が見えない。{page}{box:00}{name:02}ジョージ{br}「後から館に{br} 来てしまう人に…{page}{box:00}{name:02}ジョージ{br}「オレのヒントを{br} 残していこう…」{page}{box:01}『COMBINEを{br} かつようすべし！』{page}{box:00}{name:02}ジョージ{br}「よし、メモったぞ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust has piled up; I{br}can't see the painting.{page}{box:00}{name:02}George{br}For anyone who wanders{br}into this house later...{page}{box:00}{name:02}George{br}I'll leave a hint of my own...{page}{box:01}\"Make good use of COMBINE!\"{page}{box:00}{name:02}George{br}There, noted!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "3DF6C"
   ],
   "jp": "{box:01}えのぐのきいろが{br}あせている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The yellow paint has faded.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "3DF70"
   ],
   "jp": "{box:01}ホコリできちんと{br}絵が見えない。{page}{box:00}{name:02}ジョージ{br}「おっ、絵のわきに{br} メモがあるな」{page}{box:01}『ワナでバインドし、{br} にげるのもよし』{page}{box:00}{name:02}ジョージ{br}「たしかにな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The dust makes the{br}painting hard to see.{page}{box:00}{name:02}George{br}Oh, there's a note{br}beside the painting.{page}{box:01}\"Bind them with a{br}trap, then run for it.\"{page}{box:00}{name:02}George{br}Good point!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "3DF80"
   ],
   "jp": "{box:01}えのぐのみどりが{br}あせている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The green paint has faded.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "3DF84"
   ],
   "jp": "{box:01}ホコリっぽい{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dusty oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "3DF94"
   ],
   "jp": "{box:01}えのぐが{br}きばんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The paint has yellowed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "3DF98"
   ],
   "jp": "{box:01}ホコリをかぶった{br}あぶら絵だ。{page}{box:01}絵のわきにメモを{br}見つけた。{page}{box:00}{name:02}ジョージ{br}「なになに？」{page}{box:01}『このフロアに{br} クリスタルがある』{page}{box:01}『見つけだせ』{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dust-covered oil painting.{page}{box:01}I found a note{br}beside the painting.{page}{box:00}{name:02}George{br}Let's see?{page}{box:01}\"There is a Crystal{br}on this floor.{page}{box:01}\"Find it.\"{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "3DFA8"
   ],
   "jp": "{box:01}えのぐのきいろが{br}きばんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The yellow paint has gone sallow.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "3DFAC"
   ],
   "jp": "{box:01}ほこりの高い{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A very dusty oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "3DFBC"
   ],
   "jp": "{box:01}えのぐが{br}くすんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The paint has gone dull.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "3DFC0"
   ],
   "jp": "{box:01}ホコリがたまった{br}あぶら絵だ。{page}{box:01}絵のわきに{br}走り書きがある。{page}{box:01}『アミュレットに{br} 白の石をあわせよ』{page}{box:00}{name:02}ジョージ{br}「なんだろ…？{br} このメモは…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dust-laden oil painting.{page}{box:01}Something's scrawled{br}beside the painting.{page}{box:01}\"Join a White Stone{br}to the Amulet.\"{page}{box:00}{name:02}George{br}What's this...? This note...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "3DFD0"
   ],
   "jp": "{box:01}えのぐがきばんで{br}くすんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The paint has{br}yellowed and dulled.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "3DFD4"
   ],
   "jp": "{box:01}絵にはホコリが{br}つもっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Dust has piled up{br}on the painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "3DFE4"
   ],
   "jp": "{box:01}シックな色の{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting in classy colors.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "3DFE8"
   ],
   "jp": "{box:01}ほこりをえがいた{br}あぶら絵だ。{page}{box:00}{name:02}ジョージ{br}「アリシアもこれを{br} 読んだかな…」{page}{box:01}『ワナでバインドし、{br} にげるのもよし』{page}{box:00}{name:02}ジョージ{br}「アリシア…{br} ぶじでいてくれよ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of{br}dust, of all things.{page}{box:00}{name:02}George{br}Did Alicia read this too...?{page}{box:01}\"Bind them with a{br}trap, then run for it.\"{page}{box:00}{name:02}George{br}Alicia... please be safe...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "3DFF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレのシュミじゃ{br} ない絵だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Not my kind of painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "3DFFC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレのシュミじゃ{br} ない絵だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Not my kind of painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "3E00C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「チェックしてる{br} ばあいじゃないな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This is no time to{br}be poking around!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "3E010"
   ],
   "jp": "{box:01}ゴーストのかお{br}にも見える絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting that looks a{br}bit like a ghost's face.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "3E014"
   ],
   "jp": "{box:01}どこかのたてもの{br}のあぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of some building.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "3E018"
   ],
   "jp": "{box:01}つくえの上に絵が{br}かけられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting hangs above the desk.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    "3E01C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「チェックしてる{br} ばあいか？！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Is this really the time for that?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    "3E020"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「イスなんか{br} どうでもいい！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about chairs!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "3E024"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「チェックよりも{br} ヤツを！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Forget checking{br}stuff, go after him!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    "3E028"
   ],
   "jp": "{box:01}フシギな力で{br}とざされている。{page}{box:00}{name:02}ジョージ{br}「ドアがあかない！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's sealed by some{br}mysterious power.{page}{box:00}{name:02}George{br}The door won't open!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "3E02C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここを調べても{br} イミがないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's no point checking here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "3E030"
   ],
   "jp": "{box:01}たおれたイスが{br}ころがっている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fallen chair is lying around.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    "3E034"
   ],
   "jp": "{box:01}きみょうな{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A strange oil painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "3E038"
   ],
   "jp": "{box:01}しょくたくの上を{br}えがいた絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A painting of a dinner table.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    "3E03C"
   ],
   "jp": "{box:01}魔道書は置かれて{br}いない。{page}{box:00}{name:02}ジョージ{br}「チェックしてる{br} ばあいじゃないな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}No grimoire has{br}been placed here.{page}{box:00}{name:02}George{br}This is no time to{br}be poking around!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    "3E040"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ？あの{br} ゴーストは？」{page}{box:00}{name:05}？？？？{br}『立ち去れ！{br} 立ち去れ！{page}{box:00}{name:05}？？？？{br}『これより先へは{br} 行かせぬぞ！』{page}{box:00}{name:02}ジョージ{br}「？！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What's with that ghost?{page}{box:00}{name:05}????{br}Begone! Begone!{page}{box:00}{name:05}????{br}I shall not let you{br}go any further!{page}{box:00}{name:02}George{br}?!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    "3E0E8"
   ],
   "jp": "{box:01}めぼしい物は{br}見当たらない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking in sight.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    "3E0EC"
   ],
   "jp": "{box:01}とるべきモノは{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing here worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "3E0F0"
   ],
   "jp": "{box:01}何も置かれて{br}いない…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing's been left here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -556,8 +556,8 @@
    "3E0A4"
   ],
   "jp": "{box:01}くずれかかった{br}かべだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A crumbling wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -567,8 +567,8 @@
    "3E0B4"
   ],
   "jp": "{box:01}何かがぶつかった{br}あとのようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like something{br}slammed into it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -578,8 +578,8 @@
    "3E0C4"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -589,8 +589,8 @@
    "3E0D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴーストのせいで{br} くずれたのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Did a ghost knock it down?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -600,8 +600,8 @@
    "3E0E4"
   ],
   "jp": "{box:01}ここだけかべが{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Only this part of the{br}wall has crumbled.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -610,8 +610,8 @@
    "3E0F4"
   ],
   "jp": "{box:01}かべがくずれ、{br}ほねが見える。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The wall has crumbled,{br}and bones show through.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -620,8 +620,8 @@
    "3E0F8"
   ],
   "jp": "{box:01}よごれたソファが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A dirty sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -631,8 +631,8 @@
    "3E120"
   ],
   "jp": "{box:01}チェストの中に{br}ノートがあった。{page}{box:00}{name:02}ジョージ{br}「なんだこれ？{br} 読んでみるか…」{page}{box:01}『もし、ゴーストに{br} つかまってしまい、{page}{box:01}『ひょういされたら、{br} じゅうじボタンで{page}{box:01}『ゴーストを早く{br} ふりはらえる』{page}{box:00}{name:02}ジョージ{br}「ふむ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was a notebook{br}in the chest.{page}{box:00}{name:02}George{br}What's this? Guess I'll read it...{page}{box:01}\"If a ghost catches you{page}{box:01}\"and possesses you,{br}use the +Control Pad{page}{box:01}\"to shake the{br}ghost off faster.\"{page}{box:00}{name:02}George{br}Hmm...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -643,8 +643,8 @@
    "3E1D8"
   ],
   "jp": "{box:01}小さなつくえが{br}置かれている。{page}{box:01}走り書きが{br}のっている。{page}{box:01}『ゴーストからは{br} にげるんだ！{page}{box:01}『にげのびて、{br} ぼくのぶんまで…』{page}{box:00}{name:02}ジョージ{br}「…こいつも{br} ゴーストに？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A small desk stands here.{page}{box:01}A hasty scrawl lies on it.{page}{box:01}\"Run from the ghosts!{page}{box:01}\"Get away, and live{br}on for my sake too...\"{page}{box:00}{name:02}George{br}...Did the ghosts{br}get this guy too?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -653,8 +653,8 @@
    "3E104"
   ],
   "jp": "{box:01}きみのわるい{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A creepy fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -663,8 +663,8 @@
    "3E108"
   ],
   "jp": "{box:01}チェストには、{br}こどもの手がたが{page}{box:01}びっしりと{br}残されている。{page}{box:00}{name:02}ジョージ{br}「きみがわるいな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The chest is covered{page}{box:01}in children's handprints.{page}{box:00}{name:02}George{br}That's creepy...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -673,8 +673,8 @@
    "3E10C"
   ],
   "jp": "{box:01}ひきだしがある。{page}{box:01}中にかみのけが{br}入っていた。{page}{box:00}{name:02}ジョージ{br}「うわっ！{br} なんだよこれ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a drawer.{page}{box:01}There was hair inside it.{page}{box:00}{name:02}George{br}Gah! What the heck is this...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -683,8 +683,8 @@
    "3E110"
   ],
   "jp": "{box:01}がたついていて{br}あきそうにない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's rattly, and doesn't{br}look like it'll open.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -694,8 +694,8 @@
    "422D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あと、ゴーストを{br} たいじするぶきも」{page}{box:00}{name:02}ジョージ{br}「オレさまの{br} はつめいだぜ！」{page}{box:00}{name:02}ジョージ{br}「その名も{br} サプレッサー！」{page}{box:00}{name:02}ジョージ{br}「あんまりとおくに{br} とどかないけど…」{page}{box:00}{name:02}ジョージ{br}「だいじょうぶ！{br} もんだいないさ！」{page}{box:00}{name:02}ジョージ{br}「…ひとりごとは{br} やめとこう…」{page}{box:00}{name:02}ジョージ{br}「とにかく出口を{br} さがさないとな！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Plus, my weapon for{br}wiping out ghosts{page}{box:00}{name:02}George{br}is my very own invention!{page}{box:00}{name:02}George{br}Its name? The Suppressor!{page}{box:00}{name:02}George{br}It doesn't reach very far, but...{page}{box:00}{name:02}George{br}It's fine! No problem at all!{page}{box:00}{name:02}George{br}...I should stop{br}talking to myself...{page}{box:00}{name:02}George{br}Anyway, I've got to find an exit!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -705,8 +705,8 @@
    "3E1D0"
   ],
   "jp": "{box:01}こわれたソファが{br}置いてある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -716,8 +716,8 @@
    "3E1DC"
   ],
   "jp": "{box:01}シュミのわるい{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A tasteless fireplace.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -727,8 +727,8 @@
    "3E1E0"
   ],
   "jp": "{box:01}チェストには、{br}ひっかきキズが{page}{box:01}びっしりと{br}残されている。{page}{box:00}{name:02}ジョージ{br}「うえっ…{br} キブンわるいな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The chest is covered{page}{box:01}in scratch marks.{page}{box:00}{name:02}George{br}Ugh... that's nasty...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -738,8 +738,8 @@
    "3E1E4"
   ],
   "jp": "{box:01}ひきだしがある。{br}中はからっぽだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a drawer.{br}It's empty inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -749,8 +749,8 @@
    "3E1E8"
   ],
   "jp": "{box:01}がたついていて{br}あけれない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It's rattly, and I can't open it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -760,8 +760,8 @@
    "3E1F4"
   ],
   "jp": "{box:01}ばねのとび出た{br}ソファがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa with its{br}springs popping out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -770,8 +770,8 @@
    "3E144"
   ],
   "jp": "{box:01}チェストにメモが{br}残っていた。{page}{box:01}『ナイフとマッチで{br} ばくはつだ』{page}{box:00}{name:02}ジョージ{br}「なんだそりゃ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A note was left in the chest.{page}{box:01}\"Knife plus matches: kaboom.\"{page}{box:00}{name:02}George{br}What's that supposed to mean?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -781,8 +781,8 @@
    "3E1FC"
   ],
   "jp": "{box:01}さっきまで人が{br}いたけはいがする。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}It feels like someone{br}was here just now.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -792,8 +792,8 @@
    "3E200"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「かみのけをやいた{br} ニオイがする…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}It smells like burnt hair...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -803,8 +803,8 @@
    "3E204"
   ],
   "jp": "{box:01}たなの中は{br}からっぽだった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The shelf was empty.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -814,8 +814,8 @@
    "3E208"
   ],
   "jp": "{box:01}ひきだしには{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing in the drawer.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -825,8 +825,8 @@
    "3E20C"
   ],
   "jp": "{box:01}だれかの日記が{br}残されている。{page}{box:01}『館にあったハーブ{br} は4しゅるい。{page}{box:01}『バーベインに{br} アンジェリカ{page}{box:01}『カモミールに{br} フラックス…』{page}{box:00}{name:02}ジョージ{br}「なるほどな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone's diary was left behind.{page}{box:01}\"There are four kinds{br}of herbs in the house.{page}{box:01}\"Vervain and Angelica,{page}{box:01}\"Chamomile and Flax...\"{page}{box:00}{name:02}George{br}I see...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -836,8 +836,8 @@
    "3E218"
   ],
   "jp": "{box:01}ばねのとび出た{br}ソファがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa with its{br}springs popping out.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -847,8 +847,8 @@
    "3E21C"
   ],
   "jp": "{box:01}チェストには{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing in the chest.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -857,8 +857,8 @@
    "3E16C"
   ],
   "jp": "{box:01}つくえにだれかの{br}ラクガキがあった。{page}{box:01}『エルダーのえだに{br} きよめたナイフ』{page}{box:00}{name:02}ジョージ{br}「なんのことだ？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Someone scribbled on the desk.{page}{box:01}\"An Elder Branch and{br}a Purified Knife.\"{page}{box:00}{name:02}George{br}What's that about?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -868,8 +868,8 @@
    "3E224"
   ],
   "jp": "{box:01}いやなニオイの{br}だんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace with a nasty smell.{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

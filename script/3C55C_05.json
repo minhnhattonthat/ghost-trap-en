@@ -880,8 +880,8 @@
    "3D7C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ドライフラワーの{br} うえきばちだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A pot of dried flowers.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -890,8 +890,8 @@
    "3D7C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あぶら絵が{br} 床におちてる…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}An oil painting fell on the floor...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -900,8 +900,8 @@
    "3D7CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まっさおな{br} あぶら絵だ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}A deep blue oil painting...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -910,8 +910,8 @@
    "3D7D0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ホコリがすごく{br} つもってるな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}There's a ton of{br}dust piled up here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -920,8 +920,8 @@
    "3D7D4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「どこのけしきの{br} 絵なんだろう？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I wonder where{br}this landscape is?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -930,8 +930,8 @@
    "3D7D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「この女は、{br} あのゴースト？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This woman... is she that ghost?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -940,8 +940,8 @@
    "3D7E0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「かなりいたんだ{br} あぶら絵だ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This oil painting's{br}pretty beat up.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -950,8 +950,8 @@
    "3D7E4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵をながめる{br} ヒマはないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No time to stand around{br}looking at paintings...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -962,8 +962,8 @@
    "3D914"
   ],
   "jp": "{box:01}きいろい絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A yellow painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -974,8 +974,8 @@
    "3D918"
   ],
   "jp": "{box:01}部屋のそうしょくが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Room decorations sit here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -986,8 +986,8 @@
    "3D91C"
   ],
   "jp": "{box:01}かれたうえきが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A withered plant sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -998,8 +998,8 @@
    "3D920"
   ],
   "jp": "{box:01}えのぐも{br}色あせている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Even the paint has faded.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1010,8 +1010,8 @@
    "3D924"
   ],
   "jp": "{box:01}あおい絵が{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A blue painting is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1022,8 +1022,8 @@
    "3D928"
   ],
   "jp": "{box:01}どこかのけしき{br}なのだろうか？{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Could this be scenery{br}from somewhere?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1034,8 +1034,8 @@
    "3D92C"
   ],
   "jp": "{box:01}ふうけいの絵{br}みたいだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like a landscape painting.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1046,8 +1046,8 @@
    "3D930"
   ],
   "jp": "{box:01}わかい女の{br}あぶら絵だ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}An oil painting of a young woman.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1056,8 +1056,8 @@
    "3D80C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「なんだ？あのドア、{br} 光がもれてるぞ…{page}{box:00}{name:02}ジョージ{br}「もしかして、{br} 外への出口か！？{page}{box:00}{name:02}ジョージ{br}「それとも、スゴイ{br} ゴーストの光…？{page}{box:00}{name:02}ジョージ{br}「とにかく、先に{br} すすむしかないな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}What's that? Light's leaking{br}out around that door...{page}{box:00}{name:02}George{br}Could it be a way outside?!{page}{box:00}{name:02}George{br}Or maybe the glow of{br}some serious ghost...?{page}{box:00}{name:02}George{br}Either way, all I can{br}do is keep going...{page}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

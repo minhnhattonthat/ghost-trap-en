@@ -5,8 +5,8 @@
    "3E564"
   ],
   "jp": "{box:01}かべの一部が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Part of the wall has collapsed.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "3E580"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「はでにこわれて{br} いるなぁ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Wow, that's really smashed up...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "3E59C"
   ],
   "jp": "{box:01}かべの中には{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's nothing inside the wall.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "3E5B8"
   ],
   "jp": "{box:01}こわれた所が{br}かおに見える…{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}The broken part{br}looks like a face...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "3E5D4"
   ],
   "jp": "{box:01}こわれた所には{br}何もなかった。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There was nothing{br}in the broken part.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "3E5F0"
   ],
   "jp": "{box:01}かべのもろい所が{br}くずれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A weak spot in the{br}wall has crumbled.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "3E60C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ここには{br} 何も無いな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Nothing here...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "3E628"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「そうじがたいへん{br} そうだな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Cleaning this up is{br}gonna be a pain...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -87,8 +87,8 @@
    "3E668"
   ],
   "jp": "{box:01}めぼしい物は{br}なさそうだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Doesn't look like{br}anything worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -106,8 +106,8 @@
    "3E6E4"
   ],
   "jp": "{box:01}紙のハコが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A paper box sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -118,8 +118,8 @@
    "3E6AC"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「何の薬なんだか{br} まるでわからん」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}I have zero idea{br}what any of this is.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -129,8 +129,8 @@
    "3E64C"
   ],
   "jp": "{box:01}しょうぞうがが{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A portrait is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "3E6B4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whose painting is this, anyway?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -161,8 +161,8 @@
    "3E6E0"
   ],
   "jp": "{box:01}ごちゃごちゃした{br}物がある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A jumble of stuff.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -177,8 +177,8 @@
    "3E6E8"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Medicine bottles in a row.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -187,8 +187,8 @@
    "3E660"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あれ？{br} この絵…{page}{box:00}{name:02}ジョージ{br}「あのゴーストに{br} にてる気がするぞ。{page}{box:00}{name:02}ジョージ{br}「どのゴーストだか{br} 思い出せないけど」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Huh? This painting...{page}{box:00}{name:02}George{br}I feel like it looks like{br}one of the ghosts.{page}{box:00}{name:02}George{br}I just can't remember which one.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -200,8 +200,8 @@
    "3E6B0"
   ],
   "jp": "{box:01}しょうぞうがが{br}かざってある。{page}{box:00}{name:02}ジョージ{br}「見おぼえが{br} あるなあ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A portrait is on display.{page}{box:00}{name:02}George{br}That looks familiar...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -212,8 +212,8 @@
    "3E6EC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵なんか{br} どうでもいいぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Who cares about paintings.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -222,8 +222,8 @@
    "3E6C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これ…{br} あの時の…{page}{box:00}{name:02}ジョージ{br}「女のゴーストじゃ{br} ないか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}This... it's from back then...{page}{box:00}{name:02}George{br}Isn't that the woman ghost?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -233,8 +233,8 @@
    "3E6F0"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「まちがいない。{br} あの時の…{page}{box:00}{name:02}ジョージ{br}「…あの女の{br} ゴーストだ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No doubt about it.{br}From back then...{page}{box:00}{name:02}George{br}...It's that woman ghost.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -246,8 +246,8 @@
    "41DF4"
   ],
   "jp": "{box:01}しょうぞうがが{br}かざられている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A portrait is on display.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "41DF8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「これって誰の絵{br} なんだろう？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whose painting is this, anyway?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -282,8 +282,8 @@
    "41DFC"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「トランキライザー{br} でもほしい所だな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}I could really use a{br}tranquilizer right now.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -302,8 +302,8 @@
    "41E00"
   ],
   "jp": "{box:01}がんじょうそうな{br}ハコがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's a sturdy-looking box.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -316,8 +316,8 @@
    "3E77C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おっ？{br} これは…{page}{box:00}{name:02}ジョージ{br}「なんだ、ゴミか」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Aw, just trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -326,8 +326,8 @@
    "3E718"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おっ？{br} これは…{page}{box:00}{name:02}ジョージ{br}「なんだ、{br} やっぱりゴミか」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Aw, trash again.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -336,8 +336,8 @@
    "3E72C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「おっ？{br} これは…{page}{box:00}{name:02}ジョージ{br}「くだらない物{br} だった…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Oh? What's this...{page}{box:00}{name:02}George{br}Something totally useless...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -346,8 +346,8 @@
    "3E730"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あ！{br} こいつ！{page}{box:00}{name:02}ジョージ{br}「さっきおそわれた{br} ゴーストだ！{page}{box:00}{name:02}ジョージ{br}「生きてた時も{br} かわんないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Ah! It's him!{page}{box:00}{name:02}George{br}The ghost that{br}jumped me earlier!{page}{box:00}{name:02}George{br}He looked the same{br}when he was alive.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -356,8 +356,8 @@
    "3E744"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレをおそった{br} ゴーストだ。{page}{box:00}{name:02}ジョージ{br}「何のウラミが{br} あったんだろう？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}What grudge did he{br}have against me?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -366,8 +366,8 @@
    "3E758"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレをおそった{br} ゴーストだ。{page}{box:00}{name:02}ジョージ{br}「ウラミとかじゃ{br} ないみたいだが、{page}{box:00}{name:02}ジョージ{br}「やっぱり{br} よくわからない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}Doesn't seem like a grudge thing,{page}{box:00}{name:02}George{br}but I still don't get it.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -376,8 +376,8 @@
    "3E76C"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「オレをおそった{br} ゴーストだ。{page}{box:00}{name:02}ジョージ{br}「アトラハシスの{br} メンバーだな」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}That's the ghost{br}that attacked me.{page}{box:00}{name:02}George{br}He's a member of Atrahasis.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -386,8 +386,8 @@
    "3E770"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「あ！ こいつも{br} さっき！{page}{box:00}{name:02}ジョージ{br}「さっきおそって{br} 来たヤツだ！{page}{box:00}{name:02}ジョージ{br}「やっぱりこいつも{br} メンバーなのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Ah! This guy too, earlier!{page}{box:00}{name:02}George{br}He's the one who{br}came at me just now!{page}{box:00}{name:02}George{br}So he's a member too?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -398,8 +398,8 @@
    "3E7A8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「絵を見ても{br} しかたがない」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}No point looking at paintings.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -410,8 +410,8 @@
    "3E7B0"
   ],
   "jp": "{box:01}薬のビンが{br}ならんでいる。{page}{box:00}{name:02}ジョージ{br}「ばくやくとか{br} ないのか？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Medicine bottles are lined up.{page}{box:00}{name:02}George{br}Got any explosives in here?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -422,8 +422,8 @@
    "3E7B8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「ゴミに用は{br} ないぞ」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}I've got no business with trash.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -433,8 +433,8 @@
    "3E8DC"
   ],
   "jp": "{box:01}かぐが置かれて{br}いるようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like some furniture.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -452,8 +452,8 @@
    "3E8E0"
   ],
   "jp": "{box:01}めぼしい物は{br}何もない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -463,8 +463,8 @@
    "3E8E4"
   ],
   "jp": "{box:01}こわれたソファが{br}置かれている。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A broken sofa sits here.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -474,8 +474,8 @@
    "3E8E8"
   ],
   "jp": "{box:01}古いイスがある。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}There's an old chair.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    "3E8EC"
   ],
   "jp": "{box:01}にもつが置かれて{br}いるようだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Looks like some luggage.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -496,8 +496,8 @@
    "3E8F0"
   ],
   "jp": "{box:01}すえたニオイが{br}するだんろだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A fireplace that smells sour.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -507,8 +507,8 @@
    "3E8F4"
   ],
   "jp": "{box:01}ダイヤル式の{br}でんわだ。{page}{box:01}でんわせんは{br}きれている…。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A rotary phone.{page}{box:01}The phone line has been cut...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -526,8 +526,8 @@
    "3E8F8"
   ],
   "jp": "{box:01}はんびらきの{br}たんすがある。{page}{box:01}中には何も{br}入っていない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A wardrobe stands half open.{page}{box:01}There's nothing inside.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -537,8 +537,8 @@
    "3E85C"
   ],
   "jp": "{box:01}めぼしい物は{br}見当たらない。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}Nothing worth taking in sight.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -548,8 +548,8 @@
    "3E864"
   ],
   "jp": "{box:01}こわれてバラバラ{br}になったソファだ。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A sofa smashed to pieces.{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {

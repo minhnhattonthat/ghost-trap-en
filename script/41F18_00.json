@@ -205,8 +205,8 @@
    "41F68"
   ],
   "jp": "ニサンの書{br}魔道書{br}BOOK＃01へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Nisan{br}Grimoire{br}To BOOK#01{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "41F6C"
   ],
   "jp": "アイヤルの書{br}魔道書{br}BOOK＃02へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Iyyar{br}Grimoire{br}To BOOK#02{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "41F70"
   ],
   "jp": "シマヌの書{br}魔道書{br}BOOK＃03へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Simanu{br}Grimoire{br}To BOOK#03{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "41F74"
   ],
   "jp": "ドゥウズの書{br}魔道書{br}BOOK＃04へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Duuzu{br}Grimoire{br}To BOOK#04{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "41F78"
   ],
   "jp": "アブの書{br}魔道書{br}BOOK＃05へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Abu{br}Grimoire{br}To BOOK#05{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "41F7C"
   ],
   "jp": "ウルルの書{br}魔道書{br}BOOK＃06へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Ululu{br}Grimoire{br}To BOOK#06{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "41F80"
   ],
   "jp": "テシュリトゥの書{br}魔道書{br}BOOK＃07へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Teshritu{br}Grimoire{br}To BOOK#07{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "41F84"
   ],
   "jp": "アラフシャムの書{br}魔道書{br}BOOK＃08へ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Arahsham{br}Grimoire{br}To BOOK#08{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "41F88"
   ],
   "jp": "キスリムの書{br}魔道書{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Kislim{br}Grimoire{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "41F8C"
   ],
   "jp": "ほんを{br}もっていない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "You don't have{br}any books.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "41F90"
   ],
   "jp": "どれをごうせい{br}しますか？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Combine which?{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "41F98"
   ],
   "jp": "どれとごうせい{br}しますか？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Combine it{br}with which?{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "41FA0"
   ],
   "jp": "このくみあわせ{br}では、ごうせい{br}できなかった。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "That pair{br}couldn't be{br}combined.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "41FA4"
   ],
   "jp": "くみあわせた{br}アイテムを{br}もちきれない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "You can't carry{br}the combined{br}item.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "41FA8"
   ],
   "jp": "{name:0A} {br}ができた。{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{name:0A}{br}was made!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "41FAC"
   ],
   "jp": "{name:0A} {br}をつくりますか？{br} {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{name:0A}{br}Make this?{br} {name:01}Yes  {name:07}No{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "41FB0"
   ],
   "jp": "さらにつくりますか？{br} {br} {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Make another?{br} {br} {name:01}Yes  {name:07}No{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    "41FB4"
   ],
   "jp": "アイテム入れかえ。{br}えらんだアイテムを{br}入れかえます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Swap items.{br}Swaps the item{br}you selected.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    "41FB8"
   ],
   "jp": "どれをハコに{br}入れますか？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Put which one{br}in the box?{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "41FBC"
   ],
   "jp": "この場所に{br}えらんだアイテムを{br}置きます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Puts the item{br}you selected{br}here.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "41FC4"
   ],
   "jp": "こうかんアイテムを{br}せんたくして{br}ください。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Choose an item{br}to trade.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "41FC8"
   ],
   "jp": "入れかえ{br}できませんでした。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Couldn't{br}swap them.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    "41FCC"
   ],
   "jp": "同じアイテムを{br}1つにまとめ{br}ました。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Identical items{br}were stacked{br}together.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "41FD0"
   ],
   "jp": "しょじアイテムを{br}ハコに入れます。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Puts an item{br}you hold in{br}the box.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    "41FD4"
   ],
   "jp": "アイテムをこうかん{br}しました。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Items traded.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    "41FD8"
   ],
   "jp": " {name:01}はい  {name:07}いいえ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{name:01}Yes  {name:07}No{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    "41FDC"
   ],
   "jp": " {name:07}はい  {name:01}いいえ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{name:07}Yes  {name:01}No{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    "41FE0"
   ],
   "jp": "はずしたそうびを{br}もちきれない。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "You can't carry{br}the gear you{br}took off.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    "41FE4"
   ],
   "jp": "ためしにワナを{br}つくるまでは、{br}もっておこう。{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "I'll hang on to{br}it until I try{br}making a trap.{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -591,8 +591,8 @@
    "42148"
   ],
   "jp": "こうげき力 8{br}クリティカル 低{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 8{br}Critical Low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -601,8 +601,8 @@
    "41FEC"
   ],
   "jp": "こうげき力 24{br}クリティカル 低{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 24{br}Critical Low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -611,8 +611,8 @@
    "41FF0"
   ],
   "jp": "こうげき力 40{br}クリティカル 低{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 40{br}Critical Low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -621,8 +621,8 @@
    "41FF4"
   ],
   "jp": "こうげき力 64{br}クリティカル 低{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 64{br}Critical Low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -631,8 +631,8 @@
    "41FF8"
   ],
   "jp": "こうげき力 10{br}クリティカル 中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 10{br}Critical Mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -641,8 +641,8 @@
    "41FFC"
   ],
   "jp": "こうげき力 16{br}クリティカル 中{br}ぼうぎょ力 アップ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 16{br}Critical Mid{br}Defense Up{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -651,8 +651,8 @@
    "42000"
   ],
   "jp": "こうげき力 32{br}クリティカル 中{br}対ひょうい アップ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 32{br}Critical Mid{br}Anti-possess Up{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -661,8 +661,8 @@
    "42004"
   ],
   "jp": "こうげき力 50{br}クリティカル 中{br}？？？？？ アップ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 50{br}Critical Mid{br}????? Up{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -671,8 +671,8 @@
    "42008"
   ],
   "jp": "こうげき力 30{br}クリティカル 高{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Attack 30{br}Critical High{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -681,8 +681,8 @@
    "4203C"
   ],
   "jp": "ぼうぎょ力 6{br}対ひょうい 4{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 6{br}Anti-possess 4{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -691,8 +691,8 @@
    "42040"
   ],
   "jp": "ぼうぎょ力 10{br}対ひょうい 8{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 10{br}Anti-possess 8{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -701,8 +701,8 @@
    "42044"
   ],
   "jp": "ぼうぎょ力 14{br}対ひょうい 16{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 14{br}Anti-possess 16{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -711,8 +711,8 @@
    "42048"
   ],
   "jp": "ぼうぎょ力 20{br}対ひょうい 16{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 20{br}Anti-possess 16{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -721,8 +721,8 @@
    "4204C"
   ],
   "jp": "ぼうぎょ力 0{br}対ひょうい 10{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 0{br}Anti-possess 10{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -731,8 +731,8 @@
    "42050"
   ],
   "jp": "ぼうぎょ力 0{br}対ひょうい 15{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 0{br}Anti-possess 15{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -741,8 +741,8 @@
    "42054"
   ],
   "jp": "ぼうぎょ力 0{br}対ひょうい 20{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 0{br}Anti-possess 20{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -751,8 +751,8 @@
    "42058"
   ],
   "jp": "ぼうぎょ力 2{br}対ひょうい 0{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 2{br}Anti-possess 0{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -761,8 +761,8 @@
    "4205C"
   ],
   "jp": "ぼうぎょ力 4{br}対ひょうい 0{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 4{br}Anti-possess 0{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -771,8 +771,8 @@
    "42060"
   ],
   "jp": "ぼうぎょ力 4{br}対ひょうい 0{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 4{br}Anti-possess 0{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -781,8 +781,8 @@
    "42064"
   ],
   "jp": "ぼうぎょ力 6{br}対ひょうい 0{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 6{br}Anti-possess 0{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -791,8 +791,8 @@
    "42068"
   ],
   "jp": "ぼうぎょ力 0{br}対ひょうい 8{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 0{br}Anti-possess 8{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -801,8 +801,8 @@
    "4206C"
   ],
   "jp": "ぼうぎょ力 8{br}対ひょうい 25{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 8{br}Anti-possess 25{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -811,8 +811,8 @@
    "42070"
   ],
   "jp": "ぼうぎょ力 10{br}対ひょうい 20{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Defense 10{br}Anti-possess 20{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -821,8 +821,8 @@
    "4214C"
   ],
   "jp": "Gサプレッサー{br}対ゴースト用メカ{br}ダメージ小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "G-Suppressor{br}Anti-ghost gear{br}Damage: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -831,8 +831,8 @@
    "42150"
   ],
   "jp": "Gキャンセラー{br}対ゴースト用メカ{br}ダメージ中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "G-Canceller{br}Anti-ghost gear{br}Damage: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -841,8 +841,8 @@
    "42154"
   ],
   "jp": "Gデストラクター{br}対ゴースト用メカ{br}ダメージ大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "G-Destructor{br}Anti-ghost gear{br}Damage: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -851,8 +851,8 @@
    "42158"
   ],
   "jp": "エーテルブレード{br}対ゴースト用メカ{br}ダメージとく大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Ether Blade{br}Anti-ghost gear{br}Damage: huge{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -861,8 +861,8 @@
    "4215C"
   ],
   "jp": "タリスマン{br}対ゴースト用道具{br}ダメージ小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Talisman{br}Anti-ghost tool{br}Damage: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -871,8 +871,8 @@
    "42160"
   ],
   "jp": "黒のタリスマン{br}対ゴースト用道具{br}ダメージ小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Black Talisman{br}Anti-ghost tool{br}Damage: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -881,8 +881,8 @@
    "42164"
   ],
   "jp": "白のタリスマン{br}対ゴースト用道具{br}ダメージ中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "White Talisman{br}Anti-ghost tool{br}Damage: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -891,8 +891,8 @@
    "42168"
   ],
   "jp": "赤のタリスマン{br}対ゴースト用道具{br}ダメージ大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Red Talisman{br}Anti-ghost tool{br}Damage: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -901,8 +901,8 @@
    "4216C"
   ],
   "jp": "クリスタル{br}対ゴースト用道具{br}たまに大ダメージ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Crystal{br}Anti-ghost tool{br}Big hits at times{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -911,8 +911,8 @@
    "42170"
   ],
   "jp": "さびたナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Rusty Knife{br}Anti-ghost trap{br}Narrow, short{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -921,8 +921,8 @@
    "42174"
   ],
   "jp": "ナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Knife{br}Anti-ghost trap{br}Narrow, short{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -931,8 +931,8 @@
    "42178"
   ],
   "jp": "きよめたナイフ{br}対ゴースト用ワナ{br}せまくやや長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Purified Knife{br}Anti-ghost trap{br}Narrow, longer{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -941,8 +941,8 @@
    "4217C"
   ],
   "jp": "パワートラップ{br}対ゴースト用ワナ{br}ややひろくやや長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Power Trap{br}Anti-ghost trap{br}Wider, longer{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -951,8 +951,8 @@
    "42180"
   ],
   "jp": "ハイキャプチャー{br}対ゴースト用ワナ{br}ややひろく長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "High Capture{br}Anti-ghost trap{br}Wider, long{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -961,8 +961,8 @@
    "42184"
   ],
   "jp": "黒のランプ{br}対ゴースト用ワナ{br}ひろくみじかい{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Black Lamp{br}Anti-ghost trap{br}Wide, short{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -971,8 +971,8 @@
    "42188"
   ],
   "jp": "白のランプ{br}対ゴースト用ワナ{br}ひろくやや長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "White Lamp{br}Anti-ghost trap{br}Wide, longer{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -981,8 +981,8 @@
    "4218C"
   ],
   "jp": "赤のランプ{br}対ゴースト用ワナ{br}ひろく長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Red Lamp{br}Anti-ghost trap{br}Wide, long{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -991,8 +991,8 @@
    "42190"
   ],
   "jp": "なぞのもんしょう{br}対ゴースト用ワナ{br}めちゃめちゃ長い{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Mystery Crest{br}Anti-ghost trap{br}Super, super long{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1001,8 +1001,8 @@
    "42194"
   ],
   "jp": "ゴーストマイン{br}対ゴースト用ワナ{br}ダメージ小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Ghost Mine{br}Anti-ghost trap{br}Damage: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1011,8 +1011,8 @@
    "42198"
   ],
   "jp": "グレートマイン{br}対ゴースト用ワナ{br}ダメージ中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Great Mine{br}Anti-ghost trap{br}Damage: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1021,8 +1021,8 @@
    "4219C"
   ],
   "jp": "バニシングマイン{br}対ゴースト用ワナ{br}ダメージ大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Vanishing Mine{br}Anti-ghost trap{br}Damage: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1031,8 +1031,8 @@
    "421A0"
   ],
   "jp": "Eガード{br}まよけのメカ{br}ぼうぎょ小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "E-Guard{br}Ghost-ward gear{br}Defense: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1041,8 +1041,8 @@
    "421A4"
   ],
   "jp": "Eプロテクター{br}まよけのメカ{br}ぼうぎょ中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "E-Protector{br}Ghost-ward gear{br}Defense: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1051,8 +1051,8 @@
    "421A8"
   ],
   "jp": "Eフィールド{br}まよけのメカ{br}ぼうぎょ大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "E-Field{br}Ghost-ward gear{br}Defense: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -1061,8 +1061,8 @@
    "421AC"
   ],
   "jp": "エーテルアーマー{br}まよけのメカ{br}ぼうぎょとく大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Ether Armor{br}Ghost-ward gear{br}Defense: huge{clr}{end}",
+  "status": "done",
   "notes": ""
  }
 ]

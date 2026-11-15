@@ -5,8 +5,8 @@
    "421B0"
   ],
   "jp": "エルダーのえだ{br}ひょうい時間を{br}少しへらす{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Elder Branch{br}Cuts possession{br}time a little{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -15,8 +15,8 @@
    "421B4"
   ],
   "jp": "ザツなおまもり{br}ひょうい時間を{br}ややへらす{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Cheap Charm{br}Cuts possession{br}time some{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -25,8 +25,8 @@
    "421B8"
   ],
   "jp": "アミュレット{br}ひょうい時間を{br}かなりへらす{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Amulet{br}Cuts possession{br}time a lot{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -35,8 +35,8 @@
    "421BC"
   ],
   "jp": "ほうたい{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Bandage{br}Medicine{br}Also works as armor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -45,8 +45,8 @@
    "421C0"
   ],
   "jp": "しっぷ薬{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Poultice{br}Medicine{br}Also works as armor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -55,8 +55,8 @@
    "421C4"
   ],
   "jp": "なべのふた{br}りょうりの道具{br}ぼうぐになる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Pot Lid{br}Cooking tool{br}Works as armor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -65,8 +65,8 @@
    "421C8"
   ],
   "jp": "フライパン{br}りょうりの道具{br}ぼうぐになる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Frying Pan{br}Cooking tool{br}Works as armor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -75,8 +75,8 @@
    "421CC"
   ],
   "jp": "気つけなんこう{br}いやくひん{br}ぼうぐにもなる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Reviving Salve{br}Medicine{br}Also works as armor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -85,8 +85,8 @@
    "421D0"
   ],
   "jp": "心のおまもり{br}おまもり{br}ぼうぎょ大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Heart Charm{br}Charm{br}Defense: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -95,8 +95,8 @@
    "421D4"
   ],
   "jp": "聖者の石{br}ふしぎな石{br}そうびで元気に{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Saint's Stone{br}Mysterious stone{br}Equip for vigor{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -105,8 +105,8 @@
    "421D8"
   ],
   "jp": "バーベイン{br}ハーブ{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Vervain{br}Herb{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -115,8 +115,8 @@
    "421DC"
   ],
   "jp": "アンジェリカ{br}ハーブ{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Angelica{br}Herb{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -125,8 +125,8 @@
    "421E0"
   ],
   "jp": "ネクター{br}のみもの{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Nectar{br}Drink{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -135,8 +135,8 @@
    "421E4"
   ],
   "jp": "ぬり薬{br}いやくひん{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Ointment{br}Medicine{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -145,8 +145,8 @@
    "421E8"
   ],
   "jp": "くさいぬり薬{br}いやくひん{br}HPかいふく中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Smelly Ointment{br}Medicine{br}Restores HP: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -155,8 +155,8 @@
    "421EC"
   ],
   "jp": "のみ薬{br}いやくひん{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Potion{br}Medicine{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -165,8 +165,8 @@
    "421F0"
   ],
   "jp": "まずいのみ薬{br}いやくひん{br}HPかいふく中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Nasty Potion{br}Medicine{br}Restores HP: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -175,8 +175,8 @@
    "421F4"
   ],
   "jp": "Nリキッド{br}あやしいえきたい{br}HPかいふく大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "N Liquid{br}Suspicious liquid{br}Restores HP: high{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -185,8 +185,8 @@
    "421F8"
   ],
   "jp": "霊水{br}きよめられた水{br}全体に小ダメージ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Holy Water{br}Purified water{br}Low damage to all{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -195,8 +195,8 @@
    "421FC"
   ],
   "jp": "黒の霊薬{br}ワナの薬{br}全体バインド小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Black Brew{br}Trap potion{br}Binds all: weak{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -205,8 +205,8 @@
    "42200"
   ],
   "jp": "白の霊薬{br}ワナの薬{br}全体バインド中{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "White Brew{br}Trap potion{br}Binds all: mid{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -215,8 +215,8 @@
    "42204"
   ],
   "jp": "赤の霊薬{br}ワナの薬{br}全体バインド大{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Red Brew{br}Trap potion{br}Binds all: strong{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -225,8 +225,8 @@
    "42208"
   ],
   "jp": "エリクシール{br}すごくふしぎな薬{br}HP全かいふく{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Elixir{br}Wondrous medicine{br}Restores all HP{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -235,8 +235,8 @@
    "4220C"
   ],
   "jp": "きよめの塩{br}しょっぱい{br}全体に中ダメージ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Purifying Salt{br}Salty{br}Mid damage to all{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -245,8 +245,8 @@
    "42210"
   ],
   "jp": "イオウのこな{br}おんせんのにおい{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Sulfur Powder{br}Smells like a spa{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -255,8 +255,8 @@
    "42214"
   ],
   "jp": "夜あけのランプ{br}ふしぎなランプ{br}全体に大ダメージ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Lamp of Dawn{br}Mysterious lamp{br}Big damage to all{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -265,8 +265,8 @@
    "42218"
   ],
   "jp": "カモミール{br}ハーブ{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Chamomile{br}Herb{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -275,8 +275,8 @@
    "4221C"
   ],
   "jp": "フラックス{br}ハーブ{br}HPかいふく小{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Flax{br}Herb{br}Restores HP: low{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -285,8 +285,8 @@
    "42220"
   ],
   "jp": "トランシーバー{br}こわれている{br}ぼうぐのパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Transceiver{br}Broken{br}Armor part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -295,8 +295,8 @@
    "42224"
   ],
   "jp": "マグネトロン{br}レンジのぶひん{br}ぼうぐのパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Magnetron{br}Microwave part{br}Armor part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -305,8 +305,8 @@
    "42228"
   ],
   "jp": "トランス{br}アンプのぶひん{br}ぶきのパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Transformer{br}Amplifier part{br}Weapon part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -315,8 +315,8 @@
    "4222C"
   ],
   "jp": "テスラコイル{br}変わったコイル{br}ぶきのパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Tesla Coil{br}Odd coil{br}Weapon part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -325,8 +325,8 @@
    "42230"
   ],
   "jp": "Nユニット{br}なぞのパーツ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "N Unit{br}Mystery part{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -335,8 +335,8 @@
    "42234"
   ],
   "jp": "ガラスのつぼ{br}とうめいなつぼ{br}何かを入れる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Glass Jar{br}Clear jar{br}Holds something{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -345,8 +345,8 @@
    "42238"
   ],
   "jp": "黒の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Black Stone{br}Mystery stone{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -355,8 +355,8 @@
    "4223C"
   ],
   "jp": "白の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "White Stone{br}Mystery stone{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -365,8 +365,8 @@
    "42240"
   ],
   "jp": "赤の石{br}なぞの石{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Red Stone{br}Mystery stone{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -375,8 +375,8 @@
    "42244"
   ],
   "jp": "アタノールつぼ{br}変わったつぼ{br}何かを入れる{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Athanor Jar{br}Unusual jar{br}Holds something{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -385,8 +385,8 @@
    "42248"
   ],
   "jp": "ヤスリ{br}ざらざらしている{br}何かをみがく{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "File{br}Rough to the touch{br}Polishes things{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -395,8 +395,8 @@
    "4224C"
   ],
   "jp": "マッチ{br}火事の元{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Matches{br}Fire hazard{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -405,8 +405,8 @@
    "42250"
   ],
   "jp": "オイル{br}何かのあぶら{br}ごうせいパーツ{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Oil{br}Some kind of oil{br}COMBINE part{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -415,8 +415,8 @@
    "42254"
   ],
   "jp": "9ばんボール{br}ビリヤードで使う{br}きいろのたま{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "9-Ball{br}Used in billiards{br}The yellow ball{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -425,8 +425,8 @@
    "42258"
   ],
   "jp": "ビデオテープ{br}ビデオデッキを{br}さがそう{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Videotape{br}Look for a VCR{br}to play it{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -435,8 +435,8 @@
    "4225C"
   ],
   "jp": "レコード{br}ジュークBOXへ{br}入れてみよう{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Record{br}Try putting it{br}in the jukebox{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -445,8 +445,8 @@
    "42260"
   ],
   "jp": "鏡{br}よくうつる{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Mirror{br}Very reflective{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -455,8 +455,8 @@
    "42264"
   ],
   "jp": "きふワイン{br}すごくあまい{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Dessert Wine{br}Very sweet{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -465,8 +465,8 @@
    "42268"
   ],
   "jp": "オカルトの本{br}きみがわるい本{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Occult Book{br}A creepy book{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -475,8 +475,8 @@
    "4226C"
   ],
   "jp": "いにしえの本{br}ぼろぼろな本{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Ancient Book{br}A tattered book{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -485,8 +485,8 @@
    "42270"
   ],
   "jp": "オカルトずかん{br}あやしい本だ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Occult Guide{br}A shady book{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -495,8 +495,8 @@
    "42274"
   ],
   "jp": "大じてん{br}ひゃっかじてん{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Dictionary{br}An encyclopedia{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -505,8 +505,8 @@
    "42278"
   ],
   "jp": "しんちゅうのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Brass Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -515,8 +515,8 @@
    "4227C"
   ],
   "jp": "てつのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Iron Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -525,8 +525,8 @@
    "42280"
   ],
   "jp": "シルバーのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Silver Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -535,8 +535,8 @@
    "42284"
   ],
   "jp": "ムラサキのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Purple Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -545,8 +545,8 @@
    "42288"
   ],
   "jp": "ゴールドのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Gold Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -555,8 +555,8 @@
    "4228C"
   ],
   "jp": "プラチナのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Platinum Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -565,8 +565,8 @@
    "42290"
   ],
   "jp": "あやしいカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Shady Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -575,8 +575,8 @@
    "42294"
   ],
   "jp": "せいどうのカギ{br}どこかのカギ{br}？？？？{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Bronze Key{br}Opens something{br}????{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -585,8 +585,8 @@
    "42298"
   ],
   "jp": "ニサンの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Nisan{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -595,8 +595,8 @@
    "4229C"
   ],
   "jp": "アイヤルの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Iyyar{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -605,8 +605,8 @@
    "422A0"
   ],
   "jp": "シマヌの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Simanu{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -615,8 +615,8 @@
    "422A4"
   ],
   "jp": "ドゥウズの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Duuzu{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -625,8 +625,8 @@
    "422A8"
   ],
   "jp": "アブの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Abu{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -635,8 +635,8 @@
    "422AC"
   ],
   "jp": "ウルルの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Ululu{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -645,8 +645,8 @@
    "422B0"
   ],
   "jp": "テシュリトゥの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Teshritu{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -655,8 +655,8 @@
    "422B4"
   ],
   "jp": "アラフシャムの書{br} {br} {clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Book of Arahsham{br} {br} {clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -667,8 +667,8 @@
    "422C0"
   ],
   "jp": "ナイフ{br}対ゴースト用ワナ{br}せまくみじかい{clr}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "Knife{br}Anti-ghost trap{br}Narrow, short{clr}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -677,8 +677,8 @@
    "422C4"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「よし、ゴースト{br} センサーは…」{page}{box:00}{name:02}ジョージ{br}「だいじょうぶだ！{br} …ちなみに」{page}{box:00}{name:02}ジョージ{br}「これはオレが{br} つくったもので、」{page}{box:00}{name:02}ジョージ{br}「ゴーストとの{br} きょりによって」{page}{box:00}{name:02}ジョージ{br}「音とはんのうが{br} 早く、大きくなる」{page}{box:00}{name:02}ジョージ{br}「しかも！{br} ゴーストの数で」{page}{box:00}{name:02}ジョージ{br}「はんのうの色が{br} かわるスグレ物だ」{page}{box:00}{name:02}ジョージ{br}「…ま、アリシアは{br} このはつめいを」{page}{box:00}{name:02}ジョージ{br}「バカにしてた{br} けどな…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Okay, the Ghost Sensor is...{page}{box:00}{name:02}George{br}Working fine! By the way,{page}{box:00}{name:02}George{br}I built this thing myself.{page}{box:00}{name:02}George{br}The closer a ghost gets,{page}{box:00}{name:02}George{br}the faster and louder it beeps.{page}{box:00}{name:02}George{br}And that's not all!{page}{box:00}{name:02}George{br}The color changes with the{br}number of ghosts. Pretty slick!{page}{box:00}{name:02}George{br}...Not that Alicia didn't{page}{box:00}{name:02}George{br}laugh at this invention...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -687,8 +687,8 @@
    "422C8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「とにかくいろいろ{br} しらべてみよう。」{page}{box:00}{name:02}ジョージ{br}「なにかてがかりが{br} あるかもな。」{page}{box:00}{name:02}ジョージ{br}「ものに近づいて、{br} Aボタンだ。」{page}{box:00}{name:02}ジョージ{br}「アイテムもそれで{br} ひろえるし、」{page}{box:00}{name:02}ジョージ{br}「ドアもそれで{br} あけられる…」{page}{box:00}{name:02}ジョージ{br}「カギがかかって{br} なければだけど…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Anyway, let's check things out.{page}{box:00}{name:02}George{br}There might be some clues.{page}{box:00}{name:02}George{br}Walk up to something{br}and press the A Button.{page}{box:00}{name:02}George{br}That's how I pick up items, too,{page}{box:00}{name:02}George{br}and how I open doors...{page}{box:00}{name:02}George{br}As long as they're{br}not locked, anyway...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -697,8 +697,8 @@
    "422CC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「行ったことのある{br} ばしょは、」{page}{box:00}{name:02}ジョージ{br}「スタートボタンの{br} ミニマップで」{page}{box:00}{name:02}ジョージ{br}「かくにんできて、{br} オレのむいている」{page}{box:00}{name:02}ジョージ{br}「ほうこうもみぎの{br} コンパスに出る…」{page}{box:00}{name:02}ジョージ{br}「すばらしい{br} はつめいだよな！」{page}{box:00}{name:02}ジョージ{br}「なんでアリシアは…{br} ぶつぶつ…」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}The places I've been{page}{box:00}{name:02}George{br}show up on the minimap{page}{box:00}{name:02}George{br}with the START Button,{page}{box:00}{name:02}George{br}and the compass on the right{br}shows which way I'm facing...{page}{box:00}{name:02}George{br}Brilliant invention, right?!{page}{box:00}{name:02}George{br}Why does Alicia always...{br}grumble, grumble...{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -707,8 +707,8 @@
    "422D4"
   ],
   "jp": "{box:01}床にナイフが{br}ささっている。{page}{box:01}ゴーストセンサー{br}にはんのうし、{page}{box:01}ナイフがあやしく{br}光りだした！{page}{box:00}{name:02}ジョージ{br}「あのナイフは{br} なんだろう？{page}{box:00}{name:02}ジョージ{br}「オレのセンサーに{br} はんのうしてる…」{page}{box:00}{name:02}ジョージ{br}「さわらない方が{br} いいかな…？」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:01}A knife is stuck in the floor.{page}{box:01}It's setting off{br}the Ghost Sensor,{page}{box:01}and the knife starts{br}to glow eerily!{page}{box:00}{name:02}George{br}What's with that knife?{page}{box:00}{name:02}George{br}It's setting off my sensor...{page}{box:00}{name:02}George{br}Maybe I'd better not touch it...?{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -717,8 +717,8 @@
    "422D8"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「うわっ！出た！{br} ゴーストだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}Whoa! There it is! A ghost!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
@@ -727,8 +727,8 @@
    "422DC"
   ],
   "jp": "{box:00}{name:02}ジョージ{br}「…？{br} どうしたんだ？{page}{box:00}{name:02}ジョージ{br}「そうか！今なら{br} 近づいて…{page}{box:00}{name:02}ジョージ{br}「サプレッサーで{br} こうげきできる！{page}{box:00}{name:02}ジョージ{br}「よし！近づいて、{br} Aボタンだ！」{page}{end}",
-  "en": "",
-  "status": "todo",
+  "en": "{box:00}{name:02}George{br}...? What happened?{page}{box:00}{name:02}George{br}I get it! Now I can get close...{page}{box:00}{name:02}George{br}and hit it with the Suppressor!{page}{box:00}{name:02}George{br}Okay! Get close and{br}press the A Button!{page}{end}",
+  "status": "done",
   "notes": ""
  },
  {
