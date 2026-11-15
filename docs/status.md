@@ -3,10 +3,11 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 8. QA in the emulator: in progress (phase 7 done 2026-11-15; its review had no Critical/Important).
-  Last build: 2026-11-15 with the G2/G3 graphics, `build/gfx/ghost_trap_en.gba` sha1
-  `02ac3fddcc25a3f0b2bb9dd24fd29c0d615b8f5d` (5770 writes, romdiff clean); `build/ghost_trap_en.gba` was still the
-  text-only `19914506…` while the message tour ran on it (same script layout, so `build/strings.tsv` holds for both).
-  Rebuild `build/` with plain `tools/build.py` before the next tour.
+  **QA build: `build/ghost_trap_en.gba` sha1 `e067dd06da642c19398d69d338f84a3a1e9c9d96`** (G1+G2+G3 graphics, Yes/No
+  layout fix), frozen with its `strings.tsv` in `work/qa/roms/e067dd06/` (tour + story ran on that copy). The msgs
+  run (strings 1135-3192) ran on the text-only `19914506…`, frozen in `work/qa/roms/en_text_19914506.gba` with its
+  `strings.tsv` beside it; layouts differ (Yes/No strings grew), so coverage is `tools/coverage.py` (union by id,
+  a run counts only for strings with the same bytes as the final build), not plain textcover.
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -83,25 +84,32 @@ Updated at the end of every session. Keep it to what the next session needs; his
     ~5 s, textcover probe on); `tools/qa_tour.py` runs msgs (all strings) + tour (`warp.py --all`) + story (cutscenes
     0-38 clicked through, `--keep --sheet`) into `work/qa/en/`, then `textcover.py`. `warp.py --all` now passes
     `--probe/--var/--keep/--sheet`. `tools/lua/rompages.lua`: ROM pages read per frame (finds BIOS LZ sources).
+  - Phase 8 this session (2026-11-15): **G1 done** (`tools/gfx_title.py`: katakana line dropped, letter bottoms
+    rebuilt from a mask + colour model, `tests/test_gfx_title.py`; title/menu shots in `work/gfx/g1/`). **G4 = not
+    text** (room pictures, `docs/re/graphics.md`). **Item-menu Yes/No** fixed: the question strings (10EEFC 10EF18
+    10EF50) carry their own Yes/No row and the cursor redraws 10F05C/10F06C over it without clearing, so all five
+    now share one layout `  Yes       No` (Yes/No at the x of はい/いいえ; lint test
+    `test_choice_rows_share_one_layout`; lead-blank lint now "no fewer than the JP"). Checked in game by
+    `play.py` (DROP -> Throw this away?, cursor both ways: `work/play/yesno3`, JP `work/play/yesno_jp`). Not a
+    centred box (left-aligned like the JP), so inkbox doesn't apply. `tools/vqa_review.py` (codex exec verdicts per
+    qa_gate chunk) written, not yet run.
 - **Next (phase 8 done-when), in order:**
-  1. Msgs run (`qa_tour.py --skip tour,story`, log `work/qa/en_msgs.log`): **stopped by Claude Code for low
-     memory at 1134/3192 strings shown, 0 failures** (not a tool fault). Finish with
-     `python -X utf8 tools/msgview.py --resume --rom build/ghost_trap_en.gba --out work/qa/en/msgs` (on the
-     text-only `19914506…` build or a rebuild; the layout is the same), then run `textcover.py`. Strings that fail to show in the script-39 window
-     (insert-only `status: data` ids, item help without `{box}`) get a scene or a reasoned line in
-     `docs/text_unshown.tsv`.
-  2. **G1 title logo**: the katakana ゴーストトラップ overlays the lower half of the GHOST TRAP letters (BG1 8bpp,
-     tiles LZ `0x7D8C68` ptr 0x20628, map LZ `0x7D8A10` ptr 0x20630, rows 10-12). Per D5 replace it: redraw the
-     letter bottoms (serif blue letters, white/red outline) in the tiles under it, keep everything else; check with
-     `sheet.py --zoom 4` on a cold-boot title shot.
-  3. Candidate G4 signs (`0x53D49C`, `0x53DA80`, `0x53DD04`) and the 44 cutscene stills: look in the story sheets.
-  4. Rebuild `build/`, then `qa_tour.py --skip msgs` (tour + story), `qa_gate.py init work/qa/en/manifest.tsv
-     work/qa/en --build build/ghost_trap_en.gba --glob "*sheet*.png"`, todo chunks, verdicts (read-only pass yourself
-     or `codex exec`; no nested workers), `qa_gate.py check` exit 0.
-  5. `inkbox.py` on the Yes/No boxes 10F05C/10F06C (field) and the save/load Yes/No; the review's Minor 1 says the
-     restored leading space is 4 px where the JP had 8 px.
-  6. `textcover.py work/qa/en build/strings.tsv --waive docs/text_unshown.tsv` exit 0. Confirm on a long dialogue
-     the extra `{page}` wrap.py adds; b024 (older duplicate script): does the game read it (coverage answers it).
+  1. Msgs run on the frozen text build (`work/qa/en_msgs_resume.log`, out `work/qa/en/msgs`): if it stopped, resume
+     with `python -X utf8 tools/msgview.py --resume --jobs 2 --rom <repo>/work/qa/roms/en_text_19914506.gba --out
+     work/qa/en/msgs`. Then show the 5 changed Yes/No strings on the final build:
+     `msgview.py --only "10EEFC|10EF18|10EF50|10F05C|10F06C" --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba
+     --out work/qa/en/msgs_final` (or waive them citing `work/play/yesno3`).
+  2. Tour + story (`qa_tour.py --skip msgs --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
+     log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
+  3. Coverage: `python -X utf8 tools/coverage.py --final work/qa/roms/e067dd06/ghost_trap_en.gba --run
+     work/qa/en/msgs work/qa/roms/en_text_19914506.gba --run work/qa/en/tour work/qa/roms/e067dd06/ghost_trap_en.gba
+     --run work/qa/en/story work/qa/roms/e067dd06/ghost_trap_en.gba [--run work/qa/en/msgs_final ...] --waive
+     docs/text_unshown.tsv` exit 0; reasoned waivers for insert-only `status: data` ids. Answers b024 too.
+  4. `qa_gate.py init work/qa/en/manifest.tsv work/qa/en --build work/qa/roms/e067dd06/ghost_trap_en.gba --glob
+     "*sheet*.png"`, `todo ... --out-dir work/qa/chunks`, `tools/vqa_review.py work/qa/en/manifest.tsv
+     work/qa/chunks/chunk_*.txt`, fix issues, `qa_gate.py check` exit 0. Copy the QA build to `build/` if it differs.
+  5. inkbox on the save/load confirm boxes (warp `save_confirm`, `load_confirm`); confirm on a long dialogue the
+     extra `{page}` wrap.py adds.
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).
