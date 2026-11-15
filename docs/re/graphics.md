@@ -11,7 +11,7 @@ the commands below), and a static sweep of every LZ77 block (`tools/gfxsweep.py`
 |---|---|---|---|---|
 | G1 | Title logo: katakana ゴーストトラップ under the English GHOST TRAP logo | BG1, 8bpp (BG1CNT 0x1789: char 0x8000, map 0xB800) | LZ77 `0x7D8C68` (173 tiles matched by `vramfind.py --fmt gba8`, dump `ppu_002100` from route `1500 -;6 start;700 -`; rendered: GHOST TRAP + katakana line). BG0 = castle backdrop, LZ77 `0x7D6694` (no text) | verified tiles; map + palette source not traced yet. Keep the English logo, replace the katakana line with English or drop it (D5: the English logo is official). |
 
-| G2 | Save / load messages (fragments read: 上書き, 書き, 失敗, セーブ-like kana): outlined 16 px lettering | OBJ, 4bpp, 1D | LZ77 `0x7DC6A8` (0x1600 bytes) | sweep, high confidence; screen not shot yet (CONTINUE / save). Glyph tile order inside a letter is not plain 2x2 or 4x2/8x2 OBJ order: work it out from an OAM dump on the screen. |
+| G2 | **Seen** (warp `save_confirm`, `load_confirm`): SAVE GAME box このデータに上書きします。よろしいですか？ + はい/いいえ buttons, LOAD GAME confirm box. Save / load messages (fragments read: 上書き, 書き, 失敗, セーブ-like kana): outlined 16 px lettering | OBJ, 4bpp, 1D | LZ77 `0x7DC6A8` (0x1600 bytes) | sweep, high confidence; screen not shot yet (CONTINUE / save). Glyph tile order inside a letter is not plain 2x2 or 4x2/8x2 OBJ order: work it out from an OAM dump on the screen. |
 | G3 | Same style, second message set (読み込み/セーブ variants?) | OBJ, 4bpp | LZ77 `0x7DD4EC` (0x1200) | sweep, high confidence; screen not shot yet |
 
 Rows below "Sweep findings" are candidates until confirmed in a shot.
@@ -31,8 +31,10 @@ Rows below "Sweep findings" are candidates until confirmed in a shot.
 
 ## Not yet seen (visit with the phase-2 debug tool, then add rows)
 
-- OPTION screen, CONTINUE / save-slot screen, BOOK (notebook) pages, map screen, item name display, trap/combine
-  results, game over, ending(s), any chapter or area cards, "to be continued"/end cards.
+- Seen in phase 2: OPTION (English only), SAVE GAME / LOAD GAME titles, slots, NO DATA, YES/NO (English; the confirm
+  boxes are G2), item-menu tabs (English). No game-over screen exists (faint = script 3).
+- Still to see: BOOK pages with grimoires held (inventory warp needed), item name display, trap/combine results,
+  chapter/area cards if any, ending stills and the staff-roll background (warps `ending`, `credits` exist).
 - The 44 cutscene stills (pointer entries 0-43 at `0x3BF28`, custom compression, unpacked by IWRAM code at
   `0x03000614`): not covered by the LZ77 sweep. Check each still for lettering in the phase-2 scene tour.
 
