@@ -1017,7 +1017,7 @@
    "40544"
   ],
   "jp": "{box:01}じごくの絵が{br}かざられている。{page}{box:00}{name:02}ジョージ{br}「このばめんは{br} コキュートスか？」{page}{end}",
-  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Is this scene Cocytus?{page}{end}",
+  "en": "{box:01}A painting of Hell is on display.{page}{box:00}{name:02}George{br}Is this supposed to be Cocytus?{page}{end}",
   "status": "done",
   "notes": ""
  }

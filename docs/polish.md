@@ -91,4 +91,6 @@ with antiques, huh..."). Minors:
 - [x] 12022C - "Looks like how to mix medicine." (fixed: "Looks like instructions for mixing medicine.")
 - [x] 122970 - inverted narration (fixed: "I found a note tucked / between the frame and the wall.")
 - [x] 124064 - "Thanks to the gears in the wall moving" (fixed: "The wall gears moved! / Now I can get through the door!")
+- [x] 113758 (+ 3C55C_04 copy) - round 3: "Is this scene Cocytus?" (fixed: "Is this supposed to be Cocytus?")
+- [x] 103060 (+ 3FF00_07 "nothing in the shelf") - round 3: "in the shelf" (fixed: "on the shelf")
 - [x] 1018A4 - "Touching it carelessly" (fixed: "Messing with this looks like a bad idea...")

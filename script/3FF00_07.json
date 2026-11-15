@@ -765,7 +765,7 @@
    "40FFC"
   ],
   "jp": "{box:01}たなには何も{br}入っていない。{page}{end}",
-  "en": "{box:01}There's nothing in the shelf.{page}{end}",
+  "en": "{box:01}There's nothing on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },

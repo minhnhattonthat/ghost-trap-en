@@ -660,7 +660,7 @@
    "41B74"
   ],
   "jp": "{box:01}たなの中には{br}ガラクタしかない。{page}{end}",
-  "en": "{box:01}Nothing but junk in the shelf.{page}{end}",
+  "en": "{box:01}Nothing but junk on the shelf.{page}{end}",
   "status": "done",
   "notes": ""
  },
