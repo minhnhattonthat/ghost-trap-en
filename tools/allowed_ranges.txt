@@ -1,3 +1,7 @@
 # Byte ranges the build may change (romdiff.py; inclusive hex ranges). docs/re/text.md has the map.
 3BF28-423A3   # text pointer region + the lone slot at 0x423A0
-100000-1271C7 # script block
+100000-1271C7 # script block (English builds: blanked, AGBD header kept)
+1FB88-1FB8B   # font LZ pointer 1 (English builds)
+267D0-267D3   # font LZ pointer 2 (English builds)
+3BBD0-3BF27   # glyph width table (English advances, tools/font.py)
+800000-FFFFFF # English builds: relocated script block + font

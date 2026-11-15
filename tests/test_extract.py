@@ -107,9 +107,10 @@ class TestScript(unittest.TestCase):
         target = next(e for e in self.entries if len(e["slots"]) > 1 and len(self.tbl.encode(e["jp"])) > 24)
         over = {int(target["id"], 16): "{box:01}Hello there{page}{end}"}
         rom, _ = build.build(self.rom, over)
+        en = build.table("en")
         for s in target["slots"]:
             p = struct.unpack_from("<I", rom, int(s, 16))[0] - textblock.GBA
-            self.assertEqual(self.tbl.decode(rom, p)[0], over[int(target["id"], 16)])
+            self.assertEqual(en.decode(rom, p)[0], over[int(target["id"], 16)])
             self.assertEqual(p % 4, 0)
         other = next(e for e in reversed(self.entries) if e["id"] != target["id"])
         p = struct.unpack_from("<I", rom, int(other["slots"][0], 16))[0] - textblock.GBA

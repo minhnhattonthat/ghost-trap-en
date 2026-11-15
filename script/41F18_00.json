@@ -66,8 +66,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10F04C",
@@ -96,8 +96,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EF50",
@@ -136,8 +136,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EF98",
@@ -156,8 +156,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EFB0",
@@ -316,8 +316,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EEA4",
@@ -336,8 +336,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EEBC",
@@ -426,8 +426,8 @@
   ],
   "jp": "{name:0B} {page}{end}",
   "en": "",
-  "status": "todo",
-  "notes": ""
+  "status": "data",
+  "notes": "variable insert only (FB 0B), no text: leave en empty"
  },
  {
   "id": "10EDA8",

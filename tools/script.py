@@ -6,6 +6,7 @@ Each file is a JSON list (indent=1, ensure_ascii=False) of entries:
      "jp": "...",               decoded original (tbl/jp.tbl), byte-exact: encode(jp) == the original bytes
      "en": "",                  translation; empty = keep the original
      "status": "todo",          todo | draft | done | recheck (jp changed under an existing translation)
+                                | data (not text, or already English: never translated, the marker build skips it)
      "notes": ""}
 A string reached from several tables lives in the file of the table whose slot comes first in ROM order.
 Tables (docs/re/text.md): scene 0x3BF28, 3C1D4, 3C55C, 3FEB0, 3FF00, 41F18, 423A0 (the lone slot).

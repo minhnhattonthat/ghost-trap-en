@@ -80,11 +80,20 @@ class TestIdentity(unittest.TestCase):
             got = tbl.decode(block, moved[target] - textblock.TEXT_LO, maxlen=0x8000)[0]
             self.assertEqual(got, texts.get(target, tbl.decode(self.orig, target, maxlen=0x8000)[0]))
 
-    def test_overfull_block_is_refused(self):
+    def test_grown_block_is_relocated(self):
+        # any override -> the English layout: block at build.RELOC, every pointer follows, old block blanked
         tbl = Table.load(ROOT / "tbl" / "jp.tbl")
         first = next(off for kind, off, _ in textblock.unpack(self.orig, tbl) if kind == "str")
-        with self.assertRaises(SystemExit):
-            build.build(self.orig, {first: "あ" * 0x8000 + "{end}"})
+        rom, _ = build.build(self.orig, {first: "A" * 0x8000 + "{end}"})
+        self.assertLessEqual(len(rom), build.ROM_MAX)
+        self.assertEqual(len(rom) % 0x10000, 0)
+        self.assertEqual(rom[textblock.HEADER:textblock.HEADER + 4], b"AGBD")
+        self.assertFalse(any(rom[textblock.HEADER + 4:textblock.TEXT_HI]))
+        for slot, target in textblock.slots(self.orig):
+            p = int.from_bytes(rom[slot:slot + 4], "little") - textblock.GBA
+            self.assertGreaterEqual(p, build.RELOC)
+            want = "A" * 0x8000 + "{end}" if target == first else tbl.decode(self.orig, target, maxlen=0x8000)[0]
+            self.assertEqual(tbl.decode(rom, p, maxlen=0x9000)[0], want)
 
     def test_font_block_repacks(self):
         font, _ = gbacomp.lz77_decompress(self.orig, FONT)

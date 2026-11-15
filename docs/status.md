@@ -2,8 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build (phase 4 extract done 2026-11-15). Last build: 2026-11-15, from
-  `script/` with no `en` yet, sha1 `00efb5ed50127f91e2a2827926cf2d4491e4b1b3` (= the dump), smoke ok.
+- **Phase:** 6. Translate (phase 5 engine spike + marker build done 2026-11-15). Last builds: 2026-11-15,
+  `build/ghost_trap_en.gba` with no `en` yet = the dump (sha1 `00efb5ed…`); `build/marker.gba` (`build.py --marker`)
+  sha1 `0f58afea14d823a0ac7f944525888ca85ec1876e`, 0x870000 bytes, smoke ok.
 - **Done:**
   - Step 0 (2026-11-15): MesenCE 2.2.1 + GBA BIOS, smoke boot, guard hook, pre-commit, `rom.sha1`, rulings D1-D7.
   - Phase 1 (2026-11-15): `docs/re/text.md`, `tbl/jp.tbl`, `docs/re/graphics.md`, `tests/test_recon.py` (see git).
@@ -27,14 +28,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
     strings + padding + the 8 dead runs (`textblock.DEAD`, evidence in `docs/re/text.md`), build inserts and
     repoints. Kanji all verified (`tools/kanjicheck.py`); fixed E0BA 木, E0BC 低. `warp.py --probe/--var` runs extra
     Lua; `tools/lua/textreads.lua` logs script-block reads (staff-roll copy proven unread).
-- **Next (phase 5 done-when):** marker build (every string -> `[id]` + filler at full box width; a `build.py
-  --marker` mode), boot + tour it with the warp tool (scripts, chapters, field examine, menus), find non-text
-  strings (mark `"status": "data"` or similar in `script/`), decide FD vs FE. Engine spike: the engine already has a
-  VWF width table (`0x3BBD0`) and ASCII A-Z/a-z glyphs (8 px); needs English punctuation (ASCII `! ? ' , . -` are not
-  in the font; only fullwidth ！？、。) -> add glyphs to the font (LZ at `0x1271C8`, 432 cells, repack with
-  `gbacomp.lz77_compress`; relocate if larger) and their widths. Glyph torture line. Width gate: measure px and lines
-  per box variant (`{box:00}` name plate, `{box:01}` plain, staff roll, menus, item names) from zoomed shots. The
-  script block has no slack: relocate it past 0x800000 (or into `0xF9ABC` + end) before English grows it.
+  - Phase 5 (2026-11-15): English layout in `build.py` (any override -> script block at 0x800000 without dead runs,
+    old block zeroed, patched font LZ after it with both pointers moved, width table rewritten; identity build
+    unchanged). `tools/font.py` (punctuation copied into small-kana cells, `- — ; & / %` drawn into unused kanji,
+    4 px space cell 93, advances = multiples of 4: the renderer needs that), `tbl/en.tbl` (ASCII only),
+    `tools/marker.py` + `build.py --marker` / `--qa ID=TEXT` / `--loose`, `tools/windows.json` (measured budgets),
+    `tools/variants.py`, `warp.lua` `HOLD`/`MASH_EVERY` vars, `tests/test_font.py`. Marker tour (`work/qa/marker`,
+    named scenes + all 127 scripts): 157/157 reached, every box shows its id, no corruption; save/load confirm boxes
+    stay Japanese = graphics G2/G3 (known). Width gate: box 224 px x 2 lines, name plate 80, narration 224 x 2, item
+    help 152 x 3, item names 152 (docs/re/text.md "Width gate"). Torture line clean. FE = FD + cutscene picture step.
+    `status: data`: staff roll, copyright screen (already English), seven `{name:0B}` insert-only strings.
+- **Next (phase 6 done-when):** translate in batches with translator agents per `references/translation.md`
+  (budgets: `glossary.md` "Limits", `tools/windows.json`); set register/flavour and the punctuation map in
+  `glossary.md` first; batch check 0 errors (write the width/overflow lint against `windows.json` +
+  `font.width_px` first: phase 7 needs it anyway), reviewer pass with no Critical/Important. Untested: whether an
+  extra `{page}` inside a box run is safe (expected yes; `{clr}` must stay where the JP has it).
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).

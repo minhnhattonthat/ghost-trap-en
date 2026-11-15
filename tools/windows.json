@@ -1,0 +1,15 @@
+{
+ "_doc": "Measured text budgets per window variant (phase-5 width gate, docs/re/text.md 'Width gate'). px = max advance sum per line (tools/font.py widths, en.tbl); lines = max lines per page ({page}/{clr}). Over budget does not clip: the text tiles spill over the whole screen. Every value is measured in-game; shot = the proof under work/qa/width/.",
+ "box": {"match": "{box:00} or {box:01} string", "px": 224, "lines": 2, "state": "measured",
+         "shot": "w28 ok / w29 corrupt (script_040, script_005); x1 = 216 px of digits + 'll' = 224 ok; l3: 3rd line corrupts"},
+ "name": {"match": "text after {box:00}{name:NN} up to {br} (speaker name plate)", "px": 80, "lines": 1,
+          "state": "measured", "shot": "n10 ok / n11 corrupt (10 / 11 W at 8 px, script_005)"},
+ "narration": {"match": "scene-table strings with no {box:..} (opening crawl, cutscene captions)", "px": 224,
+               "lines": 2, "state": "measured", "shot": "v28 ok / v29 corrupt (script_002)"},
+ "help": {"match": "table 41F18 strings with no {box:..} (item-menu help box, item descriptions)", "px": 152,
+          "lines": 3, "state": "measured", "shot": "h19 ok / h20 corrupt (itemmenu, 3 lines)"},
+ "item_name": {"match": "first line of the item description strings (41F18, slots 0x4214C-0x42294): also inserted by {name:0A} into box lines", "px": 152,
+               "lines": 1, "state": "measured", "shot": "help box limit; the {name:0A} line must also fit the box's 224 with the rest of its line"},
+ "staff_roll": {"match": "11C5D8, already English (status data)", "px": 224, "lines": null, "state": "original layout",
+                "shot": "28 columns of 8 px; kept as original bytes"}
+}

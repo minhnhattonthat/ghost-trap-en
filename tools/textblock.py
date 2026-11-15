@@ -49,16 +49,18 @@ def unpack(rom, tbl):
     return segs
 
 
-def pack(segs, tbl, texts=None, enc=None):
+def pack(segs, tbl, texts=None, enc=None, base=TEXT_LO, raw=True):
     """texts: optional {string offset: replacement text}, encoded with `enc` (default tbl); the rest re-encode with
-    tbl. Every string starts 4-aligned (zero padding before it, as in the original).
+    tbl. Every string starts 4-aligned (zero padding before it, as in the original). base: ROM offset the block
+    goes to; raw=False drops the raw segments (header, dead runs) for a relocated block.
     Returns (block bytes, {old offset: new offset})."""
     out, moved, texts = bytearray(), {}, texts or {}
     for kind, off, val in segs:
         if kind == "raw":
-            out += val
+            if raw:
+                out += val
         else:
-            out += bytes(-(TEXT_LO + len(out)) % 4)
-            moved[off] = TEXT_LO + len(out)
+            out += bytes(-(base + len(out)) % 4)
+            moved[off] = base + len(out)
             out += (enc or tbl).encode(texts[off]) if off in texts else tbl.encode(val)
     return bytes(out), moved

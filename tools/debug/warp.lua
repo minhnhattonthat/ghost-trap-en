@@ -5,6 +5,8 @@
 --   KEEP=1              keep running after the proof shot (until emu.py --frames), pressing A every `mash`
 --                       (default 45) frames to click through the scene
 --   LIMIT=N             fail if the scene is not reached by frame N (default 9000)
+--   HOLD=N              frames from arrival to the proof shot (overrides the scene's `hold`)
+--   MASH_EVERY=N        with KEEP: press A every N frames (overrides the scene's `mash`)
 -- Log lines: "TITLE f<n>", "WARP f<n> ...", "SCENE_OK <name> f<n> <detail>", "SHOT scene.png f<n>".
 -- RAM map and the reasoning: docs/re/debug.md.
 local M = emu.memType.gbaMemory
@@ -20,7 +22,7 @@ local name = assert(SCENE, "set --var \"SCENE='name'\"")
 local sc = SCENE_LOOKUP and SCENE_LOOKUP(name)
 if not sc then error("unknown scene " .. name .. " (tools/debug/scenes.lua)") end
 local limit = LIMIT or 9000
-local hold = sc.hold or 150
+local hold = HOLD or sc.hold or 150  -- --var HOLD=N overrides (marker / width-gate shots of long lines)
 
 local function r8(a) return emu.read(a, M) end
 local function r16(a) return emu.read16(a, M, false) end
@@ -164,7 +166,7 @@ L.on_frame(function(n)
     L.log(string.format("SHOT scene.png f%d mode %d script %d area %02X room %d act %d", n, mode, r8(SCRIPT),
       r8(AREA), r8(ROOM), r8(ACT)))
     stage = "done"
-    if KEEP then MASH = sc.mash or 45 end  -- click through the rest of the scene
+    if KEEP then MASH = MASH_EVERY or sc.mash or 45 end  -- click through the rest of the scene
     if STATE_SAVE then
       L.save_state(STATE_SAVE, function() if not KEEP then L.finish(0) end end)
     elseif not KEEP then
