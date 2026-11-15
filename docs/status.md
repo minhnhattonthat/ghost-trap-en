@@ -144,18 +144,34 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `pages/sheet_<group>*.png` (tile label `<id> p<k>/<n>`). Pilot group 3C55C_00_00: 39/39 pages, all fully typed and
   matching `script/`. `tests/test_pageview.py`; qa_tour has a `pages` step; `docs/visual-qa-brief.md` notes both sheet
   kinds. **Full run: 28/101 groups done, 0 failed**, then Claude Code stopped it for low memory (6th time).
+- **Session 2026-11-15 (night):** current build **`e520440d…`** (= `build/ghost_trap_en.gba`, frozen in
+  `work/qa/roms/e520440d/`; differs from 3ee614ba in 106B04 and 10A184 only). **Pages: 98/101 groups done** on
+  3ee614ba (logs `work/qa/en_pages{3,4,5}.log`). `tools/lua/pageview.lua` now presses A after `IDLE` (400) frames
+  with no page code: a `{clr}` in cutscene and item-help strings waits for a button even in script 39 (that stalled
+  all 13 scene_*/41F18_0x groups). Still stalled: **41F18_00_00** (stops after 4 pages, item-menu Yes/No question
+  strings 10EEFC.. wait for a choice; its 44 ids are `pages/missing.tsv`), **scene_06_00** (black after page 2,
+  likely a cutscene picture step), **scene_07_00** (119 pages then stall). Fix: split choice strings out of the chain
+  (or press A + Right/A) and look at the stall frame; or accept story sheets (scene_*) and msgs + `work/play/yesno3`
+  (Yes/No) for those ids, writing why in the gate notes. The e520 re-run of scene_00_00/scene_03_00 into
+  `work/qa/en/pages_e520` was **killed for low memory** (7th time) before it started.
+  Earlier codex verdicts (old manifest: story + tour, `work/qa/en/verdicts/`) triaged: stub pages (script 0/2/9/18/25)
+  are fixed in 3ee614ba/e520440d; script_020 save box = the JP's own shimmer (`work/qa/inkbox_save_cmp.png`);
+  scripts 37/38 licence screen: the JP fills the screen with repeated glyph tiles too (`work/qa/story_jp/cmp037.png`):
+  ok; script_000 dotted vertical line = one transition frame on the zigzag backdrop (judge with a JP story run if
+  in doubt); tour zigzag/half-size text: JP reference sheets copied to `work/qa/tour_jp/` (phase-2 warp sheets of
+  the original, same layout) for `vqa_review.py --compare work/qa/en/tour=work/qa/tour_jp`.
 - **Next (phase 8 done-when), in order:**
-  1. Finish pages: `python -X utf8 tools/pageview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --out
-     work/qa/en/pages --group 48 --jobs 2 --resume` (log `work/qa/en_pages.log`; ~1 min per group per job). Exit 0 and
-     check `pages/missing.tsv` (strings with no page: expect only insert-only `status: data` ids).
-  2. Look at the 44 cutscene stills in `story/*/sheet_pages*` for lettering (graphics rows).
-  3. Gate: delete `work/qa/en/manifest.tsv*` (it was inited this session with the mid-typing msgs sheets), then
-     `qa_gate.py init work/qa/en/manifest.tsv work/qa/en/pages work/qa/en/story work/qa/en/tour --build
-     build/ghost_trap_en.gba --glob "*sheet*.png"` (pages replace msgs/msgs_final/msgs_3ee for visual QA; those runs
-     stay for coverage), `todo ... --out-dir work/qa/chunks` (clear old chunks first), `tools/vqa_review.py
-     work/qa/en/manifest.tsv work/qa/chunks/chunk_*.txt`, fix issues, `qa_gate.py check` exit 0. The tour/story ran on
-     e067dd06, which differs from 3ee614ba only in 3 strings re-shown in msgs_3ee and pages: say so in the gate notes.
-  4. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above; coverage passes).
+  1. `python -X utf8 tools/pageview.py --rom work/qa/roms/e520440d/ghost_trap_en.gba --out work/qa/en/pages_e520
+     --group 48 --jobs 2 --only "^scene_0[03]_00$"`; fix or account for the 3 stalled groups (above); then
+     `pageview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --out work/qa/en/pages --group 48 --sheets`.
+  2. Gate: delete `work/qa/en/manifest.tsv*`, `work/qa/en/verdicts/`, `work/qa/chunks/`, then `qa_gate.py init
+     work/qa/en/manifest.tsv work/qa/en/pages work/qa/en/pages_e520 work/qa/en/story work/qa/en/tour --build
+     build/ghost_trap_en.gba --glob "*sheet*.png"` (drop pages' sheet_scene_00_00*/sheet_scene_03_00* from the
+     manifest or note they show the 3ee text of 106B04/10A184), `todo ... --out-dir work/qa/chunks`,
+     `tools/vqa_review.py work/qa/en/manifest.tsv work/qa/chunks/chunk_*.txt --compare work/qa/en/tour=work/qa/tour_jp`,
+     write the triage above into the verdicts, `qa_gate.py check` exit 0. Tour/story ran on e067dd06: say so in notes.
+  3. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above; coverage passes; lettering in
+     cutscene stills: the codex story verdicts flagged none).
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).
@@ -163,4 +179,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by hand (headless only); the owner
   can open it once to confirm. Not blocking. Long regens can get stopped by Claude Code for low memory (other repos'
   Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it. This
-  has now stopped the phase-8 runs six times (latest: the pages run, 2026-11-15 late): the owner may want to set it, or not run other repos' tours alongside.
+  has now stopped the phase-8 runs seven times (latest: the e520 pages run, 2026-11-15 night; 6 Mesen processes from
+  another repo were running): the owner may want to set it, or not run other repos' tours alongside.
