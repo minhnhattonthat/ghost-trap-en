@@ -7,6 +7,8 @@ Steps (each its own output dir under --out, all with the textcover probe over th
   tour   warp.py --all: every scene's proof shot and group sheets -> tour/
   story  warp.py --all --only script_000..038 --keep --sheet: each cutscene clicked through page by page -> story/,
          then tools/story_pages.py: story/<script>/sheet_pages*.png, one full-size tile per page
+  pages  tools/pageview.py: every page of every string, fully typed, labelled "<id> p<k>/<n>" -> pages/ (the visual-QA
+         sheets for text; msgs' shots are taken mid-typing and only prove coverage)
 Then: textcover.py <out> build/strings.tsv --waive docs/text_unshown.tsv. Exit 1 if a step or the coverage fails."""
 import argparse
 import struct
@@ -43,6 +45,8 @@ def main(argv=None):
         ("tour", warp + ["--all", "--out", str(a.out / "tour")] + cover + res),
         ("story", warp + ["--all"] + res + ["--only", r"^script_0([0-2]\d|3[0-8])$", "--keep", "--sheet", "--frames", "15000",
                           "--var", "MASH_EVERY=120", "--out", str(a.out / "story")] + cover),
+        ("pages", PY + [str(ROOT / "tools" / "pageview.py"), "--rom", str(a.rom), "--out", str(a.out / "pages"),
+                        "--group", "48"] + res),
     ]
     fails = []
     for name, cmd in steps:

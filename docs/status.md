@@ -127,18 +127,35 @@ Updated at the end of every session. Keep it to what the next session needs; his
   after the gate passes on e067dd06, re-show them (`msgview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --only
   "1072F8|108344|10B5D8" --out work/qa/en/msgs_3ee`, story for script_002/009/025 on it) and `qa_gate.py waive` with
   that reason, or point the gate at it.
+- **Session 2026-11-15 (late):** **story done: 39/39 cutscenes, 0 failed** (log `work/qa/en_story3.log`; story_pages
+  sheets written for all 39). The 3 reworded strings re-shown on `3ee614ba` (`work/qa/en/msgs_3ee`, 3/3 ok).
+  **Coverage passes on the final build** (= `build/ghost_trap_en.gba`, rebuilt from `script/`, sha1 3ee614ba):
+  `coverage.py --final work/qa/roms/3ee614ba/ghost_trap_en.gba --run work/qa/en/msgs work/qa/roms/en_text_19914506.gba
+  --run work/qa/en/tour <e067> --run work/qa/en/story <e067> --run work/qa/en/msgs_final <e067> --run
+  work/qa/en/msgs_3ee <3ee6> --waive docs/text_unshown.tsv` -> 3192/3192, 0 waived, exit 0 (`<e067>` =
+  `work/qa/roms/e067dd06/ghost_trap_en.gba`). Plain textcover in qa_tour reports 1 string (1271B8) only because it
+  reads one layout; coverage.py is the gate.
+  **Found: msgs sheets are unjudgeable** (shot 150 frames after the first glyph: most pages half typed), and the story
+  sheets miss pages and include no-text tiles. Shown through script 39, `{page}` does **not** wait for a button: the
+  FD/FE handler `0x080272B8` (jump table `0x0802717C`) runs after the page's last glyph and the box clears ~6 frames
+  later (`work/qa/dbg/fd.png`). New **`tools/pageview.py` + `tools/lua/pageview.lua`**: chains 48 strings per boot
+  into a QA-only ROM copy (`pages/_qa.gba`, chains appended past the build), shoots each page 4 frames after its
+  page-code handler, maps page n -> string by counting page codes, and writes labelled sheets
+  `pages/sheet_<group>*.png` (tile label `<id> p<k>/<n>`). Pilot group 3C55C_00_00: 39/39 pages, all fully typed and
+  matching `script/`. `tests/test_pageview.py`; qa_tour has a `pages` step; `docs/visual-qa-brief.md` notes both sheet
+  kinds. **Full run: 28/101 groups done, 0 failed**, then Claude Code stopped it for low memory (6th time).
 - **Next (phase 8 done-when), in order:**
-  2. Story: `qa_tour.py --skip msgs,tour --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`
-     (11 cutscenes left), then `tools/story_pages.py work/qa/en/story`. Old text of step 2: Tour + story (`qa_tour.py --skip msgs --resume --rom <repo>/work/qa/roms/e067dd06/ghost_trap_en.gba --out work/qa/en`,
-     log `work/qa/en_tour.log`). Then look at the 44 cutscene stills in the story sheets for lettering.
-  3. Coverage: `python -X utf8 tools/coverage.py --final work/qa/roms/e067dd06/ghost_trap_en.gba --run
-     work/qa/en/msgs work/qa/roms/en_text_19914506.gba --run work/qa/en/tour work/qa/roms/e067dd06/ghost_trap_en.gba
-     --run work/qa/en/story work/qa/roms/e067dd06/ghost_trap_en.gba [--run work/qa/en/msgs_final ...] --waive
-     docs/text_unshown.tsv` exit 0; reasoned waivers for insert-only `status: data` ids. Answers b024 too.
-  4. `qa_gate.py init work/qa/en/manifest.tsv work/qa/en --build work/qa/roms/e067dd06/ghost_trap_en.gba --glob
-     "*sheet*.png"`, `todo ... --out-dir work/qa/chunks`, `tools/vqa_review.py work/qa/en/manifest.tsv
-     work/qa/chunks/chunk_*.txt`, fix issues, `qa_gate.py check` exit 0. Copy the QA build to `build/` if it differs.
-  5. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above).
+  1. Finish pages: `python -X utf8 tools/pageview.py --rom work/qa/roms/3ee614ba/ghost_trap_en.gba --out
+     work/qa/en/pages --group 48 --jobs 2 --resume` (log `work/qa/en_pages.log`; ~1 min per group per job). Exit 0 and
+     check `pages/missing.tsv` (strings with no page: expect only insert-only `status: data` ids).
+  2. Look at the 44 cutscene stills in `story/*/sheet_pages*` for lettering (graphics rows).
+  3. Gate: delete `work/qa/en/manifest.tsv*` (it was inited this session with the mid-typing msgs sheets), then
+     `qa_gate.py init work/qa/en/manifest.tsv work/qa/en/pages work/qa/en/story work/qa/en/tour --build
+     build/ghost_trap_en.gba --glob "*sheet*.png"` (pages replace msgs/msgs_final/msgs_3ee for visual QA; those runs
+     stay for coverage), `todo ... --out-dir work/qa/chunks` (clear old chunks first), `tools/vqa_review.py
+     work/qa/en/manifest.tsv work/qa/chunks/chunk_*.txt`, fix issues, `qa_gate.py check` exit 0. The tour/story ran on
+     e067dd06, which differs from 3ee614ba only in 3 strings re-shown in msgs_3ee and pages: say so in the gate notes.
+  4. Done (inkbox n/a: left-aligned like the JP; extra `{page}` checked, see above; coverage passes).
 - **Later phases, known work:** inventory warp (BOOK pages need grimoires; lead: watch writes when script 39
   "を入手した" shows); FB speaker ids; FD vs FE difference (marker build); field examine text (tables `0x3C55C`,
   `0x3FF00`, `0x41F18`).
@@ -146,4 +163,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/Mesen.exe` not checked by hand (headless only); the owner
   can open it once to confirm. Not blocking. Long regens can get stopped by Claude Code for low memory (other repos'
   Mesen runs fill RAM); starting Claude Code with `CLAUDE_CODE_DISABLE_BG_SHELL_PRESSURE_REAP=1` avoids it. This
-  has now stopped the phase-8 runs five times (latest: story, this session): the owner may want to set it, or not run other repos' tours alongside.
+  has now stopped the phase-8 runs six times (latest: the pages run, 2026-11-15 late): the owner may want to set it, or not run other repos' tours alongside.

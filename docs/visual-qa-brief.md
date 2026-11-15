@@ -36,6 +36,13 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   original too (compare). The HUD labels (SET TRAP, NOW, MAX, compass) are English in the original.
 - Cutscene pages are clicked through by the tour: a page caught mid-type or between two pages is fine.
 - English punctuation is drawn in former small-kana cells, so "..." and "?" look slightly heavier than letters.
+- `pages/sheet_*` (tools/pageview.py): every page of every string, fully typed, each tile labelled `<id> p<k>/<n>`
+  (string id, page k of n). All are shown through one field-message carrier, so a black background with no room
+  picture, and cutscene or menu strings in the plain field box, are normal. A sentence that continues from p1 onto
+  p2 at a clause break is fine (the wrapper splits long sentences there); judge each page's own lines. A tile that
+  shows only a name plate, or an empty box, is an issue only if the label's string has text on that page.
+- `story/*/sheet_pages*`: cutscenes clicked through in context. Tiles of the scene with no text box (the picture
+  or the room between pages) are the shot picker's false positives: `ok`.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:
